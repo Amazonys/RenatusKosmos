@@ -1,0 +1,34 @@
+[
+	{
+		"dataName": "GenericTimeEvent",
+		"displayName": "Generic",
+		"blocking": false,
+		"pauseTime": false,
+	},
+	{
+		"dataName": "DateUpdate",
+		"displayName": "Date Update",
+		"eventType": "Day",
+		"eventName": "DailyUpdate",
+		"blocking": false,
+		"pauseTime": false,
+	},
+	{
+		"dataName": "CouncilorMissionUpdate",
+		"displayName": "Councilor Mission Update",
+		"eventType": "WeekToMonth",
+		"eventName": "CouncilorMissionUpdate",
+		"blocking": false,
+		"pauseTime": true,
+		"repeatChange": {
+		    "triggerCondition": {
+				"$type": "TIGlobalCondition_fCampaignDuration_years",
+				"strIdx": "",
+				"sign": "GreaterThan",
+				"strValue": "0.325"
+			},		
+			"updateEventType": "Semimonthly"
+		},    
+
+	}
+]
