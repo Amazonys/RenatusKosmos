@@ -167,7 +167,7 @@
    "barycenterName": "Sol",
    "objectType": "Planet",
    "effectToExplore": "Effect_ExploreVenus",
-   "irradiatedMultiplier": 1.1,
+   "irradiatedMultiplier": 1,
    "atmosphere": "Thick",
    "semiMajorAxis_AU": 0.723332,
    "semiMajorAxis_km": null,

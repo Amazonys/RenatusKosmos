@@ -156,7 +156,7 @@
 	},
 	{
 		"dataName": "CompleteSolarSystemBodies",
-		"friendlyName": "Complete Solar System (351+)",
+		"friendlyName": "Complete Solar System (355+)",
         "templateType": "TISpaceBodyTemplate",
         "templateNames": [
 			"Sol",
@@ -511,12 +511,16 @@
 			"MM4Bromos",
 			"QF99Autolycus",
 			"KY18Ephesos",
-			"YX49Meleager"
+			"YX49Meleager",
+			"Gonggong",
+			"Xiangliu",
+			"Eris",
+			"Dysnomia"
 		]
 	},
 	{
 		"dataName": "MediumSolarSystemBodies",
-		"friendlyName": "Medium Solar System (249 objects)",
+		"friendlyName": "Medium Solar System (253 objects)",
         "templateType": "TISpaceBodyTemplate",
         "templateNames": [
 			"Sol",
@@ -767,12 +771,16 @@
 			"MM4Bromos",
 			"QF99Autolycus",
 			"KY18Ephesos",
-			"YX49Meleager"
+			"YX49Meleager",
+			"Gonggong",
+			"Xiangliu",
+			"Eris",
+			"Dysnomia"
 		]
 	},
 	{
 		"dataName": "LightSolarSystemBodies",
-		"friendlyName": "Light Solar System (~108 objects)",
+		"friendlyName": "Light Solar System (~110 objects)",
         "templateType": "TISpaceBodyTemplate",
         "templateNames": [
 			"Sol",
@@ -882,12 +890,14 @@
 			"Pangu",
 			"Eledumare",
 			"KY18Ephesos",
-			"YX49Meleager"
+			"YX49Meleager",
+			"Gonggong",
+			"Eris"
 		]
 	},
 	{
 		"dataName": "VeryLightSolarSystemBodies",
-		"friendlyName": "VeryLight Solar System (68 objects)",
+		"friendlyName": "VeryLight Solar System (70 objects)",
         "templateType": "TISpaceBodyTemplate",
         "templateNames": [
 			"Sol",
@@ -958,6 +968,8 @@
 			"Charon",
 			"Haumea",
 			"Makemake"
+			"Gonggong",
+			"Eris"
 		]
 	},
 	{
@@ -1503,7 +1515,9 @@
 			"MM4BromosSite00",
 			"QF99AutolycusSite00",
 			"KY18EphesosSite00",
-			"YX49MeleagerSite00"
+			"YX49MeleagerSite00",
+			"XiangliuSite00",
+			"DysnomiaSite00"
 		]
 	},
 	{
@@ -1913,7 +1927,9 @@
 			"MM4BromosSite00",
 			"QF99AutolycusSite00",
 			"KY18EphesosSite00",
-			"YX49MeleagerSite00"
+			"YX49MeleagerSite00",
+			"XiangliuSite00",
+			"DysnomiaSite00"
 		]
 	},
 	{

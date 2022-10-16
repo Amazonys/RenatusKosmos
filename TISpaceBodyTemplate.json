@@ -23718,6 +23718,73 @@
    "atmosphereSurfaceDensity_kgpm3": null
 },
  {
+   "dataName": "Xiangliu",
+   "friendlyName": "Xiangliu",
+   "designation": "",
+   "notes": "",
+   "modelResource": "",
+   "modelScale": 10,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Gonggong",
+   "objectType": "AsteroidalMoon",
+   "effectToExplore": "Effect_ExploreKuiperBelt",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": null,
+   "semiMajorAxis_km": 24000,
+   "eccentricity": 0.29,
+   "inclination_Deg": 83.1,
+   "longAscendingNode_Deg": null,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": null,
+   "meanAnomalyAtEpoch_Deg": null,
+   "apsidalPrecession_Years": null,
+   "nodalPrecession_Years": null,
+   "epoch_floatJYears": 2014.935,
+   "meanRadius_km": null,
+   "equatorialRadius_km": null,
+   "dimensionX_km": 68,
+   "dimensionY_km": null,
+   "dimensionZ_km": null,
+   "oblateness": null,
+   "mass_kg": 5.48e+17,
+   "density_gcm3": 1.52,
+   "rotationPeriod_strHours": "Lock",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": null,
+   "tiltskew_Deg": null,
+   "fabricatedData": "Dimension, Mass, Density",
+   "Hill Radius in km": 802.31,
+   "Hill radius pass-fail": "802.31",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
+   "atmosphereSurfaceDensity_kgpm3": null
+},
+ {
    "dataName": "Eris",
    "friendlyName": "Eris",
    "designation": "136199 2003 UB313",
@@ -23782,6 +23849,73 @@
    "Hill radius pass-fail": "8030162.31",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 50,
+   "atmosphereSurfaceDensity_kgpm3": null
+},
+ {
+   "dataName": "Dysnomia",
+   "friendlyName": "Dysnomia",
+   "designation": "",
+   "notes": "",
+   "modelResource": "planets/Charon",
+   "modelScale": 0.5,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "icons_2d/ICO_Charon",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Eris",
+   "objectType": "PlanetaryMoon",
+   "effectToExplore": "Effect_ExploreKuiperBelt",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": null,
+   "semiMajorAxis_km": 37300,
+   "eccentricity": 0.0062,
+   "inclination_Deg": 45.49,
+   "longAscendingNode_Deg": 126.17,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": null,
+   "meanAnomalyAtEpoch_Deg": null,
+   "apsidalPrecession_Years": null,
+   "nodalPrecession_Years": null,
+   "epoch_floatJYears": 2006.664,
+   "meanRadius_km": 357,
+   "equatorialRadius_km": null,
+   "dimensionX_km": null,
+   "dimensionY_km": null,
+   "dimensionZ_km": null,
+   "oblateness": null,
+   "mass_kg": 0.119e+21,
+   "density_gcm3": 1.66,
+   "rotationPeriod_strHours": "Lock",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": null,
+   "tiltskew_Deg": null,
+   "fabricatedData": "Radius, Mass, Density",
+   "Hill Radius in km": 4969.21,
+   "Hill radius pass-fail": "4969.21",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
    "atmosphereSurfaceDensity_kgpm3": null
 }
 ]
