@@ -1,0 +1,16 @@
+TIVictoryCondition.description.GlobalControlPointProportion=Our faction's control point values must be at least {0} of all control point values on Earth.
+TIVictoryCondition.description.GlobalRegionProportion=Our faction must control {0} of all regions on Earth. We control a region when we have the executive control point in its nation and more than half of the total control points in that nation.
+TIVictoryCondition.description.GlobalEcoProportion=Our faction must control {0} of all core economic regions on Earth. We control a region when we have the executive control point in its nation and more than half of the total control points in that nation.
+TIVictoryCondition.description.GlobalPopulationProportion=Our faction must control regions with {0} of the Earth's population. We control a region when we have the executive control point in a nation and more than half of the total control points in that nation.
+TIVictoryCondition.description.AlienNationMaxRegionProportion_special=The aliens must control no regions on Earth.
+TIVictoryCondition.description.AlienNationMaxRegionProportion=The aliens must control no more than {0} of Earth's regions.
+TIVictoryCondition.description.AlienNationMinRegionProportion=The aliens must control at least {0} of Earth's regions.
+TIVictoryCondition.description.AlienNationMaxPopulationProportion=The aliens must control regions containing no more than {0} of Earth's population.
+TIVictoryCondition.description.AlienNationMinPopulationProportion=The aliens must control regions containing at least {0} of Earth's population.
+TIVictoryCondition.description.ProAlienMaxRegionProportion=Aliens and pro-alien factions must control no more than {0} of Earth's regions. A faction controls a region when it has the executive control point in the region's nation and more than half of the total control points in that nation.
+TIVictoryCondition.description.ProAlienMinRegionProportion=Aliens and pro-alien factions must control at least {0} of Earth's regions. A faction controls a region when it has the executive control point in the nation and more than half of the total control points in that nation.
+TIVictoryCondition.description.MinProAlienFleetPower=The combined fleet power of the Aliens and pro-alien factions must be at least {0} of the total fleet power among all factions in the Solar System.
+TIVictoryCondition.description.MaxProAlienFleetPower=The combined fleet power of the Aliens and pro-alien factions must be no more than {0} of the total fleet power among all factions in the Solar System.
+TIVictoryCondition.description.MaxOtherFactionsFleetPower=The combined fleet power of all enemy factions must be no more than {0} of the total fleet power among all factions in the Solar System.
+TIVictoryCondition.Status=Current Value: {0}/{1} ({2})
+TIVictoryCondition.None=No additional conditions

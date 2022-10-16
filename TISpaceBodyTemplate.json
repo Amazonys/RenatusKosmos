@@ -23654,9 +23654,9 @@
    "dataName": "Gonggong",
    "friendlyName": "Gonggong",
    "designation": "225088 2007 OR10",
-   "notes": "",
-   "modelResource": "planets/Gonggong",
-   "modelScale": 20,
+   "notes": "Scattered Disk",
+   "modelResource": "planets/Pangu",
+   "modelScale": 0.5,
    "numAltModels": 0,
    "altModels": [
       {
@@ -23678,7 +23678,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Gonggong",
+   "symbolTexture": "icons_2d/ICO_Generic_Ice",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -23721,9 +23721,9 @@
    "dataName": "Eris",
    "friendlyName": "Eris",
    "designation": "136199 2003 UB313",
-   "notes": "",
-   "modelResource": "planets/Eris",
-   "modelScale": 20,
+   "notes": "Scattered Disk",
+   "modelResource": "planets/Pangu",
+   "modelScale": 0.5,
    "numAltModels": 0,
    "altModels": [
       {
@@ -23745,7 +23745,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Eris",
+   "symbolTexture": "icons_2d/ICO_Generic_Ice",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
