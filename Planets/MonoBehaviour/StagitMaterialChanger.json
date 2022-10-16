@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4423494964100539244
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2235956621853107566
+  },
+  "m_Name": "",
+  "normal_strength": 2.0,
+  "main_brightness": 1.5,
+  "light_scale": 1.0,
+  "reflection_shine": 1.0,
+  "reflection_color": {
+    "rgba": 4283124039
+  },
+  "AtmosNearColor": {
+    "rgba": 4278190080
+  },
+  "AtmosFarColor": {
+    "rgba": 4278190080
+  },
+  "AtmosFallOff": 3.0,
+  "SetMaterial": 0
+}

@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5547066162055699877
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4716124274636047115
+  },
+  "m_Name": "",
+  "sitePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "primaryCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 7150973626031473136
+  },
+  "habSiteMarker": {
+    "m_FileID": 0,
+    "m_PathID": 9149119132566222738
+  },
+  "habSiteTooltip": {
+    "m_FileID": 0,
+    "m_PathID": -396225509511305585
+  },
+  "selectionAnim": {
+    "m_FileID": 0,
+    "m_PathID": -3102300859399361625
+  },
+  "selectionRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -2355181816116177896
+  },
+  "sectorImage": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3480501595117203799
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1232997481423479760
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3927447376878073540
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3956145345423334020
+    }
+  ],
+  "myCouncilorGrid": {
+    "m_FileID": 0,
+    "m_PathID": -5584908407990330456
+  },
+  "enemyCouncilorGrid": {
+    "m_FileID": 0,
+    "m_PathID": 4454784083351117348
+  },
+  "landedFleetGrid": {
+    "m_FileID": 0,
+    "m_PathID": 8860290101276770792
+  },
+  "particleEffectsContainer": {
+    "m_FileID": 0,
+    "m_PathID": 8227231673655414030
+  },
+  "launchFX": {
+    "m_FileID": 0,
+    "m_PathID": 6305705273518079405
+  },
+  "explosionFX": {
+    "m_FileID": 0,
+    "m_PathID": 3900366193169432481
+  }
+}

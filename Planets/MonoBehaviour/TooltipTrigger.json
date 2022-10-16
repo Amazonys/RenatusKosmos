@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 640863758668841514
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8135498126130864354
+  },
+  "m_Name": "",
+  "tooltipStyle": {
+    "m_FileID": 0,
+    "m_PathID": 4224515682668011444
+  },
+  "parameterizedTextFields": [
+    {
+      "name": "BodyText",
+      "placeholder": "%BodyText%",
+      "value": "Missing TT Text",
+      "valueOnDemand": 0
+    }
+  ],
+  "dynamicImageFields": [],
+  "dynamicSectionFields": [],
+  "isRemotelyActivated": 0,
+  "backgroundTint": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "tipPosition": 5,
+  "minTextWidth": 0,
+  "maxTextWidth": 300,
+  "staysOpen": 0,
+  "neverRotate": 0,
+  "isBlocking": 0
+}
