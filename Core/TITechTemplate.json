@@ -2542,7 +2542,7 @@
    "effects": [
       "Effect_IncreaseMaxArmyTechLevel",
       "Effect_AdvancedAircraft",
-      "",
+      "Effect_ExploreVenus",
       ""
    ],
    "iconResource": "",

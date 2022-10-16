@@ -95,6 +95,54 @@
    "backgroundPath": "habmodules/surface_05",
    "fabricatedData": "16"
  },
+  {
+   "friendlyName": "Thetis Regio",
+   "dataName": "VenusSite00",
+   "parentBodyName": "Venus",
+   "X": 0,
+   "Y": 0,
+   "latitude": -15,
+   "longitude": 42.3,
+   "miningProfileName": "VenusianMine",
+   "backgroundPath": "habmodules/surface_08",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Ovda Regio",
+   "dataName": "VenusSite10",
+   "parentBodyName": "Venus",
+   "X": 1,
+   "Y": 0,
+   "latitude": -4.2,
+   "longitude": 2.2,
+   "miningProfileName": "VenusianMine",
+   "backgroundPath": "habmodules/surface_08",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Ulfrun Regio",
+   "dataName": "VenusSite20",
+   "parentBodyName": "Venus",
+   "X": 2,
+   "Y": 0,
+   "latitude": 33.8,
+   "longitude": 227.2,
+   "miningProfileName": "VenusianMine",
+   "backgroundPath": "habmodules/surface_08",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Atla Regio",
+   "dataName": "VenusSite30",
+   "parentBodyName": "Venus",
+   "X": 3,
+   "Y": 0,
+   "latitude": 1.2,
+   "longitude": 193.3,
+   "miningProfileName": "VenusianMine",
+   "backgroundPath": "habmodules/surface_08",
+   "fabricatedData": ""
+ },
  {
    "friendlyName": "Mare Ibrium",
    "dataName": "LunaSite00",
@@ -392,6 +440,30 @@
    "latitude": -60,
    "longitude": 120,
    "miningProfileName": "MartianSouthPolarMine",
+   "backgroundPath": "habmodules/surface_mars",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Elysium Planitia",
+   "dataName": "MarsSite04",
+   "parentBodyName": "Mars",
+   "X": 0,
+   "Y": 4,
+   "latitude": 21,
+   "longitude": 145,
+   "miningProfileName": "MartianMine",
+   "backgroundPath": "habmodules/surface_mars",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Tharsis Montes",
+   "dataName": "MarsSite14",
+   "parentBodyName": "Mars",
+   "X": 1,
+   "Y": 4,
+   "latitude": 1,
+   "longitude": -113,
+   "miningProfileName": "MartianVolcanoMine",
    "backgroundPath": "habmodules/surface_mars",
    "fabricatedData": ""
  },
