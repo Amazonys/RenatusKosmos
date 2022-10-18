@@ -4516,6 +4516,9 @@
 			"HighKY18EphesosOrbit",
 			"LowYX49MeleagerOrbit",
 			"HighYX49MeleagerOrbit"
+			"LowGonggongOrbit",
+			"HighGonggongOrbit",
+			"XiangliuParkingOrbit"
 		]
 	},
 	{
@@ -5065,6 +5068,9 @@
 			"HighKY18EphesosOrbit",
 			"LowYX49MeleagerOrbit",
 			"HighYX49MeleagerOrbit"
+			"LowGonggongOrbit",
+			"HighGonggongOrbit",
+			"XiangliuParkingOrbit"
 		]
 	},
 	{
@@ -5354,6 +5360,8 @@
 			"HighKY18EphesosOrbit",
 			"LowYX49MeleagerOrbit",
 			"HighYX49MeleagerOrbit"
+			"LowGonggongOrbit",
+			"HighGonggongOrbit"
 		]
 	},
 	{
@@ -5521,6 +5529,8 @@
 			"HighHaumeaOrbit",
 			"LowMakemakeOrbit",
 			"HighMakemakeOrbit"
+			"LowGonggongOrbit",
+			"HighGonggongOrbit"
 		]
 	},
 	{
