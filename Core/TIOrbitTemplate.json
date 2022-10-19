@@ -229,7 +229,7 @@
    "friendlyName": "Low Venus Orbit",
    "barycenterName": "Venus",
    "irradiatedMultiplier": 1.1,
-   "interfaceOrbit": null,
+   "interfaceOrbit": true,
    "synch": null,
    "radialOrbit": true,
    "earthLEO": null,

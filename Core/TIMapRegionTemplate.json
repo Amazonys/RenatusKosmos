@@ -1098,6 +1098,15 @@
    "smallRegion": true
  },
  {
+   "dataName": "map_Switzerland",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 46.95,
+   "longitude": 7.43,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
    "dataName": "map_BalticStates",
    "terrain": "Standard",
    "supraRegion": "Europe",

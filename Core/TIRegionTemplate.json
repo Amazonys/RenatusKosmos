@@ -9038,7 +9038,7 @@
    "dataName": "Vienna",
    "mapRegionName": "map_AlpineStates",
    "primaryCity": "Vienna",
-   "population_Millions": 17.903,
+   "population_Millions": 9.126,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -9115,21 +9115,15 @@
    ],
    "eurPersonal": [
       "Austrian",
-      "French",
-      "Italian",
       "German"
    ],
    "eurFamily": [
       "Austrian",
-      "French",
-      "Italian",
       "German"
    ],
    "eurWeight": [
       50,
-      10,
-      3,
-      3
+      30
    ],
    "hisPersonal": [
       "",
@@ -9171,7 +9165,143 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Liechtenstein, Austria, Switzerland"
+   "composedOf": "Austria"
+},
+ {
+   "dataName": "Bern",
+   "mapRegionName": "map_Switzerland",
+   "primaryCity": "Bern",
+   "population_Millions": 8.802,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "French",
+      "Italian",
+      "German"
+   ],
+   "eurFamily": [
+      "French",
+      "Italian",
+      "German"
+   ],
+   "eurWeight": [
+      20,
+      10,
+      30
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Vienna_0",
+      "illustrations/illus_Vienna_1",
+      "illustrations/illus_Vienna_2",
+      "illustrations/illus_Vienna_3",
+      "illustrations/illus_Vienna_4",
+      "illustrations/illus_Vienna_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Liechtenstein, Switzerland"
 },
  {
    "dataName": "BalticStates",

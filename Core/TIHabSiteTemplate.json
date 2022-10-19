@@ -6161,8 +6161,8 @@
    "parentBodyName": "Xiangliu",
    "X": 0,
    "Y": 0,
-   "latitude": null,
-   "longitude": null,
+   "latitude": 90,
+   "longitude": 45,
    "miningProfileName": "StonyMine",
    "backgroundPath": "habmodules/surface_02",
    "fabricatedData": ""

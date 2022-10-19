@@ -735,9 +735,56 @@
    ]
 },
  {
-   "friendlyName": "Alpine States",
+   "friendlyName": "Austria",
    "dataName": "ALP",
    "flagResource": "nationflags/Austria",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 220,
+      "g": 220,
+      "b": 220
+   },
+   "color": {
+      "r": 0.85,
+      "g": 0.86,
+      "b": 0.86,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": 582130000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 5.5,
+   "unrest": 1,
+   "inequality": 3.02,
+   "democracy": 8.07,
+   "education": 8.82,
+   "spaceFunding_year": 10,
+   "miltech": 4,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Socialist",
+      "Conservative",
+      "Conservative",
+      "Green",
+      "Green",
+      "Centrist"
+   ],
+   "ISOCodes": [
+      "AUT"
+   ]
+},
+ {
+   "friendlyName": "Switzerland",
+   "dataName": "SWI",
+   "flagResource": "nationflags/Switzerland",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -753,16 +800,16 @@
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 1168375723037,
+   "initialGDP": 739490000000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
-   "cohesion": 6,
+   "cohesion": 6.5,
    "unrest": 0,
-   "inequality": 3.16,
-   "democracy": 8.48,
-   "education": 8.82,
+   "inequality": 3.31,
+   "democracy": 8.9,
+   "education": 9.0,
    "spaceFunding_year": 20,
-   "miltech": 4,
+   "miltech": 4.3,
    "nuclearWeapons": 0,
    "initSpaceIPs": 0,
    "nuclearProgramIPs": 0,
@@ -770,15 +817,14 @@
    "buildArmyIPs": 0,
    "buildNavyIPs": 0,
    "initialPriorityPreset": [
-      "Industrialization",
+      "Liberal",
       "Socialist",
       "Centrist",
-      "Reactionary",
-      "Green",
+      "Conservative",
+      "Conservative",
       "Centrist"
    ],
    "ISOCodes": [
-      "AUT",
       "LIE",
       "CHE"
    ]
