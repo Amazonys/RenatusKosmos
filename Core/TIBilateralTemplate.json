@@ -168,6 +168,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "FederationSWIEUAFed",
+   "relationType": "Federation",
+   "nation1": "SWI",
+   "nation2": "",
+   "federation": "EUAFed",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "FederationSCAEUAFed",
    "relationType": "Federation",
    "nation1": "SCA",
