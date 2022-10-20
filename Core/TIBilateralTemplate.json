@@ -5488,6 +5488,34 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimDEUNorthGermany",
+   "relationType": "Claim",
+   "nation1": "DEU",
+   "nation2": "",
+   "federation": "",
+   "region1": "Germany",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimDEUSouthGermany",
+   "relationType": "Claim",
+   "nation1": "DEU",
+   "nation2": "",
+   "federation": "",
+   "region1": "Germany",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimDEUEastGermany",
    "relationType": "Claim",
    "nation1": "DEU",

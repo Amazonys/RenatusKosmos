@@ -1242,6 +1242,24 @@
    "smallRegion": true
  },
  {
+   "dataName": "map_NorthGermany",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 51,
+   "longitude": 10.3,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_SouthGermany",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 51,
+   "longitude": 10.3,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
    "dataName": "map_Greece",
    "terrain": "Rugged",
    "supraRegion": "Europe",

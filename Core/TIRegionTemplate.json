@@ -9455,7 +9455,7 @@
    "dataName": "Benelux",
    "mapRegionName": "map_Benelux",
    "primaryCity": "Amsterdam",
-   "population_Millions": 29.546,
+   "population_Millions": 17.222,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -10983,8 +10983,147 @@
  {
    "dataName": "Germany",
    "mapRegionName": "map_Germany",
+   "primaryCity": "Frankfurt",
+   "population_Millions": 29.18,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": 19,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Germany_0",
+      "illustrations/illus_Germany_1",
+      "illustrations/illus_Germany_2",
+      "illustrations/illus_Germany_3",
+      "illustrations/illus_Germany_4",
+      "illustrations/illus_Germany_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "West German Provinces"
+},
+ {
+   "dataName": "NorthGermany",
+   "mapRegionName": "map_NorthGermany",
    "primaryCity": "Hamburg",
-   "population_Millions": 69.72,
+   "population_Millions": 17.12,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -10992,6 +11131,145 @@
    "boostPerYear_tons": 0,
    "missionControl": 1,
    "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": 19,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Germany_0",
+      "illustrations/illus_Germany_1",
+      "illustrations/illus_Germany_2",
+      "illustrations/illus_Germany_3",
+      "illustrations/illus_Germany_4",
+      "illustrations/illus_Germany_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "West German Provinces"
+},
+ {
+   "dataName": "SouthGermany",
+   "mapRegionName": "map_SouthGermany",
+   "primaryCity": "Munich",
+   "population_Millions": 23.42,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "No",
    "afr": null,
    "asi": 1,
    "eas": null,
