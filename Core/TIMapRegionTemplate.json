@@ -1237,7 +1237,7 @@
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 51,
-   "longitude": 10.3,
+   "longitude": 6.99,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1245,8 +1245,8 @@
    "dataName": "map_NorthGermany",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 51,
-   "longitude": 10.3,
+   "latitude": 53.53,
+   "longitude": 9.97,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1254,8 +1254,8 @@
    "dataName": "map_SouthGermany",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 51,
-   "longitude": 10.3,
+   "latitude": 48.11,
+   "longitude": 11.59,
    "boostLatitude": 50,
    "smallRegion": true
  },
