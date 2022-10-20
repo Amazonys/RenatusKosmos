@@ -761,10 +761,10 @@
    "inequality": 3.02,
    "democracy": 8.07,
    "education": 8.82,
-   "spaceFunding_year": 10,
+   "spaceFunding_year": 35,
    "miltech": 4,
    "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
+   "initSpaceIPs": 10,
    "nuclearProgramIPs": 0,
    "buildNukeIPs": 0,
    "buildArmyIPs": 0,
@@ -808,10 +808,10 @@
    "inequality": 3.31,
    "democracy": 8.9,
    "education": 9.0,
-   "spaceFunding_year": 20,
+   "spaceFunding_year": 24,
    "miltech": 4.3,
    "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
+   "initSpaceIPs": 10,
    "nuclearProgramIPs": 0,
    "buildNukeIPs": 0,
    "buildArmyIPs": 0,
@@ -1418,32 +1418,32 @@
    ]
 },
  {
-   "friendlyName": "Benelux",
+   "friendlyName": "Netherlands",
    "dataName": "NET",
    "flagResource": "nationflags/Netherlands",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 84,
-      "g": 103,
-      "b": 168
+      "r": 255,
+      "g": 155,
+      "b": 0
    },
    "color": {
-      "r": 0.33,
-      "g": 0.4,
-      "b": 0.66,
+      "r": 1.0,
+      "g": 0.61,
+      "b": 0.0,
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 1766991600000,
+   "initialGDP": 1226656000000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
    "cohesion": 5,
    "unrest": 1,
-   "inequality": 2.85,
-   "democracy": 8.33,
-   "education": 9.07,
+   "inequality": 2.92,
+   "democracy": 8.88,
+   "education": 9.14,
    "spaceFunding_year": 24,
    "miltech": 4,
    "nuclearWeapons": 0,
@@ -1455,15 +1455,61 @@
    "initialPriorityPreset": [
       "Socialist",
       "Liberal",
-      "Digitalization",
+      "Conservative",
+      "Green",
+      "Technocratic",
+      "Populist"
+   ],
+   "ISOCodes": [
+      "NLD"
+   ]
+},
+{
+   "friendlyName": "Belgium",
+   "dataName": "EUA",
+   "flagResource": "nationflags/Belgium",
+   "unionFlagResource": "nationflags/European_Union",
+   "unionTrigger": 3,
+   "multiplier": 1,
+   "color32": {
+      "r": 135,
+      "g": 206,
+      "b": 235
+   },
+   "color": {
+      "r": 0.53,
+      "g": 0.81,
+      "b": 0.92,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 723090000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 3.5,
+   "unrest": 2,
+   "inequality": 2.72,
+   "democracy": 7.51,
+   "education": 9.02,
+   "spaceFunding_year": 2,
+   "miltech": 4,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 5,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Socialist",
+      "Liberal",
+      "Conservative",
       "Green",
       "Technocratic",
       "Populist"
    ],
    "ISOCodes": [
       "BEL",
-      "LUX",
-      "NLD"
+      "LUX"
    ]
 },
  {
@@ -3281,10 +3327,10 @@
 },
  {
    "friendlyName": "France",
-   "dataName": "EUA",
+   "dataName": "FRA",
    "flagResource": "nationflags/France",
-   "unionFlagResource": "nationflags/European_Union",
-   "unionTrigger": 3,
+   "unionFlagResource": "",
+   "unionTrigger": null,
    "multiplier": 1,
    "color32": {
       "r": 135,

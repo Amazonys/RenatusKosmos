@@ -1137,8 +1137,17 @@
    "dataName": "map_Benelux",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 51.45,
-   "longitude": 4.7,
+   "latitude": 52.37,
+   "longitude": 4.9,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Belgium",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 50.88,
+   "longitude": 4.4,
    "boostLatitude": 50,
    "smallRegion": true
  },

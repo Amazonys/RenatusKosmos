@@ -9047,9 +9047,9 @@
    "missionControl": 0,
    "worldOcean": "No",
    "afr": null,
-   "asi": null,
+   "asi": 1,
    "eas": null,
-   "eur": 1,
+   "eur": 49,
    "his": null,
    "oce": null,
    "language": "ENG",
@@ -9078,20 +9078,20 @@
       null
    ],
    "asiPersonal": [
-      "",
-      "",
+      "Turkish",
+      "Muslim",
       "",
       ""
    ],
    "asiFamily": [
-      "",
-      "",
+      "Turkish",
+      "Muslim",
       "",
       ""
    ],
    "asiWeight": [
-      null,
-      null,
+      3,
+      1,
       null,
       null
    ],
@@ -9115,15 +9115,21 @@
    ],
    "eurPersonal": [
       "Austrian",
-      "German"
+      "German",
+      "Serbo-Croatian",
+      "Slovene"
    ],
    "eurFamily": [
       "Austrian",
-      "German"
+      "German",
+      "Serbo-Croatian",
+      "Slovene"
    ],
    "eurWeight": [
-      50,
-      30
+      60,
+      33,
+      4,
+      3
    ],
    "hisPersonal": [
       "",
@@ -9180,15 +9186,15 @@
    "missionControl": 0,
    "worldOcean": "No",
    "afr": null,
-   "asi": null,
+   "asi": 1,
    "eas": null,
-   "eur": 1,
+   "eur": 19,
    "his": null,
    "oce": null,
    "language": "ENG",
    "acc_afr": "",
    "acc_asi": "",
-   "acc_eas": "",
+   "acc_eas": "EURO",
    "acc_eur": "EURO",
    "acc_his": "",
    "acc_oce": "",
@@ -9211,20 +9217,20 @@
       null
    ],
    "asiPersonal": [
-      "",
-      "",
+      "Turkish",
+      "Muslim",
       "",
       ""
    ],
    "asiFamily": [
-      "",
-      "",
+      "Turkish",
+      "Muslim",
       "",
       ""
    ],
    "asiWeight": [
-      null,
-      null,
+      2,
+      3,
       null,
       null
    ],
@@ -9249,17 +9255,20 @@
    "eurPersonal": [
       "French",
       "Italian",
-      "German"
+      "German",
+      "Albanian"
    ],
    "eurFamily": [
       "French",
       "Italian",
-      "German"
+      "German",
+      "Albanian"
    ],
    "eurWeight": [
-      20,
-      10,
-      30
+      77,
+      8,
+      12,
+      3
    ],
    "hisPersonal": [
       "",
@@ -9452,7 +9461,7 @@
    "coreEco": true,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
-   "missionControl": 1,
+   "missionControl": 0,
    "worldOcean": "Yes",
    "afr": 1,
    "asi": 1,
@@ -9461,46 +9470,46 @@
    "his": null,
    "oce": null,
    "language": "ENG",
-   "acc_afr": "EURO",
+   "acc_afr": "",
    "acc_asi": "EURO",
    "acc_eas": "",
    "acc_eur": "EURO",
    "acc_his": "",
    "acc_oce": "",
    "afrPersonal": [
-      "Belgian",
-      "Dutch",
-      "Belgian",
+      "",
+      "",
+      "",
       ""
    ],
    "afrFamily": [
-      "Congolese",
-      "Dutch",
-      "Belgian",
+      "",
+      "",
+      "",
       ""
    ],
    "afrWeight": [
-      1,
-      1,
-      1,
+      null,
+      null,
+      null,
       null
    ],
    "asiPersonal": [
       "Turkish",
       "Dutch",
-      "Belgian",
+      "",
       ""
    ],
    "asiFamily": [
       "Turkish",
       "Indonesian",
-      "Berber",
+      "",
       ""
    ],
    "asiWeight": [
       1,
       1,
-      1,
+      null,
       null
    ],
    "easPersonal": [
@@ -9523,19 +9532,19 @@
    ],
    "eurPersonal": [
       "Dutch",
-      "Belgian",
+      "",
       "",
       ""
    ],
    "eurFamily": [
       "Dutch",
-      "Belgian",
+      "",
       "",
       ""
    ],
    "eurWeight": [
-      17,
-      11,
+      1,
+      null,
       null,
       null
    ],
@@ -9579,7 +9588,146 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Belgium, Netherlands, Luxembourg"
+   "composedOf": "Netherlands"
+},
+{
+   "dataName": "Belgium",
+   "mapRegionName": "map_Belgium",
+   "primaryCity": "Brussels",
+   "population_Millions": 12.356,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "Yes",
+   "afr": 2,
+   "asi": 6,
+   "eas": null,
+   "eur": 92,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Belgian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Berber",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Berber",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      2,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Dutch",
+      "Belgian",
+      "French",
+      ""
+   ],
+   "eurFamily": [
+      "Dutch",
+      "Belgian",
+      "French",
+      ""
+   ],
+   "eurWeight": [
+      19,
+      11,
+      7,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Benelux_0",
+      "illustrations/illus_Benelux_1",
+      "illustrations/illus_Benelux_2",
+      "illustrations/illus_Benelux_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Belgium, Luxembourg"
 },
  {
    "dataName": "EastGermany",
