@@ -1335,8 +1335,17 @@
    "dataName": "map_Lyon",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 43.7,
-   "longitude": 2.42,
+   "latitude": 45.75,
+   "longitude": 4.86,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Bordeaux",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 44.83,
+   "longitude": -0.54,
    "boostLatitude": 45,
    "smallRegion": true
  },
@@ -1614,9 +1623,18 @@
    "dataName": "map_France",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 46.48,
-   "longitude": 2.42,
-   "boostLatitude": 45,
+   "latitude": 48.85,
+   "longitude": 2.35,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_NordEst",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 48.68,
+   "longitude": 6.19,
+   "boostLatitude": 50,
    "smallRegion": true
  },
  {

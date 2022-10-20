@@ -10567,7 +10567,146 @@
    "dataName": "France",
    "mapRegionName": "map_France",
    "primaryCity": "Paris",
-   "population_Millions": 41.949,
+   "population_Millions": 32.177,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "Yes",
+   "afr": 3,
+   "asi": 2,
+   "eas": null,
+   "eur": 94,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Akan",
+      "French",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber",
+      ""
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "French",
+      "French",
+      ""
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese",
+      ""
+   ],
+   "hisWeight": [
+      33,
+      33,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_France_0",
+      "illustrations/illus_France_1",
+      "illustrations/illus_France_2",
+      "illustrations/illus_France_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "NordEst",
+   "mapRegionName": "map_NordEst",
+   "primaryCity": "Strasbourg",
+   "population_Millions": 8.362,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -10700,19 +10839,19 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Nod Pas de Calais, Picardy, Champagne, Lorraine, Alsace, Franche Comte, Burgundy, Centre Val de Loire, Champagne, Paris, Normandy, Brittany, Pays de la Loire, Poitou Charentaes"
+   "composedOf": ""
 },
  {
    "dataName": "Lyon",
    "mapRegionName": "map_Lyon",
    "primaryCity": "Lyon",
-   "population_Millions": 23.801,
+   "population_Millions": 16.349,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
-   "missionControl": 1,
+   "missionControl": 0,
    "worldOcean": "Yes",
    "afr": 3,
    "asi": 2,
@@ -10839,7 +10978,146 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Andorra, Monaco, Aquitaine, Midi-Pyrenees, Limousin, Auvergne, Rhone Alpes, Provence Alpes, Languedoc-R, Corsica"
+   "composedOf": ""
+},
+{
+   "dataName": "Bordeaux",
+   "mapRegionName": "map_Bordeaux",
+   "primaryCity": "Bordeaux",
+   "population_Millions": 8.718,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 3,
+   "asi": 2,
+   "eas": null,
+   "eur": 94,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Akan",
+      "French",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber",
+      ""
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "French",
+      "French",
+      ""
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese",
+      ""
+   ],
+   "hisWeight": [
+      33,
+      33,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lyon_0",
+      "illustrations/illus_Lyon_1",
+      "illustrations/illus_Lyon_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Finland",
