@@ -1425,17 +1425,17 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 84,
-      "g": 103,
-      "b": 168
+      "r": 255,
+      "g": 155,
+      "b": 0
    },
    "color": {
-      "r": 0.33,
-      "g": 0.4,
-      "b": 0.66,
+      "r": 1.0,
+      "g": 0.61,
+      "b": 0.0,
       "a": 0.05
    },
-   "aggregateNation": true,
+   "aggregateNation": null,
    "initialGDP": 1766991600000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
@@ -1461,9 +1461,55 @@
       "Populist"
    ],
    "ISOCodes": [
-      "BEL",
-      "LUX",
       "NLD"
+   ]
+},
+{
+   "friendlyName": "Belgium",
+   "dataName": "EUA",
+   "flagResource": "nationflags/Belgium",
+   "unionFlagResource": "nationflags/European_Union",
+   "unionTrigger": 3,
+   "multiplier": 1,
+   "color32": {
+      "r": 135,
+      "g": 206,
+      "b": 235
+   },
+   "color": {
+      "r": 0.53,
+      "g": 0.81,
+      "b": 0.92,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 723090000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 3.5,
+   "unrest": 2,
+   "inequality": 2.72,
+   "democracy": 7.51,
+   "education": 9.02,
+   "spaceFunding_year": 2,
+   "miltech": 4,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 5,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Socialist",
+      "Liberal",
+      "Conservative",
+      "Green",
+      "Technocratic",
+      "Populist"
+   ],
+   "ISOCodes": [
+      "BEL",
+      "LUX"
    ]
 },
  {
@@ -3281,20 +3327,20 @@
 },
  {
    "friendlyName": "France",
-   "dataName": "EUA",
+   "dataName": "FRA",
    "flagResource": "nationflags/France",
-   "unionFlagResource": "nationflags/European_Union",
-   "unionTrigger": 3,
+   "unionFlagResource": "",
+   "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 135,
-      "g": 206,
-      "b": 235
+      "r": 84,
+      "g": 103,
+      "b": 168
    },
    "color": {
-      "r": 0.53,
-      "g": 0.81,
-      "b": 0.92,
+      "r": 0.33,
+      "g": 0.4,
+      "b": 0.66,
       "a": 0.05
    },
    "aggregateNation": null,
