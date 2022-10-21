@@ -1110,8 +1110,26 @@
    "dataName": "map_BalticStates",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 56.7,
-   "longitude": 24.44,
+   "latitude": 56.95,
+   "longitude": 24.16,
+   "boostLatitude": 55,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Estonia",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 59.45,
+   "longitude": 24.97,
+   "boostLatitude": 60,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Lithuania",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 54.75,
+   "longitude": 25.14,
    "boostLatitude": 55,
    "smallRegion": true
  },
@@ -1326,8 +1344,8 @@
    "dataName": "map_Kharkiv",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 48.85,
-   "longitude": 37.02,
+   "latitude": 48.13,
+   "longitude": 35.1,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1335,8 +1353,17 @@
    "dataName": "map_Kiev",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 49.87,
-   "longitude": 27.03,
+   "latitude": 50.46,
+   "longitude": 30.67,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Lwow",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 49.85,
+   "longitude": 24.11,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1413,12 +1440,39 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_Kaliningrad",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 54.71,
+   "longitude": 20.55,
+   "boostLatitude": 55,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_Poland",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 52.74,
-   "longitude": 18.63,
+   "latitude": 52.22,
+   "longitude": 21.14,
    "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Wroclaw",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 51.11,
+   "longitude": 17.09,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Gdansk",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 54.37,
+   "longitude": 18.61,
+   "boostLatitude": 55,
    "smallRegion": true
  },
  {
