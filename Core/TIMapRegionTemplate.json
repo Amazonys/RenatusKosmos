@@ -1299,9 +1299,18 @@
    "dataName": "map_Italy",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 42.82,
-   "longitude": 12.44,
+   "latitude": 45.48,
+   "longitude": 9.23,
    "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_CentralItaly",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 41.9,
+   "longitude": 12.45,
+   "boostLatitude": 40,
    "smallRegion": true
  },
  {

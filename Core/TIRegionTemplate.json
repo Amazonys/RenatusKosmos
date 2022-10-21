@@ -10709,11 +10709,11 @@
    "population_Millions": 8.362,
    "resource": null,
    "oilResource": null,
-   "coreEco": true,
+   "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
    "afr": 3,
    "asi": 2,
    "eas": null,
@@ -12095,8 +12095,147 @@
  {
    "dataName": "Italy",
    "mapRegionName": "map_Italy",
+   "primaryCity": "Milan",
+   "population_Millions": 27.782,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": 1,
+   "eas": null,
+   "eur": 52,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Italian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Ethiopian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Italian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Italian",
+      "Romanian",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Italian",
+      "Romanian",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      50,
+      1,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Italy_0",
+      "illustrations/illus_Italy_1",
+      "illustrations/illus_Italy_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Italy"
+},
+{
+   "dataName": "CentralItaly",
+   "mapRegionName": "map_CentralItaly",
    "primaryCity": "Rome",
-   "population_Millions": 37.8,
+   "population_Millions": 12.018,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
