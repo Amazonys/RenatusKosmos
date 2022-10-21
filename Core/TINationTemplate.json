@@ -1173,8 +1173,102 @@
    ]
 },
  {
-   "friendlyName": "Baltic States",
+   "friendlyName": "Latvia",
    "dataName": "BAS",
+   "flagResource": "nationflags/Latvia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 234,
+      "g": 173,
+      "b": 112
+   },
+   "color": {
+      "r": 0.92,
+      "g": 0.68,
+      "b": 0.44,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 72033000000,
+   "popGrowthModifier": -1,
+   "initialFactionStr": "",
+   "cohesion": 4,
+   "unrest": 2,
+   "inequality": 3.45,
+   "democracy": 7.31,
+   "education": 8.83,
+   "spaceFunding_year": 0,
+   "miltech": 3.8,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Liberal",
+      "Socialist",
+      "Digitalization",
+      "Liberal",
+      "Centrist",
+      "Survival"
+   ],
+   "ISOCodes": [
+      "LVA"
+   ]
+},
+{
+   "friendlyName": "Estonia",
+   "dataName": "EST",
+   "flagResource": "nationflags/Estonia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 234,
+      "g": 173,
+      "b": 112
+   },
+   "color": {
+      "r": 0.92,
+      "g": 0.68,
+      "b": 0.44,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 61389000000,
+   "popGrowthModifier": -1,
+   "initialFactionStr": "",
+   "cohesion": 6,
+   "unrest": 1,
+   "inequality": 3.08,
+   "democracy": 7.84,
+   "education": 8.82,
+   "spaceFunding_year": 0,
+   "miltech": 3.8,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Liberal",
+      "Socialist",
+      "Digitalization",
+      "Liberal",
+      "Centrist",
+      "Survival"
+   ],
+   "ISOCodes": [
+      "EST"
+   ]
+},
+{
+   "friendlyName": "Lithuania",
+   "dataName": "LTH",
    "flagResource": "nationflags/Lithuania",
    "unionFlagResource": "",
    "unionTrigger": null,
@@ -1191,13 +1285,13 @@
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 228577360000,
+   "initialGDP": 130670000000,
    "popGrowthModifier": -1,
    "initialFactionStr": "",
-   "cohesion": 6,
+   "cohesion": 5,
    "unrest": 1,
-   "inequality": 3.4,
-   "democracy": 7.37,
+   "inequality": 3.53,
+   "democracy": 7.18,
    "education": 8.9,
    "spaceFunding_year": 0,
    "miltech": 3.8,
@@ -1216,8 +1310,6 @@
       "Survival"
    ],
    "ISOCodes": [
-      "EST",
-      "LVA",
       "LTU"
    ]
 },
@@ -1472,14 +1564,14 @@
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
-      "r": 135,
-      "g": 206,
-      "b": 235
+      "r": 84,
+      "g": 103,
+      "b": 168
    },
    "color": {
-      "r": 0.53,
-      "g": 0.81,
-      "b": 0.92,
+      "r": 0.33,
+      "g": 0.4,
+      "b": 0.66,
       "a": 0.05
    },
    "aggregateNation": true,
@@ -3333,14 +3425,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 84,
-      "g": 103,
-      "b": 168
+      "r": 135,
+      "g": 206,
+      "b": 235
    },
    "color": {
-      "r": 0.33,
-      "g": 0.4,
-      "b": 0.66,
+      "r": 0.53,
+      "g": 0.81,
+      "b": 0.92,
       "a": 0.05
    },
    "aggregateNation": null,
