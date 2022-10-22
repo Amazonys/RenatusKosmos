@@ -511,11 +511,11 @@
 			"MM4Bromos",
 			"QF99Autolycus",
 			"KY18Ephesos",
-			"YX49Meleager",
-			"Gonggong",
-			"Xiangliu",
-			"Eris",
-			"Dysnomia"
+			"YX49Meleager"
+			//"Gonggong",
+			//"Xiangliu",
+			//"Eris",
+			//"Dysnomia"
 		]
 	},
 	{
@@ -771,11 +771,11 @@
 			"MM4Bromos",
 			"QF99Autolycus",
 			"KY18Ephesos",
-			"YX49Meleager",
-			"Gonggong",
-			"Xiangliu",
-			"Eris",
-			"Dysnomia"
+			"YX49Meleager"
+			//"Gonggong",
+			//"Xiangliu",
+			//"Eris",
+			//"Dysnomia"
 		]
 	},
 	{
@@ -890,9 +890,9 @@
 			"Pangu",
 			"Eledumare",
 			"KY18Ephesos",
-			"YX49Meleager",
-			"Gonggong",
-			"Eris"
+			"YX49Meleager"
+			//"Gonggong",
+			//"Eris"
 		]
 	},
 	{
@@ -968,8 +968,8 @@
 			"Charon",
 			"Haumea",
 			"Makemake"
-			"Gonggong",
-			"Eris"
+			//"Gonggong",
+			//"Eris"
 		]
 	},
 	{
@@ -1515,9 +1515,9 @@
 			"MM4BromosSite00",
 			"QF99AutolycusSite00",
 			"KY18EphesosSite00",
-			"YX49MeleagerSite00",
-			"XiangliuSite00",
-			"DysnomiaSite00"
+			"YX49MeleagerSite00"
+			//"XiangliuSite00",
+			//"DysnomiaSite00"
 		]
 	},
 	{
@@ -1927,9 +1927,9 @@
 			"MM4BromosSite00",
 			"QF99AutolycusSite00",
 			"KY18EphesosSite00",
-			"YX49MeleagerSite00",
-			"XiangliuSite00",
-			"DysnomiaSite00"
+			"YX49MeleagerSite00"
+			//"XiangliuSite00",
+			//"DysnomiaSite00"
 		]
 	},
 	{
@@ -4532,9 +4532,9 @@
 			"HighKY18EphesosOrbit",
 			"LowYX49MeleagerOrbit",
 			"HighYX49MeleagerOrbit"
-			"LowGonggongOrbit",
-			"HighGonggongOrbit",
-			"XiangliuParkingOrbit"
+			//"LowGonggongOrbit",
+			//"HighGonggongOrbit",
+			//"XiangliuParkingOrbit"
 		]
 	},
 	{
@@ -5084,9 +5084,9 @@
 			"HighKY18EphesosOrbit",
 			"LowYX49MeleagerOrbit",
 			"HighYX49MeleagerOrbit"
-			"LowGonggongOrbit",
-			"HighGonggongOrbit",
-			"XiangliuParkingOrbit"
+			//"LowGonggongOrbit",
+			//"HighGonggongOrbit",
+			//"XiangliuParkingOrbit"
 		]
 	},
 	{
@@ -5376,8 +5376,8 @@
 			"HighKY18EphesosOrbit",
 			"LowYX49MeleagerOrbit",
 			"HighYX49MeleagerOrbit"
-			"LowGonggongOrbit",
-			"HighGonggongOrbit"
+			//"LowGonggongOrbit",
+			//"HighGonggongOrbit"
 		]
 	},
 	{
@@ -5545,8 +5545,8 @@
 			"HighHaumeaOrbit",
 			"LowMakemakeOrbit",
 			"HighMakemakeOrbit"
-			"LowGonggongOrbit",
-			"HighGonggongOrbit"
+			//"LowGonggongOrbit",
+			//"HighGonggongOrbit"
 		]
 	},
 	{
