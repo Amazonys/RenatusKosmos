@@ -1416,8 +1416,26 @@
    "dataName": "map_NorthwestBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 45.03,
-   "longitude": 16.72,
+   "latitude": 43.89,
+   "longitude": 18.37,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Croatia",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 45.76,
+   "longitude": 16.07,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Slovenia",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 46.04,
+   "longitude": 14.53,
    "boostLatitude": 45,
    "smallRegion": true
  },
@@ -1488,8 +1506,26 @@
    "dataName": "map_Romania",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 45.6,
-   "longitude": 24.91,
+   "latitude": 44.46,
+   "longitude": 26.2,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Transylvania",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 46.76,
+   "longitude": 23.61,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Moldova",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 46.99,
+   "longitude": 28.88,
    "boostLatitude": 45,
    "smallRegion": true
  },
@@ -1524,8 +1560,35 @@
    "dataName": "map_SouthwestBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 42.91,
-   "longitude": 20.48,
+   "latitude": 44.79,
+   "longitude": 20.55,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Montenegro",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 42.5,
+   "longitude": 19.23,
+   "boostLatitude": 40,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Albania",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 41.31,
+   "longitude": 19.87,
+   "boostLatitude": 40,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Macedonia",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 41.94,
+   "longitude": 21.53,
    "boostLatitude": 40,
    "smallRegion": true
  },

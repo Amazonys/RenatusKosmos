@@ -13061,7 +13061,7 @@
    "mapRegionName": "map_Wroclaw",
    "primaryCity": "Wroclaw",
    "population_Millions": 8.36,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
@@ -25987,7 +25987,7 @@
    "dataName": "Kharkiv",
    "mapRegionName": "map_Kharkiv",
    "primaryCity": "Kharkiv",
-   "population_Millions": 15.889,
+   "population_Millions": 18.997,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -26126,7 +26126,146 @@
    "dataName": "Kiev",
    "mapRegionName": "map_Kiev",
    "primaryCity": "Kiev",
-   "population_Millions": 22.538,
+   "population_Millions": 9.974,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Ukrainian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Ukrainian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Kiev_0",
+      "illustrations/illus_Kiev_1",
+      "illustrations/illus_Kiev_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Everything east of the Dnieper River"
+},
+{
+   "dataName": "Lwow",
+   "mapRegionName": "map_Lwow",
+   "primaryCity": "Lviv",
+   "population_Millions": 12.259,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -31269,7 +31408,285 @@
    "dataName": "Sarajevo",
    "mapRegionName": "map_NorthwestBalkans",
    "primaryCity": "Sarajevo",
-   "population_Millions": 9.376,
+   "population_Millions": 3.235,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Serbo-Croatian",
+      "Bosnian",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Serbo-Croatian",
+      "Bosnian",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      25,
+      25,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Sarajevo_0",
+      "illustrations/illus_Sarajevo_1",
+      "illustrations/illus_Sarajevo_2",
+      "illustrations/illus_Sarajevo_3",
+      "illustrations/illus_Sarajevo_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Bosnia-Herzegovina"
+},
+{
+   "dataName": "Croatia",
+   "mapRegionName": "map_Croatia",
+   "primaryCity": "Zagreb",
+   "population_Millions": 4.048,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Serbo-Croatian",
+      "Bosnian",
+      "Slovene",
+      ""
+   ],
+   "eurFamily": [
+      "Serbo-Croatian",
+      "Bosnian",
+      "Slovene",
+      ""
+   ],
+   "eurWeight": [
+      44,
+      2,
+      4,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Sarajevo_0",
+      "illustrations/illus_Sarajevo_1",
+      "illustrations/illus_Sarajevo_2",
+      "illustrations/illus_Sarajevo_3",
+      "illustrations/illus_Sarajevo_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Croatia"
+},
+{
+   "dataName": "Slovenia",
+   "mapRegionName": "map_Slovenia",
+   "primaryCity": "Lbubljana",
+   "population_Millions": 2.08,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -31358,8 +31775,8 @@
    ],
    "eurWeight": [
       8,
-      7,
-      4,
+      2,
+      44,
       null
    ],
    "hisPersonal": [
@@ -31402,13 +31819,288 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Bosnia-Herzegovina, Croatia, Slovenia"
+   "composedOf": "Slovenia"
 },
  {
    "dataName": "Belgrade",
    "mapRegionName": "map_SouthwestBalkans",
    "primaryCity": "Belgrade",
-   "population_Millions": 14.212,
+   "population_Millions": 6.784,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Serbo-Croatian",
+      "Hungarian",
+      "Bosnian"
+   ],
+   "eurFamily": [
+      "Serbo-Croatian",
+      "Hungarian",
+      "Bosnian"
+   ],
+   "eurWeight": [
+      47,
+      2,
+      1
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Belgrade_0",
+      "illustrations/illus_Belgrade_1",
+      "illustrations/illus_Belgrade_2",
+      "illustrations/illus_Belgrade_3",
+      "illustrations/illus_Belgrade_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Serbia"
+},
+{
+   "dataName": "Macedonia",
+   "mapRegionName": "map_Macedonia",
+   "primaryCity": "Skopje",
+   "population_Millions": 2.083,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Serbo-Croatian",
+      "Albanian",
+      "Macedonian",
+      "Bosnian"
+   ],
+   "eurFamily": [
+      "Serbo-Croatian",
+      "Albanian",
+      "Macedonian",
+      "Greek"
+   ],
+   "eurWeight": [
+      2,
+      12,
+      38,
+      2
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Belgrade_0",
+      "illustrations/illus_Belgrade_1",
+      "illustrations/illus_Belgrade_2",
+      "illustrations/illus_Belgrade_3",
+      "illustrations/illus_Belgrade_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Macedonia"
+},
+{
+   "dataName": "Albania",
+   "mapRegionName": "map_Albania",
+   "primaryCity": "Tirana",
+   "population_Millions": 4.744,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -31493,12 +32185,12 @@
       "Serbo-Croatian",
       "Albanian",
       "Macedonian",
-      "Bosnian"
+      "Greek"
    ],
    "eurWeight": [
-      7,
-      5,
       2,
+      46,
+      1,
       1
    ],
    "hisPersonal": [
@@ -31541,7 +32233,143 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Serbia, Kosovo, Macedonia, Albania, Montenegro"
+   "composedOf": "Albania"
+},
+{
+   "dataName": "Montenegro",
+   "mapRegionName": "map_Montenegro",
+   "primaryCity": "Podgorica",
+   "population_Millions": 0.628,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Serbo-Croatian",
+      "Albanian",
+      "Bosnian"
+   ],
+   "eurFamily": [
+      "Serbo-Croatian",
+      "Albanian",
+      "Bosnian"
+   ],
+   "eurWeight": [
+      37,
+      3,
+      5
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Belgrade_0",
+      "illustrations/illus_Belgrade_1",
+      "illustrations/illus_Belgrade_2",
+      "illustrations/illus_Belgrade_3",
+      "illustrations/illus_Belgrade_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Montenegro"
 },
  {
    "dataName": "Greece",
@@ -31686,7 +32514,7 @@
    "dataName": "Romania",
    "mapRegionName": "map_Romania",
    "primaryCity": "Bucharest",
-   "population_Millions": 23.013,
+   "population_Millions": 12.224,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -31819,7 +32647,285 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Romania, Moldova"
+   "composedOf": "Romania"
+},
+{
+   "dataName": "Transylvania",
+   "mapRegionName": "map_Transylvania",
+   "primaryCity": "Cluj-Napoca",
+   "population_Millions": 6.789,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Romania_0",
+      "illustrations/illus_Romania_1",
+      "illustrations/illus_Romania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Romania"
+},
+{
+   "dataName": "Moldova",
+   "mapRegionName": "map_Moldova",
+   "primaryCity": "Chisinau",
+   "population_Millions": 4.013,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Romania_0",
+      "illustrations/illus_Romania_1",
+      "illustrations/illus_Romania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Moldova"
 },
  {
    "dataName": "Bulgaria",
