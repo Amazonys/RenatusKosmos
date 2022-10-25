@@ -28631,7 +28631,7 @@
    "population_Millions": 38.859,
    "resource": true,
    "oilResource": true,
-   "coreEco": true,
+   "coreEco": null,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 3,
