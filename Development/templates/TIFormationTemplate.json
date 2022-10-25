@@ -1,0 +1,2558 @@
+[
+ {
+   "dataName": "Staggered",
+   "AICombatBaseWeight": 0,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0.5,
+         "y": 0.5,
+         "z": -1
+      },
+      {
+         "x": 0.5,
+         "y": -0.5,
+         "z": -1
+      },
+      {
+         "x": -0.5,
+         "y": -0.5,
+         "z": -1
+      },
+      {
+         "x": -0.5,
+         "y": 0.5,
+         "z": -1
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -2.5
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -2.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -2.5
+      },
+      {
+         "x": 0.5,
+         "y": 0.5,
+         "z": -3.5
+      },
+      {
+         "x": 0.5,
+         "y": -0.5,
+         "z": -3.5
+      },
+      {
+         "x": -0.5,
+         "y": -0.5,
+         "z": -3.5
+      },
+      {
+         "x": -0.5,
+         "y": 0.5,
+         "z": -3.5
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -5
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -5
+      },
+      {
+         "x": 0.5,
+         "y": 0.5,
+         "z": -6
+      },
+      {
+         "x": 0.5,
+         "y": -0.5,
+         "z": -6
+      },
+      {
+         "x": -0.5,
+         "y": -0.5,
+         "z": -6
+      },
+      {
+         "x": -0.5,
+         "y": 0.5,
+         "z": -6
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "Convoy",
+   "AICombatBaseWeight": 0,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": -0.5,
+         "z": -0.5
+      },
+      {
+         "x": 1,
+         "y": 0.5,
+         "z": -0.5
+      },
+      {
+         "x": -1,
+         "y": 0.5,
+         "z": -0.5
+      },
+      {
+         "x": -1,
+         "y": -0.5,
+         "z": -0.5
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": -1
+      },
+      {
+         "x": 0,
+         "y": 2,
+         "z": -1
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": -1
+      },
+      {
+         "x": 0,
+         "y": -2,
+         "z": -1
+      },
+      {
+         "x": 1,
+         "y": -0.5,
+         "z": -2
+      },
+      {
+         "x": 1,
+         "y": 0.5,
+         "z": -2
+      },
+      {
+         "x": -1,
+         "y": 0.5,
+         "z": -2
+      },
+      {
+         "x": -1,
+         "y": -0.5,
+         "z": -2
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": -2.5
+      },
+      {
+         "x": 0,
+         "y": 2,
+         "z": -2.5
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": -2.5
+      },
+      {
+         "x": 0,
+         "y": -2,
+         "z": -2.5
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -3
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "Cloud",
+   "AICombatBaseWeight": 0,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -0.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -0.5
+      },
+      {
+         "x": 0,
+         "y": 1,
+         "z": -0.5
+      },
+      {
+         "x": 0,
+         "y": -1,
+         "z": -0.5
+      },
+      {
+         "x": 1.5,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -1.5,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 0,
+         "y": 1.5,
+         "z": -1.5
+      },
+      {
+         "x": 0,
+         "y": -1.5,
+         "z": -1.5
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -2.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "EchelonRight",
+   "AICombatBaseWeight": 0.1,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -0.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "EchelonLeft",
+   "AICombatBaseWeight": 0.1,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -0.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "Chevron",
+   "AICombatBaseWeight": 0.1,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -0.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "TwoChevrons",
+   "AICombatBaseWeight": 0.5,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "Arrow",
+   "AICombatBaseWeight": 0.5,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -0.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -0.5
+      },
+      {
+         "x": 0,
+         "y": 1,
+         "z": -0.5
+      },
+      {
+         "x": 0,
+         "y": -1,
+         "z": -0.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "Line",
+   "AICombatBaseWeight": 1,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "TwoLines",
+   "AICombatBaseWeight": 1,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -3,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -3,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 3,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 3,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -4,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -4,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 4,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 4,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -5,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -5,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 5,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 5,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -6,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -6,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 6,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 6,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "ThreeLines",
+   "AICombatBaseWeight": 1,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": -3,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 3,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -3,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 3,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -3,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 3,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": -4,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 4,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -4,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 4,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -4,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 4,
+         "y": -1,
+         "z": 0
+      }
+   ]
+},
+ {
+   "dataName": "Wall",
+   "AICombatBaseWeight": 1,
+   "resetIdx": 15,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 2,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": -2,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": -2,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 2,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": -2,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 2,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": -2,
+         "z": 0
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "Column",
+   "AICombatBaseWeight": 0,
+   "resetIdx": 1,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "TwoColumn",
+   "AICombatBaseWeight": 0,
+   "resetIdx": 2,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "ThreeColumn",
+   "AICombatBaseWeight": 0,
+   "resetIdx": 3,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -1
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "FourColumn",
+   "AICombatBaseWeight": 0,
+   "resetIdx": 4,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "FiveColumn",
+   "AICombatBaseWeight": 0.5,
+   "resetIdx": 5,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 2,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -2,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+},
+ {
+   "dataName": "BoxThree",
+   "AICombatBaseWeight": 1,
+   "resetIdx": 9,
+   "pos": [
+      {
+         "x": 0,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": 1,
+         "y": -1,
+         "z": 0
+      },
+      {
+         "x": -1,
+         "y": 1,
+         "z": 0
+      },
+      {
+         "x": 0,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": -1,
+         "y": 0,
+         "z": -1.5
+      },
+      {
+         "x": 0,
+         "y": 1,
+         "z": -1.5
+      },
+      {
+         "x": 0,
+         "y": -1,
+         "z": -1.5
+      },
+      {
+         "x": 1,
+         "y": 1,
+         "z": -1.5
+      },
+      {
+         "x": -1,
+         "y": -1,
+         "z": -1.5
+      },
+      {
+         "x": 1,
+         "y": -1,
+         "z": -1.5
+      },
+      {
+         "x": -1,
+         "y": 1,
+         "z": -1.5
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      },
+      {
+         "x": null,
+         "y": null,
+         "z": null
+      }
+   ]
+}
+]
