@@ -13061,7 +13061,7 @@
    "mapRegionName": "map_Wroclaw",
    "primaryCity": "Wroclaw",
    "population_Millions": 8.36,
-   "resource": true,
+   "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
