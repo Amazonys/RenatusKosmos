@@ -761,10 +761,10 @@ TINationTemplate.unionDisplayNameWithArticle.TUR=Turkestan
 TINationTemplate.unionAdjective.TUR=Turkestani
 TINationTemplate.unionDisplayNameWithArticlePrep.TUR=in Turkestan
 
-TINationTemplate.unionDisplayName.GBR=United Kingdom
-TINationTemplate.unionDisplayNameWithArticle.GBR=the United Kingdom
+TINationTemplate.unionDisplayName.GBR=British Commonwealth
+TINationTemplate.unionDisplayNameWithArticle.GBR=the British Commonwealth
 TINationTemplate.unionAdjective.GBR=British
-TINationTemplate.unionDisplayNameWithArticlePrep.GBR=in the United Kingdom
+TINationTemplate.unionDisplayNameWithArticlePrep.GBR=in the British Commonwealth
 
 TINationTemplate.unionDisplayName.IDN=Indonesia
 TINationTemplate.unionDisplayNameWithArticle.IDN=Indonesia
@@ -865,10 +865,10 @@ TINationTemplate.displayNameWithArticle.GTM=Guatemala
 TINationTemplate.nationAdjective.GTM=Guatemalan
 TINationTemplate.displayNameWithArticlePrep.GTM=in Guatemala
 
-TINationTemplate.unionDisplayName.GTM=Central American Confederation
-TINationTemplate.unionDisplayNameWithArticle.GTM=the Central American Confederation
+TINationTemplate.unionDisplayName.GTM=Centroamerica Confederation
+TINationTemplate.unionDisplayNameWithArticle.GTM=the Centroamerica Confederation
 TINationTemplate.unionAdjective.GTM=Central American
-TINationTemplate.unionDisplayNameWithArticlePrep.GTM=in the Central American Confederation
+TINationTemplate.unionDisplayNameWithArticlePrep.GTM=in the Centroamerica Confederation
 
 TINationTemplate.displayName.GUY=Guyana
 TINationTemplate.displayNameWithArticle.GUY=Guyana
@@ -905,10 +905,10 @@ TINationTemplate.displayNameWithArticle.NIC=Nicaragua
 TINationTemplate.nationAdjective.NIC=Nicaraguan
 TINationTemplate.displayNameWithArticlePrep.NIC=in Nicaragua
 
-TINationTemplate.displayName.NBK=Northern Balkan States
-TINationTemplate.displayNameWithArticle.NBK=the Northern Balkan States
-TINationTemplate.nationAdjective.NBK=Northern Balkan
-TINationTemplate.displayNameWithArticlePrep.NBK=in the Northern Balkan States
+TINationTemplate.displayName.NBK=Bosnia and Herzegovina
+TINationTemplate.displayNameWithArticle.NBK=Bosnia and Herzegovina
+TINationTemplate.nationAdjective.NBK=Bosnian
+TINationTemplate.displayNameWithArticlePrep.NBK=in Bosnia and Herzegovina
 
 TINationTemplate.displayName.PAN=Panama
 TINationTemplate.displayNameWithArticle.PAN=Panama
@@ -940,10 +940,10 @@ TINationTemplate.displayNameWithArticle.SLO=Slovakia
 TINationTemplate.nationAdjective.SLO=Slovak
 TINationTemplate.displayNameWithArticlePrep.SLO=in Slovakia
 
-TINationTemplate.displayName.SBK=Southern Balkan States
-TINationTemplate.displayNameWithArticle.SBK=the Southern Balkan States
-TINationTemplate.nationAdjective.SBK=Southern Balkan
-TINationTemplate.displayNameWithArticlePrep.SBK=in the Southern Balkan States
+TINationTemplate.displayName.SBK=Serbia
+TINationTemplate.displayNameWithArticle.SBK=Serbia
+TINationTemplate.nationAdjective.SBK=Serbian
+TINationTemplate.displayNameWithArticlePrep.SBK=in Serbia
 
 TINationTemplate.unionDisplayName.SBK=Yugoslavia
 TINationTemplate.unionDisplayNameWithArticle.SBK=Yugoslavia
@@ -965,14 +965,20 @@ TINationTemplate.displayNameWithArticle.URL=the Ural Republic
 TINationTemplate.nationAdjective.URL=Ural
 TINationTemplate.displayNameWithArticlePrep.URL=in the Ural Republic
 
-TINationTemplate.unionDisplayName.POL=Slavic Commonwealth
-TINationTemplate.unionDisplayNameWithArticle.POL=the Slavic Commonwealth
-TINationTemplate.unionAdjective.POL=Slavic
-TINationTemplate.unionDisplayNameWithArticlePrep.POL=in the Slavic Commonwealth
+TINationTemplate.unionDisplayName.POL=Trimarium Commonwealth
+TINationTemplate.unionDisplayNameWithArticle.POL=the Trimarium Commonwealth
+TINationTemplate.unionAdjective.POL=Trimaric
+TINationTemplate.unionDisplayNameWithArticlePrep.POL=in the Trimarium Commonwealth
 
+TINationTemplate.unionDisplayName.HUN=Visegrad Group
+TINationTemplate.unionDisplayNameWithArticle.HUN=the Visegrad Group
+TINationTemplate.unionAdjective.HUN=Visegradic
+TINationTemplate.unionDisplayNameWithArticlePrep.HUN=in the Visegrad Group
 
-
-
+TINationTemplate.unionDisplayName.UKR=Ukraine-Rus
+TINationTemplate.unionDisplayNameWithArticle.UKR=Ukraine-Rus
+TINationTemplate.unionAdjective.UKR=Ukrainian
+TINationTemplate.unionDisplayNameWithArticlePrep.UKR=in Ukraine-Rus
 
 
 

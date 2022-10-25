@@ -1431,15 +1431,6 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_Slovenia",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 46.04,
-   "longitude": 14.53,
-   "boostLatitude": 45,
-   "smallRegion": true
- },
- {
    "dataName": "map_Norway",
    "terrain": "Rugged",
    "supraRegion": "Europe",
@@ -1566,29 +1557,11 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_Montenegro",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 42.5,
-   "longitude": 19.23,
-   "boostLatitude": 40,
-   "smallRegion": true
- },
- {
    "dataName": "map_Albania",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 41.31,
    "longitude": 19.87,
-   "boostLatitude": 40,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Macedonia",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 41.94,
-   "longitude": 21.53,
    "boostLatitude": 40,
    "smallRegion": true
  },

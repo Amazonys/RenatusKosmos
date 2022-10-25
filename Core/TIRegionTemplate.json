@@ -13061,7 +13061,7 @@
    "mapRegionName": "map_Wroclaw",
    "primaryCity": "Wroclaw",
    "population_Millions": 8.36,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
@@ -31547,7 +31547,7 @@
    "dataName": "Croatia",
    "mapRegionName": "map_Croatia",
    "primaryCity": "Zagreb",
-   "population_Millions": 4.048,
+   "population_Millions": 6.128,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -31635,9 +31635,9 @@
       ""
    ],
    "eurWeight": [
-      44,
+      36,
       2,
-      4,
+      24,
       null
    ],
    "hisPersonal": [
@@ -31680,146 +31680,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Croatia"
-},
-{
-   "dataName": "Slovenia",
-   "mapRegionName": "map_Slovenia",
-   "primaryCity": "Lbubljana",
-   "population_Millions": 2.08,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "EURO",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Serbo-Croatian",
-      "Bosnian",
-      "Slovene",
-      ""
-   ],
-   "eurFamily": [
-      "Serbo-Croatian",
-      "Bosnian",
-      "Slovene",
-      ""
-   ],
-   "eurWeight": [
-      8,
-      2,
-      44,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "illustrations/illus_Sarajevo_0",
-      "illustrations/illus_Sarajevo_1",
-      "illustrations/illus_Sarajevo_2",
-      "illustrations/illus_Sarajevo_3",
-      "illustrations/illus_Sarajevo_4",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Slovenia"
+   "composedOf": "Croatia, Slovenia"
 },
  {
    "dataName": "Belgrade",
@@ -31958,149 +31819,10 @@
    "composedOf": "Serbia"
 },
 {
-   "dataName": "Macedonia",
-   "mapRegionName": "map_Macedonia",
-   "primaryCity": "Skopje",
-   "population_Millions": 2.083,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "No",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "RUSN",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Serbo-Croatian",
-      "Albanian",
-      "Macedonian",
-      "Bosnian"
-   ],
-   "eurFamily": [
-      "Serbo-Croatian",
-      "Albanian",
-      "Macedonian",
-      "Greek"
-   ],
-   "eurWeight": [
-      2,
-      12,
-      38,
-      2
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "illustrations/illus_Belgrade_0",
-      "illustrations/illus_Belgrade_1",
-      "illustrations/illus_Belgrade_2",
-      "illustrations/illus_Belgrade_3",
-      "illustrations/illus_Belgrade_4",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Macedonia"
-},
-{
    "dataName": "Albania",
    "mapRegionName": "map_Albania",
    "primaryCity": "Tirana",
-   "population_Millions": 4.744,
+   "population_Millions": 7.455,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -32179,20 +31901,24 @@
       "Serbo-Croatian",
       "Albanian",
       "Macedonian",
-      "Bosnian"
+      "Bosnian",
+      "Greek"
    ],
    "eurFamily": [
       "Serbo-Croatian",
       "Albanian",
       "Macedonian",
+      "Bosnian",
       "Greek"
    ],
    "eurWeight": [
-      2,
-      46,
-      1,
+      21,
+      31,
+      20,
+      4,
       1
    ],
+   
    "hisPersonal": [
       "",
       "",
@@ -32233,143 +31959,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Albania"
-},
-{
-   "dataName": "Montenegro",
-   "mapRegionName": "map_Montenegro",
-   "primaryCity": "Podgorica",
-   "population_Millions": 0.628,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "RUSN",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Serbo-Croatian",
-      "Albanian",
-      "Bosnian"
-   ],
-   "eurFamily": [
-      "Serbo-Croatian",
-      "Albanian",
-      "Bosnian"
-   ],
-   "eurWeight": [
-      37,
-      3,
-      5
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "illustrations/illus_Belgrade_0",
-      "illustrations/illus_Belgrade_1",
-      "illustrations/illus_Belgrade_2",
-      "illustrations/illus_Belgrade_3",
-      "illustrations/illus_Belgrade_4",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Montenegro"
+   "composedOf": "Albania, Montenegro, Macedonia"
 },
  {
    "dataName": "Greece",
