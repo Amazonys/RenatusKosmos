@@ -1,0 +1,13 @@
+UI.Army.Header=Army
+UI.Army.Idle=Idle
+UI.Army.InBattle=In Battle
+UI.Army.Occupying=Occupying Region ({0})
+UI.Army.DeployDescription=Moving to {0} region, arriving {1}
+UI.Army.AdviserBonus=+{0}
+UI.Army.MegafaunaHomeNation=Rampaging Xenofauna
+UI.Army.MegafaunaHomeNation1=Domesticated Megafauna
+UI.Army.OperationTarget=, Target: {0}
+UI.Army.CompletionDate=, Complete: {0}
+UI.Army.AtSea=At Sea
+UI.Army.AdviserTooltip=Councilors advising this nation are providing a +{0} bonus to this army's effective tech level
+UI.Army.HabTooltip=Modules on faction space stations in near-Earth orbits are provding a +{0} bonus to this army's effective tech level

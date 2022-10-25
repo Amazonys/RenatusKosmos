@@ -1190,7 +1190,7 @@
       "b": 0.44,
       "a": 0.05
    },
-   "aggregateNation": true,
+   "aggregateNation": null,
    "initialGDP": 72033000000,
    "popGrowthModifier": -1,
    "initialFactionStr": "",
@@ -1237,7 +1237,7 @@
       "b": 0.44,
       "a": 0.05
    },
-   "aggregateNation": true,
+   "aggregateNation": null,
    "initialGDP": 61389000000,
    "popGrowthModifier": -1,
    "initialFactionStr": "",
@@ -1284,7 +1284,7 @@
       "b": 0.44,
       "a": 0.05
    },
-   "aggregateNation": true,
+   "aggregateNation": null,
    "initialGDP": 130670000000,
    "popGrowthModifier": -1,
    "initialFactionStr": "",
@@ -4503,14 +4503,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 204,
-      "g": 137,
-      "b": 104
+      "r": 0,
+      "g": 140,
+      "b": 69
    },
    "color": {
-      "r": 0.8,
-      "g": 0.54,
-      "b": 0.41,
+      "r": 0.0,
+      "g": 0.55,
+      "b": 0.27,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -6064,7 +6064,7 @@
    ]
 },
  {
-   "friendlyName": "Northern Balkan States",
+   "friendlyName": "Bosnia",
    "dataName": "NBK",
    "flagResource": "nationflags/Bosnia_and_Herzegovina",
    "unionFlagResource": "",
@@ -6081,6 +6081,53 @@
       "b": 0.7,
       "a": 0.05
    },
+   "aggregateNation": null,
+   "initialGDP": 271158800000,
+   "popGrowthModifier": -1,
+   "initialFactionStr": "",
+   "cohesion": 3,
+   "unrest": 2,
+   "inequality": 2.93,
+   "democracy": 6.23,
+   "education": 7.96,
+   "spaceFunding_year": 0,
+   "miltech": 3.6,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Centrist",
+      "Conservative",
+      "Modernization",
+      "Populist",
+      "Industrialization"
+   ],
+   "ISOCodes": [
+      "BIH"
+   ]
+},
+{
+   "friendlyName": "Krajina",
+   "dataName": "CRO",
+   "flagResource": "nationflags/Croatia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 132,
+      "g": 117,
+      "b": 215
+   },
+   "color": {
+      "r": 0.52,
+      "g": 0.46,
+      "b": 0.84,
+      "a": 0.05
+   },
    "aggregateNation": true,
    "initialGDP": 271158800000,
    "popGrowthModifier": -1,
@@ -6090,7 +6137,7 @@
    "inequality": 2.93,
    "democracy": 6.23,
    "education": 7.96,
-   "spaceFunding_year": 2,
+   "spaceFunding_year": 3,
    "miltech": 3.6,
    "nuclearWeapons": 0,
    "initSpaceIPs": 0,
@@ -6108,7 +6155,6 @@
    ],
    "ISOCodes": [
       "HRV",
-      "BIH",
       "SVN"
    ]
 },
@@ -7926,11 +7972,11 @@
    ]
 },
  {
-   "friendlyName": "Southern Balkan States",
+   "friendlyName": "Serbia",
    "dataName": "SBK",
    "flagResource": "nationflags/Serbia",
    "unionFlagResource": "nationflags/Yugoslavia",
-   "unionTrigger": 2,
+   "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
       "r": 255,
@@ -7943,6 +7989,55 @@
       "b": 0.39,
       "a": 0.05
    },
+   "aggregateNation": null,
+   "initialGDP": 259512880000,
+   "popGrowthModifier": -1,
+   "initialFactionStr": "",
+   "cohesion": 3,
+   "unrest": 2,
+   "inequality": 3.3,
+   "democracy": 6.15,
+   "education": 7.65,
+   "spaceFunding_year": 6,
+   "miltech": 3.6,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Modernization",
+      "Conservative",
+      "Industrialization",
+      "Industrialization",
+      "Centrist",
+      "Conservative"
+   ],
+   "ISOCodes": [
+      "SRB",
+      "ALB",
+      "MKD"
+   ]
+},
+{
+   "friendlyName": "Dinaretia",
+   "dataName": "ALB",
+   "flagResource": "nationflags/Albania",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 165,
+      "g": 43,
+      "b": 43
+   },
+   "color": {
+      "r": 0.66,
+      "g": 0.17,
+      "b": 0.17,
+      "a": 0.05
+   },
    "aggregateNation": true,
    "initialGDP": 259512880000,
    "popGrowthModifier": -1,
@@ -7952,7 +8047,7 @@
    "inequality": 3.3,
    "democracy": 6.15,
    "education": 7.65,
-   "spaceFunding_year": 0,
+   "spaceFunding_year": 2,
    "miltech": 3.6,
    "nuclearWeapons": 0,
    "initSpaceIPs": 0,
