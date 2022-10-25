@@ -4058,8 +4058,8 @@
    "friendlyName": "Hungary",
    "dataName": "HUN",
    "flagResource": "nationflags/Hungary",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Hungary",
+   "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
       "r": 154,
@@ -8909,8 +8909,8 @@
    "friendlyName": "Ukraine",
    "dataName": "UKR",
    "flagResource": "nationflags/Ukraine",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Ukraine",
+   "unionTrigger": 6,
    "multiplier": 1.2,
    "color32": {
       "r": 0,
