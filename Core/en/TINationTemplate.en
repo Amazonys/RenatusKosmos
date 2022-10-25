@@ -294,10 +294,10 @@ TINationTemplate.displayName.KHM=Cambodia
 TINationTemplate.displayNameWithArticle.KHM=Cambodia
 TINationTemplate.nationAdjective.KHM=Cambodian
 TINationTemplate.displayNameWithArticlePrep.KHM=in Cambodia
-TINationTemplate.displayName.KOR=South Korea
-TINationTemplate.displayNameWithArticle.KOR=South Korea
+TINationTemplate.displayName.KOR=Republic of Korea
+TINationTemplate.displayNameWithArticle.KOR=the Republic of Korea
 TINationTemplate.nationAdjective.KOR=South Korean
-TINationTemplate.displayNameWithArticlePrep.KOR=in South Korea
+TINationTemplate.displayNameWithArticlePrep.KOR=in the Republic of Korea
 TINationTemplate.displayName.KRD=Kurdistan
 TINationTemplate.displayNameWithArticle.KRD=Kurdistan
 TINationTemplate.nationAdjective.KRD=Kurd
@@ -422,10 +422,10 @@ TINationTemplate.displayName.POL=Poland
 TINationTemplate.displayNameWithArticle.POL=Poland
 TINationTemplate.nationAdjective.POL=Polish
 TINationTemplate.displayNameWithArticlePrep.POL=in Poland
-TINationTemplate.displayName.PRK=North Korea
-TINationTemplate.displayNameWithArticle.PRK=North Korea
-TINationTemplate.nationAdjective.PRK=Korean
-TINationTemplate.displayNameWithArticlePrep.PRK=in North Korea
+TINationTemplate.displayName.PRK=People's Republic of Korea
+TINationTemplate.displayNameWithArticle.PRK=the People's Republic of Korea
+TINationTemplate.nationAdjective.PRK=North Korean
+TINationTemplate.displayNameWithArticlePrep.PRK=in the People's Republic of Korea
 TINationTemplate.displayName.PRT=Portugal
 TINationTemplate.displayNameWithArticle.PRT=Portugal
 TINationTemplate.nationAdjective.PRT=Portuguese
@@ -721,10 +721,10 @@ TINationTemplate.unionDisplayNameWithArticle.PER=the Peruvian Confederation
 TINationTemplate.unionAdjective.PER=Peruvian
 TINationTemplate.unionDisplayNameWithArticlePrep.PER=in the Peruvian Confederation
 
-TINationTemplate.unionDisplayName.PRK=People's Republic of Korea
-TINationTemplate.unionDisplayNameWithArticle.PRK=the People's Republic of Korea
+TINationTemplate.unionDisplayName.PRK=Greater Korean Republic
+TINationTemplate.unionDisplayNameWithArticle.PRK=the Greater Korean Republic
 TINationTemplate.unionAdjective.PRK=Korean
-TINationTemplate.unionDisplayNameWithArticlePrep.PRK=in the People's Republic of Korea
+TINationTemplate.unionDisplayNameWithArticlePrep.PRK=in the Greater Korean Republic
 
 TINationTemplate.unionDisplayName.JPN=Pacific Defense League
 TINationTemplate.unionDisplayNameWithArticle.JPN=the Pacific Defense League
@@ -736,10 +736,10 @@ TINationTemplate.unionDisplayNameWithArticle.KAZ=the Central Asian Union
 TINationTemplate.unionAdjective.KAZ=Central Asian
 TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=in the Central Asian Union
 
-TINationTemplate.unionDisplayName.KOR=Republic of Korea
-TINationTemplate.unionDisplayNameWithArticle.KOR=the Republic of Korea
+TINationTemplate.unionDisplayName.KOR=United Korean Republic
+TINationTemplate.unionDisplayNameWithArticle.KOR=the United Korean Republic
 TINationTemplate.unionAdjective.KOR=Korean
-TINationTemplate.unionDisplayNameWithArticlePrep.KOR=in the Republic of Korea
+TINationTemplate.unionDisplayNameWithArticlePrep.KOR=in the United Korean Republic
 
 TINationTemplate.unionDisplayName.TWN=Republic of China
 TINationTemplate.unionDisplayNameWithArticle.TWN=the Republic of China
@@ -756,10 +756,15 @@ TINationTemplate.unionDisplayNameWithArticle.THA=the Southeast Asian Alliance
 TINationTemplate.unionAdjective.THA=Southeast Asian
 TINationTemplate.unionDisplayNameWithArticlePrep.THA=in the Southeast Asian Alliance
 
-TINationTemplate.unionDisplayName.TUR=Turkestan
-TINationTemplate.unionDisplayNameWithArticle.TUR=Turkestan
-TINationTemplate.unionAdjective.TUR=Turkestani
-TINationTemplate.unionDisplayNameWithArticlePrep.TUR=in Turkestan
+TINationTemplate.unionDisplayName.TUR=Bosporus Coalition
+TINationTemplate.unionDisplayNameWithArticle.TUR=the Bosporus Coalition
+TINationTemplate.unionAdjective.TUR=Bosporan
+TINationTemplate.unionDisplayNameWithArticlePrep.TUR=in the Bosporus Coalition
+
+TINationTemplate.unionDisplayName.UZB=Turkestan
+TINationTemplate.unionDisplayNameWithArticle.UZB=Turkestan
+TINationTemplate.unionAdjective.UZB=Turkestani
+TINationTemplate.unionDisplayNameWithArticlePrep.UZB=in Turkestan
 
 TINationTemplate.unionDisplayName.GBR=British Commonwealth
 TINationTemplate.unionDisplayNameWithArticle.GBR=the British Commonwealth
@@ -980,7 +985,10 @@ TINationTemplate.unionDisplayNameWithArticle.UKR=Ukraine-Rus
 TINationTemplate.unionAdjective.UKR=Ukrainian
 TINationTemplate.unionDisplayNameWithArticlePrep.UKR=in Ukraine-Rus
 
-
+TINationTemplate.unionDisplayName.SWI=Swiss Confederacy
+TINationTemplate.unionDisplayNameWithArticle.SWI=the Swiss Confederacy
+TINationTemplate.unionAdjective.SWI=Swiss
+TINationTemplate.unionDisplayNameWithArticlePrep.SWI=in the Swiss Confederacy
 
 
 

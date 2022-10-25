@@ -2349,6 +2349,31 @@
    "completedIllustrationPath": "",
    "voiceoverPath": ""
 },
+{
+   "friendlyName": "Mission to Venusian Clouds",
+   "dataName": "MissiontoVenus",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": null,
+   "endGameTech": null,
+   "researchCost": 50000,
+   "prereqs": [
+      "MissiontotheInnerPlanets",
+      "NextGenerationAerospace",
+      ""
+   ],
+   "altPrereq0": "",
+   "year": "",
+   "effects": [
+      "Effect_ExploreVenus",
+      "",
+      "",
+      ""
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": "",
+   "voiceoverPath": ""
+},
  {
    "friendlyName": "Mission to the Moon",
    "dataName": "MissiontotheMoon",
@@ -2542,7 +2567,7 @@
    "effects": [
       "Effect_IncreaseMaxArmyTechLevel",
       "Effect_AdvancedAircraft",
-      "Effect_ExploreVenus",
+      "",
       ""
    ],
    "iconResource": "",

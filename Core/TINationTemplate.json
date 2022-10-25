@@ -785,8 +785,8 @@
    "friendlyName": "Switzerland",
    "dataName": "SWI",
    "flagResource": "nationflags/Switzerland",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Switzerland",
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 255,
@@ -8762,8 +8762,8 @@
    "friendlyName": "Turkey",
    "dataName": "TUR",
    "flagResource": "nationflags/Turkey",
-   "unionFlagResource": "nationflags/Turkestan",
-   "unionTrigger": 5,
+   "unionFlagResource": "nationflags/Turkey",
+   "unionTrigger": 6,
    "multiplier": 1,
    "color32": {
       "r": 178,
@@ -9252,8 +9252,8 @@
    "friendlyName": "Uzbekistan",
    "dataName": "UZB",
    "flagResource": "nationflags/Uzbekistan",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Turkestan",
+   "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
       "r": 255,
