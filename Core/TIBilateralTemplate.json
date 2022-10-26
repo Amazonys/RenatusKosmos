@@ -140,20 +140,6 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "FederationSCAEUAFed",
-   "relationType": "Federation",
-   "nation1": "SCA",
-   "nation2": "",
-   "federation": "EUAFed",
-   "region1": "",
-   "region2": "",
-   "projectUnlockName": "",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
    "dataName": "FederationESPEUAFed",
    "relationType": "Federation",
    "nation1": "ESP",
@@ -2464,20 +2450,6 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "AllianceUSACAN",
-   "relationType": "Alliance",
-   "nation1": "USA",
-   "nation2": "CAN",
-   "federation": "",
-   "region1": "",
-   "region2": "",
-   "projectUnlockName": "",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
    "dataName": "AllianceUSACOL",
    "relationType": "Alliance",
    "nation1": "USA",
@@ -2496,34 +2468,6 @@
    "relationType": "Alliance",
    "nation1": "USA",
    "nation2": "EGY",
-   "federation": "",
-   "region1": "",
-   "region2": "",
-   "projectUnlockName": "",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
-   "dataName": "AllianceUSAEUA",
-   "relationType": "Alliance",
-   "nation1": "USA",
-   "nation2": "EUA",
-   "federation": "",
-   "region1": "",
-   "region2": "",
-   "projectUnlockName": "",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
-   "dataName": "AllianceUSAGBR",
-   "relationType": "Alliance",
-   "nation1": "USA",
-   "nation2": "GBR",
    "federation": "",
    "region1": "",
    "region2": "",
@@ -2678,20 +2622,6 @@
    "relationType": "Alliance",
    "nation1": "USA",
    "nation2": "THA",
-   "federation": "",
-   "region1": "",
-   "region2": "",
-   "projectUnlockName": "",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
-   "dataName": "AllianceUSATUR",
-   "relationType": "Alliance",
-   "nation1": "USA",
-   "nation2": "TUR",
    "federation": "",
    "region1": "",
    "region2": "",
@@ -18550,20 +18480,6 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "RivalryCODUGA",
-   "relationType": "Rivalry",
-   "nation1": "COD",
-   "nation2": "UGA",
-   "federation": "",
-   "region1": "",
-   "region2": "",
-   "projectUnlockName": "",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
    "dataName": "RivalryISRPAL",
    "relationType": "Rivalry",
    "nation1": "ISR",
@@ -19096,12 +19012,12 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimCHNEasternSiberia",
+   "dataName": "ClaimCHNWesternSiberia",
    "relationType": "Claim",
    "nation1": "CHN",
    "nation2": "",
    "federation": "",
-   "region1": "EasternSiberia",
+   "region1": "WesternSiberia",
    "region2": "",
    "projectUnlockName": "Project_Pan-AsianCooperative",
    "capitalClaim": null,

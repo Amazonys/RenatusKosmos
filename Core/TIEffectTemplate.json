@@ -9849,6 +9849,48 @@
    ]
 },
  {
+   "dataName": "Effect_DummyTooltipInSituResourceUtilization1",
+   "instantEffect": "",
+   "operation": "",
+   "value": null,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "instant",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_DummyTooltipInSituResourceUtilization2",
+   "instantEffect": "",
+   "operation": "",
+   "value": null,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "instant",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "",
+      ""
+   ]
+},
+ {
    "dataName": "Effect_ShipDefectsToSecondary",
    "instantEffect": "ShipDefectsToSecondary",
    "operation": "",
