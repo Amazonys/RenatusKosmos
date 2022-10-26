@@ -1530,7 +1530,7 @@
    "RevisitNormal": "Y"
 },
  {
-   "dataName": "CharImage34",
+   "dataName": "CharImage229",
    "string": "M_EAS_06",
    "enable": true,
    "specific_person": null,
@@ -9765,7 +9765,7 @@
    "RevisitNormal": ""
 },
  {
-   "dataName": "CharImage191",
+   "dataName": "CharImage230",
    "string": "M_OCE_01",
    "enable": true,
    "specific_person": null,
@@ -11353,6 +11353,96 @@
    "iconOld": "charactericons/KS_991_Old_icon",
    "allowedGenders": [
       "Female",
+      ""
+   ],
+   "year": "",
+   "allowedAncestries": [
+      "",
+      ""
+   ],
+   "allowedJobNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "RevisitNormal": ""
+},
+ {
+   "dataName": "CharImage227",
+   "string": "KS_1170",
+   "enable": true,
+   "specific_person": true,
+   "notes": "KS_1170",
+   "idleVideoYoung": "charactervideos/KS_1170",
+   "idleVideoOld": "charactervideos/KS_1170_Old",
+   "portraitYoung": "characterportraits/KS_1170",
+   "portraitOld": "characterportraits/KS_1170_Old",
+   "iconYoung": "charactericons/KS_1170_icon",
+   "iconOld": "charactericons/KS_1170_Old_icon",
+   "allowedGenders": [
+      "Female",
+      ""
+   ],
+   "year": "",
+   "allowedAncestries": [
+      "",
+      ""
+   ],
+   "allowedJobNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "RevisitNormal": ""
+},
+ {
+   "dataName": "CharImage228",
+   "string": "KS_4482",
+   "enable": true,
+   "specific_person": true,
+   "notes": "KS_4482",
+   "idleVideoYoung": "charactervideos/KS_4482",
+   "idleVideoOld": "charactervideos/KS_4482_Old",
+   "portraitYoung": "characterportraits/KS_4482",
+   "portraitOld": "characterportraits/KS_4482_Old",
+   "iconYoung": "charactericons/KS_4482_icon",
+   "iconOld": "charactericons/KS_4482_Old_icon",
+   "allowedGenders": [
+      "Male",
       ""
    ],
    "year": "",

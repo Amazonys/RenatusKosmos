@@ -1242,7 +1242,7 @@ TINarrativeEventTemplate.event_LuckyStrike.option1.outcome1.Detail=It would have
 
 TINarrativeEventTemplate.displayName.event_DryHole=Dry Hole
 TINarrativeEventTemplate.event_DryHole.summary=Our mining crews at {targetHabName} are reporting bad news.
-TINarrativeEventTemplate.event_DryHole.query=It was entirely predictable, yet hearing that the very much finite deposits of valuable material at {targetHabSiteName} have been almost completely tapped out still brought dismay to our planners. We will do our best to mine any remaining reserves, but we should not expect much more output from {targetHabName}.
+TINarrativeEventTemplate.event_DryHole.query=It was entirely predictable, yet hearing that the very much finite deposits of valuable material at {targetHabSiteName} have been almost completely tapped out still brought dismay to our planners. We will do our best to mine any remaining reserves, but we should not expect much more output from {targetHabName}.<br/><br/>Research into methods of in-situ resource utilization can reduce the chances of this happening again.
 TINarrativeEventTemplate.event_DryHole.option0=All good things come to an end.
 TINarrativeEventTemplate.event_DryHole.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_DryHole.optionResult0=Mining output at {targetHabName} has sharply decreased.

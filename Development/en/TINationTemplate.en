@@ -927,6 +927,11 @@ TINationTemplate.displayNameWithArticle.SEG=Senegambia
 TINationTemplate.nationAdjective.SEG=Senegambian
 TINationTemplate.displayNameWithArticlePrep.SEG=in Senegambia
 
+TINationTemplate.unionDisplayName.SEG=West African Community
+TINationTemplate.unionDisplayNameWithArticle.SEG=the West African Community
+TINationTemplate.unionAdjective.SEG=West African
+TINationTemplate.unionDisplayNameWithArticlePrep.SEG=in the West African Community
+
 TINationTemplate.displayName.SLO=Slovakia
 TINationTemplate.displayNameWithArticle.SLO=Slovakia
 TINationTemplate.nationAdjective.SLO=Slovak

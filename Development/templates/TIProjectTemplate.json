@@ -7525,8 +7525,8 @@
    "altRequiredObjective0Name": "",
    "requiredMilestone": "",
    "effects": [
-      "",
-      "",
+      "Effect_DummyTooltipInSituResourceUtilization1",
+      "Effect_DummyTooltipInSituResourceUtilization2",
       ""
    ],
    "oneTimeGlobally": false,
@@ -10936,7 +10936,7 @@
    ],
    "altPrereq0": "Project_SettlementCore",
    "requiredObjectiveNames": [
-      ""
+      "BeginTheSearch"
    ],
    "altRequiredObjective0Name": "",
    "requiredMilestone": "",

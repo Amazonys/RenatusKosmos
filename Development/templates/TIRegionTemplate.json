@@ -7373,7 +7373,7 @@
    "population_Millions": 146.386,
    "resource": null,
    "oilResource": null,
-   "coreEco": null,
+   "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -9038,7 +9038,7 @@
    "dataName": "Vienna",
    "mapRegionName": "map_AlpineStates",
    "primaryCity": "Vienna",
-   "population_Millions": 17.903,
+   "population_Millions": 9.126,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -9046,6 +9046,284 @@
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": 49,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Austrian",
+      "German",
+      "Serbo-Croatian",
+      "Slovene"
+   ],
+   "eurFamily": [
+      "Austrian",
+      "German",
+      "Serbo-Croatian",
+      "Slovene"
+   ],
+   "eurWeight": [
+      60,
+      33,
+      4,
+      3
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Vienna_0",
+      "illustrations/illus_Vienna_1",
+      "illustrations/illus_Vienna_2",
+      "illustrations/illus_Vienna_3",
+      "illustrations/illus_Vienna_4",
+      "illustrations/illus_Vienna_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Austria"
+},
+ {
+   "dataName": "Bern",
+   "mapRegionName": "map_Switzerland",
+   "primaryCity": "Bern",
+   "population_Millions": 8.802,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": 19,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "EURO",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      2,
+      3,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "French",
+      "Italian",
+      "German",
+      "Albanian"
+   ],
+   "eurFamily": [
+      "French",
+      "Italian",
+      "German",
+      "Albanian"
+   ],
+   "eurWeight": [
+      77,
+      8,
+      12,
+      3
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Vienna_0",
+      "illustrations/illus_Vienna_1",
+      "illustrations/illus_Vienna_2",
+      "illustrations/illus_Vienna_3",
+      "illustrations/illus_Vienna_4",
+      "illustrations/illus_Vienna_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Liechtenstein, Switzerland"
+},
+ {
+   "dataName": "BalticStates",
+   "mapRegionName": "map_BalticStates",
+   "primaryCity": "Riga",
+   "population_Millions": 1.84,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
    "afr": null,
    "asi": null,
    "eas": null,
@@ -9056,7 +9334,7 @@
    "acc_afr": "",
    "acc_asi": "",
    "acc_eas": "",
-   "acc_eur": "EURO",
+   "acc_eur": "RUSN",
    "acc_his": "",
    "acc_oce": "",
    "afrPersonal": [
@@ -9114,22 +9392,22 @@
       null
    ],
    "eurPersonal": [
-      "Austrian",
-      "French",
-      "Italian",
-      "German"
+      "Polish",
+      "Latvian",
+      "Lithuanian",
+      "Russian"
    ],
    "eurFamily": [
-      "Austrian",
-      "French",
-      "Italian",
-      "German"
+      "Polish",
+      "Latvian",
+      "Lithuanian",
+      "Russian"
    ],
    "eurWeight": [
-      50,
-      10,
-      3,
-      3
+      2,
+      31,
+      1,
+      13
    ],
    "hisPersonal": [
       "",
@@ -9162,22 +9440,22 @@
       null
    ],
    "illustrationPathStrs": [
-      "illustrations/illus_Vienna_0",
-      "illustrations/illus_Vienna_1",
-      "illustrations/illus_Vienna_2",
-      "illustrations/illus_Vienna_3",
-      "illustrations/illus_Vienna_4",
-      "illustrations/illus_Vienna_5"
+      "illustrations/illus_BalticStates_0",
+      "illustrations/illus_BalticStates_1",
+      "illustrations/illus_BalticStates_2",
+      "illustrations/illus_BalticStates_3",
+      "illustrations/illus_BalticStates_4",
+      ""
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Liechtenstein, Austria, Switzerland"
+   "composedOf": "Latvia"
 },
- {
-   "dataName": "BalticStates",
-   "mapRegionName": "map_BalticStates",
-   "primaryCity": "Riga",
-   "population_Millions": 5.818,
+{
+   "dataName": "Estonia",
+   "mapRegionName": "map_Estonia",
+   "primaryCity": "Talinn",
+   "population_Millions": 1.329,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -9254,21 +9532,15 @@
    ],
    "eurPersonal": [
       "Estonian",
-      "Latvian",
-      "Lithuanian",
       "Russian"
    ],
    "eurFamily": [
       "Estonian",
-      "Latvian",
-      "Lithuanian",
       "Russian"
    ],
    "eurWeight": [
-      13,
-      20,
-      28,
-      2
+      35,
+      13
    ],
    "hisPersonal": [
       "",
@@ -9310,19 +9582,155 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Latvia, Lithuania, Estonia"
+   "composedOf": "Estonia"
+},
+{
+   "dataName": "Lithuania",
+   "mapRegionName": "map_Lithuania",
+   "primaryCity": "Vilnius",
+   "population_Millions": 2.638,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Polish",
+      "Lithuanian",
+      "Russian"
+   ],
+   "eurFamily": [
+      "Polish",
+      "Lithuanian",
+      "Russian"
+   ],
+   "eurWeight": [
+      4,
+      42,
+      4
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_BalticStates_0",
+      "illustrations/illus_BalticStates_1",
+      "illustrations/illus_BalticStates_2",
+      "illustrations/illus_BalticStates_3",
+      "illustrations/illus_BalticStates_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Lithuania"
 },
  {
    "dataName": "Benelux",
    "mapRegionName": "map_Benelux",
    "primaryCity": "Amsterdam",
-   "population_Millions": 29.546,
+   "population_Millions": 17.222,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
-   "missionControl": 1,
+   "missionControl": 0,
    "worldOcean": "Yes",
    "afr": 1,
    "asi": 1,
@@ -9331,46 +9739,46 @@
    "his": null,
    "oce": null,
    "language": "ENG",
-   "acc_afr": "EURO",
+   "acc_afr": "",
    "acc_asi": "EURO",
    "acc_eas": "",
    "acc_eur": "EURO",
    "acc_his": "",
    "acc_oce": "",
    "afrPersonal": [
-      "Belgian",
-      "Dutch",
-      "Belgian",
+      "",
+      "",
+      "",
       ""
    ],
    "afrFamily": [
-      "Congolese",
-      "Dutch",
-      "Belgian",
+      "",
+      "",
+      "",
       ""
    ],
    "afrWeight": [
-      1,
-      1,
-      1,
+      null,
+      null,
+      null,
       null
    ],
    "asiPersonal": [
       "Turkish",
       "Dutch",
-      "Belgian",
+      "",
       ""
    ],
    "asiFamily": [
       "Turkish",
       "Indonesian",
-      "Berber",
+      "",
       ""
    ],
    "asiWeight": [
       1,
       1,
-      1,
+      null,
       null
    ],
    "easPersonal": [
@@ -9393,19 +9801,19 @@
    ],
    "eurPersonal": [
       "Dutch",
-      "Belgian",
+      "",
       "",
       ""
    ],
    "eurFamily": [
       "Dutch",
-      "Belgian",
+      "",
       "",
       ""
    ],
    "eurWeight": [
-      17,
-      11,
+      1,
+      null,
       null,
       null
    ],
@@ -9449,7 +9857,146 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Belgium, Netherlands, Luxembourg"
+   "composedOf": "Netherlands"
+},
+{
+   "dataName": "Belgium",
+   "mapRegionName": "map_Belgium",
+   "primaryCity": "Brussels",
+   "population_Millions": 12.356,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "Yes",
+   "afr": 2,
+   "asi": 6,
+   "eas": null,
+   "eur": 92,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Belgian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Berber",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Berber",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      2,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Dutch",
+      "Belgian",
+      "French",
+      ""
+   ],
+   "eurFamily": [
+      "Dutch",
+      "Belgian",
+      "French",
+      ""
+   ],
+   "eurWeight": [
+      19,
+      11,
+      7,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Benelux_0",
+      "illustrations/illus_Benelux_1",
+      "illustrations/illus_Benelux_2",
+      "illustrations/illus_Benelux_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Belgium, Luxembourg"
 },
  {
    "dataName": "EastGermany",
@@ -10289,13 +10836,13 @@
    "dataName": "France",
    "mapRegionName": "map_France",
    "primaryCity": "Paris",
-   "population_Millions": 41.949,
+   "population_Millions": 32.177,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
-   "missionControl": 0,
+   "missionControl": 1,
    "worldOcean": "Yes",
    "afr": 3,
    "asi": 2,
@@ -10422,19 +10969,158 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Nod Pas de Calais, Picardy, Champagne, Lorraine, Alsace, Franche Comte, Burgundy, Centre Val de Loire, Champagne, Paris, Normandy, Brittany, Pays de la Loire, Poitou Charentaes"
+   "composedOf": ""
 },
- {
-   "dataName": "Lyon",
-   "mapRegionName": "map_Lyon",
-   "primaryCity": "Lyon",
-   "population_Millions": 23.801,
+{
+   "dataName": "NordEst",
+   "mapRegionName": "map_NordEst",
+   "primaryCity": "Strasbourg",
+   "population_Millions": 8.362,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
-   "missionControl": 1,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 3,
+   "asi": 2,
+   "eas": null,
+   "eur": 94,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Akan",
+      "French",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber",
+      ""
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "French",
+      "French",
+      ""
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese",
+      ""
+   ],
+   "hisWeight": [
+      33,
+      33,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_France_0",
+      "illustrations/illus_France_1",
+      "illustrations/illus_France_2",
+      "illustrations/illus_France_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Lyon",
+   "mapRegionName": "map_Lyon",
+   "primaryCity": "Lyon",
+   "population_Millions": 16.349,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
    "worldOcean": "Yes",
    "afr": 3,
    "asi": 2,
@@ -10561,7 +11247,146 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Andorra, Monaco, Aquitaine, Midi-Pyrenees, Limousin, Auvergne, Rhone Alpes, Provence Alpes, Languedoc-R, Corsica"
+   "composedOf": ""
+},
+{
+   "dataName": "Bordeaux",
+   "mapRegionName": "map_Bordeaux",
+   "primaryCity": "Bordeaux",
+   "population_Millions": 8.718,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 3,
+   "asi": 2,
+   "eas": null,
+   "eur": 94,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Akan",
+      "French",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber",
+      ""
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "French",
+      "French",
+      ""
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese",
+      ""
+   ],
+   "hisWeight": [
+      33,
+      33,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lyon_0",
+      "illustrations/illus_Lyon_1",
+      "illustrations/illus_Lyon_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Finland",
@@ -10705,15 +11530,293 @@
  {
    "dataName": "Germany",
    "mapRegionName": "map_Germany",
-   "primaryCity": "Hamburg",
-   "population_Millions": 69.72,
+   "primaryCity": "Cologne",
+   "population_Millions": 29.18,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 1,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": 19,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Germany_0",
+      "illustrations/illus_Germany_1",
+      "illustrations/illus_Germany_2",
+      "illustrations/illus_Germany_3",
+      "illustrations/illus_Germany_4",
+      "illustrations/illus_Germany_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "West German Provinces"
+},
+ {
+   "dataName": "NorthGermany",
+   "mapRegionName": "map_NorthGermany",
+   "primaryCity": "Hamburg",
+   "population_Millions": 17.12,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
    "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": 19,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "German",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Germany_0",
+      "illustrations/illus_Germany_1",
+      "illustrations/illus_Germany_2",
+      "illustrations/illus_Germany_3",
+      "illustrations/illus_Germany_4",
+      "illustrations/illus_Germany_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "West German Provinces"
+},
+ {
+   "dataName": "SouthGermany",
+   "mapRegionName": "map_SouthGermany",
+   "primaryCity": "Munich",
+   "population_Millions": 23.42,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "No",
    "afr": null,
    "asi": 1,
    "eas": null,
@@ -11261,11 +12364,150 @@
  {
    "dataName": "Italy",
    "mapRegionName": "map_Italy",
-   "primaryCity": "Rome",
-   "population_Millions": 37.8,
+   "primaryCity": "Milan",
+   "population_Millions": 27.782,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": 1,
+   "eas": null,
+   "eur": 52,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Italian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Ethiopian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Italian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Italian",
+      "Romanian",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Italian",
+      "Romanian",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      50,
+      1,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Italy_0",
+      "illustrations/illus_Italy_1",
+      "illustrations/illus_Italy_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Italy"
+},
+{
+   "dataName": "CentralItaly",
+   "mapRegionName": "map_CentralItaly",
+   "primaryCity": "Rome",
+   "population_Millions": 12.018,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -11679,10 +12921,288 @@
    "dataName": "Poland",
    "mapRegionName": "map_Poland",
    "primaryCity": "Warsaw",
-   "population_Millions": 37.723,
+   "population_Millions": 19.667,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Polish",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Polish",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Poland_0",
+      "illustrations/illus_Poland_1",
+      "illustrations/illus_Poland_2",
+      "illustrations/illus_Poland_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Wroclaw",
+   "mapRegionName": "map_Wroclaw",
+   "primaryCity": "Wroclaw",
+   "population_Millions": 8.36,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Polish",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Polish",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Poland_0",
+      "illustrations/illus_Poland_1",
+      "illustrations/illus_Poland_2",
+      "illustrations/illus_Poland_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Gdansk",
+   "mapRegionName": "map_Gdansk",
+   "primaryCity": "Gdansk",
+   "population_Millions": 12.017,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -11960,7 +13480,7 @@
    "population_Millions": 26.505,
    "resource": null,
    "oilResource": null,
-   "coreEco": true,
+   "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -12099,7 +13619,7 @@
    "population_Millions": 10.237,
    "resource": null,
    "oilResource": null,
-   "coreEco": true,
+   "coreEco": null,
    "environment": "Beneficiary",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -24467,7 +25987,7 @@
    "dataName": "Kharkiv",
    "mapRegionName": "map_Kharkiv",
    "primaryCity": "Kharkiv",
-   "population_Millions": 15.889,
+   "population_Millions": 18.997,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -24606,7 +26126,146 @@
    "dataName": "Kiev",
    "mapRegionName": "map_Kiev",
    "primaryCity": "Kiev",
-   "population_Millions": 22.538,
+   "population_Millions": 9.974,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Ukrainian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Ukrainian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Kiev_0",
+      "illustrations/illus_Kiev_1",
+      "illustrations/illus_Kiev_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Everything east of the Dnieper River"
+},
+{
+   "dataName": "Lwow",
+   "mapRegionName": "map_Lwow",
+   "primaryCity": "Lviv",
+   "population_Millions": 12.259,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -26968,11 +28627,11 @@
  {
    "dataName": "Texas",
    "mapRegionName": "map_Texas",
-   "primaryCity": "Dallas",
+   "primaryCity": "Houston",
    "population_Millions": 38.859,
    "resource": true,
    "oilResource": true,
-   "coreEco": null,
+   "coreEco": true,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 3,
@@ -29749,7 +31408,146 @@
    "dataName": "Sarajevo",
    "mapRegionName": "map_NorthwestBalkans",
    "primaryCity": "Sarajevo",
-   "population_Millions": 9.376,
+   "population_Millions": 3.235,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Serbo-Croatian",
+      "Bosnian",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Serbo-Croatian",
+      "Bosnian",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      25,
+      25,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Sarajevo_0",
+      "illustrations/illus_Sarajevo_1",
+      "illustrations/illus_Sarajevo_2",
+      "illustrations/illus_Sarajevo_3",
+      "illustrations/illus_Sarajevo_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Bosnia-Herzegovina"
+},
+{
+   "dataName": "Croatia",
+   "mapRegionName": "map_Croatia",
+   "primaryCity": "Zagreb",
+   "population_Millions": 6.128,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -29837,9 +31635,9 @@
       ""
    ],
    "eurWeight": [
-      8,
-      7,
-      4,
+      36,
+      2,
+      24,
       null
    ],
    "hisPersonal": [
@@ -29882,13 +31680,149 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Bosnia-Herzegovina, Croatia, Slovenia"
+   "composedOf": "Croatia, Slovenia"
 },
  {
    "dataName": "Belgrade",
    "mapRegionName": "map_SouthwestBalkans",
    "primaryCity": "Belgrade",
-   "population_Millions": 14.212,
+   "population_Millions": 6.784,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Serbo-Croatian",
+      "Hungarian",
+      "Bosnian"
+   ],
+   "eurFamily": [
+      "Serbo-Croatian",
+      "Hungarian",
+      "Bosnian"
+   ],
+   "eurWeight": [
+      47,
+      2,
+      1
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Belgrade_0",
+      "illustrations/illus_Belgrade_1",
+      "illustrations/illus_Belgrade_2",
+      "illustrations/illus_Belgrade_3",
+      "illustrations/illus_Belgrade_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Serbia"
+},
+{
+   "dataName": "Albania",
+   "mapRegionName": "map_Albania",
+   "primaryCity": "Tirana",
+   "population_Millions": 7.455,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -29967,20 +31901,24 @@
       "Serbo-Croatian",
       "Albanian",
       "Macedonian",
-      "Bosnian"
+      "Bosnian",
+      "Greek"
    ],
    "eurFamily": [
       "Serbo-Croatian",
       "Albanian",
       "Macedonian",
-      "Bosnian"
+      "Bosnian",
+      "Greek"
    ],
    "eurWeight": [
-      7,
-      5,
-      2,
+      21,
+      31,
+      20,
+      4,
       1
    ],
+   
    "hisPersonal": [
       "",
       "",
@@ -30021,7 +31959,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Serbia, Kosovo, Macedonia, Albania, Montenegro"
+   "composedOf": "Albania, Montenegro, Macedonia"
 },
  {
    "dataName": "Greece",
@@ -30166,7 +32104,7 @@
    "dataName": "Romania",
    "mapRegionName": "map_Romania",
    "primaryCity": "Bucharest",
-   "population_Millions": 23.013,
+   "population_Millions": 12.224,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -30299,7 +32237,285 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Romania, Moldova"
+   "composedOf": "Romania"
+},
+{
+   "dataName": "Transylvania",
+   "mapRegionName": "map_Transylvania",
+   "primaryCity": "Cluj-Napoca",
+   "population_Millions": 6.789,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Romania_0",
+      "illustrations/illus_Romania_1",
+      "illustrations/illus_Romania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Romania"
+},
+{
+   "dataName": "Moldova",
+   "mapRegionName": "map_Moldova",
+   "primaryCity": "Chisinau",
+   "population_Millions": 4.013,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Romanian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Romania_0",
+      "illustrations/illus_Romania_1",
+      "illustrations/illus_Romania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Moldova"
 },
  {
    "dataName": "Bulgaria",
@@ -30861,7 +33077,7 @@
    "dataName": "Novgorod",
    "mapRegionName": "map_Novgorod",
    "primaryCity": "St. Petersburg",
-   "population_Millions": 11.762,
+   "population_Millions": 10.734,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -30995,6 +33211,145 @@
    "occupyingNation": "",
    "occupationValue": 0,
    "composedOf": "Rest of Northwestern Federal Distrcit EXCEPT:"
+},
+{
+   "dataName": "Kaliningrad",
+   "mapRegionName": "map_Kaliningrad",
+   "primaryCity": "Kaliningrad",
+   "population_Millions": 1.028,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 75,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Novgorod_0",
+      "illustrations/illus_Novgorod_1",
+      "illustrations/illus_Novgorod_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Karelia",

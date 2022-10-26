@@ -119,6 +119,7 @@ UI.Options.KeybindFleetBalanced=Fleet Balanced Posture
 UI.Options.KeybindFleetDefensive=Fleet Defensive Posture
 UI.Options.KeybindFleetFortify=Fleet Fortify Posture
 UI.Options.KeybindWaypointHeight=Adjust Waypoint Height
+UI.Options.KeybindWaypointLateral=Adjust Waypoint Laterally
 UI.Options.KeybindWaypointBurn=Adjust Waypoint Burn
 UI.Options.KeybindWaypointRotateX=Adjust Waypoint Yaw (X Rotation)
 UI.Options.KeybindWaypointRotateY=Adjust Waypoint Pitch (Y Rotation)

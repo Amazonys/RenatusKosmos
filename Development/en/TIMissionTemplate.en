@@ -227,7 +227,7 @@ TIMissionTemplate.description.Stabilize=Reduce unrest in the target nation, impr
 TIMissionTemplate.CriticalSuccess.Stabilize=We have significantly reduced unrest {targetNationNameWithPrep} by {returnedValue} to {targetNationUnrestWithString}.
 TIMissionTemplate.Success.Stabilize=We have reduced unrest {targetNationNameWithPrep} by {returnedValue} to {targetNationUnrestWithString}.
 TIMissionTemplate.Failure.Stabilize=I have failed in my mission to reduce the unrest {targetNationNameWithPrep}.
-TIMissionTemplate.CriticalFailure.Stabilize=My efforts to reduce unrest {targetNationNameWithPrep} have been a disaster and the nation is increasingly divided, losing {returnedValue} cohesion.
+TIMissionTemplate.CriticalFailure.Stabilize=My efforts to reduce unrest {targetNationNameWithPrep} have been a disaster and the nation is increasingly divided, gaining {returnedValue} unrest.
 
 TIMissionTemplate.displayName.StealProject=Steal Project
 TIMissionTemplate.description.StealProject=Steal an engineering project from an enemy faction by targeting one of their councilors or habs with an engineering module. We may also acquire <color=#FFFFFFFF><sprite name="research"></color> if the enemy faction is ahead of us in its research income.
