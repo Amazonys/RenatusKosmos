@@ -252,6 +252,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "FederationCYPEUAFed",
+   "relationType": "Federation",
+   "nation1": "CYP",
+   "nation2": "",
+   "federation": "EUAFed",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "FederationCZEEUAFed",
    "relationType": "Federation",
    "nation1": "CZE",
@@ -658,6 +672,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceUSACYP",
+   "relationType": "Alliance",
+   "nation1": "USA",
+   "nation2": "CYP",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceUSACZE",
    "relationType": "Alliance",
    "nation1": "USA",
@@ -994,6 +1022,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceCANCYP",
+   "relationType": "Alliance",
+   "nation1": "CAN",
+   "nation2": "CYP",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceCANCZE",
    "relationType": "Alliance",
    "nation1": "CAN",
@@ -1316,6 +1358,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceGBRCYP",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "CYP",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceGBRCZE",
    "relationType": "Alliance",
    "nation1": "GBR",
@@ -1624,6 +1680,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceISLCYP",
+   "relationType": "Alliance",
+   "nation1": "ISL",
+   "nation2": "CYP",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceISLCZE",
    "relationType": "Alliance",
    "nation1": "ISL",
@@ -1918,6 +1988,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceNORCYP",
+   "relationType": "Alliance",
+   "nation1": "NOR",
+   "nation2": "CYP",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceNORCZE",
    "relationType": "Alliance",
    "nation1": "NOR",
@@ -2188,6 +2272,20 @@
    "relationType": "Alliance",
    "nation1": "TUR",
    "nation2": "GRE",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "AllianceTURCYP",
+   "relationType": "Alliance",
+   "nation1": "TUR",
+   "nation2": "CYP",
    "federation": "",
    "region1": "",
    "region2": "",
@@ -6818,6 +6916,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimEUACyprus",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "nation2": "",
+   "federation": "",
+   "region1": "Cyprus",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimEUARomania",
    "relationType": "Claim",
    "nation1": "EUA",
@@ -10716,6 +10828,20 @@
    "nation2": "",
    "federation": "",
    "region1": "Greece",
+   "region2": "",
+   "projectUnlockName": "Project_ForwardRussia",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimRUSCyprus",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Cyprus",
    "region2": "",
    "projectUnlockName": "Project_ForwardRussia",
    "capitalClaim": null,
@@ -22456,6 +22582,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimALNCyprus",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "nation2": "",
+   "federation": "",
+   "region1": "Cyprus",
+   "region2": "",
+   "projectUnlockName": "Project_AlienMasterProject",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimALNRomania",
    "relationType": "Claim",
    "nation1": "ALN",
@@ -23058,12 +23198,68 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimCYPCyprus",
+   "relationType": "Claim",
+   "nation1": "CYP",
+   "nation2": "",
+   "federation": "",
+   "region1": "Cyprus",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": true,
+   "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimTURCyprus",
+   "relationType": "Claim",
+   "nation1": "TUR",
+   "nation2": "",
+   "federation": "",
+   "region1": "Cyprus",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimGRECyprus",
+   "relationType": "Claim",
+   "nation1": "GRE",
+   "nation2": "",
+   "federation": "",
+   "region1": "Cyprus",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimROMRomania",
    "relationType": "Claim",
    "nation1": "ROM",
    "nation2": "",
    "federation": "",
    "region1": "Romania",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": true,
+   "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimMLVMoldova",
+   "relationType": "Claim",
+   "nation1": "MLV",
+   "nation2": "",
+   "federation": "",
+   "region1": "Moldova",
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": true,
@@ -23081,7 +23277,7 @@
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": null,
-   "initialOwner": true,
+   "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
  },

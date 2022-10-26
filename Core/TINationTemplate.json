@@ -1528,14 +1528,14 @@
       "a": 0.05
    },
    "aggregateNation": null,
-   "initialGDP": 1766991600000,
+   "initialGDP": 1226656000000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
    "cohesion": 5,
    "unrest": 1,
-   "inequality": 2.85,
-   "democracy": 8.33,
-   "education": 9.07,
+   "inequality": 2.92,
+   "democracy": 8.88,
+   "education": 9.14,
    "spaceFunding_year": 24,
    "miltech": 4,
    "nuclearWeapons": 0,
@@ -3707,7 +3707,6 @@
    ],
    "ISOCodes": [
       "GRC",
-      "CYP",
       ""
    ]
 },
@@ -3734,7 +3733,7 @@
    "popGrowthModifier": -0.5,
    "initialFactionStr": "",
    "cohesion": 3,
-   "unrest": 7,
+   "unrest": 6,
    "inequality": 3.12,
    "democracy": 7.43,
    "education": 8.27,
