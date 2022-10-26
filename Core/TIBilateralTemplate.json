@@ -714,6 +714,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceUSAALB",
+   "relationType": "Alliance",
+   "nation1": "USA",
+   "nation2": "ALB",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceUSASCA",
    "relationType": "Alliance",
    "nation1": "USA",
@@ -1036,6 +1050,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceCANALB",
+   "relationType": "Alliance",
+   "nation1": "CAN",
+   "nation2": "ALB",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceCANSCA",
    "relationType": "Alliance",
    "nation1": "CAN",
@@ -1344,6 +1372,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceGBRALB",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "ALB",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceGBRSCA",
    "relationType": "Alliance",
    "nation1": "GBR",
@@ -1638,6 +1680,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceISLALB",
+   "relationType": "Alliance",
+   "nation1": "ISL",
+   "nation2": "ALB",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceISLSCA",
    "relationType": "Alliance",
    "nation1": "ISL",
@@ -1918,6 +1974,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "AllianceNORALB",
+   "relationType": "Alliance",
+   "nation1": "NOR",
+   "nation2": "ALB",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "AllianceNORSCA",
    "relationType": "Alliance",
    "nation1": "NOR",
@@ -2174,6 +2244,20 @@
    "relationType": "Alliance",
    "nation1": "TUR",
    "nation2": "CRO",
+   "federation": "",
+   "region1": "",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "AllianceTURALB",
+   "relationType": "Alliance",
+   "nation1": "TUR",
+   "nation2": "ALB",
    "federation": "",
    "region1": "",
    "region2": "",
@@ -22840,6 +22924,20 @@
    "nation2": "",
    "federation": "",
    "region1": "Albania",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimSBKCroatia",
+   "relationType": "Claim",
+   "nation1": "SBK",
+   "nation2": "",
+   "federation": "",
+   "region1": "Croatia",
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": null,

@@ -9181,7 +9181,7 @@
    "resource": null,
    "oilResource": null,
    "coreEco": null,
-   "environment": "Vulnerable",
+   "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",

@@ -38,10 +38,18 @@ TINationTemplate.displayName.AUS=Australia
 TINationTemplate.displayNameWithArticle.AUS=Australia
 TINationTemplate.nationAdjective.AUS=Australian
 TINationTemplate.displayNameWithArticlePrep.AUS=in Australia
-TINationTemplate.displayName.BAS=Baltic States
-TINationTemplate.displayNameWithArticle.BAS=the Baltic States
-TINationTemplate.nationAdjective.BAS=Baltic
-TINationTemplate.displayNameWithArticlePrep.BAS=in the Baltic States
+TINationTemplate.displayName.EST=Estonia
+TINationTemplate.displayNameWithArticle.EST=Estonia
+TINationTemplate.nationAdjective.EST=Estonian
+TINationTemplate.displayNameWithArticlePrep.EST=in Estonia
+TINationTemplate.displayName.BAS=Latvia
+TINationTemplate.displayNameWithArticle.BAS=Latvia
+TINationTemplate.nationAdjective.BAS=Latvian
+TINationTemplate.displayNameWithArticlePrep.BAS=in Latvia
+TINationTemplate.displayName.LTH=Lithuania
+TINationTemplate.displayNameWithArticle.LTH=Lithuania
+TINationTemplate.nationAdjective.LTH=Lithuanian
+TINationTemplate.displayNameWithArticlePrep.LTH=in Lithuania
 TINationTemplate.displayName.BCH=Balochistan
 TINationTemplate.displayNameWithArticle.BCH=Balochistan
 TINationTemplate.nationAdjective.BCH=Balochi
@@ -915,6 +923,11 @@ TINationTemplate.displayNameWithArticle.NBK=Bosnia and Herzegovina
 TINationTemplate.nationAdjective.NBK=Bosnian
 TINationTemplate.displayNameWithArticlePrep.NBK=in Bosnia and Herzegovina
 
+TINationTemplate.displayName.CRO=Krajina
+TINationTemplate.displayNameWithArticle.CRO=Krajina
+TINationTemplate.nationAdjective.CRO=Krajina
+TINationTemplate.displayNameWithArticlePrep.CRO=in Krajina
+
 TINationTemplate.displayName.PAN=Panama
 TINationTemplate.displayNameWithArticle.PAN=Panama
 TINationTemplate.nationAdjective.PAN=Panamanian
@@ -959,6 +972,11 @@ TINationTemplate.unionDisplayName.SBK=Yugoslavia
 TINationTemplate.unionDisplayNameWithArticle.SBK=Yugoslavia
 TINationTemplate.unionAdjective.SBK=Yugoslav
 TINationTemplate.unionDisplayNameWithArticlePrep.SBK=in Yugoslavia
+
+TINationTemplate.displayName.ALB=Dinaretia
+TINationTemplate.displayNameWithArticle.CRO=Dinaretia
+TINationTemplate.nationAdjective.CRO=Dinaric
+TINationTemplate.displayNameWithArticlePrep.CRO=in Dinaretia
 
 TINationTemplate.displayName.SUR=Suriname
 TINationTemplate.displayNameWithArticle.SUR=Suriname

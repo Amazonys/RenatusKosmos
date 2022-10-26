@@ -2206,7 +2206,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "MissiontotheAsteroids",
       "",
@@ -2356,7 +2356,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 50000,
+   "researchCost": 20000,
    "prereqs": [
       "MissiontotheInnerPlanets",
       "NextGenerationAerospace",
