@@ -417,8 +417,17 @@
    "dataName": "map_Anatolia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "latitude": 39.25,
-   "longitude": 35.57,
+   "latitude": 39.82,
+   "longitude": 32.94,
+   "boostLatitude": 40,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Samsun",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "latitude": 41.31,
+   "longitude": 36.26,
    "boostLatitude": 40,
    "smallRegion": null
  },
@@ -570,8 +579,17 @@
    "dataName": "map_Istanbul",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 39.25,
-   "longitude": 27.79,
+   "latitude": 41.07,
+   "longitude": 28.92,
+   "boostLatitude": 40,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Izmir",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 38.46,
+   "longitude": 27.18,
    "boostLatitude": 40,
    "smallRegion": null
  },
@@ -1287,6 +1305,15 @@
    "smallRegion": true
  },
  {
+   "dataName": "map_Cyprus",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 35.18,
+   "longitude": 33.45,
+   "boostLatitude": 35,
+   "smallRegion": true
+ },
+ {
    "dataName": "map_Greenland",
    "terrain": "Rugged",
    "supraRegion": "Europe",
@@ -1724,6 +1751,15 @@
    "supraRegion": "NorthAmerica",
    "latitude": 48.85,
    "longitude": 2.35,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Brittany",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 48.09,
+   "longitude": -1.73,
    "boostLatitude": 50,
    "smallRegion": true
  },

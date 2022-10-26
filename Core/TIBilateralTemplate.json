@@ -7014,6 +7014,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimFRABrittany",
+   "relationType": "Claim",
+   "nation1": "FRA",
+   "nation2": "",
+   "federation": "",
+   "region1": "Brittany",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimFRANordEst",
    "relationType": "Claim",
    "nation1": "FRA",
@@ -7062,6 +7076,20 @@
    "nation2": "",
    "federation": "",
    "region1": "France",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimEUABrittany",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "nation2": "",
+   "federation": "",
+   "region1": "Brittany",
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": null,
@@ -10878,6 +10906,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimRUSBrittany",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Brittany",
+   "region2": "",
+   "projectUnlockName": "Project_ForwardRussia",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimRUSSpain",
    "relationType": "Claim",
    "nation1": "RUS",
@@ -14406,6 +14448,34 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "PhysicalAdjacencyFranceBrittany",
+   "relationType": "PhysicalAdjacency",
+   "nation1": "",
+   "nation2": "",
+   "federation": "",
+   "region1": "France",
+   "region2": "Brittany",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "PhysicalAdjacencyBordeauxBrittany",
+   "relationType": "PhysicalAdjacency",
+   "nation1": "",
+   "nation2": "",
+   "federation": "",
+   "region1": "Bordeaux",
+   "region2": "Brittany",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "PhysicalAdjacencyFranceBelgium",
    "relationType": "PhysicalAdjacency",
    "nation1": "",
@@ -14446,7 +14516,7 @@
    "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
- }
+ },
  {
    "dataName": "PhysicalAdjacencyNordEstGermany",
    "relationType": "PhysicalAdjacency",
@@ -20236,6 +20306,20 @@
    "nation2": "",
    "federation": "",
    "region1": "France",
+   "region2": "",
+   "projectUnlockName": "Project_AlienMasterProject",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimALNBrittany",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "nation2": "",
+   "federation": "",
+   "region1": "Brittany",
    "region2": "",
    "projectUnlockName": "Project_AlienMasterProject",
    "capitalClaim": null,

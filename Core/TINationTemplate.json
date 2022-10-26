@@ -3681,14 +3681,14 @@
       "a": 0.05
    },
    "aggregateNation": null,
-   "initialGDP": 371795600000,
+   "initialGDP": 387801000000,
    "popGrowthModifier": -0.5,
    "initialFactionStr": "",
    "cohesion": 4,
    "unrest": 2,
-   "inequality": 3.29,
-   "democracy": 7.55,
-   "education": 8.47,
+   "inequality": 3.31,
+   "democracy": 7.56,
+   "education": 8.49,
    "spaceFunding_year": 2,
    "miltech": 3.8,
    "nuclearWeapons": 0,
@@ -3709,6 +3709,53 @@
       "GRC",
       "CYP",
       ""
+   ]
+},
+{
+   "friendlyName": "Cyprus",
+   "dataName": "CYP",
+   "flagResource": "nationflags/Cyprus",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 16,
+      "g": 118,
+      "b": 220
+   },
+   "color": {
+      "r": 0.06,
+      "g": 0.46,
+      "b": 0.86,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": 44762000000,
+   "popGrowthModifier": -0.5,
+   "initialFactionStr": "",
+   "cohesion": 3,
+   "unrest": 7,
+   "inequality": 3.12,
+   "democracy": 7.43,
+   "education": 8.27,
+   "spaceFunding_year": 0,
+   "miltech": 3.7,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Socialist",
+      "Populist",
+      "Modernization",
+      "Socialist",
+      "Centrist",
+      "Populist"
+   ],
+   "ISOCodes": [
+      "CYP"
    ]
 },
  {
@@ -7157,18 +7204,18 @@
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 660202400000,
-   "popGrowthModifier": -1,
+   "initialGDP": 731466000000,
+   "popGrowthModifier": -0.5,
    "initialFactionStr": "",
    "cohesion": 6,
    "unrest": 1,
-   "inequality": 3.33,
-   "democracy": 6.37,
-   "education": 7.56,
-   "spaceFunding_year": 2,
+   "inequality": 3.48,
+   "democracy": 6.43,
+   "education": 7.65,
+   "spaceFunding_year": 31,
    "miltech": 3.7,
    "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
+   "initSpaceIPs": 5,
    "nuclearProgramIPs": 0,
    "buildNukeIPs": 0,
    "buildArmyIPs": 0,
@@ -7184,6 +7231,53 @@
    "ISOCodes": [
       "ROU",
       "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Moldova",
+   "dataName": "MLV",
+   "flagResource": "nationflags/Moldova",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 252,
+      "g": 209,
+      "b": 122
+   },
+   "color": {
+      "r": 0.99,
+      "g": 0.82,
+      "b": 0.48,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 41882000000,
+   "popGrowthModifier": -1,
+   "initialFactionStr": "",
+   "cohesion": 4,
+   "unrest": 6,
+   "inequality": 2.6,
+   "democracy": 6.1,
+   "education": 7.11,
+   "spaceFunding_year": 4,
+   "miltech": 3.6,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Conservative",
+      "Populist",
+      "Digitalization",
+      "Liberal",
+      "Conservative",
+      "Industrialization"
+   ],
+   "ISOCodes": [
       ""
    ]
 },

@@ -10836,13 +10836,152 @@
    "dataName": "France",
    "mapRegionName": "map_France",
    "primaryCity": "Paris",
-   "population_Millions": 32.177,
+   "population_Millions": 26.707,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 1,
+   "worldOcean": "Yes",
+   "afr": 3,
+   "asi": 2,
+   "eas": null,
+   "eur": 94,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Akan",
+      "French",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber",
+      ""
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "French",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "French",
+      "French",
+      ""
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese",
+      ""
+   ],
+   "hisWeight": [
+      33,
+      33,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_France_0",
+      "illustrations/illus_France_1",
+      "illustrations/illus_France_2",
+      "illustrations/illus_France_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Brittany",
+   "mapRegionName": "map_Brittany",
+   "primaryCity": "Rennes",
+   "population_Millions": 4.784,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
    "worldOcean": "Yes",
    "afr": 3,
    "asi": 2,
@@ -11253,7 +11392,7 @@
    "dataName": "Bordeaux",
    "mapRegionName": "map_Bordeaux",
    "primaryCity": "Bordeaux",
-   "population_Millions": 8.718,
+   "population_Millions": 9.403,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -31965,7 +32104,7 @@
    "dataName": "Greece",
    "mapRegionName": "map_Greece",
    "primaryCity": "Athens",
-   "population_Millions": 11.526,
+   "population_Millions": 10.306,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -32053,7 +32192,146 @@
       ""
    ],
    "eurWeight": [
-      66,
+      49,
+      1,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Greece_0",
+      "illustrations/illus_Greece_1",
+      "illustrations/illus_Greece_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Cyprus",
+   "mapRegionName": "map_Cyprus",
+   "primaryCity": "Nicosia",
+   "population_Millions": 1.228,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "EURO",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Greek",
+      "Turkish",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Greek",
+      "Turkish",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      3,
       1,
       null,
       null
