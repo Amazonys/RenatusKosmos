@@ -16674,7 +16674,7 @@
    "dataName": "Tehran",
    "mapRegionName": "map_Tehran",
    "primaryCity": "Tehran",
-   "population_Millions": 24.712,
+   "population_Millions": 31.484,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -16810,10 +16810,10 @@
    "composedOf": "Tehran"
 },
 {
-   "dataName": "Isfahan",
-   "mapRegionName": "map_Isfahan",
-   "primaryCity": "Isfahan",
-   "population_Millions": 20.556,
+   "dataName": "Kermanshah",
+   "mapRegionName": "map_Kermanshah",
+   "primaryCity": "Kermanshah",
+   "population_Millions": 13.784,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -16946,7 +16946,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Isfahan"
+   "composedOf": "Kermanshah"
 },
 {
    "dataName": "Tabriz",
@@ -17085,7 +17085,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Tehran Region, Tabriz Region, Kermanshah Region, Isfahan, Chaharmahal and Bakhtiari, Khuzestan, Kohgiluyeh and Boyer Ahmad"
+   "composedOf": "Tehran Region, Tabriz Region, Kermanshah Region, Kermanshah, Chaharmahal and Bakhtiari, Khuzestan, Kohgiluyeh and Boyer Ahmad"
 },
  {
    "dataName": "Baghdad",
