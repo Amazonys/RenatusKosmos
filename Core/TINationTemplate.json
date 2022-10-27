@@ -7241,14 +7241,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 252,
-      "g": 209,
-      "b": 122
+      "r": 176,
+      "g": 126,
+      "b": 91
    },
    "color": {
-      "r": 0.99,
-      "g": 0.82,
-      "b": 0.48,
+      "r": 0.69,
+      "g": 0.49,
+      "b": 0.36,
       "a": 0.05
    },
    "aggregateNation": true,
@@ -8072,14 +8072,14 @@
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 140,
-      "b": 100
+      "r": 161,
+      "g": 45,
+      "b": 46
    },
    "color": {
-      "r": 1,
-      "g": 0.55,
-      "b": 0.39,
+      "r": 0.63,
+      "g": 0.18,
+      "b": 0.18,
       "a": 0.05
    },
    "aggregateNation": null,

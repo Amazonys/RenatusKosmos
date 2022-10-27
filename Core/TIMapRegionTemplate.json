@@ -396,7 +396,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_Kurdufan",
+   "dataName": "map_Kordofan",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 13.23,
@@ -1963,6 +1963,15 @@
  },
  {
    "dataName": "map_Juarez",
+   "terrain": "Rugged",
+   "supraRegion": "NorthAmerica",
+   "latitude": 31.48,
+   "longitude": -106.83,
+   "boostLatitude": 30,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Guadalajara",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 31.48,
