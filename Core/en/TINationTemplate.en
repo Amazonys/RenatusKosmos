@@ -873,6 +873,11 @@ TINationTemplate.displayNameWithArticle.GRE=Greece
 TINationTemplate.nationAdjective.GRE=Greek
 TINationTemplate.displayNameWithArticlePrep.GRE=in Greece
 
+TINationTemplate.displayName.CYP=Cyprus
+TINationTemplate.displayNameWithArticle.CYP=Cyprus
+TINationTemplate.nationAdjective.CYP=Cypriot
+TINationTemplate.displayNameWithArticlePrep.CYP=in Cyprus
+
 TINationTemplate.displayName.GTM=Guatemala
 TINationTemplate.displayNameWithArticle.GTM=Guatemala
 TINationTemplate.nationAdjective.GTM=Guatemalan
@@ -937,6 +942,11 @@ TINationTemplate.displayName.ROM=Romania
 TINationTemplate.displayNameWithArticle.ROM=Romania
 TINationTemplate.nationAdjective.ROM=Romanian
 TINationTemplate.displayNameWithArticlePrep.ROM=in Romania
+
+TINationTemplate.displayName.MLV=Moldova
+TINationTemplate.displayNameWithArticle.MLV=Moldova
+TINationTemplate.nationAdjective.MLV=Moldovan
+TINationTemplate.displayNameWithArticlePrep.MLV=in Moldova
 
 TINationTemplate.displayName.ROS=Rostovskaya
 TINationTemplate.displayNameWithArticle.ROS=Rostovskaya
