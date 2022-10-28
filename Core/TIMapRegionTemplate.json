@@ -883,7 +883,7 @@
  },
  {
    "dataName": "map_Isfahan",
-   "terrain": "Rugged",
+   "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 32.66,
    "longitude": 51.64,
