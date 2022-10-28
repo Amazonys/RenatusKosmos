@@ -864,12 +864,39 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_Kermanshah",
+   "dataName": "map_Ahwaz",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 32.66,
    "longitude": 51.64,
    "boostLatitude": 30,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Bandar",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "latitude": 27.37,
+   "longitude": 56.68,
+   "boostLatitude": 30,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Isfahan",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "latitude": 32.66,
+   "longitude": 51.64,
+   "boostLatitude": 30,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Kermanshah",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "latitude": 34.32,
+   "longitude": 47.15,
+   "boostLatitude": 35,
    "smallRegion": true
  },
  {
@@ -1497,8 +1524,17 @@
    "dataName": "map_Kharkiv",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 48.13,
-   "longitude": 35.1,
+   "latitude": 49.87,
+   "longitude": 36.48,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Odessa",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 46.77,
+   "longitude": 30.71,
    "boostLatitude": 50,
    "smallRegion": true
  },
