@@ -1951,8 +1951,8 @@
    "friendlyName": "California",
    "dataName": "CAL",
    "flagResource": "nationflags/California",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/California",
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 229,
