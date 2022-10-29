@@ -16396,7 +16396,7 @@
    "dataName": "Khorasan",
    "mapRegionName": "map_Khorasan",
    "primaryCity": "Mashhad",
-   "population_Millions": 10.287,
+   "population_Millions": 11.140,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -16535,7 +16535,7 @@
    "dataName": "Shiraz",
    "mapRegionName": "map_Shiraz",
    "primaryCity": "Shiraz",
-   "population_Millions": 14.869,
+   "population_Millions": 6.514,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -16668,15 +16668,15 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Mashhad Region, Fars, Bushehr, Hormozgan"
+   "composedOf": "Shiraz"
 },
 {
    "dataName": "Bandar",
    "mapRegionName": "map_Bandar",
    "primaryCity": "Bandar Abbas",
-   "population_Millions": 14.869,
-   "resource": null,
-   "oilResource": null,
+   "population_Millions": 8.357,
+   "resource": true,
+   "oilResource": true,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -16807,13 +16807,13 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Mashhad Region, Fars, Bushehr, Hormozgan"
+   "composedOf": "Bandar"
 },
  {
    "dataName": "Tehran",
    "mapRegionName": "map_Tehran",
    "primaryCity": "Tehran",
-   "population_Millions": 31.484,
+   "population_Millions": 27.537,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -16952,7 +16952,7 @@
    "dataName": "Isfahan",
    "mapRegionName": "map_Isfahan",
    "primaryCity": "Isfahan",
-   "population_Millions": 31.484,
+   "population_Millions": 7.553,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -17085,13 +17085,13 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Tehran"
+   "composedOf": "Isfahan"
 },
 {
    "dataName": "Ahwaz",
    "mapRegionName": "map_Ahwaz",
    "primaryCity": "Ahwaz",
-   "population_Millions": 13.784,
+   "population_Millions": 6.9,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -17224,13 +17224,13 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Kermanshah"
+   "composedOf": "Ahwaz"
 },
 {
    "dataName": "Kermanshah",
    "mapRegionName": "map_Kermanshah",
    "primaryCity": "Kermanshah",
-   "population_Millions": 13.784,
+   "population_Millions": 8.268,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -17369,7 +17369,7 @@
    "dataName": "Tabriz",
    "mapRegionName": "map_Tabriz",
    "primaryCity": "Tabriz",
-   "population_Millions": 9.503,
+   "population_Millions": 10.292,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -17502,7 +17502,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Tehran Region, Tabriz Region, Kermanshah Region, Kermanshah, Chaharmahal and Bakhtiari, Khuzestan, Kohgiluyeh and Boyer Ahmad"
+   "composedOf": "Tabriz"
 },
  {
    "dataName": "Baghdad",
@@ -27238,7 +27238,7 @@
    "dataName": "Syria",
    "mapRegionName": "map_Syria",
    "primaryCity": "Damascus",
-   "population_Millions": 26.421,
+   "population_Millions": 10.304,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -27516,7 +27516,7 @@
    "dataName": "Aleppo",
    "mapRegionName": "map_Aleppo",
    "primaryCity": "Aleppo",
-   "population_Millions": 26.421,
+   "population_Millions": 8.181,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
