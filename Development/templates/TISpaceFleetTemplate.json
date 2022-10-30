@@ -335,7 +335,7 @@
    "formationSpacing": "Loose",
    "formationName": "Staggered",
    "formationFocus": "Center",  
-   "formationConcentration": "Heavy"
+   "formationConcentration": "Heavy",
    "shipsInFleet": [
       {
          "shipTemplateName": "Ship7"
@@ -360,7 +360,7 @@
    "formationSpacing": "Loose",
    "formationName": "Convoy",
    "formationFocus": "Center",  
-   "formationConcentration": "Heavy"
+   "formationConcentration": "Heavy",
    "shipsInFleet": [
       {
          "shipTemplateName": "Ship19"

@@ -1098,38 +1098,11 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_Switzerland",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 46.95,
-   "longitude": 7.43,
-   "boostLatitude": 45,
-   "smallRegion": true
- },
- {
    "dataName": "map_BalticStates",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 56.95,
-   "longitude": 24.16,
-   "boostLatitude": 55,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Estonia",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 59.45,
-   "longitude": 24.97,
-   "boostLatitude": 60,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Lithuania",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 54.75,
-   "longitude": 25.14,
+   "latitude": 56.7,
+   "longitude": 24.44,
    "boostLatitude": 55,
    "smallRegion": true
  },
@@ -1155,17 +1128,8 @@
    "dataName": "map_Benelux",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 52.37,
-   "longitude": 4.9,
-   "boostLatitude": 50,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Belgium",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 50.88,
-   "longitude": 4.4,
+   "latitude": 51.45,
+   "longitude": 4.7,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1255,25 +1219,7 @@
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 51,
-   "longitude": 6.99,
-   "boostLatitude": 50,
-   "smallRegion": true
- },
- {
-   "dataName": "map_NorthGermany",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 53.53,
-   "longitude": 9.97,
-   "boostLatitude": 50,
-   "smallRegion": true
- },
- {
-   "dataName": "map_SouthGermany",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 48.11,
-   "longitude": 11.59,
+   "longitude": 10.3,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1317,18 +1263,9 @@
    "dataName": "map_Italy",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 45.48,
-   "longitude": 9.23,
+   "latitude": 42.82,
+   "longitude": 12.44,
    "boostLatitude": 45,
-   "smallRegion": true
- },
- {
-   "dataName": "map_CentralItaly",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 41.9,
-   "longitude": 12.45,
-   "boostLatitude": 40,
    "smallRegion": true
  },
  {
@@ -1344,8 +1281,8 @@
    "dataName": "map_Kharkiv",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 48.13,
-   "longitude": 35.1,
+   "latitude": 48.85,
+   "longitude": 37.02,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1353,17 +1290,8 @@
    "dataName": "map_Kiev",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 50.46,
-   "longitude": 30.67,
-   "boostLatitude": 50,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Lwow",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 49.85,
-   "longitude": 24.11,
+   "latitude": 49.87,
+   "longitude": 27.03,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -1371,17 +1299,8 @@
    "dataName": "map_Lyon",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 45.75,
-   "longitude": 4.86,
-   "boostLatitude": 45,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Bordeaux",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 44.83,
-   "longitude": -0.54,
+   "latitude": 43.7,
+   "longitude": 2.42,
    "boostLatitude": 45,
    "smallRegion": true
  },
@@ -1416,17 +1335,8 @@
    "dataName": "map_NorthwestBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 43.89,
-   "longitude": 18.37,
-   "boostLatitude": 45,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Croatia",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 45.76,
-   "longitude": 16.07,
+   "latitude": 45.03,
+   "longitude": 16.72,
    "boostLatitude": 45,
    "smallRegion": true
  },
@@ -1449,39 +1359,12 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_Kaliningrad",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 54.71,
-   "longitude": 20.55,
-   "boostLatitude": 55,
-   "smallRegion": null
- },
- {
    "dataName": "map_Poland",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 52.22,
-   "longitude": 21.14,
+   "latitude": 52.74,
+   "longitude": 18.63,
    "boostLatitude": 50,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Wroclaw",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 51.11,
-   "longitude": 17.09,
-   "boostLatitude": 50,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Gdansk",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 54.37,
-   "longitude": 18.61,
-   "boostLatitude": 55,
    "smallRegion": true
  },
  {
@@ -1497,26 +1380,8 @@
    "dataName": "map_Romania",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 44.46,
-   "longitude": 26.2,
-   "boostLatitude": 45,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Transylvania",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 46.76,
-   "longitude": 23.61,
-   "boostLatitude": 45,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Moldova",
-   "terrain": "Standard",
-   "supraRegion": "Europe",
-   "latitude": 46.99,
-   "longitude": 28.88,
+   "latitude": 45.6,
+   "longitude": 24.91,
    "boostLatitude": 45,
    "smallRegion": true
  },
@@ -1551,17 +1416,8 @@
    "dataName": "map_SouthwestBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 44.79,
-   "longitude": 20.55,
-   "boostLatitude": 45,
-   "smallRegion": true
- },
- {
-   "dataName": "map_Albania",
-   "terrain": "Rugged",
-   "supraRegion": "Europe",
-   "latitude": 41.31,
-   "longitude": 19.87,
+   "latitude": 42.91,
+   "longitude": 20.48,
    "boostLatitude": 40,
    "smallRegion": true
  },
@@ -1722,18 +1578,9 @@
    "dataName": "map_France",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 48.85,
-   "longitude": 2.35,
-   "boostLatitude": 50,
-   "smallRegion": true
- },
- {
-   "dataName": "map_NordEst",
-   "terrain": "Standard",
-   "supraRegion": "NorthAmerica",
-   "latitude": 48.68,
-   "longitude": 6.19,
-   "boostLatitude": 50,
+   "latitude": 46.48,
+   "longitude": 2.42,
+   "boostLatitude": 45,
    "smallRegion": true
  },
  {

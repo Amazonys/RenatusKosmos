@@ -63,7 +63,7 @@
    "startingStrength": 1
  },
  {
-   "dataName": "FRABlindeeFrance",
+   "dataName": "EUABlindeeFrance",
    "friendlyName": "1st Blindee",
    "startRegionStr": "France",
    "homeRegionStr": "France",
@@ -72,7 +72,7 @@
    "startingStrength": 1
  },
  {
-   "dataName": "DEUPanzersGermany",
+   "dataName": "EUAPanzersGermany",
    "friendlyName": "1st Panzers",
    "startRegionStr": "Germany",
    "homeRegionStr": "Germany",

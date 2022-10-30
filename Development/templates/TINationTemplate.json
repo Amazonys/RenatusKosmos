@@ -735,58 +735,11 @@
    ]
 },
  {
-   "friendlyName": "Austria",
+   "friendlyName": "Alpine States",
    "dataName": "ALP",
    "flagResource": "nationflags/Austria",
    "unionFlagResource": "",
    "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 220,
-      "g": 220,
-      "b": 220
-   },
-   "color": {
-      "r": 0.85,
-      "g": 0.86,
-      "b": 0.86,
-      "a": 0.05
-   },
-   "aggregateNation": null,
-   "initialGDP": 582130000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 5.5,
-   "unrest": 1,
-   "inequality": 3.02,
-   "democracy": 8.07,
-   "education": 8.82,
-   "spaceFunding_year": 35,
-   "miltech": 4,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 10,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Socialist",
-      "Conservative",
-      "Conservative",
-      "Green",
-      "Green",
-      "Centrist"
-   ],
-   "ISOCodes": [
-      "AUT"
-   ]
-},
- {
-   "friendlyName": "Switzerland",
-   "dataName": "SWI",
-   "flagResource": "nationflags/Switzerland",
-   "unionFlagResource": "nationflags/Switzerland",
-   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 255,
@@ -800,31 +753,32 @@
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 739490000000,
+   "initialGDP": 1168375723037,
    "popGrowthModifier": null,
    "initialFactionStr": "",
-   "cohesion": 6.5,
+   "cohesion": 6,
    "unrest": 0,
-   "inequality": 3.31,
-   "democracy": 8.9,
-   "education": 9.0,
-   "spaceFunding_year": 24,
-   "miltech": 4.3,
+   "inequality": 3.16,
+   "democracy": 8.48,
+   "education": 8.82,
+   "spaceFunding_year": 20,
+   "miltech": 4,
    "nuclearWeapons": 0,
-   "initSpaceIPs": 10,
+   "initSpaceIPs": 0,
    "nuclearProgramIPs": 0,
    "buildNukeIPs": 0,
    "buildArmyIPs": 0,
    "buildNavyIPs": 0,
    "initialPriorityPreset": [
-      "Liberal",
+      "Industrialization",
       "Socialist",
       "Centrist",
-      "Conservative",
-      "Conservative",
+      "Reactionary",
+      "Green",
       "Centrist"
    ],
    "ISOCodes": [
+      "AUT",
       "LIE",
       "CHE"
    ]
@@ -1173,102 +1127,8 @@
    ]
 },
  {
-   "friendlyName": "Latvia",
+   "friendlyName": "Baltic States",
    "dataName": "BAS",
-   "flagResource": "nationflags/Latvia",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 234,
-      "g": 173,
-      "b": 112
-   },
-   "color": {
-      "r": 0.92,
-      "g": 0.68,
-      "b": 0.44,
-      "a": 0.05
-   },
-   "aggregateNation": null,
-   "initialGDP": 72033000000,
-   "popGrowthModifier": -1,
-   "initialFactionStr": "",
-   "cohesion": 4,
-   "unrest": 2,
-   "inequality": 3.45,
-   "democracy": 7.31,
-   "education": 8.83,
-   "spaceFunding_year": 0,
-   "miltech": 3.8,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Liberal",
-      "Socialist",
-      "Digitalization",
-      "Liberal",
-      "Centrist",
-      "Survival"
-   ],
-   "ISOCodes": [
-      "LVA"
-   ]
-},
-{
-   "friendlyName": "Estonia",
-   "dataName": "EST",
-   "flagResource": "nationflags/Estonia",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 234,
-      "g": 173,
-      "b": 112
-   },
-   "color": {
-      "r": 0.92,
-      "g": 0.68,
-      "b": 0.44,
-      "a": 0.05
-   },
-   "aggregateNation": null,
-   "initialGDP": 61389000000,
-   "popGrowthModifier": -1,
-   "initialFactionStr": "",
-   "cohesion": 6,
-   "unrest": 1,
-   "inequality": 3.08,
-   "democracy": 7.84,
-   "education": 8.82,
-   "spaceFunding_year": 0,
-   "miltech": 3.8,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Liberal",
-      "Socialist",
-      "Digitalization",
-      "Liberal",
-      "Centrist",
-      "Survival"
-   ],
-   "ISOCodes": [
-      "EST"
-   ]
-},
-{
-   "friendlyName": "Lithuania",
-   "dataName": "LTH",
    "flagResource": "nationflags/Lithuania",
    "unionFlagResource": "",
    "unionTrigger": null,
@@ -1284,14 +1144,14 @@
       "b": 0.44,
       "a": 0.05
    },
-   "aggregateNation": null,
-   "initialGDP": 130670000000,
+   "aggregateNation": true,
+   "initialGDP": 228577360000,
    "popGrowthModifier": -1,
    "initialFactionStr": "",
-   "cohesion": 5,
+   "cohesion": 6,
    "unrest": 1,
-   "inequality": 3.53,
-   "democracy": 7.18,
+   "inequality": 3.4,
+   "democracy": 7.37,
    "education": 8.9,
    "spaceFunding_year": 0,
    "miltech": 3.8,
@@ -1310,6 +1170,8 @@
       "Survival"
    ],
    "ISOCodes": [
+      "EST",
+      "LVA",
       "LTU"
    ]
 },
@@ -1517,17 +1379,17 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 155,
-      "b": 0
+      "r": 84,
+      "g": 103,
+      "b": 168
    },
    "color": {
-      "r": 1.0,
-      "g": 0.61,
-      "b": 0.0,
+      "r": 0.33,
+      "g": 0.4,
+      "b": 0.66,
       "a": 0.05
    },
-   "aggregateNation": null,
+   "aggregateNation": true,
    "initialGDP": 1766991600000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
@@ -1553,55 +1415,9 @@
       "Populist"
    ],
    "ISOCodes": [
-      "NLD"
-   ]
-},
-{
-   "friendlyName": "Belgium",
-   "dataName": "EUA",
-   "flagResource": "nationflags/Belgium",
-   "unionFlagResource": "nationflags/European_Union",
-   "unionTrigger": 2,
-   "multiplier": 1,
-   "color32": {
-      "r": 84,
-      "g": 103,
-      "b": 168
-   },
-   "color": {
-      "r": 0.33,
-      "g": 0.4,
-      "b": 0.66,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 723090000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 3.5,
-   "unrest": 2,
-   "inequality": 2.72,
-   "democracy": 7.51,
-   "education": 9.02,
-   "spaceFunding_year": 2,
-   "miltech": 4,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 5,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Socialist",
-      "Liberal",
-      "Conservative",
-      "Green",
-      "Technocratic",
-      "Populist"
-   ],
-   "ISOCodes": [
       "BEL",
-      "LUX"
+      "LUX",
+      "NLD"
    ]
 },
  {
@@ -3419,10 +3235,10 @@
 },
  {
    "friendlyName": "France",
-   "dataName": "FRA",
+   "dataName": "EUA",
    "flagResource": "nationflags/France",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/European_Union",
+   "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
       "r": 135,
@@ -4058,8 +3874,8 @@
    "friendlyName": "Hungary",
    "dataName": "HUN",
    "flagResource": "nationflags/Hungary",
-   "unionFlagResource": "nationflags/Hungary",
-   "unionTrigger": 4,
+   "unionFlagResource": "",
+   "unionTrigger": null,
    "multiplier": 1,
    "color32": {
       "r": 154,
@@ -4503,14 +4319,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 0,
-      "g": 140,
-      "b": 69
+      "r": 204,
+      "g": 137,
+      "b": 104
    },
    "color": {
-      "r": 0.0,
-      "g": 0.55,
-      "b": 0.27,
+      "r": 0.8,
+      "g": 0.54,
+      "b": 0.41,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -6064,7 +5880,7 @@
    ]
 },
  {
-   "friendlyName": "Bosnia",
+   "friendlyName": "Northern Balkan States",
    "dataName": "NBK",
    "flagResource": "nationflags/Bosnia_and_Herzegovina",
    "unionFlagResource": "",
@@ -6081,53 +5897,6 @@
       "b": 0.7,
       "a": 0.05
    },
-   "aggregateNation": null,
-   "initialGDP": 271158800000,
-   "popGrowthModifier": -1,
-   "initialFactionStr": "",
-   "cohesion": 3,
-   "unrest": 2,
-   "inequality": 2.93,
-   "democracy": 6.23,
-   "education": 7.96,
-   "spaceFunding_year": 0,
-   "miltech": 3.6,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Digitalization",
-      "Centrist",
-      "Conservative",
-      "Modernization",
-      "Populist",
-      "Industrialization"
-   ],
-   "ISOCodes": [
-      "BIH"
-   ]
-},
-{
-   "friendlyName": "Krajina",
-   "dataName": "CRO",
-   "flagResource": "nationflags/Croatia",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 132,
-      "g": 117,
-      "b": 215
-   },
-   "color": {
-      "r": 0.52,
-      "g": 0.46,
-      "b": 0.84,
-      "a": 0.05
-   },
    "aggregateNation": true,
    "initialGDP": 271158800000,
    "popGrowthModifier": -1,
@@ -6137,7 +5906,7 @@
    "inequality": 2.93,
    "democracy": 6.23,
    "education": 7.96,
-   "spaceFunding_year": 3,
+   "spaceFunding_year": 2,
    "miltech": 3.6,
    "nuclearWeapons": 0,
    "initSpaceIPs": 0,
@@ -6155,6 +5924,7 @@
    ],
    "ISOCodes": [
       "HRV",
+      "BIH",
       "SVN"
    ]
 },
@@ -6604,7 +6374,7 @@
    "dataName": "POL",
    "flagResource": "nationflags/Poland",
    "unionFlagResource": "nationflags/Slavic_Commonwealth",
-   "unionTrigger": 4,
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 220,
@@ -7972,11 +7742,11 @@
    ]
 },
  {
-   "friendlyName": "Serbia",
+   "friendlyName": "Southern Balkan States",
    "dataName": "SBK",
    "flagResource": "nationflags/Serbia",
    "unionFlagResource": "nationflags/Yugoslavia",
-   "unionTrigger": 3,
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 255,
@@ -7989,55 +7759,6 @@
       "b": 0.39,
       "a": 0.05
    },
-   "aggregateNation": null,
-   "initialGDP": 259512880000,
-   "popGrowthModifier": -1,
-   "initialFactionStr": "",
-   "cohesion": 3,
-   "unrest": 2,
-   "inequality": 3.3,
-   "democracy": 6.15,
-   "education": 7.65,
-   "spaceFunding_year": 6,
-   "miltech": 3.6,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Modernization",
-      "Conservative",
-      "Industrialization",
-      "Industrialization",
-      "Centrist",
-      "Conservative"
-   ],
-   "ISOCodes": [
-      "SRB",
-      "ALB",
-      "MKD"
-   ]
-},
-{
-   "friendlyName": "Dinaretia",
-   "dataName": "ALB",
-   "flagResource": "nationflags/Albania",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 165,
-      "g": 43,
-      "b": 43
-   },
-   "color": {
-      "r": 0.66,
-      "g": 0.17,
-      "b": 0.17,
-      "a": 0.05
-   },
    "aggregateNation": true,
    "initialGDP": 259512880000,
    "popGrowthModifier": -1,
@@ -8047,7 +7768,7 @@
    "inequality": 3.3,
    "democracy": 6.15,
    "education": 7.65,
-   "spaceFunding_year": 2,
+   "spaceFunding_year": 0,
    "miltech": 3.6,
    "nuclearWeapons": 0,
    "initSpaceIPs": 0,
@@ -8857,8 +8578,8 @@
    "friendlyName": "Turkey",
    "dataName": "TUR",
    "flagResource": "nationflags/Turkey",
-   "unionFlagResource": "nationflags/Turkey",
-   "unionTrigger": 6,
+   "unionFlagResource": "nationflags/Turkestan",
+   "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
       "r": 178,
@@ -9004,8 +8725,8 @@
    "friendlyName": "Ukraine",
    "dataName": "UKR",
    "flagResource": "nationflags/Ukraine",
-   "unionFlagResource": "nationflags/Ukraine",
-   "unionTrigger": 6,
+   "unionFlagResource": "",
+   "unionTrigger": null,
    "multiplier": 1.2,
    "color32": {
       "r": 0,
@@ -9347,8 +9068,8 @@
    "friendlyName": "Uzbekistan",
    "dataName": "UZB",
    "flagResource": "nationflags/Uzbekistan",
-   "unionFlagResource": "nationflags/Turkestan",
-   "unionTrigger": 5,
+   "unionFlagResource": "",
+   "unionTrigger": null,
    "multiplier": 1,
    "color32": {
       "r": 255,

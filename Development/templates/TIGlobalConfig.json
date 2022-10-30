@@ -15,6 +15,7 @@
         "nationalInvestmentArmyFactorHome": 0.5,
 		"nationalInvestmentArmyFactorAway": 1,
 		"nationalInvestmentNavyFactor": 0.5,
+		"restoreCapitalOnLiberation": true,
 		/* required investment points to trigger event */
 		"priority_ECO": 1,
 		"priority_WEL": 1,
@@ -47,6 +48,9 @@
 		"maxMassforMiningResourceMalus": 5e16,
 		"bigAsteroidResourceBonusChance": 2,
 		"smallAsteroidresourceMalusChance": 0.5,		
+		/* tech * /
+		"showTriggeredProjects": false,
+		"disableUnlockChances": false,
 		/* canvases to load at launch */
 		"canvasesToLoad":[
 			"General Controls Canvas",
