@@ -3718,14 +3718,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 16,
-      "g": 118,
-      "b": 220
+      "r": 202,
+      "g": 214,
+      "b": 245
    },
    "color": {
-      "r": 0.06,
-      "g": 0.46,
-      "b": 0.86,
+      "r": 0.79,
+      "g": 0.84,
+      "b": 0.96,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -8524,14 +8524,14 @@
       "a": 0.05
    },
    "aggregateNation": null,
-   "initialGDP": 198262609587,
-   "popGrowthModifier": 1,
+   "initialGDP": 50280000000,
+   "popGrowthModifier": -0.5,
    "initialFactionStr": "",
    "cohesion": 1,
    "unrest": 9,
-   "inequality": 3.61,
-   "democracy": 2.04,
-   "education": 4.63,
+   "inequality": 3.75,
+   "democracy": 1.43,
+   "education": 4.16,
    "spaceFunding_year": 0,
    "miltech": 3.2,
    "nuclearWeapons": 0,
@@ -8550,6 +8550,54 @@
    ],
    "ISOCodes": [
       "SYR",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Lebanon",
+   "dataName": "LEB",
+   "flagResource": "nationflags/Lebanon",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 79,
+      "g": 124,
+      "b": 93
+   },
+   "color": {
+      "r": 0.31,
+      "g": 0.49,
+      "b": 0.36,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": 83876000000,
+   "popGrowthModifier": -0.5,
+   "initialFactionStr": "",
+   "cohesion": 3,
+   "unrest": 5,
+   "inequality": 3.18,
+   "democracy": 3.84,
+   "education": 6.04,
+   "spaceFunding_year": 0,
+   "miltech": 3.3,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Stability",
+      "Totalitarian",
+      "Authoritarian",
+      "Stability",
+      "Subsistence",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
       "",
       ""
    ]
