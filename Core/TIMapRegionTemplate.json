@@ -192,10 +192,19 @@
    "dataName": "map_Kenya",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 0,
-   "longitude": 37.88,
+   "latitude": -1.24,
+   "longitude": 36.79,
    "boostLatitude": 0,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Mombasa",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": -3.9,
+   "longitude": 39.66,
+   "boostLatitude": 0,
+   "smallRegion": true
  },
  {
    "dataName": "map_Kinshasa",
