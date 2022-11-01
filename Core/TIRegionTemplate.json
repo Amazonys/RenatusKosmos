@@ -17508,7 +17508,7 @@
    "dataName": "Baghdad",
    "mapRegionName": "map_Baghdad",
    "primaryCity": "Baghdad",
-   "population_Millions": 26.737,
+   "population_Millions": 11.019,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -17647,7 +17647,7 @@
    "dataName": "Basra",
    "mapRegionName": "map_Basra",
    "primaryCity": "Basra",
-   "population_Millions": 26.737,
+   "population_Millions": 15.981,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -17786,7 +17786,7 @@
    "dataName": "Mosul",
    "mapRegionName": "map_Mosul",
    "primaryCity": "Mosul",
-   "population_Millions": 15.738,
+   "population_Millions": 15.44,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -18898,14 +18898,14 @@
    "dataName": "Kenya",
    "mapRegionName": "map_Kenya",
    "primaryCity": "Nairobi",
-   "population_Millions": 56.602,
+   "population_Millions": 45.105,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
    "afr": 1,
    "asi": null,
    "eas": null,
@@ -19037,7 +19037,7 @@
    "dataName": "Mombasa",
    "mapRegionName": "map_Mombasa",
    "primaryCity": "Mombasa",
-   "population_Millions": 56.602,
+   "population_Millions": 10.954,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -25570,7 +25570,7 @@
    "dataName": "Hijaz",
    "mapRegionName": "map_Hijaz",
    "primaryCity": "Jeddah",
-   "population_Millions": 17.478,
+   "population_Millions": 11.297,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -25709,7 +25709,7 @@
    "dataName": "Medina",
    "mapRegionName": "map_Medina",
    "primaryCity": "Medina",
-   "population_Millions": 17.478,
+   "population_Millions": 2.919,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -25848,7 +25848,7 @@
    "dataName": "Abha",
    "mapRegionName": "map_Abha",
    "primaryCity": "Abha",
-   "population_Millions": 17.478,
+   "population_Millions": 5.454,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -25987,7 +25987,7 @@
    "dataName": "Najd",
    "mapRegionName": "map_Najd",
    "primaryCity": "Riyadh",
-   "population_Millions": 18.522,
+   "population_Millions": 10.274,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -26126,7 +26126,7 @@
    "dataName": "Hail",
    "mapRegionName": "map_Hail",
    "primaryCity": "Hail",
-   "population_Millions": 18.522,
+   "population_Millions": 3.748,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -26265,7 +26265,7 @@
    "dataName": "Damman",
    "mapRegionName": "map_Damman",
    "primaryCity": "Damman",
-   "population_Millions": 18.522,
+   "population_Millions": 6.128,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -28767,7 +28767,563 @@
    "dataName": "Tanzania",
    "mapRegionName": "map_Tanzania",
    "primaryCity": "Dar Es Salaam",
-   "population_Millions": 63.869,
+   "population_Millions": 16.05,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Swahili",
+      "English",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Swahili",
+      "Swahili",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      8,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Tanzania_0",
+      "illustrations/illus_Tanzania_1",
+      "illustrations/illus_Tanzania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Mwanza",
+   "mapRegionName": "map_Mwanza",
+   "primaryCity": "Mwanza",
+   "population_Millions": 22.283,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Swahili",
+      "English",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Swahili",
+      "Swahili",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      8,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Tanzania_0",
+      "illustrations/illus_Tanzania_1",
+      "illustrations/illus_Tanzania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Dodoma",
+   "mapRegionName": "map_Dodoma",
+   "primaryCity": "Dodoma",
+   "population_Millions": 11.204,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Swahili",
+      "English",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Swahili",
+      "Swahili",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      8,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Tanzania_0",
+      "illustrations/illus_Tanzania_1",
+      "illustrations/illus_Tanzania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Mbeya",
+   "mapRegionName": "map_Mbeya",
+   "primaryCity": "Mbeya",
+   "population_Millions": 10.313,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Swahili",
+      "English",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Swahili",
+      "Swahili",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      8,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Tanzania_0",
+      "illustrations/illus_Tanzania_1",
+      "illustrations/illus_Tanzania_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Zanzibar",
+   "mapRegionName": "map_Zanzibar",
+   "primaryCity": "Zanzibar",
+   "population_Millions": 1.89,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
