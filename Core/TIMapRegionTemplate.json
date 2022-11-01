@@ -543,8 +543,17 @@
    "dataName": "map_Baghdad",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 31.6,
-   "longitude": 44.58,
+   "latitude": 33.28,
+   "longitude": 44.24,
+   "boostLatitude": 35,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Basra",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 30.56,
+   "longitude": 47.72,
    "boostLatitude": 30,
    "smallRegion": true
  },
@@ -615,9 +624,45 @@
    "dataName": "map_Hijaz",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 22.26,
-   "longitude": 39.62,
+   "latitude": 21.48,
+   "longitude": 39.26,
    "boostLatitude": 20,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Damman",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 26.42,
+   "longitude": 49.95,
+   "boostLatitude": 25,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Hail",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 27.57,
+   "longitude": 41.78,
+   "boostLatitude": 25,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Medina",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 24.52,
+   "longitude": 39.54,
+   "boostLatitude": 25,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Abha",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 18.22,
+   "longitude": 42.55,
+   "boostLatitude": 15,
    "smallRegion": null
  },
  {
@@ -732,8 +777,8 @@
    "dataName": "map_Mosul",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 35.47,
-   "longitude": 43.33,
+   "latitude": 36.33,
+   "longitude": 43.19,
    "boostLatitude": 35,
    "smallRegion": true
  },
@@ -750,9 +795,9 @@
    "dataName": "map_Najd",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 25.45,
-   "longitude": 49.12,
-   "boostLatitude": 20,
+   "latitude": 24.7,
+   "longitude": 46.73,
+   "boostLatitude": 25,
    "smallRegion": null
  },
  {

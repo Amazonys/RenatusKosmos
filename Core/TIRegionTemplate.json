@@ -17515,6 +17515,145 @@
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Baghdad_0",
+      "illustrations/illus_Baghdad_1",
+      "illustrations/illus_Baghdad_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Basrah, Al-Muthanna, Thi Qar, Misan, Wasit, Al-Qadisiyah, Al-Najaf, Karbala, Babil, Baghdad, Anbar"
+},
+{
+   "dataName": "Basra",
+   "mapRegionName": "map_Basra",
+   "primaryCity": "Basra",
+   "population_Millions": 26.737,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
    "worldOcean": "Yes",
    "afr": null,
    "asi": 1,
@@ -25293,8 +25432,286 @@
    "mapRegionName": "map_Hijaz",
    "primaryCity": "Jeddah",
    "population_Millions": 17.478,
-   "resource": true,
-   "oilResource": true,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Hijaz_0",
+      "illustrations/illus_Hijaz_1",
+      "illustrations/illus_Hijaz_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Tabuk, Medina, Meccah, Baha, Jizan, Asir"
+},
+{
+   "dataName": "Medina",
+   "mapRegionName": "map_Medina",
+   "primaryCity": "Medina",
+   "population_Millions": 17.478,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Hijaz_0",
+      "illustrations/illus_Hijaz_1",
+      "illustrations/illus_Hijaz_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Tabuk, Medina, Meccah, Baha, Jizan, Asir"
+},
+{
+   "dataName": "Abha",
+   "mapRegionName": "map_Abha",
+   "primaryCity": "Abha",
+   "population_Millions": 17.478,
+   "resource": null,
+   "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -25431,6 +25848,284 @@
    "dataName": "Najd",
    "mapRegionName": "map_Najd",
    "primaryCity": "Riyadh",
+   "population_Millions": 18.522,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Najd_0",
+      "illustrations/illus_Najd_1",
+      "illustrations/illus_Najd_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Jawf, Northern Borders, Hail, Qasim, Riyadh, Eastern Province, Najran"
+},
+{
+   "dataName": "Hail",
+   "mapRegionName": "map_Hail",
+   "primaryCity": "Hail",
+   "population_Millions": 18.522,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Najd_0",
+      "illustrations/illus_Najd_1",
+      "illustrations/illus_Najd_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Jawf, Northern Borders, Hail, Qasim, Riyadh, Eastern Province, Najran"
+},
+{
+   "dataName": "Damman",
+   "mapRegionName": "map_Damman",
+   "primaryCity": "Damman",
    "population_Millions": 18.522,
    "resource": true,
    "oilResource": true,
