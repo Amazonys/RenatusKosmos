@@ -18410,13 +18410,13 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "PhysicalAdjacencyLubumbashiLitwe",
+   "dataName": "PhysicalAdjacencyLubumbashiKitwe",
    "relationType": "PhysicalAdjacency",
    "nation1": "",
    "nation2": "",
    "federation": "",
    "region1": "Lubumbashi",
-   "region2": "Litwe",
+   "region2": "Kitwe",
    "projectUnlockName": "",
    "capitalClaim": null,
    "initialOwner": null,
