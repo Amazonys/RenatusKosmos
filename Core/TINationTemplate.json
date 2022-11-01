@@ -8705,8 +8705,8 @@
    "dataName": "TZA",
    "flagResource": "nationflags/Tanzania",
    "unionFlagResource": "nationflags/East_African_Federation",
-   "unionTrigger": 2,
-   "multiplier": 1,
+   "unionTrigger": 6,
+   "multiplier": 1.1,
    "color32": {
       "r": 30,
       "g": 181,

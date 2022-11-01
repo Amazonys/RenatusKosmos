@@ -20848,7 +20848,7 @@
    "resource": true,
    "oilResource": true,
    "coreEco": null,
-   "environment": "Standard",
+   "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
@@ -21535,10 +21535,288 @@
    "occupationValue": 0,
    "composedOf": ""
 },
- {
+{
    "dataName": "Mozambique",
    "mapRegionName": "map_Mozambique",
    "primaryCity": "Maputo",
+   "population_Millions": 33.383,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Southern Bantu",
+      "Southern Bantu",
+      "Portuguese",
+      "Portuguese"
+   ],
+   "afrFamily": [
+      "Southern Bantu",
+      "Portuguese",
+      "Portuguese",
+      "Southern Bantu"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Mozambique_0",
+      "illustrations/illus_Mozambique_1",
+      "illustrations/illus_Mozambique_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Beira",
+   "mapRegionName": "map_Beira",
+   "primaryCity": "Beira",
+   "population_Millions": 33.383,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Southern Bantu",
+      "Southern Bantu",
+      "Portuguese",
+      "Portuguese"
+   ],
+   "afrFamily": [
+      "Southern Bantu",
+      "Portuguese",
+      "Portuguese",
+      "Southern Bantu"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Mozambique_0",
+      "illustrations/illus_Mozambique_1",
+      "illustrations/illus_Mozambique_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Nampula",
+   "mapRegionName": "map_Nampula",
+   "primaryCity": "Nampula",
    "population_Millions": 33.383,
    "resource": null,
    "oilResource": null,
@@ -26825,7 +27103,7 @@
    "resource": null,
    "oilResource": null,
    "coreEco": null,
-   "environment": "Standard",
+   "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
@@ -26960,6 +27238,145 @@
    "dataName": "Johannesburg",
    "mapRegionName": "map_Johannesburg",
    "primaryCity": "Johannesburg",
+   "population_Millions": 49.34,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 84,
+   "asi": 2,
+   "eas": null,
+   "eur": 14,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "SAFR",
+   "acc_eas": "",
+   "acc_eur": "SAFR",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Southern African",
+      "English",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Southern African",
+      "Southern African",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "English",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "Hindi",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "English",
+      "Dutch",
+      "English",
+      ""
+   ],
+   "eurFamily": [
+      "English",
+      "Dutch",
+      "Dutch",
+      ""
+   ],
+   "eurWeight": [
+      2,
+      2,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Johannesburg_0",
+      "illustrations/illus_Johannesburg_1",
+      "illustrations/illus_Johannesburg_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Free State, Northwest, KwaZulu-Natal, Gauteng, Mpumalanga, Limpopo, Lethoso, Swaziland"
+},
+{
+   "dataName": "Durban",
+   "mapRegionName": "map_Durban",
+   "primaryCity": "Durban",
    "population_Millions": 49.34,
    "resource": true,
    "oilResource": null,
@@ -33219,7 +33636,7 @@
    "resource": null,
    "oilResource": null,
    "coreEco": true,
-   "environment": "Standard",
+   "environment": "Vulnerable",
    "boostPerYear_tons": 20,
    "missionControl": 1,
    "worldOcean": "Yes",
@@ -34462,12 +34879,290 @@
    "occupationValue": 0,
    "composedOf": ""
 },
- {
+{
    "dataName": "Zambia",
    "mapRegionName": "map_Zambia",
    "primaryCity": "Lusaka",
    "population_Millions": 39.993,
    "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Southern Bantu",
+      "English",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Southern Bantu",
+      "Southern Bantu",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Zambia_0",
+      "illustrations/illus_Zambia_1",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Zambia"
+},
+{
+   "dataName": "Kitwe",
+   "mapRegionName": "map_Kitwe",
+   "primaryCity": "Kitwe",
+   "population_Millions": 39.993,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Southern Bantu",
+      "English",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Southern Bantu",
+      "Southern Bantu",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Zambia_0",
+      "illustrations/illus_Zambia_1",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Zambia"
+},
+ {
+   "dataName": "Malawi",
+   "mapRegionName": "map_Malawi",
+   "primaryCity": "Lilongwe",
+   "population_Millions": 39.993,
+   "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",

@@ -184,8 +184,17 @@
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -26.05,
-   "longitude": 28.6,
+   "longitude": 28.15,
    "boostLatitude": -25,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Durban",
+   "terrain": "Rugged",
+   "supraRegion": "Africa",
+   "latitude": -29.84,
+   "longitude": 30.99,
+   "boostLatitude": -30,
    "smallRegion": null
  },
  {
@@ -318,10 +327,28 @@
    "dataName": "map_Mozambique",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": -18.18,
-   "longitude": 34.82,
+   "latitude": -25.79,
+   "longitude": 32.53,
+   "boostLatitude": -25,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Beira",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": -19.61,
+   "longitude": 34.83,
+   "boostLatitude": -20,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Nampula",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": -15.14,
+   "longitude": 39.27,
    "boostLatitude": -15,
-   "smallRegion": null
+   "smallRegion": true
  },
  {
    "dataName": "map_Namibia",
@@ -498,10 +525,28 @@
    "dataName": "map_Zambia",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": -14.17,
-   "longitude": 27.95,
+   "latitude": -15.34,
+   "longitude": 28.32,
+   "boostLatitude": -15,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Kitwe",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": -11.28,
+   "longitude": 31.11,
    "boostLatitude": -10,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Malawi",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": -13.95,
+   "longitude": 33.96,
+   "boostLatitude": -15,
+   "smallRegion": true
  },
  {
    "dataName": "map_Zimbabwe",
