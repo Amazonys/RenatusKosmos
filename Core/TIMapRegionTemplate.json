@@ -18,13 +18,22 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_Gabon",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 0.41,
+   "longitude": 9.66,
+   "boostLatitude": 0,
+   "smallRegion": true
+ },
+ {
    "dataName": "map_AltLowerGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": -1,
-   "longitude": 13.75,
-   "boostLatitude": 0,
-   "smallRegion": null
+   "latitude": -4.13,
+   "longitude": 14.16,
+   "boostLatitude": -5,
+   "smallRegion": true
  },
  {
    "dataName": "map_AltMiddleGuinea",
@@ -57,8 +66,26 @@
    "dataName": "map_Angola",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": -12.8,
-   "longitude": 17.5,
+   "latitude": -8.98,
+   "longitude": 13.41,
+   "boostLatitude": -10,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Benguela",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": -12.62,
+   "longitude": 13.44,
+   "boostLatitude": -10,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Luena",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": -11.75,
+   "longitude": 19.9,
    "boostLatitude": -10,
    "smallRegion": null
  },
@@ -120,9 +147,18 @@
    "dataName": "map_Chad",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 14.58,
-   "longitude": 18.72,
+   "latitude": 12.08,
+   "longitude": 15.81,
    "boostLatitude": 10,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Abeche",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 13.91,
+   "longitude": 20.72,
+   "boostLatitude": 15,
    "smallRegion": null
  },
  {
@@ -219,10 +255,10 @@
    "dataName": "map_Kinshasa",
    "terrain": "Rugged",
    "supraRegion": "Africa",
-   "latitude": -3.5,
-   "longitude": 18.3,
-   "boostLatitude": 0,
-   "smallRegion": null
+   "latitude": -4.6,
+   "longitude": 15.56,
+   "boostLatitude": -5,
+   "smallRegion": true
  },
  {
    "dataName": "map_Lagos",
@@ -261,13 +297,49 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_Kananga",
+   "terrain": "Rugged",
+   "supraRegion": "Africa",
+   "latitude": -5.94,
+   "longitude": 22.54,
+   "boostLatitude": -5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Bukavu",
+   "terrain": "Rugged",
+   "supraRegion": "Africa",
+   "latitude": -2.54,
+   "longitude": 28.78,
+   "boostLatitude": 0,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Mbandaka",
+   "terrain": "Rugged",
+   "supraRegion": "Africa",
+   "latitude": 0.17,
+   "longitude": 18.3,
+   "boostLatitude": 0,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Kisangani",
+   "terrain": "Rugged",
+   "supraRegion": "Africa",
+   "latitude": 0.55,
+   "longitude": 25.18,
+   "boostLatitude": 0,
+   "smallRegion": true
+ },
+ {
    "dataName": "map_Lubumbashi",
    "terrain": "Rugged",
    "supraRegion": "Africa",
-   "latitude": -3.5,
-   "longitude": 26.5,
-   "boostLatitude": 0,
-   "smallRegion": null
+   "latitude": -11.04,
+   "longitude": 27.49,
+   "boostLatitude": -10,
+   "smallRegion": true
  },
  {
    "dataName": "map_Madagascar",

@@ -2644,7 +2644,7 @@
    "dataName": "Angola",
    "mapRegionName": "map_Angola",
    "primaryCity": "Luanda",
-   "population_Millions": 35.374,
+   "population_Millions": 18.534,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -2652,6 +2652,284 @@
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Portuguese",
+      "Portuguese",
+      "Southern Bantu",
+      ""
+   ],
+   "afrFamily": [
+      "Portuguese",
+      "Southern Bantu",
+      "Southern Bantu",
+      ""
+   ],
+   "afrWeight": [
+      8,
+      2,
+      1,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Angola_0",
+      "illustrations/illus_Angola_1",
+      "illustrations/illus_Angola_2",
+      "illustrations/illus_Angola_3",
+      "illustrations/illus_Angola_4",
+      "illustrations/illus_Angola_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Benguela",
+   "mapRegionName": "map_Benguela",
+   "primaryCity": "Benguela",
+   "population_Millions": 13.394,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Portuguese",
+      "Portuguese",
+      "Southern Bantu",
+      ""
+   ],
+   "afrFamily": [
+      "Portuguese",
+      "Southern Bantu",
+      "Southern Bantu",
+      ""
+   ],
+   "afrWeight": [
+      8,
+      2,
+      1,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Angola_0",
+      "illustrations/illus_Angola_1",
+      "illustrations/illus_Angola_2",
+      "illustrations/illus_Angola_3",
+      "illustrations/illus_Angola_4",
+      "illustrations/illus_Angola_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Luena",
+   "mapRegionName": "map_Luena",
+   "primaryCity": "Luena",
+   "population_Millions": 3.722,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": 1,
    "asi": null,
    "eas": null,
@@ -5980,7 +6258,146 @@
    "dataName": "Chad",
    "mapRegionName": "map_Chad",
    "primaryCity": "N'Djamena",
-   "population_Millions": 17.572,
+   "population_Millions": 12.528,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 9,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "AFR",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "French",
+      "Muslim",
+      "Muslim",
+      ""
+   ],
+   "afrFamily": [
+      "Saharan",
+      "Saharan",
+      "Muslim",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      null
+   ],
+   "asiPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Chad_0",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Abeche",
+   "mapRegionName": "map_Abeche",
+   "primaryCity": "Abeche",
+   "population_Millions": 3.898,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -7926,7 +8343,7 @@
    "dataName": "Kinshasa",
    "mapRegionName": "map_Kinshasa",
    "primaryCity": "Kinshasa",
-   "population_Millions": 47.965,
+   "population_Millions": 30.269,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -8059,13 +8476,13 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Kongo Central, Kinshasa, Equateur, Mai-Ndombe, Sud-Ubangi, Nord-Ubangi, Mongala, Tshuapa, Kasai, Kasi Central, Kwango, Kwilu"
+   "composedOf": ""
 },
- {
-   "dataName": "Lubumbashi",
-   "mapRegionName": "map_Lubumbashi",
-   "primaryCity": "Lubumbashi",
-   "population_Millions": 48.185,
+{
+   "dataName": "Mbandaka",
+   "mapRegionName": "map_Mbandaka",
+   "primaryCity": "Mbandaka",
+   "population_Millions": 10.400,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -8198,7 +8615,563 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Base-Uele, Haut-Uele, Ituri, Tshopo, Sankuru, Kasai Oriental, Lomama, Nord-Kivu, Maniema, Sud-Kivu, Tangankyika, Haut-Lomamai, Lualaba, Haut-Katanga"
+   "composedOf": ""
+},
+{
+   "dataName": "Kisangani",
+   "mapRegionName": "map_Kisangani",
+   "primaryCity": "Kisangani",
+   "population_Millions": 11.453,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lubumbashi_0",
+      "illustrations/illus_Lubumbashi_1",
+      "illustrations/illus_Lubumbashi_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Kananga",
+   "mapRegionName": "map_Kananga",
+   "primaryCity": "Kananga",
+   "population_Millions": 14.274,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lubumbashi_0",
+      "illustrations/illus_Lubumbashi_1",
+      "illustrations/illus_Lubumbashi_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Bukavu",
+   "mapRegionName": "map_Bukavu",
+   "primaryCity": "Bukavu",
+   "population_Millions": 17.126,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lubumbashi_0",
+      "illustrations/illus_Lubumbashi_1",
+      "illustrations/illus_Lubumbashi_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Lubumbashi",
+   "mapRegionName": "map_Lubumbashi",
+   "primaryCity": "Lubumbashi",
+   "population_Millions": 12.369,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lubumbashi_0",
+      "illustrations/illus_Lubumbashi_1",
+      "illustrations/illus_Lubumbashi_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Cuba",
@@ -21539,7 +22512,7 @@
    "dataName": "Mozambique",
    "mapRegionName": "map_Mozambique",
    "primaryCity": "Maputo",
-   "population_Millions": 33.383,
+   "population_Millions": 7.558,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -21678,7 +22651,7 @@
    "dataName": "Beira",
    "mapRegionName": "map_Beira",
    "primaryCity": "Beira",
-   "population_Millions": 33.383,
+   "population_Millions": 7.956,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -21817,7 +22790,7 @@
    "dataName": "Nampula",
    "mapRegionName": "map_Nampula",
    "primaryCity": "Nampula",
-   "population_Millions": 33.383,
+   "population_Millions": 17.779,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -27099,7 +28072,7 @@
    "dataName": "CapeTown",
    "mapRegionName": "map_CapeTown",
    "primaryCity": "Cape Town",
-   "population_Millions": 15.006,
+   "population_Millions": 6.962,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -27238,7 +28211,7 @@
    "dataName": "Johannesburg",
    "mapRegionName": "map_Johannesburg",
    "primaryCity": "Johannesburg",
-   "population_Millions": 49.34,
+   "population_Millions": 27.97,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -27377,7 +28350,7 @@
    "dataName": "Durban",
    "mapRegionName": "map_Durban",
    "primaryCity": "Durban",
-   "population_Millions": 49.34,
+   "population_Millions": 20.209,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -34883,7 +35856,7 @@
    "dataName": "Zambia",
    "mapRegionName": "map_Zambia",
    "primaryCity": "Lusaka",
-   "population_Millions": 39.993,
+   "population_Millions": 9.476,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -35022,7 +35995,7 @@
    "dataName": "Kitwe",
    "mapRegionName": "map_Kitwe",
    "primaryCity": "Kitwe",
-   "population_Millions": 39.993,
+   "population_Millions": 10.107,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -35161,7 +36134,7 @@
    "dataName": "Malawi",
    "mapRegionName": "map_Malawi",
    "primaryCity": "Lilongwe",
-   "population_Millions": 39.993,
+   "population_Millions": 20.279,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -40722,7 +41695,7 @@
    "dataName": "Brazzaville",
    "mapRegionName": "map_AltLowerGuinea",
    "primaryCity": "Brazzaville",
-   "population_Millions": 9.931,
+   "population_Millions": 5.834,
    "resource": null,
    "oilResource": true,
    "coreEco": null,
@@ -40855,7 +41828,146 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Congo-Brazzaville, Gabon, Equitorial Guinea, Sao Tome and Principe"
+   "composedOf": "Congo-Brazzaville"
+},
+{
+   "dataName": "Gabon",
+   "mapRegionName": "map_Gabon",
+   "primaryCity": "Libreville",
+   "population_Millions": 4.087,
+   "resource": null,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Brazzaville_0",
+      "illustrations/illus_Brazzaville_1",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Gabon, Equitorial Guinea, Sao Tome and Principe"
 },
  {
    "dataName": "Senegambia",
