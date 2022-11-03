@@ -3,17 +3,53 @@
    "dataName": "map_Abuja",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 10.6,
-   "longitude": 8.8,
+   "latitude": 9.08,
+   "longitude": 7.38,
    "boostLatitude": 10,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Kano",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 11.99,
+   "longitude": 8.61,
+   "boostLatitude": 10,
+   "smallRegion": true
  },
  {
    "dataName": "map_Algeria",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 27.7,
-   "longitude": 2.5,
+   "latitude": 36.65,
+   "longitude": 3.12,
+   "boostLatitude": 35,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Ghardaia",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 32.48,
+   "longitude": 3.65,
+   "boostLatitude": 30,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Bechar",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 31.5,
+   "longitude": -2.21,
+   "boostLatitude": 30,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Tamanrasset",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 22.69,
+   "longitude": 5.03,
    "boostLatitude": 20,
    "smallRegion": null
  },
@@ -36,6 +72,15 @@
    "smallRegion": true
  },
  {
+   "dataName": "map_Benin",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 6.51,
+   "longitude": 1.78,
+   "boostLatitude": 5,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_AltMiddleGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
@@ -45,22 +90,49 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_Marrakech",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 31.46,
+   "longitude": -7.95,
+   "boostLatitude": 30,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_AltMorocco",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 31.45,
-   "longitude": -6.65,
-   "boostLatitude": 30,
+   "latitude": 33.97,
+   "longitude": -6.84,
+   "boostLatitude": 35,
    "smallRegion": null
+ },
+ {
+   "dataName": "map_Freetown",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 8.43,
+   "longitude": -13.2,
+   "boostLatitude": 10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Monrovia",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 6.29,
+   "longitude": -10.74,
+   "boostLatitude": 5,
+   "smallRegion": true
  },
  {
    "dataName": "map_AltUpperGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 9.442,
-   "longitude": -10.5,
-   "boostLatitude": 5,
-   "smallRegion": null
+   "latitude": 9.67,
+   "longitude": -13.52,
+   "boostLatitude": 10,
+   "smallRegion": true
  },
  {
    "dataName": "map_Angola",
@@ -210,8 +282,8 @@
    "dataName": "map_IvoryCoast",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 7.305,
-   "longitude": -5.5,
+   "latitude": 4.42,
+   "longitude": -4.1,
    "boostLatitude": 5,
    "smallRegion": null
  },
@@ -264,10 +336,19 @@
    "dataName": "map_Lagos",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 6.2,
-   "longitude": 5.83,
+   "latitude": 6.68,
+   "longitude": 3.47,
    "boostLatitude": 5,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Harcourt",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 4.84,
+   "longitude": 7.01,
+   "boostLatitude": 5,
+   "smallRegion": true
  },
  {
    "dataName": "map_Libya",
@@ -354,8 +435,17 @@
    "dataName": "map_Mali",
    "terrain": "Rugged",
    "supraRegion": "Africa",
-   "latitude": 16.51,
-   "longitude": -3.45,
+   "latitude": 12.58,
+   "longitude": -8.07,
+   "boostLatitude": 10,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Timbuktu",
+   "terrain": "Rugged",
+   "supraRegion": "Africa",
+   "latitude": 16.72,
+   "longitude": -2.94,
    "boostLatitude": 15,
    "smallRegion": null
  },
@@ -363,9 +453,18 @@
    "dataName": "map_Mauritania",
    "terrain": "Rugged",
    "supraRegion": "Africa",
-   "latitude": 19.7,
-   "longitude": -10.42,
+   "latitude": 18.05,
+   "longitude": -15.81,
    "boostLatitude": 15,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Nouadhibou",
+   "terrain": "Rugged",
+   "supraRegion": "Africa",
+   "latitude": 20.92,
+   "longitude": -17.02,
+   "boostLatitude": 20,
    "smallRegion": null
  },
  {
@@ -435,8 +534,17 @@
    "dataName": "map_Niger",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 17.01,
-   "longitude": 9.3,
+   "latitude": 13.52,
+   "longitude": 2.03,
+   "boostLatitude": 15,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Agadez",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 16.95,
+   "longitude": 8.11,
    "boostLatitude": 15,
    "smallRegion": null
  },
@@ -2694,10 +2802,10 @@
    "dataName": "map_MiddleGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
-   "latitude": 7.6,
-   "longitude": -1.3,
+   "latitude": 5.7,
+   "longitude": -0.28,
    "boostLatitude": 5,
-   "smallRegion": null
+   "smallRegion": true
  },
  {
    "dataName": "map_Palestine",
