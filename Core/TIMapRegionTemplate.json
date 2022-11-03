@@ -459,15 +459,6 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_Nouadhibou",
-   "terrain": "Rugged",
-   "supraRegion": "Africa",
-   "latitude": 20.92,
-   "longitude": -17.02,
-   "boostLatitude": 20,
-   "smallRegion": null
- },
- {
    "dataName": "map_Mekelle",
    "terrain": "Rugged",
    "supraRegion": "Africa",

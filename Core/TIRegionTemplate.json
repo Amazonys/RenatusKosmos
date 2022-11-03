@@ -1528,11 +1528,11 @@
    "occupationValue": 0,
    "composedOf": "Republic of the Congo, Gabon, Equatorial Guinea, Sao Tome and Principe, Cameroon"
 },
- {
-   "dataName": "_MiddleGuinea",
-   "mapRegionName": "map_MiddleGuinea",
-   "primaryCity": "Accra",
-   "population_Millions": 101.212,
+{
+   "dataName": "Benin",
+   "mapRegionName": "map_Benin",
+   "primaryCity": "Lome",
+   "population_Millions": 21.595,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -1665,7 +1665,146 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Ivory Coast, Burkina Faso, Ghana, Togo, Benin"
+   "composedOf": "Benin, Togo"
+},
+ {
+   "dataName": "_MiddleGuinea",
+   "mapRegionName": "map_MiddleGuinea",
+   "primaryCity": "Accra",
+   "population_Millions": 32.586,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Akan",
+      "English",
+      "French",
+      "English"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan",
+      "Akan",
+      "Saharan"
+   ],
+   "afrWeight": [
+      4,
+      2,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Ghana"
 },
  {
    "dataName": "_WesternBalkans",
@@ -2505,14 +2644,431 @@
    "dataName": "Algeria",
    "mapRegionName": "map_Algeria",
    "primaryCity": "Algiers",
-   "population_Millions": 45.578,
+   "population_Millions": 41.923,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Algeria_0",
+      "illustrations/illus_Algeria_1",
+      "illustrations/illus_Algeria_2",
+      "illustrations/illus_Algeria_3",
+      "illustrations/illus_Algeria_4",
+      "illustrations/illus_Algeria_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Ghardaia",
+   "mapRegionName": "map_Ghardaia",
+   "primaryCity": "Ghardaia",
+   "population_Millions": 2.116,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Algeria_0",
+      "illustrations/illus_Algeria_1",
+      "illustrations/illus_Algeria_2",
+      "illustrations/illus_Algeria_3",
+      "illustrations/illus_Algeria_4",
+      "illustrations/illus_Algeria_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Bechar",
+   "mapRegionName": "map_Bechar",
+   "primaryCity": "Bechar",
+   "population_Millions": 1.323,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Algeria_0",
+      "illustrations/illus_Algeria_1",
+      "illustrations/illus_Algeria_2",
+      "illustrations/illus_Algeria_3",
+      "illustrations/illus_Algeria_4",
+      "illustrations/illus_Algeria_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Tamanrasset",
+   "mapRegionName": "map_Tamanrasset",
+   "primaryCity": "Tamanrasset",
+   "population_Millions": 0.333,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": null,
    "asi": 1,
    "eas": null,
@@ -21261,7 +21817,146 @@
    "dataName": "Mali",
    "mapRegionName": "map_Mali",
    "primaryCity": "Bamako",
-   "population_Millions": 21.669,
+   "population_Millions": 19.693,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Muslim",
+      "Berber",
+      "Muslim",
+      ""
+   ],
+   "afrFamily": [
+      "Saharan",
+      "Berber",
+      "Berber",
+      ""
+   ],
+   "afrWeight": [
+      5,
+      1,
+      1,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Mali_0",
+      "illustrations/illus_Mali_1",
+      "illustrations/illus_Mali_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Timbuktu",
+   "mapRegionName": "map_Timbuktu",
+   "primaryCity": "Timbuktu",
+   "population_Millions": 2.019,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -21400,7 +22095,7 @@
    "dataName": "Mauritania",
    "mapRegionName": "map_Mauritania",
    "primaryCity": "Nouakchott",
-   "population_Millions": 4.942,
+   "population_Millions": 4.934,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -23346,7 +24041,146 @@
    "dataName": "Niger",
    "mapRegionName": "map_Niger",
    "primaryCity": "Niamey",
-   "population_Millions": 26.388,
+   "population_Millions": 19.335,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 9,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "AFR",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Saharan",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Muslim",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Niger_0",
+      "illustrations/illus_Niger_1",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Agadez",
+   "mapRegionName": "map_Agadez",
+   "primaryCity": "Agadez",
+   "population_Millions": 6.916,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -23485,11 +24319,11 @@
    "dataName": "Abuja",
    "mapRegionName": "map_Abuja",
    "primaryCity": "Abuja",
-   "population_Millions": 125.784,
+   "population_Millions": 36.605,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
-   "environment": "Vulnerable",
+   "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",
@@ -23624,11 +24458,11 @@
    "dataName": "Lagos",
    "mapRegionName": "map_Lagos",
    "primaryCity": "Lagos",
-   "population_Millions": 92.648,
+   "population_Millions": 50.42,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
-   "environment": "Standard",
+   "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
@@ -23758,6 +24592,284 @@
    "occupyingNation": "",
    "occupationValue": 0,
    "composedOf": "Southwest, Southeast, South South"
+},
+{
+   "dataName": "Harcourt",
+   "mapRegionName": "map_Harcourt",
+   "primaryCity": "Harcourt",
+   "population_Millions": 49.548,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Nigerian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Nigerian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lagos_0",
+      "illustrations/illus_Lagos_1",
+      "illustrations/illus_Lagos_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Kano",
+   "mapRegionName": "map_Kano",
+   "primaryCity": "Kano",
+   "population_Millions": 81.472,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Nigerian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Nigerian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lagos_0",
+      "illustrations/illus_Lagos_1",
+      "illustrations/illus_Lagos_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "NorthKorea",
@@ -31964,7 +33076,7 @@
    "dataName": "Kharkiv",
    "mapRegionName": "map_Kharkiv",
    "primaryCity": "Kharkiv",
-   "population_Millions": 18.997,
+   "population_Millions": 14.386,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -32103,7 +33215,7 @@
    "dataName": "Odessa",
    "mapRegionName": "map_Odessa",
    "primaryCity": "Odessa",
-   "population_Millions": 18.997,
+   "population_Millions": 7.19,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -32242,7 +33354,7 @@
    "dataName": "Kiev",
    "mapRegionName": "map_Kiev",
    "primaryCity": "Kiev",
-   "population_Millions": 9.974,
+   "population_Millions": 10.731,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -32381,7 +33493,7 @@
    "dataName": "Lwow",
    "mapRegionName": "map_Lwow",
    "primaryCity": "Lviv",
-   "population_Millions": 12.259,
+   "population_Millions": 10.655,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -40861,7 +41973,146 @@
    "dataName": "Rabat",
    "mapRegionName": "map_AltMorocco",
    "primaryCity": "Rabat",
-   "population_Millions": 37.906,
+   "population_Millions": 24.071,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Berber",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Rabat_0",
+      "illustrations/illus_Rabat_1",
+      "illustrations/illus_Rabat_2",
+      "illustrations/illus_Rabat_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Marrakech",
+   "mapRegionName": "map_Marrakech",
+   "primaryCity": "Marrakech",
+   "population_Millions": 9.145,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -41000,7 +42251,7 @@
    "dataName": "WesternSahara",
    "mapRegionName": "map_WesternSahara",
    "primaryCity": "Laâyoune",
-   "population_Millions": 0.631,
+   "population_Millions": 0.632,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -41139,7 +42390,7 @@
    "dataName": "Conkary",
    "mapRegionName": "map_AltUpperGuinea",
    "primaryCity": "Conkary",
-   "population_Millions": 29.764,
+   "population_Millions": 16.039,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -41163,19 +42414,16 @@
    "afrPersonal": [
       "Portuguese",
       "French",
-      "Muslim",
-      "English"
+      "Muslim"
    ],
    "afrFamily": [
       "Portuguese",
       "Senegalese",
-      "Muslim",
-      "English"
+      "Muslim"
    ],
    "afrWeight": [
       1,
       2,
-      1,
       1
    ],
    "asiPersonal": [
@@ -41273,6 +42521,272 @@
    "occupyingNation": "",
    "occupationValue": 0,
    "composedOf": "Guinea, Guinea-Bisseau, Liberia, Sierra Leone"
+},
+{
+   "dataName": "Monrovia",
+   "mapRegionName": "map_Monrovia",
+   "primaryCity": "Monrovia",
+   "population_Millions": 5.335,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Muslim",
+      "African-American"
+   ],
+   "afrFamily": [
+      "Muslim",
+      "African-American"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Conkary_0",
+      "illustrations/illus_Conkary_1",
+      "illustrations/illus_Conkary_2",
+      "illustrations/illus_Conkary_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Liberia"
+},
+{
+   "dataName": "Freetown",
+   "mapRegionName": "map_Freetown",
+   "primaryCity": "Freetown",
+   "population_Millions": 8.355,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Muslim",
+      "English"
+   ],
+   "afrFamily": [
+      "Muslim",
+      "English"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Conkary_0",
+      "illustrations/illus_Conkary_1",
+      "illustrations/illus_Conkary_2",
+      "illustrations/illus_Conkary_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Sierra Leone"
 },
  {
    "dataName": "BurkinaFaso",
@@ -42112,7 +43626,7 @@
    "dataName": "IvoryCoast",
    "mapRegionName": "map_IvoryCoast",
    "primaryCity": "Abidjan",
-   "population_Millions": 27.96,
+   "population_Millions": 27.9,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
