@@ -7349,7 +7349,7 @@
    },
    "aggregateNation": null,
    "initialGDP": 3841589840000,
-   "popGrowthModifier": -0.5,
+   "popGrowthModifier": -1,
    "initialFactionStr": "",
    "cohesion": 7,
    "unrest": 4,

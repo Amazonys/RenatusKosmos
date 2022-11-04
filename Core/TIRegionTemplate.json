@@ -3614,10 +3614,10 @@
    "composedOf": ""
 },
  {
-   "dataName": "GranChaco",
-   "mapRegionName": "map_GranChaco",
+   "dataName": "Salta",
+   "mapRegionName": "map_Salta",
    "primaryCity": "Salta",
-   "population_Millions": 9.505,
+   "population_Millions": 5.553,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -3750,16 +3750,294 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Jujuy, Salta, Tucuman, Catamarca, Formosa, Chaco, Santiago del Estero, Corrientes, Misiones, Santa Fe (Nueve de Julio, Vera, General Obligado, San Cristobal, San Justo, San Javier departments)"
+   "composedOf": ""
+},
+{
+   "dataName": "GranChaco",
+   "mapRegionName": "map_GranChaco",
+   "primaryCity": "Santiago del Estero",
+   "population_Millions": 2.836,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American",
+      ""
+   ],
+   "eurFamily": [
+      "Hispanic-American",
+      "Italian",
+      "German",
+      ""
+   ],
+   "eurWeight": [
+      3,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "Italian",
+      "German"
+   ],
+   "hisWeight": [
+      8,
+      1,
+      1
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_GranChaco_0",
+      "illustrations/illus_GranChaco_1",
+      "illustrations/illus_GranChaco_2",
+      "illustrations/illus_GranChaco_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Cordoba",
+   "mapRegionName": "map_Cordoba",
+   "primaryCity": "Cordoba",
+   "population_Millions": 6.724,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American",
+      ""
+   ],
+   "eurFamily": [
+      "Hispanic-American",
+      "Italian",
+      "German",
+      ""
+   ],
+   "eurWeight": [
+      3,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "Italian",
+      "German"
+   ],
+   "hisWeight": [
+      8,
+      1,
+      1
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Pampas_0",
+      "illustrations/illus_Pampas_1",
+      "illustrations/illus_Pampas_2",
+      "illustrations/illus_Pampas_3",
+      "illustrations/illus_Pampas_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Pampas",
    "mapRegionName": "map_Pampas",
    "primaryCity": "Buenos Aires",
-   "population_Millions": 34.254,
+   "population_Millions": 21.025,
    "resource": null,
    "oilResource": null,
-   "coreEco": null,
+   "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -3889,13 +4167,152 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Cordoba, Santa Fe (South), La Pampa, Buenos Aires, Mendoza, San Luis, Entre Rios, San Juan, La Rioja."
+   "composedOf": ""
+},
+{
+   "dataName": "Rosario",
+   "mapRegionName": "map_Rosario",
+   "primaryCity": "Rosario",
+   "population_Millions": 7.445,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American",
+      ""
+   ],
+   "eurFamily": [
+      "Hispanic-American",
+      "Italian",
+      "German",
+      ""
+   ],
+   "eurWeight": [
+      3,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "Italian",
+      "German"
+   ],
+   "hisWeight": [
+      8,
+      1,
+      1
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Pampas_0",
+      "illustrations/illus_Pampas_1",
+      "illustrations/illus_Pampas_2",
+      "illustrations/illus_Pampas_3",
+      "illustrations/illus_Pampas_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Patagonia",
    "mapRegionName": "map_Patagonia",
    "primaryCity": "Neuquen",
-   "population_Millions": 2.377,
+   "population_Millions": 2.579,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -4729,7 +5146,146 @@
    "dataName": "Bolivia",
    "mapRegionName": "map_Bolivia",
    "primaryCity": "La Paz",
-   "population_Millions": 12.042,
+   "population_Millions": 7.381,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Bolivia_0",
+      "illustrations/illus_Bolivia_1",
+      "illustrations/illus_Bolivia_2",
+      "illustrations/illus_Bolivia_3",
+      "illustrations/illus_Bolivia_4",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "SantaCruz",
+   "mapRegionName": "map_SantaCruz",
+   "primaryCity": "Santa Cruz",
+   "population_Millions": 4.664,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -5003,11 +5559,11 @@
    "occupationValue": 0,
    "composedOf": ""
 },
- {
-   "dataName": "Amazonia",
-   "mapRegionName": "map_Amazonia",
-   "primaryCity": "Manaus",
-   "population_Millions": 16.724,
+{
+   "dataName": "Belem",
+   "mapRegionName": "map_Belem",
+   "primaryCity": "Belem",
+   "population_Millions": 9.699,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -5140,13 +5696,13 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Acre, Amazonas, Para, Roraima, Amapa, Tocantins (North Region-Rodonia)"
+   "composedOf": "Para, Amapa"
 },
  {
-   "dataName": "Brasilia",
-   "mapRegionName": "map_Brasilia",
-   "primaryCity": "Brasilia",
-   "population_Millions": 18.18,
+   "dataName": "BoaVista",
+   "mapRegionName": "map_BoaVista",
+   "primaryCity": "Boa Vista",
+   "population_Millions": 0.667,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -5154,16 +5710,16 @@
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",
-   "afr": 49,
+   "afr": 1,
    "asi": null,
-   "eas": 1,
+   "eas": null,
    "eur": null,
-   "his": 50,
+   "his": 1,
    "oce": null,
    "language": "ENG",
    "acc_afr": "LATN",
    "acc_asi": "",
-   "acc_eas": "LATN",
+   "acc_eas": "",
    "acc_eur": "",
    "acc_his": "LATN",
    "acc_oce": "",
@@ -5204,20 +5760,298 @@
       null
    ],
    "easPersonal": [
-      "Japanese",
-      "Brazilian",
+      "",
+      "",
       "",
       ""
    ],
    "easFamily": [
-      "Japanese",
-      "Japanese",
+      "",
+      "",
       "",
       ""
    ],
    "easWeight": [
-      "1",
-      "1",
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Amazonia_0",
+      "illustrations/illus_Amazonia_1",
+      "illustrations/illus_Amazonia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Roraima"
+},
+{
+   "dataName": "Amazonia",
+   "mapRegionName": "map_Amazonia",
+   "primaryCity": "Manaus",
+   "population_Millions": 5.171,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Amazonia_0",
+      "illustrations/illus_Amazonia_1",
+      "illustrations/illus_Amazonia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Acre, Amazonas"
+},
+ {
+   "dataName": "CampoGrande",
+   "mapRegionName": "map_CampoGrande",
+   "primaryCity": "Campo Grande",
+   "population_Millions": 2.884,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
       null,
       null
    ],
@@ -5279,13 +6113,430 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Matto Grosso, Goaias, Mato Grosso do Sul, Federal District, Rodonia (Central-West Region+Rodonia)"
+   "composedOf": "Mato Grosso do Sul"
 },
- {
-   "dataName": "PortoAlegre",
-   "mapRegionName": "map_PortoAlegre",
-   "primaryCity": "Porto Alegre",
-   "population_Millions": 30.809,
+{
+   "dataName": "Cuiaba",
+   "mapRegionName": "map_Cuiaba",
+   "primaryCity": "Cuiaba",
+   "population_Millions": 3.623,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Brasilia_0",
+      "illustrations/illus_Brasilia_1",
+      "illustrations/illus_Brasilia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Matto Grosso"
+},
+{
+   "dataName": "PortoVelho",
+   "mapRegionName": "map_PortoVelho",
+   "primaryCity": "Porto Velho",
+   "population_Millions": 1.849,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Brasilia_0",
+      "illustrations/illus_Brasilia_1",
+      "illustrations/illus_Brasilia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Rondonia"
+},
+{
+   "dataName": "Brasilia",
+   "mapRegionName": "map_Brasilia",
+   "primaryCity": "Brasilia",
+   "population_Millions": 12.145,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Brasilia_0",
+      "illustrations/illus_Brasilia_1",
+      "illustrations/illus_Brasilia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Federal District, Goias, Tocantins"
+},
+{
+   "dataName": "Curitiba",
+   "mapRegionName": "map_Curitiba",
+   "primaryCity": "Curitiba",
+   "population_Millions": 19.146,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -5418,13 +6669,152 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Parana, Santa Catarina, Rio Grande do Sul (South Region)"
+   "composedOf": "Parana, Santa Catarina"
 },
  {
-   "dataName": "Recife",
-   "mapRegionName": "map_Recife",
-   "primaryCity": "Recife",
-   "population_Millions": 59.627,
+   "dataName": "PortoAlegre",
+   "mapRegionName": "map_PortoAlegre",
+   "primaryCity": "Porto Alegre",
+   "population_Millions": 11.685,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_PortoAlegre_0",
+      "illustrations/illus_PortoAlegre_1",
+      "illustrations/illus_PortoAlegre_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Rio Grande do Sul"
+},
+ {
+   "dataName": "Salvador",
+   "mapRegionName": "map_Salvador",
+   "primaryCity": "Salvador",
+   "population_Millions": 17.68,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -5557,13 +6947,569 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Bahia, Piaui, Maranhao, Ceara, Rio Grande do Norte, Paraiba, Pemambuco, Alagoas, Sergipe (Northeast Region)"
+   "composedOf": "Bahia, Sergipe"
+},
+{
+   "dataName": "Fortaleza",
+   "mapRegionName": "map_Fortaleza",
+   "primaryCity": "Fortaleza",
+   "population_Millions": 19.767,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Recife_0",
+      "illustrations/illus_Recife_1",
+      "illustrations/illus_Recife_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Piaui, Maranhao, Ceara"
+},
+{
+   "dataName": "Recife",
+   "mapRegionName": "map_Recife",
+   "primaryCity": "Recife",
+   "population_Millions": 21.101,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Recife_0",
+      "illustrations/illus_Recife_1",
+      "illustrations/illus_Recife_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Rio Grande do Norte, Paraiba, Pemambuco, Alagoas"
+},
+{
+   "dataName": "Rio",
+   "mapRegionName": "map_Rio",
+   "primaryCity": "Rio de Janeiro",
+   "population_Millions": 21.81,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_SaoPaolo_0",
+      "illustrations/illus_SaoPaolo_1",
+      "illustrations/illus_SaoPaolo_2",
+      "illustrations/illus_SaoPaolo_3",
+      "illustrations/illus_SaoPaolo_4",
+      "illustrations/illus_SaoPaolo_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Espirito Santo, Rio de Janiero"
+},
+{
+   "dataName": "BeloHorizonte",
+   "mapRegionName": "map_BeloHorizonte",
+   "primaryCity": "Belo Horizonte",
+   "population_Millions": 21.729,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Brazilian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Brazilian",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_SaoPaolo_0",
+      "illustrations/illus_SaoPaolo_1",
+      "illustrations/illus_SaoPaolo_2",
+      "illustrations/illus_SaoPaolo_3",
+      "illustrations/illus_SaoPaolo_4",
+      "illustrations/illus_SaoPaolo_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Minas Gerais"
 },
  {
    "dataName": "SaoPaolo",
    "mapRegionName": "map_SaoPaolo",
    "primaryCity": "Sao Paolo",
-   "population_Millions": 90.436,
+   "population_Millions": 47.126,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -5696,7 +7642,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Minas Gerais, Sao Paulo, Espirito Santo, Rio de Janiero (Southeast Region)"
+   "composedOf": "Sao Paulo"
 },
  {
    "dataName": "Cambodia",
@@ -8757,10 +10703,10 @@
    "composedOf": ""
 },
  {
-   "dataName": "Colombia",
-   "mapRegionName": "map_Colombia",
-   "primaryCity": "Bogota",
-   "population_Millions": 51.575,
+   "dataName": "Cali",
+   "mapRegionName": "map_Cali",
+   "primaryCity": "Cali",
+   "population_Millions": 18.365,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -8768,6 +10714,423 @@
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Colombia_0",
+      "illustrations/illus_Colombia_1",
+      "illustrations/illus_Colombia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Barranquilla",
+   "mapRegionName": "map_Barranquilla",
+   "primaryCity": "Barranquilla",
+   "population_Millions": 11.648,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Colombia_0",
+      "illustrations/illus_Colombia_1",
+      "illustrations/illus_Colombia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Villavicencio",
+   "mapRegionName": "map_Villavicencio",
+   "primaryCity": "Villavicencio",
+   "population_Millions": 3.057,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Colombia_0",
+      "illustrations/illus_Colombia_1",
+      "illustrations/illus_Colombia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Colombia",
+   "mapRegionName": "map_Colombia",
+   "primaryCity": "Bogota",
+   "population_Millions": 19.08,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": null,
    "asi": null,
    "eas": null,
@@ -26262,10 +28625,566 @@
    "composedOf": ""
 },
  {
+   "dataName": "Cusco",
+   "mapRegionName": "map_Cusco",
+   "primaryCity": "Cusco",
+   "population_Millions": 4.45,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": 49,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "LATN",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "Japanese",
+      "Chinese"
+   ],
+   "hisWeight": [
+      15,
+      2,
+      1
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Peru_0",
+      "illustrations/illus_Peru_1",
+      "illustrations/illus_Peru_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Huancayo",
+   "mapRegionName": "map_Huancayo",
+   "primaryCity": "Huancayo",
+   "population_Millions": 3.649,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": 49,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "LATN",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "Japanese",
+      "Chinese"
+   ],
+   "hisWeight": [
+      15,
+      2,
+      1
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Peru_0",
+      "illustrations/illus_Peru_1",
+      "illustrations/illus_Peru_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Iquitos",
+   "mapRegionName": "map_Iquitos",
+   "primaryCity": "Iquitos",
+   "population_Millions": 1.533,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": 49,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "LATN",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "Japanese",
+      "Chinese"
+   ],
+   "hisWeight": [
+      15,
+      2,
+      1
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Peru_0",
+      "illustrations/illus_Peru_1",
+      "illustrations/illus_Peru_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
    "dataName": "Peru",
    "mapRegionName": "map_Peru",
    "primaryCity": "Lima",
-   "population_Millions": 33.78,
+   "population_Millions": 21.902,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": 49,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "LATN",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "Hispanic-American",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "Japanese",
+      "Chinese"
+   ],
+   "hisWeight": [
+      15,
+      2,
+      1
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Peru_0",
+      "illustrations/illus_Peru_1",
+      "illustrations/illus_Peru_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Arequipa",
+   "mapRegionName": "map_Arequipa",
+   "primaryCity": "Arequipa",
+   "population_Millions": 2.776,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -36270,10 +39189,288 @@
    "composedOf": ""
 },
  {
+   "dataName": "Guayana",
+   "mapRegionName": "map_Guayana",
+   "primaryCity": "Guayana",
+   "population_Millions": 1.74,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Venezuela_0",
+      "illustrations/illus_Venezuela_1",
+      "illustrations/illus_Venezuela_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
    "dataName": "Venezuela",
    "mapRegionName": "map_Venezuela",
    "primaryCity": "Caracas",
-   "population_Millions": 29.471,
+   "population_Millions": 13.303,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Venezuela_0",
+      "illustrations/illus_Venezuela_1",
+      "illustrations/illus_Venezuela_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Maracaibo",
+   "mapRegionName": "map_Maracaibo",
+   "primaryCity": "Maracaibo",
+   "population_Millions": 13.205,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -37521,11 +40718,150 @@
    "composedOf": ""
 },
  {
+   "dataName": "Antofagasta",
+   "mapRegionName": "map_Atacama",
+   "primaryCity": "Antofagasta",
+   "population_Millions": 1.291,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Valparaiso_0",
+      "illustrations/illus_Valparaiso_1",
+      "illustrations/illus_Valparaiso_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
    "dataName": "Valparaiso",
    "mapRegionName": "map_NorthernChile",
    "primaryCity": "Valparaíso",
-   "population_Millions": 4.392,
-   "resource": true,
+   "population_Millions": 3.172,
+   "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
@@ -37663,9 +40999,148 @@
    "dataName": "Santiago",
    "mapRegionName": "map_SouthernChile",
    "primaryCity": "Santiago",
-   "population_Millions": 14.865,
+   "population_Millions": 14.735,
    "resource": null,
    "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Santiago_0",
+      "illustrations/illus_Santiago_1",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "PuntasArenas",
+   "mapRegionName": "map_PuntasArenas",
+   "primaryCity": "Puntas Arenas",
+   "population_Millions": 0.299,
+   "resource": true,
+   "oilResource": true,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -42386,11 +45861,11 @@
    "occupationValue": 0,
    "composedOf": ""
 },
- {
-   "dataName": "Conkary",
-   "mapRegionName": "map_AltUpperGuinea",
-   "primaryCity": "Conkary",
-   "population_Millions": 16.039,
+{
+   "dataName": "Bissau",
+   "mapRegionName": "map_Bissau",
+   "primaryCity": "Bissau",
+   "population_Millions": 2.077,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -42413,7 +45888,7 @@
    "acc_oce": "",
    "afrPersonal": [
       "Portuguese",
-      "French",
+      "Portuguese",
       "Muslim"
    ],
    "afrFamily": [
@@ -42423,6 +45898,139 @@
    ],
    "afrWeight": [
       1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Conkary_0",
+      "illustrations/illus_Conkary_1",
+      "illustrations/illus_Conkary_2",
+      "illustrations/illus_Conkary_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Guinea-Bisseau"
+},
+ {
+   "dataName": "Conkary",
+   "mapRegionName": "map_AltUpperGuinea",
+   "primaryCity": "Conkary",
+   "population_Millions": 13.965,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "French",
+      "Muslim"
+   ],
+   "afrFamily": [
+      "Senegalese",
+      "Muslim"
+   ],
+   "afrWeight": [
       2,
       1
    ],
@@ -42520,7 +46128,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Guinea, Guinea-Bisseau, Liberia, Sierra Leone"
+   "composedOf": "Guinea"
 },
 {
    "dataName": "Monrovia",
@@ -43345,12 +46953,151 @@
    "composedOf": "Congo-Brazzaville"
 },
 {
+   "dataName": "Ecuatoria",
+   "mapRegionName": "map_Ecuatoria",
+   "primaryCity": "Malabo",
+   "population_Millions": 1.739,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Spanish",
+      "Portuguese",
+      "Congolese",
+      ""
+   ],
+   "afrFamily": [
+      "Congolese",
+      "Congolese",
+      "Congolese",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Brazzaville_0",
+      "illustrations/illus_Brazzaville_1",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Equatorial Guinea, Sao Tome and Principe"
+},
+{
    "dataName": "Gabon",
    "mapRegionName": "map_Gabon",
    "primaryCity": "Libreville",
-   "population_Millions": 4.087,
+   "population_Millions": 2.348,
    "resource": null,
-   "oilResource": true,
+   "oilResource": null,
    "coreEco": null,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
@@ -43481,7 +47228,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Gabon, Equitorial Guinea, Sao Tome and Principe"
+   "composedOf": "Gabon"
 },
  {
    "dataName": "Senegambia",

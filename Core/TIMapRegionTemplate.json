@@ -54,6 +54,15 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_Ecuatoria",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 1.61,
+   "longitude": 7.41,
+   "boostLatitude": 0,
+   "smallRegion": true
+ },
+ {
    "dataName": "map_Gabon",
    "terrain": "Standard",
    "supraRegion": "Africa",
@@ -106,6 +115,15 @@
    "longitude": -6.84,
    "boostLatitude": 35,
    "smallRegion": null
+ },
+ {
+   "dataName": "map_Bissau",
+   "terrain": "Standard",
+   "supraRegion": "Africa",
+   "latitude": 11.98,
+   "longitude": -15.52
+   "boostLatitude": 10,
+   "smallRegion": true
  },
  {
    "dataName": "map_Freetown",
@@ -2565,58 +2583,148 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_BoaVista",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": 2.72,
+   "longitude": -60.74,
+   "boostLatitude": 5,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Belem",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -1.43,
+   "longitude": -48.38,
+   "boostLatitude": 0,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_Amazonia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": -3.5,
-   "longitude": -65,
-   "boostLatitude": 0,
+   "latitude": -2.99,
+   "longitude": -59.94,
+   "boostLatitude": -5,
    "smallRegion": null
  },
  {
    "dataName": "map_Bolivia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": -17,
-   "longitude": -65,
+   "latitude": -16.55,
+   "longitude": -68.15,
+   "boostLatitude": -15,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_SantaCruz",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -17.66,
+   "longitude": -63.13,
+   "boostLatitude": -15,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_PortoVelho",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -8.82,
+   "longitude": -63.89,
    "boostLatitude": -10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Cuiaba",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -15.59,
+   "longitude": -56.16,
+   "boostLatitude": -15,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_CampoGrande",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -20.52,
+   "longitude": -54.73,
+   "boostLatitude": -20,
    "smallRegion": null
  },
  {
    "dataName": "map_Brasilia",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
-   "latitude": -16,
-   "longitude": -48,
-   "boostLatitude": -10,
+   "latitude": -15.78,
+   "longitude": -47.99,
+   "boostLatitude": -15,
    "smallRegion": null
  },
  {
    "dataName": "map_Colombia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": 3.25,
-   "longitude": -73.2,
-   "boostLatitude": 0,
-   "smallRegion": null
+   "latitude": 4.57,
+   "longitude": -74.19,
+   "boostLatitude": 5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Villavicencio",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": 4.12,
+   "longitude": -73.6,
+   "boostLatitude": 5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Cali",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": 3.35,
+   "longitude": -76.56,
+   "boostLatitude": 5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Barranquilla",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": 10.96,
+   "longitude": -74.86,
+   "boostLatitude": 10,
+   "smallRegion": true
  },
  {
    "dataName": "map_Ecuador",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": -1.6,
-   "longitude": -78.5,
+   "latitude": -0.25,
+   "longitude": -78.39,
    "boostLatitude": 0,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Salta",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -24.87,
+   "longitude": -65.43,
+   "boostLatitude": -25,
+   "smallRegion": true
  },
  {
    "dataName": "map_GranChaco",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
-   "latitude": -29,
-   "longitude": -62,
-   "boostLatitude": -25,
-   "smallRegion": null
+   "latitude": -27.8,
+   "longitude": -64.19,
+   "boostLatitude": -30,
+   "smallRegion": true
  },
  {
    "dataName": "map_Guyana",
@@ -2631,17 +2739,44 @@
    "dataName": "map_NorthernChile",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": -25.27,
-   "longitude": -69.4,
-   "boostLatitude": -20,
+   "latitude": -32.95,
+   "longitude": -71.52,
+   "boostLatitude": -35,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Atacama",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -23.65,
+   "longitude": -70.38,
+   "boostLatitude": -25,
    "smallRegion": null
  },
  {
    "dataName": "map_Pampas",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
-   "latitude": -35.5,
-   "longitude": -65,
+   "latitude": -34.82,
+   "longitude": -58.83,
+   "boostLatitude": -35,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Cordoba",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -31.47,
+   "longitude": -64.3,
+   "boostLatitude": -30,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Rosario",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -32.83,
+   "longitude": -60.76,
    "boostLatitude": -30,
    "smallRegion": null
  },
@@ -2658,8 +2793,8 @@
    "dataName": "map_Patagonia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": -42.5,
-   "longitude": -68.5,
+   "latitude": -39.0,
+   "longitude": -68.12,
    "boostLatitude": -40,
    "smallRegion": null
  },
@@ -2667,45 +2802,135 @@
    "dataName": "map_Peru",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": -10.9,
-   "longitude": -75.29,
-   "boostLatitude": 0,
-   "smallRegion": null
+   "latitude": -11.98,
+   "longitude": -77.03,
+   "boostLatitude": -10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Iquitos",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -3.78,
+   "longitude": -73.27,
+   "boostLatitude": -5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Huancayo",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -12.07,
+   "longitude": -75.18,
+   "boostLatitude": -10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Cusco",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -13.55,
+   "longitude": -71.96,
+   "boostLatitude": -15,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Arequipa",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -16.41,
+   "longitude": -71.55,
+   "boostLatitude": -15,
+   "smallRegion": true
  },
  {
    "dataName": "map_PortoAlegre",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
-   "latitude": -26,
-   "longitude": -52,
+   "latitude": -29.92,
+   "longitude": -51.38,
+   "boostLatitude": -30,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Curitiba",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -25.57,
+   "longitude": -49.38,
    "boostLatitude": -25,
-   "smallRegion": null
+   "smallRegion": true
  },
  {
    "dataName": "map_Recife",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
-   "latitude": -7,
-   "longitude": -38,
-   "boostLatitude": 0,
-   "smallRegion": null
+   "latitude": -8.05,
+   "longitude": -35.02,
+   "boostLatitude": -10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Fortaleza",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -3.83,
+   "longitude": -38.68,
+   "boostLatitude": -5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Salvador",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -12.74,
+   "longitude": -38.39,
+   "boostLatitude": -15,
+   "smallRegion": true
  },
  {
    "dataName": "map_SaoPaolo",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
-   "latitude": -21.5,
-   "longitude": -46.5,
-   "boostLatitude": -15,
-   "smallRegion": null
+   "latitude": -23.64,
+   "longitude": -46.91,
+   "boostLatitude": -25,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Rio",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -22.69,
+   "longitude": -43.23,
+   "boostLatitude": -25,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_BeloHorizonte",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": -19.87,
+   "longitude": -44.04,
+   "boostLatitude": -20,
+   "smallRegion": true
  },
  {
    "dataName": "map_SouthernChile",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
-   "latitude": -38.16,
-   "longitude": -72.21,
+   "latitude": -33.61,
+   "longitude": -70.81,
    "boostLatitude": -35,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_PuntasArenas",
+   "terrain": "Rugged",
+   "supraRegion": "SouthAmerica",
+   "latitude": -53.18,
+   "longitude": -70.95,
+   "boostLatitude": -55,
    "smallRegion": null
  },
  {
@@ -2730,10 +2955,28 @@
    "dataName": "map_Venezuela",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
-   "latitude": 6.69,
-   "longitude": -66.2,
-   "boostLatitude": 5,
-   "smallRegion": null
+   "latitude": 10.34,
+   "longitude": -66.82,
+   "boostLatitude": 10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Maracaibo",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": 10.5,
+   "longitude": -71.79,
+   "boostLatitude": 10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Guayana",
+   "terrain": "Standard",
+   "supraRegion": "SouthAmerica",
+   "latitude": 8.26,
+   "longitude": -62.61,
+   "boostLatitude": 10,
+   "smallRegion": true
  },
  {
    "dataName": "map_CentralAmerica",
