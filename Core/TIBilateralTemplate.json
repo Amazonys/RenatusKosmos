@@ -28210,6 +28210,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "PhysicalAdjacencyHondurasElSalvador",
+   "relationType": "PhysicalAdjacency",
+   "nation1": "",
+   "nation2": "",
+   "federation": "",
+   "region1": "Honduras",
+   "region2": "ElSalvador",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "PhysicalAdjacencyGuatemalaHonduras",
    "relationType": "PhysicalAdjacency",
    "nation1": "",
