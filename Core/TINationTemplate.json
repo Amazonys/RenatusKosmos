@@ -834,7 +834,7 @@
    "dataName": "AGO",
    "flagResource": "nationflags/Angola",
    "unionFlagResource": "nationflags/UnitedBantuNation",
-   "unionTrigger": 2,
+   "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
       "r": 255,
@@ -5228,7 +5228,7 @@
    ]
 },
  {
-   "friendlyName": "Lower Guinea",
+   "friendlyName": "Rep Congo",
    "dataName": "LWG",
    "flagResource": "nationflags/Rep_Congo",
    "unionFlagResource": "",
@@ -5273,6 +5273,196 @@
    "ISOCodes": [
       "COG",
       "GAB",
+      "GNQ"
+   ]
+},
+ {
+   "friendlyName": "Madagascar",
+   "dataName": "MDG",
+   "flagResource": "nationflags/Madagascar",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 128,
+      "g": 128,
+      "b": 255
+   },
+   "color": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 1,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": 45338480000,
+   "popGrowthModifier": 0.5,
+   "initialFactionStr": "",
+   "cohesion": 3,
+   "unrest": 2,
+   "inequality": 4.26,
+   "democracy": 5.7,
+   "education": 4.86,
+   "spaceFunding_year": 0,
+   "miltech": 3,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Subsistence",
+      "Kleptocratic",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
+      "MDG",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Rep Congo",
+   "dataName": "LWG",
+   "flagResource": "nationflags/Rep_Congo",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 152,
+      "g": 103,
+      "b": 197
+   },
+   "color": {
+      "r": 0.6,
+      "g": 0.4,
+      "b": 0.77,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 23031000000,
+   "popGrowthModifier": 1,
+   "initialFactionStr": "",
+   "cohesion": 6,
+   "unrest": 3,
+   "inequality": 4.89,
+   "democracy": 2.79,
+   "education": 5.43,
+   "spaceFunding_year": 0,
+   "miltech": 3.1,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Developing",
+      "Authoritarian",
+      "Developing",
+      "Subsistence",
+      "Kleptocratic",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
+      "COG"
+   ]
+},
+{
+   "friendlyName": "Gabon",
+   "dataName": "GAB",
+   "flagResource": "nationflags/Gabon",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 152,
+      "g": 103,
+      "b": 197
+   },
+   "color": {
+      "r": 0.6,
+      "g": 0.4,
+      "b": 0.77,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 39093000000,
+   "popGrowthModifier": 1,
+   "initialFactionStr": "",
+   "cohesion": 5,
+   "unrest": 2,
+   "inequality": 3.8,
+   "democracy": 3.4,
+   "education": 6.5,
+   "spaceFunding_year": 0,
+   "miltech": 3.1,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Developing",
+      "Developing",
+      "Developing",
+      "Developing",
+      "Stability",
+      "Subsistence",
+   ],
+   "ISOCodes": [
+      "GAB"
+   ]
+},
+{
+   "friendlyName": "Ecuatoria",
+   "dataName": "ECT",
+   "flagResource": "nationflags/Ecuatoria",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 152,
+      "g": 103,
+      "b": 197
+   },
+   "color": {
+      "r": 0.6,
+      "g": 0.4,
+      "b": 0.77,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 30186000000,
+   "popGrowthModifier": 1,
+   "initialFactionStr": "",
+   "cohesion": 6,
+   "unrest": 3,
+   "inequality": 6.42,
+   "democracy": 1.92,
+   "education": 4.97,
+   "spaceFunding_year": 0,
+   "miltech": 3.1,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Kleptocratic",
+      "Kleptocratic",
+      "Authoritarian"
+   ],
+   "ISOCodes": [
       "GNQ"
    ]
 },
@@ -5571,7 +5761,7 @@
    ]
 },
  {
-   "friendlyName": "Middle Guinea",
+   "friendlyName": "Ghana",
    "dataName": "MLG",
    "flagResource": "nationflags/Ghana",
    "unionFlagResource": "",
@@ -5589,14 +5779,14 @@
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 257308480000,
+   "initialGDP": 217525000000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
    "cohesion": 5,
    "unrest": 2,
-   "inequality": 4.2,
-   "democracy": 5.35,
-   "education": 5.35,
+   "inequality": 4.35,
+   "democracy": 6.5,
+   "education": 5.63,
    "spaceFunding_year": 0,
    "miltech": 3.1,
    "nuclearWeapons": 0,
@@ -5614,7 +5804,53 @@
       "Developing"
    ],
    "ISOCodes": [
-      "GHA",
+      "GHA"
+   ]
+},
+{
+   "friendlyName": "Benin",
+   "dataName": "BEN",
+   "flagResource": "nationflags/Benin",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 182,
+      "b": 193
+   },
+   "color": {
+      "r": 1,
+      "g": 0.71,
+      "b": 0.76,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 76480000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 4.5,
+   "unrest": 2,
+   "inequality": 4.01,
+   "democracy": 3.49,
+   "education": 4.98,
+   "spaceFunding_year": 0,
+   "miltech": 3.1,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Developing",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Developing",
+      "Developing"
+   ],
+   "ISOCodes": [
       "BEN",
       "TGO"
    ]
@@ -6016,7 +6252,7 @@
    "dataName": "NGA",
    "flagResource": "nationflags/Nigeria",
    "unionFlagResource": "nationflags/Nigeria",
-   "unionTrigger": 3,
+   "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
       "r": 0,
@@ -9338,7 +9574,7 @@
    ]
 },
  {
-   "friendlyName": "Upper Guinea",
+   "friendlyName": "Guinea",
    "dataName": "UPG",
    "flagResource": "nationflags/Guinea",
    "unionFlagResource": "",
@@ -9356,14 +9592,61 @@
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 65812560000,
-   "popGrowthModifier": -0.5,
+   "initialGDP": 43922000000,
+   "popGrowthModifier": null,
    "initialFactionStr": "",
-   "cohesion": 3,
-   "unrest": 3,
-   "inequality": 3.21,
-   "democracy": 3.63,
-   "education": 3.77,
+   "cohesion": 4,
+   "unrest": 4,
+   "inequality": 2.96,
+   "democracy": 2.28,
+   "education": 3.54,
+   "spaceFunding_year": 0,
+   "miltech": 3.1,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Developing",
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Subsistence",
+      "Stability"
+   ],
+   "ISOCodes": [
+      "GIN"
+   ]
+},
+{
+   "friendlyName": "Bissau",
+   "dataName": "BSU",
+   "flagResource": "nationflags/Bissau",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 34,
+      "b": 64
+   },
+   "color": {
+      "r": 1,
+      "g": 0.13,
+      "b": 0.25,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 5406000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 2.5,
+   "unrest": 4.5,
+   "inequality": 3.48,
+   "democracy": 2.75,
+   "education": 4.14,
    "spaceFunding_year": 0,
    "miltech": 3,
    "nuclearWeapons": 0,
@@ -9381,9 +9664,101 @@
       "Stability"
    ],
    "ISOCodes": [
-      "GIN",
-      "LBR",
+      ""
+   ]
+},
+{
+   "friendlyName": "Sierra Leone",
+   "dataName": "SLE",
+   "flagResource": "nationflags/SierraLeone",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 34,
+      "b": 64
+   },
+   "color": {
+      "r": 1,
+      "g": 0.13,
+      "b": 0.25,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 16386000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 3,
+   "unrest": 3,
+   "inequality": 3.57,
+   "democracy": 4.97,
+   "education": 4.06,
+   "spaceFunding_year": 0,
+   "miltech": 3.1,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Developing",
+      "Authoritarian",
+      "Authoritarian",
+      "Subsistence",
+      "Subsistence",
+      "Stability"
+   ],
+   "ISOCodes": [
       "SLE"
+   ]
+},
+{
+   "friendlyName": "Liberia",
+   "dataName": "LBR",
+   "flagResource": "nationflags/Liberia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 34,
+      "b": 64
+   },
+   "color": {
+      "r": 1,
+      "g": 0.13,
+      "b": 0.25,
+      "a": 0.05
+   },
+   "aggregateNation": true,
+   "initialGDP": 8841000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 3.5,
+   "unrest": 2.5,
+   "inequality": 3.53,
+   "democracy": 5.43,
+   "education": 4.26,
+   "spaceFunding_year": 0,
+   "miltech": 3.1,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Developing",
+      "Authoritarian",
+      "Authoritarian",
+      "Subsistence",
+      "Subsistence",
+      "Stability"
+   ],
+   "ISOCodes": [
+      "LBR"
    ]
 },
  {
