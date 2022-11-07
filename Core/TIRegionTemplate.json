@@ -8481,8 +8481,8 @@
  {
    "dataName": "WestIndies",
    "mapRegionName": "map_WestIndies",
-   "primaryCity": "Santo Domingo",
-   "population_Millions": 28.534,
+   "primaryCity": "Kingston",
+   "population_Millions": 5.998,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -8616,6 +8616,278 @@
    "occupyingNation": "",
    "occupationValue": 0,
    "composedOf": "Dominican Republic, Haiti, Bahamas, Barbados, Dominica, Grenada, Jamaica, St. Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago"
+},
+{
+   "dataName": "Haiti",
+   "mapRegionName": "map_Haiti",
+   "primaryCity": "Port-au-Prince",
+   "population_Millions": 11.728,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "CRIB",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "English",
+      "French",
+      ""
+   ],
+   "afrFamily": [
+      "English",
+      "French",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      3,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_WestIndies_0",
+      "illustrations/illus_WestIndies_1",
+      "illustrations/illus_WestIndies_2",
+      "illustrations/illus_WestIndies_3",
+      "illustrations/illus_WestIndies_4",
+      "illustrations/illus_WestIndies_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Haiti"
+},
+{
+   "dataName": "Dominica",
+   "mapRegionName": "map_Dominica",
+   "primaryCity": "Santo Domingo",
+   "population_Millions": 11.103,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": 1,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "CRIB",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "LATN",
+   "acc_oce": "",
+   "afrPersonal": [
+      "English",
+      "Hispanic-American",
+      ""
+   ],
+   "afrFamily": [
+      "English",
+      "Hispanic-American",
+      ""
+   ],
+   "afrWeight": [
+      1,
+      3,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "Hispanic-American",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      1,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_WestIndies_0",
+      "illustrations/illus_WestIndies_1",
+      "illustrations/illus_WestIndies_2",
+      "illustrations/illus_WestIndies_3",
+      "illustrations/illus_WestIndies_4",
+      "illustrations/illus_WestIndies_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Dominican Republic"
 },
  {
    "dataName": "CentralAfricanRepublic",
