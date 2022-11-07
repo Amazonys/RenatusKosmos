@@ -690,7 +690,7 @@
    "dataName": "DZA",
    "flagResource": "nationflags/Algeria",
    "unionFlagResource": "nationflags/Tamazgha",
-   "unionTrigger": 2,
+   "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
       "r": 210,
@@ -1658,7 +1658,7 @@
    "dataName": "BOL",
    "flagResource": "nationflags/Bolivia",
    "unionFlagResource": "nationflags/South_American_Union",
-   "unionTrigger": 2,
+   "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
       "r": 200,
@@ -2589,7 +2589,7 @@
    "dataName": "COL",
    "flagResource": "nationflags/Colombia",
    "unionFlagResource": "nationflags/Colombia",
-   "unionTrigger": 2,
+   "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
       "r": 255,
@@ -6788,7 +6788,7 @@
    "dataName": "PER",
    "flagResource": "nationflags/Peru",
    "unionFlagResource": "",
-   "unionTrigger": 2,
+   "unionTrigger": 6,
    "multiplier": 1,
    "color32": {
       "r": 205,
