@@ -530,6 +530,18 @@ TINationTemplate.displayName.SOM=Somalia
 TINationTemplate.displayNameWithArticle.SOM=Somalia
 TINationTemplate.nationAdjective.SOM=Somali
 TINationTemplate.displayNameWithArticlePrep.SOM=in Somalia
+TINationTemplate.displayName.SML=Somaliland
+TINationTemplate.displayNameWithArticle.SML=Somaliland
+TINationTemplate.nationAdjective.SML=Somalilander
+TINationTemplate.displayNameWithArticlePrep.SML=in Somaliland
+TINationTemplate.displayName.AHZ=Ahwaz
+TINationTemplate.displayNameWithArticle.AHZ=Ahwaz
+TINationTemplate.nationAdjective.AHZ=Ahwazi
+TINationTemplate.displayNameWithArticlePrep.AHZ=in Ahwaz
+TINationTemplate.displayName.HSA=Haasa
+TINationTemplate.displayNameWithArticle.HSA=Haasa
+TINationTemplate.nationAdjective.HSA=Haasa
+TINationTemplate.displayNameWithArticlePrep.HSA=in Haasa
 TINationTemplate.displayName.SSD=South Sudan
 TINationTemplate.displayNameWithArticle.SSD=South Sudan
 TINationTemplate.nationAdjective.SSD=South Sudanese
@@ -695,6 +707,11 @@ TINationTemplate.displayNameWithArticle.ZWE=Zimbabwe
 TINationTemplate.nationAdjective.ZWE=Zimbabwean
 TINationTemplate.displayNameWithArticlePrep.ZWE=in Zimbabwe
 
+TINationTemplate.displayName.AFR=African Union
+TINationTemplate.displayNameWithArticle.AFR=the African Union
+TINationTemplate.nationAdjective.AFR=African
+TINationTemplate.displayNameWithArticlePrep.AFR=in the African Union
+
 TINationTemplate.unionDisplayName.AGO=Great Bantu Free State
 TINationTemplate.unionDisplayNameWithArticle.AGO=the Great Bantu Free State
 TINationTemplate.unionAdjective.AGO=Bantu
@@ -749,11 +766,6 @@ TINationTemplate.unionDisplayName.ETH=Ethiopia
 TINationTemplate.unionDisplayNameWithArticle.ETH=Ethiopia
 TINationTemplate.unionAdjective.ETH=Ethiopian
 TINationTemplate.unionDisplayNameWithArticlePrep.ETH=in Ethiopia
-
-TINationTemplate.unionDisplayName.AFR=African Union
-TINationTemplate.unionDisplayNameWithArticle.AFR=the African Union
-TINationTemplate.unionAdjective.AFR=African
-TINationTemplate.unionDisplayNameWithArticlePrep.AFR=in the African Union
 
 TINationTemplate.unionDisplayName.EUA=European Union
 TINationTemplate.unionDisplayNameWithArticle.EUA=the European Union
@@ -825,10 +837,10 @@ TINationTemplate.unionDisplayNameWithArticle.UZB=Ferganastan
 TINationTemplate.unionAdjective.UZB=Ferganastani
 TINationTemplate.unionDisplayNameWithArticlePrep.UZB=in Ferganastan
 
-TINationTemplate.unionDisplayName.GBR=British Commonwealth
-TINationTemplate.unionDisplayNameWithArticle.GBR=the British Commonwealth
+TINationTemplate.unionDisplayName.GBR=United Kingdom
+TINationTemplate.unionDisplayNameWithArticle.GBR=the United Kingdom
 TINationTemplate.unionAdjective.GBR=British
-TINationTemplate.unionDisplayNameWithArticlePrep.GBR=in the British Commonwealth
+TINationTemplate.unionDisplayNameWithArticlePrep.GBR=in the United Kingdom
 
 TINationTemplate.unionDisplayName.IDN=Nusantara
 TINationTemplate.unionDisplayNameWithArticle.IDN=Nusantara

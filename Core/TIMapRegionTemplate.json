@@ -2134,7 +2134,7 @@
  },
  {
    "dataName": "map_Belize",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 17.02,
    "longitude": -88.7,
@@ -2377,7 +2377,7 @@
  },
  {
    "dataName": "map_Nicaragua",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 12.5,
    "longitude": -85.4,
@@ -2629,7 +2629,7 @@
  },
  {
    "dataName": "map_PortoVelho",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -8.82,
    "longitude": -63.89,
@@ -2638,7 +2638,7 @@
  },
  {
    "dataName": "map_Cuiaba",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -15.59,
    "longitude": -56.16,
@@ -2710,7 +2710,7 @@
  },
  {
    "dataName": "map_Salta",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -24.87,
    "longitude": -65.43,
@@ -2719,7 +2719,7 @@
  },
  {
    "dataName": "map_GranChaco",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -27.8,
    "longitude": -64.19,
@@ -2764,7 +2764,7 @@
  },
  {
    "dataName": "map_Cordoba",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -31.47,
    "longitude": -64.3,
@@ -2908,7 +2908,7 @@
  },
  {
    "dataName": "map_BeloHorizonte",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -19.87,
    "longitude": -44.04,
@@ -2953,7 +2953,7 @@
  },
  {
    "dataName": "map_Venezuela",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 10.34,
    "longitude": -66.82,
@@ -2962,7 +2962,7 @@
  },
  {
    "dataName": "map_Maracaibo",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 10.5,
    "longitude": -71.79,
@@ -2971,7 +2971,7 @@
  },
  {
    "dataName": "map_Guayana",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 8.26,
    "longitude": -62.61,
