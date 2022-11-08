@@ -16632,9 +16632,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimMLIMalawi",
+   "dataName": "ClaimMWIMalawi",
    "relationType": "Claim",
-   "nation1": "MLI",
+   "nation1": "MWI",
    "nation2": "",
    "federation": "",
    "region1": "Malawi",
