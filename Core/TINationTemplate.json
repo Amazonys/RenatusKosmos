@@ -5770,14 +5770,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 152,
-      "g": 103,
-      "b": 197
+      "r": 0,
+      "g": 115,
+      "b": 206
    },
    "color": {
-      "r": 0.6,
-      "g": 0.4,
-      "b": 0.77,
+      "r": 0,
+      "g": 0.45,
+      "b": 0.81,
       "a": 0.05
    },
    "aggregateNation": true,
@@ -10020,14 +10020,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 34,
-      "b": 64
+      "r": 0,
+      "g": 158,
+      "b": 73
    },
    "color": {
-      "r": 1,
-      "g": 0.13,
-      "b": 0.25,
+      "r": 0,
+      "g": 0.62,
+      "b": 0.29,
       "a": 0.05
    },
    "aggregateNation": true,
@@ -10067,14 +10067,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 34,
-      "b": 64
+      "r": 0,
+      "g": 114,
+      "b": 198
    },
    "color": {
-      "r": 1,
-      "g": 0.13,
-      "b": 0.25,
+      "r": 0,
+      "g": 0.45,
+      "b": 0.78,
       "a": 0.05
    },
    "aggregateNation": true,
@@ -10114,14 +10114,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 34,
-      "b": 64
+      "r": 247,
+      "g": 80,
+      "b": 88
    },
    "color": {
-      "r": 1,
-      "g": 0.13,
-      "b": 0.25,
+      "r": 0.97,
+      "g": 0.31,
+      "b": 0.35,
       "a": 0.05
    },
    "aggregateNation": true,
