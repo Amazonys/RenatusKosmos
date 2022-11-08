@@ -7896,9 +7896,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHAbuja",
+   "dataName": "ClaimAFRAbuja",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Abuja",
@@ -7910,9 +7910,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHAlgeria",
+   "dataName": "ClaimAFRAlgeria",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Algeria",
@@ -7924,9 +7924,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHGhardaia",
+   "dataName": "ClaimAFRGhardaia",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Ghardaia",
@@ -7938,9 +7938,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBechar",
+   "dataName": "ClaimAFRBechar",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Bechar",
@@ -7952,9 +7952,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHTamanrasset",
+   "dataName": "ClaimAFRTamanrasset",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Tamanrasset",
@@ -7966,9 +7966,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHAngola",
+   "dataName": "ClaimAFRAngola",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Angola",
@@ -7980,9 +7980,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHLuena",
+   "dataName": "ClaimAFRLuena",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Luena",
@@ -7994,9 +7994,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBenguela",
+   "dataName": "ClaimAFRBenguela",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Benguela",
@@ -8008,9 +8008,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBotswana",
+   "dataName": "ClaimAFRBotswana",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Botswana",
@@ -8022,9 +8022,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHCapeTown",
+   "dataName": "ClaimAFRCapeTown",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "CapeTown",
@@ -8036,9 +8036,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHCentralAfricanRepublic",
+   "dataName": "ClaimAFRCentralAfricanRepublic",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "CentralAfricanRepublic",
@@ -8050,9 +8050,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHChad",
+   "dataName": "ClaimAFRChad",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Chad",
@@ -8064,9 +8064,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHAbeche",
+   "dataName": "ClaimAFRAbeche",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Abeche",
@@ -8078,9 +8078,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHEgypt",
+   "dataName": "ClaimAFREgypt",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Egypt",
@@ -8092,12 +8092,54 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHLuxor",
+   "dataName": "ClaimAFRLuxor",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Luxor",
+   "region2": "",
+   "projectUnlockName": "Project_AfricanUnion",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimAFREritrea",
+   "relationType": "Claim",
+   "nation1": "AFR",
+   "nation2": "",
+   "federation": "",
+   "region1": "Eritrea",
+   "region2": "",
+   "projectUnlockName": "Project_AfricanUnion",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimAFREthiopia",
+   "relationType": "Claim",
+   "nation1": "AFR",
+   "nation2": "",
+   "federation": "",
+   "region1": "Ethiopia",
+   "region2": "",
+   "projectUnlockName": "Project_AfricanUnion",
+   "capitalClaim": true,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimAFRHarar",
+   "relationType": "Claim",
+   "nation1": "AFR",
+   "nation2": "",
+   "federation": "",
+   "region1": "Harar",
    "region2": "",
    "projectUnlockName": "Project_AfricanUnion",
    "capitalClaim": null,
@@ -8148,9 +8190,23 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHJohannesburg",
+   "dataName": "ClaimOGDHarar",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "OGD",
+   "nation2": "",
+   "federation": "",
+   "region1": "Harar",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": true,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimAFRJohannesburg",
+   "relationType": "Claim",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Johannesburg",
@@ -8162,9 +8218,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHDurban",
+   "dataName": "ClaimAFRDurban",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Durban",
@@ -8176,9 +8232,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHKenya",
+   "dataName": "ClaimAFRKenya",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Kenya",
@@ -8190,9 +8246,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMombasa",
+   "dataName": "ClaimAFRMombasa",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Mombasa",
@@ -8204,9 +8260,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHKinshasa",
+   "dataName": "ClaimAFRKinshasa",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Kinshasa",
@@ -8218,9 +8274,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHLagos",
+   "dataName": "ClaimAFRLagos",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Lagos",
@@ -8232,9 +8288,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHHarcourt",
+   "dataName": "ClaimAFRHarcourt",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Harcourt",
@@ -8246,9 +8302,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHKano",
+   "dataName": "ClaimAFRKano",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Kano",
@@ -8260,9 +8316,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHLibya",
+   "dataName": "ClaimAFRLibya",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Libya",
@@ -8274,9 +8330,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBenghazi",
+   "dataName": "ClaimAFRBenghazi",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Benghazi",
@@ -8288,9 +8344,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHFezzan",
+   "dataName": "ClaimAFRFezzan",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Fezzan",
@@ -8302,9 +8358,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHCameroon",
+   "dataName": "ClaimAFRCameroon",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Cameroon",
@@ -8316,9 +8372,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBrazzaville",
+   "dataName": "ClaimAFRBrazzaville",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Brazzaville",
@@ -8330,9 +8386,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHGabon",
+   "dataName": "ClaimAFRGabon",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Gabon",
@@ -8344,9 +8400,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHEcuatoria",
+   "dataName": "ClaimAFREcuatoria",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Ecuatoria",
@@ -8358,9 +8414,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHKananga",
+   "dataName": "ClaimAFRKananga",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Kananga",
@@ -8372,9 +8428,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMbandaka",
+   "dataName": "ClaimAFRMbandaka",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Mbandaka",
@@ -8386,9 +8442,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHKisangani",
+   "dataName": "ClaimAFRKisangani",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Kisangani",
@@ -8400,9 +8456,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBukavu",
+   "dataName": "ClaimAFRBukavu",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Bukavu",
@@ -8414,9 +8470,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHLubumbashi",
+   "dataName": "ClaimAFRLubumbashi",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Lubumbashi",
@@ -8428,9 +8484,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMadagascar",
+   "dataName": "ClaimAFRMadagascar",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Madagascar",
@@ -8442,9 +8498,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMali",
+   "dataName": "ClaimAFRMali",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Mali",
@@ -8456,9 +8512,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHTimbuktu",
+   "dataName": "ClaimAFRTimbuktu",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Timbuktu",
@@ -8470,9 +8526,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMauritania",
+   "dataName": "ClaimAFRMauritania",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Mauritania",
@@ -8498,9 +8554,23 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHAccra",
+   "dataName": "ClaimAFRMekelle",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
+   "nation2": "",
+   "federation": "",
+   "region1": "Mekelle",
+   "region2": "",
+   "projectUnlockName": "Project_AfricanUnion",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimAFRAccra",
+   "relationType": "Claim",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Accra",
@@ -8512,9 +8582,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBenin",
+   "dataName": "ClaimAFRBenin",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Benin",
@@ -8526,9 +8596,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBurkinaFaso",
+   "dataName": "ClaimAFRBurkinaFaso",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "BurkinaFaso",
@@ -8540,9 +8610,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHIvoryCoast",
+   "dataName": "ClaimAFRIvoryCoast",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "IvoryCoast",
@@ -8554,9 +8624,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHRabat",
+   "dataName": "ClaimAFRRabat",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Rabat",
@@ -8568,9 +8638,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMarrakech",
+   "dataName": "ClaimAFRMarrakech",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Marrakech",
@@ -8582,9 +8652,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHWesternSahara",
+   "dataName": "ClaimAFRWesternSahara",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "WesternSahara",
@@ -8596,9 +8666,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMozambique",
+   "dataName": "ClaimAFRMozambique",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Mozambique",
@@ -8610,9 +8680,9 @@
    "friendlyOnly": null
  },
   {
-   "dataName": "ClaimETHNampula",
+   "dataName": "ClaimAFRNampula",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Nampula",
@@ -8624,9 +8694,9 @@
    "friendlyOnly": null
  },
   {
-   "dataName": "ClaimETHBeira",
+   "dataName": "ClaimAFRBeira",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Beira",
@@ -8638,9 +8708,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHNamibia",
+   "dataName": "ClaimAFRNamibia",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Namibia",
@@ -8652,9 +8722,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHNiger",
+   "dataName": "ClaimAFRNiger",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Niger",
@@ -8666,9 +8736,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHAgadez",
+   "dataName": "ClaimAFRAgadez",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Agadez",
@@ -8680,9 +8750,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHSudan",
+   "dataName": "ClaimAFRSudan",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Sudan",
@@ -8694,9 +8764,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHKordofan",
+   "dataName": "ClaimAFRKordofan",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Kordofan",
@@ -8708,9 +8778,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHDarfur",
+   "dataName": "ClaimAFRDarfur",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Darfur",
@@ -8722,9 +8792,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHUpperNile",
+   "dataName": "ClaimAFRUpperNile",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "UpperNile",
@@ -8736,9 +8806,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHSouthSudan",
+   "dataName": "ClaimAFRSouthSudan",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "SouthSudan",
@@ -8750,9 +8820,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHSomalia",
+   "dataName": "ClaimAFRSomalia",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Somalia",
@@ -8764,9 +8834,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHSomaliland",
+   "dataName": "ClaimAFRSomaliland",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Somaliland",
@@ -8778,9 +8848,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHTanzania",
+   "dataName": "ClaimAFRTanzania",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Tanzania",
@@ -8792,9 +8862,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHDodoma",
+   "dataName": "ClaimAFRDodoma",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Dodoma",
@@ -8806,9 +8876,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMwanza",
+   "dataName": "ClaimAFRMwanza",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Mwanza",
@@ -8820,9 +8890,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMbeya",
+   "dataName": "ClaimAFRMbeya",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Mbeya",
@@ -8834,9 +8904,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHZanzibar",
+   "dataName": "ClaimAFRZanzibar",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Zanzibar",
@@ -8848,9 +8918,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHTunisia",
+   "dataName": "ClaimAFRTunisia",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Tunisia",
@@ -8862,9 +8932,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHUganda",
+   "dataName": "ClaimAFRUganda",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Uganda",
@@ -8876,9 +8946,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHSenegambia",
+   "dataName": "ClaimAFRSenegambia",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Senegambia",
@@ -8890,9 +8960,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHConkary",
+   "dataName": "ClaimAFRConkary",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Conkary",
@@ -8904,9 +8974,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHBissau",
+   "dataName": "ClaimAFRBissau",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Bissau",
@@ -8918,9 +8988,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHFreetown",
+   "dataName": "ClaimAFRFreetown",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Freetown",
@@ -8932,9 +9002,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMonrovia",
+   "dataName": "ClaimAFRMonrovia",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Monrovia",
@@ -8946,9 +9016,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHZambia",
+   "dataName": "ClaimAFRZambia",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Zambia",
@@ -8960,9 +9030,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHKitwe",
+   "dataName": "ClaimAFRKitwe",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Kitwe",
@@ -8974,9 +9044,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHMalawi",
+   "dataName": "ClaimAFRMalawi",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Malawi",
@@ -8988,9 +9058,9 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimETHZimbabwe",
+   "dataName": "ClaimAFRZimbabwe",
    "relationType": "Claim",
-   "nation1": "ETH",
+   "nation1": "AFR",
    "nation2": "",
    "federation": "",
    "region1": "Zimbabwe",

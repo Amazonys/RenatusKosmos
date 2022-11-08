@@ -1026,9 +1026,9 @@
    ]
 },
  {
-   "friendlyName": "Atzlan",
+   "friendlyName": "Aztlan",
    "dataName": "ATZ",
-   "flagResource": "nationflags/Atzlan",
+   "flagResource": "nationflags/Aztlan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3369,11 +3369,11 @@
    ]
 },
  {
-   "friendlyName": "Ethiopia",
+   "friendlyName": "Oromia",
    "dataName": "ETH",
    "flagResource": "nationflags/Ethiopia",
-   "unionFlagResource": "nationflags/African_Union",
-   "unionTrigger": 4,
+   "unionFlagResource": "nationflags/Ethiopia",
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 210,
@@ -3403,6 +3403,104 @@
    "buildNukeIPs": 0,
    "buildArmyIPs": 4,
    "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "ETH",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Ogaden",
+   "dataName": "OGD",
+   "flagResource": "nationflags/Ogaden",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 105,
+      "g": 88,
+      "b": 92
+   },
+   "color": {
+      "r": 0.41,
+      "g": 0.35,
+      "b": 0.36,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "ETH",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "African Union",
+   "dataName": "AFR",
+   "flagResource": "nationflags/African_Union",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 0,
+      "g": 129,
+      "b": 0
+   },
+   "color": {
+      "r": 0,
+      "g": 0.51,
+      "b": 0,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
    "initialPriorityPreset": [
       "Authoritarian",
       "Authoritarian",
@@ -8602,14 +8700,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 186,
-      "g": 37,
-      "b": 74
+      "r": 187,
+      "g": 214,
+      "b": 129
    },
    "color": {
       "r": 0.73,
-      "g": 0.15,
-      "b": 0.29,
+      "g": 0.84,
+      "b": 0.51,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -9623,21 +9721,21 @@
    ]
 },
  {
-   "friendlyName": "Tigray Nation",
+   "friendlyName": "Abyssinia",
    "dataName": "TIG",
-   "flagResource": "nationflags/Tigray",
+   "flagResource": "nationflags/Abyssinia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 150,
-      "g": 122,
-      "b": 132
+      "r": 165,
+      "g": 90,
+      "b": 68
    },
    "color": {
-      "r": 0.59,
-      "g": 0.48,
-      "b": 0.52,
+      "r": 0.65,
+      "g": 0.35,
+      "b": 0.27,
       "a": 0.05
    },
    "aggregateNation": null,
