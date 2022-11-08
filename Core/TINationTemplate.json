@@ -3371,7 +3371,7 @@
  {
    "friendlyName": "Oromia",
    "dataName": "ETH",
-   "flagResource": "nationflags/Ethiopia",
+   "flagResource": "nationflags/Oromia",
    "unionFlagResource": "nationflags/Ethiopia",
    "unionTrigger": 2,
    "multiplier": 1,
