@@ -2241,55 +2241,6 @@
       ""
    ]
 },
- {
-   "friendlyName": "Caribbean States",
-   "dataName": "CAB",
-   "flagResource": "nationflags/Dominican_Republic",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 255,
-      "g": 165,
-      "b": 0
-   },
-   "color": {
-      "r": 1,
-      "g": 0.65,
-      "b": 0,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 357490320000,
-   "popGrowthModifier": -0.5,
-   "initialFactionStr": "",
-   "cohesion": 5,
-   "unrest": 2,
-   "inequality": 4.12,
-   "democracy": 5.46,
-   "education": 5.88,
-   "spaceFunding_year": 0,
-   "miltech": 3,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Developing",
-      "Peaceful",
-      "Populist",
-      "Centrist",
-      "Developing",
-      "Developing"
-   ],
-   "ISOCodes": [
-      "DOM",
-      "HTI",
-      "JAM"
-   ]
-},
 {
    "friendlyName": "Caribbean States",
    "dataName": "CAB",
@@ -2309,7 +2260,7 @@
       "a": 0.05
    },
    "aggregateNation": true,
-   "initialGDP": 357490320000,
+   "initialGDP": 62846320000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
    "cohesion": 4.5,
@@ -2357,17 +2308,17 @@
       "b": 0,
       "a": 0.05
    },
-   "aggregateNation": true,
-   "initialGDP": 357490320000,
+   "aggregateNation": null,
+   "initialGDP": 38198000000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
-   "cohesion": 4.5,
-   "unrest": 2,
-   "inequality": 4.12,
-   "democracy": 5.46,
-   "education": 5.88,
+   "cohesion": 3.5,
+   "unrest": 7,
+   "inequality": 4.11,
+   "democracy": 3.48,
+   "education": 4.56,
    "spaceFunding_year": 0,
-   "miltech": 3,
+   "miltech": 2.9,
    "nuclearWeapons": 0,
    "initSpaceIPs": 0,
    "nuclearProgramIPs": 0,
@@ -2406,15 +2357,15 @@
       "b": 0,
       "a": 0.05
    },
-   "aggregateNation": true,
-   "initialGDP": 357490320000,
+   "aggregateNation": null,
+   "initialGDP": 256446000000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
-   "cohesion": 4.5,
+   "cohesion": 5,
    "unrest": 2,
-   "inequality": 4.12,
-   "democracy": 5.46,
-   "education": 5.88,
+   "inequality": 3.96,
+   "democracy": 6.45,
+   "education": 6.66,
    "spaceFunding_year": 0,
    "miltech": 3,
    "nuclearWeapons": 0,
@@ -4541,6 +4492,153 @@
       ""
    ]
 },
+{
+   "friendlyName": "Ahwaz",
+   "dataName": "AHZ",
+   "flagResource": "nationflags/Ahwaz",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 119,
+      "g": 184,
+      "b": 120
+   },
+   "color": {
+      "r": 0.47,
+      "g": 0.73,
+      "b": 0.47,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Developing",
+      "Modernization",
+      "Authoritarian",
+      "Survival",
+      "Authoritarian",
+      "Conservative"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Basra",
+   "dataName": "BSA",
+   "flagResource": "nationflags/Basra",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 31,
+      "g": 18,
+      "b": 149
+   },
+   "color": {
+      "r": 0.12,
+      "g": 0.7,
+      "b": 0.58,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Developing",
+      "Modernization",
+      "Authoritarian",
+      "Survival",
+      "Authoritarian",
+      "Conservative"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Haasa",
+   "dataName": "HSA",
+   "flagResource": "nationflags/Haasa",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 175,
+      "g": 15,
+      "b": 16
+   },
+   "color": {
+      "r": 0.69,
+      "g": 0.6,
+      "b": 0.6,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Developing",
+      "Modernization",
+      "Authoritarian",
+      "Survival",
+      "Authoritarian",
+      "Conservative"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "friendlyName": "Iraq",
    "dataName": "IRQ",
@@ -6158,14 +6256,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 182,
-      "b": 193
+      "r": 252,
+      "g": 209,
+      "b": 22
    },
    "color": {
-      "r": 1,
-      "g": 0.71,
-      "b": 0.76,
+      "r": 0.99,
+      "g": 0.83,
+      "b": 0.09,
       "a": 0.05
    },
    "aggregateNation": true,
@@ -6738,8 +6836,8 @@
 {
    "friendlyName": "Krajina",
    "dataName": "CRO",
-   "flagResource": "nationflags/Croatia",
-   "unionFlagResource": "nationflags/Croatia",
+   "flagResource": "nationflags/Krajina",
+   "unionFlagResource": "nationflags/Krajina",
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
@@ -8744,7 +8842,7 @@
 {
    "friendlyName": "Dinaretia",
    "dataName": "ALB",
-   "flagResource": "nationflags/Albania",
+   "flagResource": "nationflags/Dinaretia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
