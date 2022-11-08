@@ -678,10 +678,10 @@ TINationTemplate.displayName.ZMB=Zambia
 TINationTemplate.displayNameWithArticle.ZMB=Zambia
 TINationTemplate.nationAdjective.ZMB=Zambian
 TINationTemplate.displayNameWithArticlePrep.ZMB=in Zambia
-TINationTemplate.displayName.MLW=Malawi
-TINationTemplate.displayNameWithArticle.MLW=Malawi
-TINationTemplate.nationAdjective.MLW=Malawi
-TINationTemplate.displayNameWithArticlePrep.MLW=in Malawi
+TINationTemplate.displayName.MWI=Malawi
+TINationTemplate.displayNameWithArticle.MWI=Malawi
+TINationTemplate.nationAdjective.MWI=Malawi
+TINationTemplate.displayNameWithArticlePrep.MWI=in Malawi
 TINationTemplate.displayName.ZWE=Zimbabwe
 TINationTemplate.displayNameWithArticle.ZWE=Zimbabwe
 TINationTemplate.nationAdjective.ZWE=Zimbabwean
@@ -697,10 +697,10 @@ TINationTemplate.unionDisplayNameWithArticle.ALN=the Alien Federation
 TINationTemplate.unionAdjective.ALN=Alien
 TINationTemplate.unionDisplayNameWithArticlePrep.ALN=in the Alien Federation
 
-TINationTemplate.unionDisplayName.AUS=Republic of the Southern Cross
-TINationTemplate.unionDisplayNameWithArticle.AUS=the Republic of the Southern Cross
-TINationTemplate.unionAdjective.AUS=Southern Cross
-TINationTemplate.unionDisplayNameWithArticlePrep.AUS=in the Republic of the Southern Cross
+TINationTemplate.unionDisplayName.AUS=Federation of Oceania
+TINationTemplate.unionDisplayNameWithArticle.AUS=the Federation of Oceania
+TINationTemplate.unionAdjective.AUS=Oceanic
+TINationTemplate.unionDisplayNameWithArticlePrep.AUS=in the Federation of Oceania
 
 TINationTemplate.unionDisplayName.DZA=Tamazgha
 TINationTemplate.unionDisplayNameWithArticle.DZA=Tamazgha
@@ -712,10 +712,15 @@ TINationTemplate.unionDisplayNameWithArticle.BOL=the South American Union
 TINationTemplate.unionAdjective.BOL=South American
 TINationTemplate.unionDisplayNameWithArticlePrep.BOL=in the South American Union
 
-TINationTemplate.unionDisplayName.CHN=Pan-Asian Combine
-TINationTemplate.unionDisplayNameWithArticle.CHN=the Pan-Asian Combine
-TINationTemplate.unionAdjective.CHN=Pan-Asian
-TINationTemplate.unionDisplayNameWithArticlePrep.CHN=in the Pan-Asian Combine
+TINationTemplate.unionDisplayName.MEX=Latin American Union
+TINationTemplate.unionDisplayNameWithArticle.MEX=the Latin American Union
+TINationTemplate.unionAdjective.MEX=Latin American
+TINationTemplate.unionDisplayNameWithArticlePrep.MEX=in the Latin American Union
+
+TINationTemplate.unionDisplayName.CHN=Zhongguo Authority
+TINationTemplate.unionDisplayNameWithArticle.CHN=the Zhongguo Authority
+TINationTemplate.unionAdjective.CHN=Zhongguo
+TINationTemplate.unionDisplayNameWithArticlePrep.CHN=in the Zhongguo Authority
 
 TINationTemplate.unionDisplayName.COL=Gran Colombia
 TINationTemplate.unionDisplayNameWithArticle.COL=Gran Colombia
@@ -767,20 +772,25 @@ TINationTemplate.unionDisplayNameWithArticle.JPN=the Pacific Defense League
 TINationTemplate.unionAdjective.JPN=Pacific Defender
 TINationTemplate.unionDisplayNameWithArticlePrep.JPN=in the Pacific Defense League
 
-TINationTemplate.unionDisplayName.KAZ=Central Asian Union
-TINationTemplate.unionDisplayNameWithArticle.KAZ=the Central Asian Union
-TINationTemplate.unionAdjective.KAZ=Central Asian
-TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=in the Central Asian Union
+TINationTemplate.unionDisplayName.KAZ=Turkestan
+TINationTemplate.unionDisplayNameWithArticle.KAZ=Turkestan
+TINationTemplate.unionAdjective.KAZ=Turkestani
+TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=in Turkestan
 
-TINationTemplate.unionDisplayName.KOR=United Korean Republic
-TINationTemplate.unionDisplayNameWithArticle.KOR=the United Korean Republic
+TINationTemplate.unionDisplayName.POR=Lusitanian League
+TINationTemplate.unionDisplayNameWithArticle.POR=the Lusitanian League
+TINationTemplate.unionAdjective.POR=Lusitanian
+TINationTemplate.unionDisplayNameWithArticlePrep.POR=in the Lusitanian League
+
+TINationTemplate.unionDisplayName.KOR=United Republic of Korea
+TINationTemplate.unionDisplayNameWithArticle.KOR=the United Republic of Korea
 TINationTemplate.unionAdjective.KOR=Korean
-TINationTemplate.unionDisplayNameWithArticlePrep.KOR=in the United Korean Republic
+TINationTemplate.unionDisplayNameWithArticlePrep.KOR=in the United Republic of Korea
 
-TINationTemplate.unionDisplayName.TWN=Republic of China
-TINationTemplate.unionDisplayNameWithArticle.TWN=the Republic of China
-TINationTemplate.unionAdjective.TWN=Republican Chinese
-TINationTemplate.unionDisplayNameWithArticlePrep.TWN=in the Republic of China
+TINationTemplate.unionDisplayName.TWN=United Federation of China
+TINationTemplate.unionDisplayNameWithArticle.TWN=the United Federation of China
+TINationTemplate.unionAdjective.TWN=Chinese
+TINationTemplate.unionDisplayNameWithArticlePrep.TWN=in the United Federation of China
 
 TINationTemplate.unionDisplayName.TZA=East African Federation
 TINationTemplate.unionDisplayNameWithArticle.TZA=the East African Federation
@@ -797,20 +807,20 @@ TINationTemplate.unionDisplayNameWithArticle.TUR=the Bosporus Coalition
 TINationTemplate.unionAdjective.TUR=Bosporan
 TINationTemplate.unionDisplayNameWithArticlePrep.TUR=in the Bosporus Coalition
 
-TINationTemplate.unionDisplayName.UZB=Turkestan
-TINationTemplate.unionDisplayNameWithArticle.UZB=Turkestan
-TINationTemplate.unionAdjective.UZB=Turkestani
-TINationTemplate.unionDisplayNameWithArticlePrep.UZB=in Turkestan
+TINationTemplate.unionDisplayName.UZB=Ferganastan
+TINationTemplate.unionDisplayNameWithArticle.UZB=Ferganastan
+TINationTemplate.unionAdjective.UZB=Ferganastani
+TINationTemplate.unionDisplayNameWithArticlePrep.UZB=in Ferganastan
 
 TINationTemplate.unionDisplayName.GBR=British Commonwealth
 TINationTemplate.unionDisplayNameWithArticle.GBR=the British Commonwealth
 TINationTemplate.unionAdjective.GBR=British
 TINationTemplate.unionDisplayNameWithArticlePrep.GBR=in the British Commonwealth
 
-TINationTemplate.unionDisplayName.IDN=Indonesia
-TINationTemplate.unionDisplayNameWithArticle.IDN=Indonesia
-TINationTemplate.unionAdjective.IDN=Indonesian
-TINationTemplate.unionDisplayNameWithArticlePrep.IDN=in Indonesia
+TINationTemplate.unionDisplayName.IDN=Nusantara
+TINationTemplate.unionDisplayNameWithArticle.IDN=Nusantara
+TINationTemplate.unionAdjective.IDN=Nusantaran
+TINationTemplate.unionDisplayNameWithArticlePrep.IDN=in Nusantara
 
 TINationTemplate.unionDisplayName.RUS=Eurasian Union
 TINationTemplate.unionDisplayNameWithArticle.RUS=the Eurasian Union
@@ -1031,10 +1041,10 @@ TINationTemplate.displayNameWithArticle.URL=the Ural Republic
 TINationTemplate.nationAdjective.URL=Ural
 TINationTemplate.displayNameWithArticlePrep.URL=in the Ural Republic
 
-TINationTemplate.unionDisplayName.POL=Trimarium Commonwealth
-TINationTemplate.unionDisplayNameWithArticle.POL=the Trimarium Commonwealth
+TINationTemplate.unionDisplayName.POL=Trimarium
+TINationTemplate.unionDisplayNameWithArticle.POL=Trimarium
 TINationTemplate.unionAdjective.POL=Trimaric
-TINationTemplate.unionDisplayNameWithArticlePrep.POL=in the Trimarium Commonwealth
+TINationTemplate.unionDisplayNameWithArticlePrep.POL=in Trimarium
 
 TINationTemplate.unionDisplayName.HUN=Visegrad Group
 TINationTemplate.unionDisplayNameWithArticle.HUN=the Visegrad Group
@@ -1046,10 +1056,10 @@ TINationTemplate.unionDisplayNameWithArticle.UKR=Ukraine-Rus
 TINationTemplate.unionAdjective.UKR=Ukrainian
 TINationTemplate.unionDisplayNameWithArticlePrep.UKR=in Ukraine-Rus
 
-TINationTemplate.unionDisplayName.SWI=Swiss Confederacy
-TINationTemplate.unionDisplayNameWithArticle.SWI=the Swiss Confederacy
-TINationTemplate.unionAdjective.SWI=Swiss
-TINationTemplate.unionDisplayNameWithArticlePrep.SWI=in the Swiss Confederacy
+TINationTemplate.unionDisplayName.SWI=Alpine Confederacy
+TINationTemplate.unionDisplayNameWithArticle.SWI=the Alpine Confederacy
+TINationTemplate.unionAdjective.SWI=Alpine
+TINationTemplate.unionDisplayNameWithArticlePrep.SWI=in the Alpine Confederacy
 
 
 
