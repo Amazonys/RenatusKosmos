@@ -4255,9 +4255,9 @@
    "iconResource": "",
    "completedIllustrationPath": ""
 },
- {
-   "friendlyName": "United Turkestan",
-   "dataName": "Project_UnitedTurkestan",
+{
+   "friendlyName": "Bosporus Coalition",
+   "dataName": "Project_BosporusCoalition",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
@@ -4297,6 +4297,62 @@
       ""
    ],
    "factionAvailableChance": 30,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "United Turkestan",
+   "dataName": "Project_UnitedTurkestan",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 10000,
+   "prereqs": [
+      "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "KAZ",
+   "requiredControlPoint": [
+      "KAZ",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,
@@ -4408,7 +4464,7 @@
       "",
       ""
    ],
-   "factionAvailableChance": 50,
+   "factionAvailableChance": 90,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,
@@ -5270,7 +5326,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 2500,
+   "researchCost": 5000,
    "prereqs": [
       "UnityMovements",
       "",
