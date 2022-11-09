@@ -12544,6 +12544,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimGUSOman",
+   "relationType": "Claim",
+   "nation1": "GUS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Oman",
+   "region2": "",
+   "projectUnlockName": "Project_UnitedEmirates",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimPAKBaluchistan",
    "relationType": "Claim",
    "nation1": "PAK",
@@ -14331,6 +14345,20 @@
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": true,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimGUSDamman",
+   "relationType": "Claim",
+   "nation1": "GUS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Damman",
+   "region2": "",
+   "projectUnlockName": "Project_UnitedEmirates",
+   "capitalClaim": null,
    "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
@@ -16642,6 +16670,20 @@
    "projectUnlockName": "",
    "capitalClaim": null,
    "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimGUSAden",
+   "relationType": "Claim",
+   "nation1": "GUS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Aden",
+   "region2": "",
+   "projectUnlockName": "Project_UnitedEmirates",
+   "capitalClaim": null,
+   "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
  },
@@ -20167,6 +20209,20 @@
    "federation": "",
    "region1": "Hijaz",
    "region2": "Najd",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "PhysicalAdjacencyDammanBasra",
+   "relationType": "PhysicalAdjacency",
+   "nation1": "",
+   "nation2": "",
+   "federation": "",
+   "region1": "Damman",
+   "region2": "Basra",
    "projectUnlockName": "",
    "capitalClaim": null,
    "initialOwner": null,

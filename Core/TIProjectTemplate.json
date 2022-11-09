@@ -4087,6 +4087,62 @@
    "iconResource": "",
    "completedIllustrationPath": ""
 },
+{
+   "friendlyName": "Emirati Expansion",
+   "dataName": "Project_UnitedEmirates",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 5000,
+   "prereqs": [
+      "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "GUS",
+   "requiredControlPoint": [
+      "GUS",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 30,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
  {
    "friendlyName": "Gran Colombia",
    "dataName": "Project_GranColombia",
@@ -4318,9 +4374,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 250,
+   "researchCost": 1000,
    "prereqs": [
-      "ArrivalInternationalRelations",
+      "UnityMovements",
       "",
       "",
       "",
@@ -4352,7 +4408,7 @@
       "",
       ""
    ],
-   "factionAvailableChance": 90,
+   "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,
@@ -5216,7 +5272,7 @@
    "AI_projectRole": "ExpandNation",
    "researchCost": 2500,
    "prereqs": [
-      "ArrivalInternationalRelations",
+      "UnityMovements",
       "",
       "",
       "",

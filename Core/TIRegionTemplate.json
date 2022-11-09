@@ -21121,7 +21121,7 @@
    "oilResource": null,
    "coreEco": true,
    "environment": "Standard",
-   "boostPerYear_tons": 1.2,
+   "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",
    "afr": null,
