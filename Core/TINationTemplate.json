@@ -5774,17 +5774,17 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 152,
-      "g": 103,
-      "b": 197
+      "r": 88,
+      "g": 107,
+      "b": 61
    },
    "color": {
-      "r": 0.6,
-      "g": 0.4,
-      "b": 0.77,
+      "r": 0.35,
+      "g": 0.42,
+      "b": 0.24,
       "a": 0.05
    },
-   "aggregateNation": true,
+   "aggregateNation": null,
    "initialGDP": 79796640000,
    "popGrowthModifier": 0.5,
    "initialFactionStr": "",
