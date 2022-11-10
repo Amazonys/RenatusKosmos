@@ -10979,7 +10979,7 @@
    "mapRegionName": "map_Cali",
    "primaryCity": "Cali",
    "population_Millions": 18.365,
-   "resource": true,
+   "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
