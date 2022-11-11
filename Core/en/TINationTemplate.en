@@ -126,6 +126,10 @@ TINationTemplate.displayName.CHN=China
 TINationTemplate.displayNameWithArticle.CHN=China
 TINationTemplate.nationAdjective.CHN=Chinese
 TINationTemplate.displayNameWithArticlePrep.CHN=in China
+TINationTemplate.displayName.EAS=Association of East Asia
+TINationTemplate.displayNameWithArticle.EAS=the Association of East Asia
+TINationTemplate.nationAdjective.EAS=East Asian
+TINationTemplate.displayNameWithArticlePrep.EAS=in the Association of East Asia
 TINationTemplate.displayName.COD=Democratic Republic of Congo
 TINationTemplate.displayNameWithArticle.COD=the Democratic Republic of Congo
 TINationTemplate.nationAdjective.COD=Congolese
@@ -757,6 +761,11 @@ TINationTemplate.unionDisplayName.MEX=Latin American Union
 TINationTemplate.unionDisplayNameWithArticle.MEX=the Latin American Union
 TINationTemplate.unionAdjective.MEX=Latin American
 TINationTemplate.unionDisplayNameWithArticlePrep.MEX=in the Latin American Union
+
+TINationTemplate.unionDisplayName.EAS=Pan-Asian Combine
+TINationTemplate.unionDisplayNameWithArticle.EAS=the Pan-Asian Combine
+TINationTemplate.unionAdjective.EAS=Pan-Asian
+TINationTemplate.unionDisplayNameWithArticlePrep.EAS=in the Pan-Asian Combine
 
 TINationTemplate.unionDisplayName.CHN=Zhongguo Authority
 TINationTemplate.unionDisplayNameWithArticle.CHN=the Zhongguo Authority

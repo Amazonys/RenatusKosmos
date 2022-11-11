@@ -2687,7 +2687,7 @@
    "dataName": "EAS",
    "flagResource": "nationflags/EastAsia",
    "unionFlagResource": "nationflags/PanAsian_Cooperative",
-   "unionTrigger": 2,
+   "unionTrigger": 20,
    "multiplier": 1,
    "color32": {
       "r": 0,
