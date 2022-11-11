@@ -5046,6 +5046,62 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
+   "researchCost": 100000,
+   "prereqs": [
+      "GreatNations",
+      "FallofEmpires",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "EAS",
+   "requiredControlPoint": [
+      "EAS",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 70,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Zhongguo Authority",
+   "dataName": "Project_ZhongguoAuthority",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
    "researchCost": 50000,
    "prereqs": [
       "GreatNations",
