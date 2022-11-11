@@ -742,10 +742,10 @@ TINationTemplate.unionDisplayNameWithArticle.ALN=the Alien Federation
 TINationTemplate.unionAdjective.ALN=Alien
 TINationTemplate.unionDisplayNameWithArticlePrep.ALN=in the Alien Federation
 
-TINationTemplate.unionDisplayName.AUS=Federation of Oceania
-TINationTemplate.unionDisplayNameWithArticle.AUS=the Federation of Oceania
+TINationTemplate.unionDisplayName.AUS=Commonwealth of Oceania
+TINationTemplate.unionDisplayNameWithArticle.AUS=the Commonwealth of Oceania
 TINationTemplate.unionAdjective.AUS=Oceanic
-TINationTemplate.unionDisplayNameWithArticlePrep.AUS=in the Federation of Oceania
+TINationTemplate.unionDisplayNameWithArticlePrep.AUS=in the Commonwealth of Oceania
 
 TINationTemplate.unionDisplayName.DZA=Tamazgha
 TINationTemplate.unionDisplayNameWithArticle.DZA=Tamazgha
@@ -762,10 +762,10 @@ TINationTemplate.unionDisplayNameWithArticle.MEX=the Latin American Union
 TINationTemplate.unionAdjective.MEX=Latin American
 TINationTemplate.unionDisplayNameWithArticlePrep.MEX=in the Latin American Union
 
-TINationTemplate.unionDisplayName.EAS=Pan-Asian Combine
-TINationTemplate.unionDisplayNameWithArticle.EAS=the Pan-Asian Combine
+TINationTemplate.unionDisplayName.EAS=Pan-Asian Cooperative
+TINationTemplate.unionDisplayNameWithArticle.EAS=the Pan-Asian Cooperative
 TINationTemplate.unionAdjective.EAS=Pan-Asian
-TINationTemplate.unionDisplayNameWithArticlePrep.EAS=in the Pan-Asian Combine
+TINationTemplate.unionDisplayNameWithArticlePrep.EAS=in the Pan-Asian Cooperative
 
 TINationTemplate.unionDisplayName.CHN=Zhongguo Authority
 TINationTemplate.unionDisplayNameWithArticle.CHN=the Zhongguo Authority
