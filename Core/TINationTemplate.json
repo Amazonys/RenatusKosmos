@@ -4497,7 +4497,7 @@
    "dataName": "IDN",
    "flagResource": "nationflags/Indonesia",
    "unionFlagResource": "nationflags/Indonesia",
-   "unionTrigger": 2,
+   "unionTrigger": 8,
    "multiplier": 1,
    "color32": {
       "r": 255,
