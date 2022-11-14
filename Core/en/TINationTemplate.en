@@ -1072,9 +1072,9 @@ TINationTemplate.unionAdjective.SBK=Yugoslav
 TINationTemplate.unionDisplayNameWithArticlePrep.SBK=in Yugoslavia
 
 TINationTemplate.displayName.ALB=Dinaretia
-TINationTemplate.displayNameWithArticle.CRO=Dinaretia
-TINationTemplate.nationAdjective.CRO=Dinaric
-TINationTemplate.displayNameWithArticlePrep.CRO=in Dinaretia
+TINationTemplate.displayNameWithArticle.ALB=Dinaretia
+TINationTemplate.nationAdjective.ALB=Dinaric
+TINationTemplate.displayNameWithArticlePrep.ALB=in Dinaretia
 
 TINationTemplate.displayName.SUR=Suriname
 TINationTemplate.displayNameWithArticle.SUR=Suriname
