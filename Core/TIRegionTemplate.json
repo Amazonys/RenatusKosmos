@@ -22784,12 +22784,12 @@
    "dataName": "Almaty",
    "mapRegionName": "map_Almaty",
    "primaryCity": "Almaty",
-   "population_Millions": 12.253,
+   "population_Millions": 8.429,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
-   "boostPerYear_tons": 300,
+   "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",
    "afr": null,
@@ -22923,7 +22923,7 @@
    "dataName": "Astana",
    "mapRegionName": "map_Astana",
    "primaryCity": "Nur-Sultan",
-   "population_Millions": 7.018,
+   "population_Millions": 7.321,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -23056,7 +23056,146 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Amola, North Kaz, Kostanay, Aktobe, West Kazakhstan, Atyrau, Mangystau"
+   "composedOf": ""
+},
+{
+   "dataName": "Aktobe",
+   "mapRegionName": "map_Aktobe",
+   "primaryCity": "Aktobe",
+   "population_Millions": 3.557,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 300,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 7,
+   "eas": null,
+   "eur": 3,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Kazakh",
+      "Kazakh",
+      "Russian",
+      "Ukrainian"
+   ],
+   "asiFamily": [
+      "Kazakh",
+      "Russian",
+      "Kazakh",
+      "Kazakh"
+   ],
+   "asiWeight": [
+      10,
+      1,
+      1,
+      1
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "Ukrainian",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "Ukrainian",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      10,
+      1,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Astana_0",
+      "illustrations/illus_Astana_1",
+      "illustrations/illus_Astana_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Kenya",
@@ -30151,7 +30290,285 @@
    "dataName": "EasternSiberia",
    "mapRegionName": "map_EasternSiberia",
    "primaryCity": "Irkutsk",
-   "population_Millions": 5.404,
+   "population_Millions": 2.707,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": 1,
+   "eur": 9,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "RUSN",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Kazakh",
+      "Russian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Kazakh",
+      "Kazakh",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "Ukrainian",
+      "Ukrainian",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "Russian",
+      "Ukrainian",
+      ""
+   ],
+   "eurWeight": [
+      5,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_EasternSiberia_0",
+      "illustrations/illus_EasternSiberia_1",
+      "illustrations/illus_EasternSiberia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "UlanUde",
+   "mapRegionName": "map_UlanUde",
+   "primaryCity": "UlanUde",
+   "population_Millions": 1.983,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": 1,
+   "eur": 9,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "RUSN",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Kazakh",
+      "Russian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Kazakh",
+      "Kazakh",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "Ukrainian",
+      "Ukrainian",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "Russian",
+      "Ukrainian",
+      ""
+   ],
+   "eurWeight": [
+      5,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_EasternSiberia_0",
+      "illustrations/illus_EasternSiberia_1",
+      "illustrations/illus_EasternSiberia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Krasnoyarsk",
+   "mapRegionName": "map_Krasnoyarsk",
+   "primaryCity": "Krasnoyarsk",
+   "population_Millions": 2.857,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -30284,13 +30701,13 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Sakha, Irkutsk, Buryatia, Zabaykalsk"
+   "composedOf": ""
 },
  {
    "dataName": "Moskva",
    "mapRegionName": "map_Moskva",
    "primaryCity": "Moscow",
-   "population_Millions": 38.221,
+   "population_Millions": 26.163,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -30423,13 +30840,291 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Central Federal District"
+   "composedOf": ""
+},
+{
+   "dataName": "Voronezh",
+   "mapRegionName": "map_Voronezh",
+   "primaryCity": "Voronezh",
+   "population_Millions": 7.771,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Moskva_0",
+      "illustrations/illus_Moskva_1",
+      "illustrations/illus_Moskva_2",
+      "illustrations/illus_Moskva_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Yaroslavl",
+   "mapRegionName": "map_Yaroslavl",
+   "primaryCity": "Yaroslavl",
+   "population_Millions": 2.934,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Moskva_0",
+      "illustrations/illus_Moskva_1",
+      "illustrations/illus_Moskva_2",
+      "illustrations/illus_Moskva_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Rostovskaya",
    "mapRegionName": "map_Rostovskaya",
    "primaryCity": "Rostov-On-Don",
-   "population_Millions": 25.356,
+   "population_Millions": 4.201,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -30562,13 +31257,708 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Southern Federal District and North Caucasian Federal District"
+   "composedOf": ""
 },
- {
+{
+   "dataName": "Volgograd",
+   "mapRegionName": "map_Volgograd",
+   "primaryCity": "Volgograd",
+   "population_Millions": 2.501,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Rostovskaya_0",
+      "illustrations/illus_Rostovskaya_1",
+      "illustrations/illus_Rostovskaya_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Astrakhan",
+   "mapRegionName": "map_Astrakhan",
+   "primaryCity": "Astrakhan",
+   "population_Millions": 1.227,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Rostovskaya_0",
+      "illustrations/illus_Rostovskaya_1",
+      "illustrations/illus_Rostovskaya_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Krasnodar",
+   "mapRegionName": "map_Krasnodar",
+   "primaryCity": "Krasnodar",
+   "population_Millions": 6.335,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Rostovskaya_0",
+      "illustrations/illus_Rostovskaya_1",
+      "illustrations/illus_Rostovskaya_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Makhachkala",
+   "mapRegionName": "map_Makhachkala",
+   "primaryCity": "Makhachkala",
+   "population_Millions": 4.693,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Rostovskaya_0",
+      "illustrations/illus_Rostovskaya_1",
+      "illustrations/illus_Rostovskaya_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Vladikavkaz",
+   "mapRegionName": "map_Vladikavkaz",
+   "primaryCity": "Vladikavkaz",
+   "population_Millions": 5.479,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Rostovskaya_0",
+      "illustrations/illus_Rostovskaya_1",
+      "illustrations/illus_Rostovskaya_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
    "dataName": "RussianFarEast",
    "mapRegionName": "map_RussianFarEast",
    "primaryCity": "Vladivostok",
-   "population_Millions": 5.834,
+   "population_Millions": 3.409,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -30701,13 +32091,708 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Republic of Khakassia, Amur Oblast, Jewish Autonomous Oblast, Kamchatka Krai, Madagan Oblast, Primorsky Krai, Sakhalin Oblast, Khabarovsk Krai, Chukotka Autonomous Okrug"
+   "composedOf": ""
+},
+{
+   "dataName": "Kamchatka",
+   "mapRegionName": "map_Kamchatka",
+   "primaryCity": "Petropavlovsk",
+   "population_Millions": 0.339,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 3,
+   "eas": 1,
+   "eur": 16,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "RUSN",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Kazakh",
+      "Russian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Kazakh",
+      "Kazakh",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "Ukrainian",
+      "Ukrainian",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "Russian",
+      "Ukrainian",
+      ""
+   ],
+   "eurWeight": [
+      5,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_RussianFarEast_0",
+      "illustrations/illus_RussianFarEast_1",
+      "illustrations/illus_RussianFarEast_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Sahkalin",
+   "mapRegionName": "map_Sahkalin",
+   "primaryCity": "Sahkalin",
+   "population_Millions": 0.467,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 3,
+   "eas": 1,
+   "eur": 16,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "RUSN",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Kazakh",
+      "Russian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Kazakh",
+      "Kazakh",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "Ukrainian",
+      "Ukrainian",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "Russian",
+      "Ukrainian",
+      ""
+   ],
+   "eurWeight": [
+      5,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_RussianFarEast_0",
+      "illustrations/illus_RussianFarEast_1",
+      "illustrations/illus_RussianFarEast_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Yakutsk",
+   "mapRegionName": "map_Yakutsk",
+   "primaryCity": "Yakutsk",
+   "population_Millions": 0.996,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Seasonal",
+   "afr": null,
+   "asi": 3,
+   "eas": 1,
+   "eur": 16,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "RUSN",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Kazakh",
+      "Russian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Kazakh",
+      "Kazakh",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "Ukrainian",
+      "Ukrainian",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "Russian",
+      "Ukrainian",
+      ""
+   ],
+   "eurWeight": [
+      5,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_RussianFarEast_0",
+      "illustrations/illus_RussianFarEast_1",
+      "illustrations/illus_RussianFarEast_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Magadan",
+   "mapRegionName": "map_Magadan",
+   "primaryCity": "Magadan",
+   "population_Millions": 0.783,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 3,
+   "eas": 1,
+   "eur": 16,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "RUSN",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Kazakh",
+      "Russian",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Kazakh",
+      "Kazakh",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Mongolian",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "Ukrainian",
+      "Ukrainian",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "Russian",
+      "Ukrainian",
+      ""
+   ],
+   "eurWeight": [
+      5,
+      1,
+      1,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_RussianFarEast_0",
+      "illustrations/illus_RussianFarEast_1",
+      "illustrations/illus_RussianFarEast_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Urals",
    "mapRegionName": "map_Urals",
    "primaryCity": "Yekaterinburg",
-   "population_Millions": 12.014,
+   "population_Millions": 10.079,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Urals_0",
+      "illustrations/illus_Urals_1",
+      "illustrations/illus_Urals_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Surgut",
+   "mapRegionName": "map_Surgut",
+   "primaryCity": "Surgut",
+   "population_Millions": 2.222,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -30840,13 +32925,291 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Ural Federal District"
+   "composedOf": ""
 },
  {
    "dataName": "Volga",
    "mapRegionName": "map_Volga",
    "primaryCity": "Nizhny Novgrod",
-   "population_Millions": 29.73,
+   "population_Millions": 7.281,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Volga_0",
+      "illustrations/illus_Volga_1",
+      "illustrations/illus_Volga_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Kazan",
+   "mapRegionName": "map_Kazan",
+   "primaryCity": "Kazan",
+   "population_Millions": 13.947,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Volga_0",
+      "illustrations/illus_Volga_1",
+      "illustrations/illus_Volga_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Ufa",
+   "mapRegionName": "map_Ufa",
+   "primaryCity": "Ufa",
+   "population_Millions": 5.954,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -30979,13 +33342,152 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Volga Federal District"
+   "composedOf": ""
 },
- {
-   "dataName": "WesternSiberia",
-   "mapRegionName": "map_WesternSiberia",
-   "primaryCity": "Novosibirsk",
-   "population_Millions": 15.674,
+{
+   "dataName": "Perm",
+   "mapRegionName": "map_Perm",
+   "primaryCity": "Perm",
+   "population_Millions": 5.139,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Volga_0",
+      "illustrations/illus_Volga_1",
+      "illustrations/illus_Volga_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Krasnoyarsk",
+   "mapRegionName": "map_Krasnoyarsk",
+   "primaryCity": "Krasnoyarsk",
+   "population_Millions": 2.857,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -30993,6 +33495,145 @@
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Seasonal",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_WesternSiberia_0",
+      "illustrations/illus_WesternSiberia_1",
+      "illustrations/illus_WesternSiberia_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "WesternSiberia",
+   "mapRegionName": "map_WesternSiberia",
+   "primaryCity": "Novosibirsk",
+   "population_Millions": 11.229,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": null,
    "asi": 1,
    "eas": null,
@@ -31118,7 +33759,7 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Krasnoyarsk, Tuva, Altai Krai, Altai Republic, Kemerovo, Novosibirsk, Tomsk, Omsk, Khakassia"
+   "composedOf": ""
 },
  {
    "dataName": "Hijaz",
@@ -44604,6 +47245,145 @@
    "occupationValue": 0,
    "composedOf": ""
 },
+{
+   "dataName": "Arkhangelsk",
+   "mapRegionName": "map_Arkhangelsk",
+   "primaryCity": "Arkhangelsk",
+   "population_Millions": 1.758,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Novgorod_0",
+      "illustrations/illus_Novgorod_1",
+      "illustrations/illus_Novgorod_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
  {
    "dataName": "Novgorod",
    "mapRegionName": "map_Novgorod",
@@ -44741,18 +47521,157 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Rest of Northwestern Federal Distrcit EXCEPT:"
+   "composedOf": ""
+},
+{
+   "dataName": "Archangelsk",
+   "mapRegionName": "map_Archangelsk",
+   "primaryCity": "Archangelsk",
+   "population_Millions": 1.758,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Beneficiary",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Novgorod_0",
+      "illustrations/illus_Novgorod_1",
+      "illustrations/illus_Novgorod_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
 {
    "dataName": "Kaliningrad",
    "mapRegionName": "map_Kaliningrad",
    "primaryCity": "Kaliningrad",
-   "population_Millions": 1.028,
+   "population_Millions": 1.029,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
-   "boostPerYear_tons": 75,
+   "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
    "afr": null,

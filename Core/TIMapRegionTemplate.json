@@ -909,11 +909,20 @@
    "smallRegion": true
  },
  {
+   "dataName": "map_UlanUde",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "latitude": 51.77,
+   "longitude": 107.78,
+   "boostLatitude": 50,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_EasternSiberia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "latitude": 61.25,
-   "longitude": 126.77,
+   "latitude": 52.26,
+   "longitude": 104.38,
    "boostLatitude": 50,
    "smallRegion": null
  },
@@ -1305,11 +1314,20 @@
    "smallRegion": true
  },
  {
+   "dataName": "map_Krasnoyarsk",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "latitude": 56.02,
+   "longitude": 93.06,
+   "boostLatitude": 55,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_WesternSiberia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "latitude": 59.42,
-   "longitude": 87.89,
+   "latitude": 54.95,
+   "longitude": 83.07,
    "boostLatitude": 55,
    "smallRegion": null
  },
@@ -1533,9 +1551,36 @@
    "dataName": "map_RussianFarEast",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
-   "latitude": 57.28,
-   "longitude": 138.41,
+   "latitude": 43.31,
+   "longitude": 132.12,
    "boostLatitude": 45,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Yakutsk",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 61.99,
+   "longitude": 129.67,
+   "boostLatitude": 60,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Magadan",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 59.65,
+   "longitude": 150.91,
+   "boostLatitude": 60,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Kamchatka",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 53.21,
+   "longitude": 158.57,
+   "boostLatitude": 55,
    "smallRegion": null
  },
  {
@@ -1947,9 +1992,18 @@
    "dataName": "map_Moskva",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 55.62,
-   "longitude": 37.6,
+   "latitude": 55.74,
+   "longitude": 37.62,
    "boostLatitude": 55,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Voronezh",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 51.66,
+   "longitude": 39.26,
+   "boostLatitude": 50,
    "smallRegion": null
  },
  {
@@ -2082,10 +2136,55 @@
    "dataName": "map_Rostovskaya",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 46.05,
-   "longitude": 43.26,
+   "latitude": 47.25,
+   "longitude": 39.78,
    "boostLatitude": 45,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Volgograd",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 48.74,
+   "longitude": 44.42,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Astrakhan",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 46.42,
+   "longitude": 48.04,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Krasnodar",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 45.08,
+   "longitude": 38.94,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Vladikavkaz",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 43.12,
+   "longitude": 44.61,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Makhachkala",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 43.01,
+   "longitude": 47.42,
+   "boostLatitude": 45,
+   "smallRegion": true
  },
  {
    "dataName": "map_Scotland",
@@ -2145,19 +2244,55 @@
    "dataName": "map_Urals",
    "terrain": "Rugged",
    "supraRegion": "Europe",
-   "latitude": 60,
-   "longitude": 62,
+   "latitude": 56.79,
+   "longitude": 60.72,
    "boostLatitude": 55,
    "smallRegion": null
+ },
+ {
+   "dataName": "map_Surgut",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 61.27,
+   "longitude": 73.48,
+   "boostLatitude": 60,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Perm",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 58.01,
+   "longitude": 56.28,
+   "boostLatitude": 60,
+   "smallRegion": true
  },
  {
    "dataName": "map_Volga",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 55.6,
-   "longitude": 47.18,
-   "boostLatitude": 50,
-   "smallRegion": null
+   "latitude": 56.29,
+   "longitude": 43.99,
+   "boostLatitude": 55,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Kazan",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 55.82,
+   "longitude": 49.18,
+   "boostLatitude": 55,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Ufa",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 54.67,
+   "longitude": 55.97,
+   "boostLatitude": 55,
+   "smallRegion": true
  },
  {
    "dataName": "map_Alaska",
@@ -3117,9 +3252,27 @@
    "dataName": "map_St.Petersburg",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 60.58,
-   "longitude": 33.67,
+   "latitude": 59.86,
+   "longitude": 30.38,
    "boostLatitude": 60,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Yaroslavl",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 57.66,
+   "longitude": 39.94,
+   "boostLatitude": 60,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Archangelsk",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 64.52,
+   "longitude": 40.72,
+   "boostLatitude": 65,
    "smallRegion": null
  },
  {

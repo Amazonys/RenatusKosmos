@@ -627,7 +627,7 @@
    "water_jump": 0.2,
    "volatiles_mean": 80,
    "volatiles_width": 40,
-   "volatiles_min": 40,
+   "volatiles_min": 20,
    "volatiles_jump": 0.5,
    "metals_mean": 0,
    "metals_width": 0,
@@ -638,7 +638,7 @@
    "nobles_min": 0,
    "nobles_jump": 0,
    "fissiles_mean": 5,
-   "fissiles_width": 5,
+   "fissiles_width": 10,
    "fissiles_min": 0,
    "fissiles_jump": 0.2,
    "Notes": ""

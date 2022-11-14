@@ -882,8 +882,8 @@
    "friendlyName": "Argentina",
    "dataName": "ARG",
    "flagResource": "nationflags/Argentina",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Argentina",
+   "unionTrigger": 8,
    "multiplier": 1,
    "color32": {
       "r": 116,
@@ -2285,8 +2285,6 @@
       "Developing"
    ],
    "ISOCodes": [
-      "DOM",
-      "HTI",
       "JAM"
    ]
 },
