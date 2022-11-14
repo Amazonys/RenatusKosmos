@@ -81,7 +81,7 @@
 		"debug_ConsoleActive": false,
 		"debug_fullAIDump": false,
 		"debug_advancedFactionStart": false,
-    	"debug_fullAIKnowledge" : false,
+    		"debug_fullAIKnowledge" : false,
 		"debug_showAllShipPartsIncludingAlien": false,
 		"debug_showAllShipParts": false,
 		"debug_showAllHabParts": false,

@@ -581,7 +581,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 5000,
+   "researchCost": 3000,
    "prereqs": [
       "ArrivalEconomics",
       "ArrivalInternationalRelations",
@@ -1306,7 +1306,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 10000,
+   "researchCost": 16000,
    "prereqs": [
       "IndependenceMovements",
       "ArrivalInternationalRelations",
@@ -1606,7 +1606,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 25000,
+   "researchCost": 24000,
    "prereqs": [
       "UnityMovements",
       "ArrivalDomesticPolitics",
@@ -1856,7 +1856,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 5000,
+   "researchCost": 4000,
    "prereqs": [
       "ArrivalDomesticPolitics",
       "ArrivalSociology",
@@ -3556,7 +3556,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 10000,
+   "researchCost": 6000,
    "prereqs": [
       "ArrivalInternationalRelations",
       "",
