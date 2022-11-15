@@ -2296,14 +2296,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 165,
-      "b": 0
+      "r": 82,
+      "g": 110,
+      "b": 148
    },
    "color": {
-      "r": 1,
-      "g": 0.65,
-      "b": 0,
+      "r": 0.32,
+      "g": 0.43,
+      "b": 0.58,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -2345,14 +2345,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 255,
-      "g": 165,
-      "b": 0
+      "r": 205,
+      "g": 110,
+      "b": 117
    },
    "color": {
-      "r": 1,
-      "g": 0.65,
-      "b": 0,
+      "r": 0.8,
+      "g": 0.43,
+      "b": 0.46,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -5474,8 +5474,8 @@
    "friendlyName": "Kazakhstan",
    "dataName": "KAZ",
    "flagResource": "nationflags/Kazakhstan",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Turkestan",
+   "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
       "r": 0,
@@ -10498,8 +10498,8 @@
    "friendlyName": "Uzbekistan",
    "dataName": "UZB",
    "flagResource": "nationflags/Uzbekistan",
-   "unionFlagResource": "nationflags/Turkestan",
-   "unionTrigger": 5,
+   "unionFlagResource": "nationflags/Ferganastan",
+   "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
       "r": 255,
