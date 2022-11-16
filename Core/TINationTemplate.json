@@ -9640,7 +9640,399 @@
    },
    "aggregateNation": null,
    "initialGDP": null,
-   "popGrowthModifier": -0.5,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Bashkortostan",
+   "dataName": "BSH",
+   "flagResource": "nationflags/Bashkortostan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 215,
+      "b": 0
+   },
+   "color": {
+      "r": 1,
+      "g": 0.84,
+      "b": 0,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Dagestan",
+   "dataName": "DAG",
+   "flagResource": "nationflags/Dagestan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 24,
+      "g": 57,
+      "b": 166
+   },
+   "color": {
+      "r": 0.09,
+      "g": 0.22,
+      "b": 0.65,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Gorskaya",
+   "dataName": "GSK",
+   "flagResource": "nationflags/Gorskaya",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 149,
+      "g": 167,
+      "b": 48
+   },
+   "color": {
+      "r": 0.59,
+      "g": 0.65,
+      "b": 0.19,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Kuban",
+   "dataName": "KUB",
+   "flagResource": "nationflags/Kuban",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 221,
+      "g": 19,
+      "b": 123
+   },
+   "color": {
+      "r": 0.87,
+      "g": 0.08,
+      "b": 0.48,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Astrakhan",
+   "dataName": "AST",
+   "flagResource": "nationflags/Astrakhan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 75,
+      "g": 151,
+      "b": 55
+   },
+   "color": {
+      "r": 0.29,
+      "g": 0.59,
+      "b": 0.22,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Chernozem",
+   "dataName": "CZM",
+   "flagResource": "nationflags/Chernozem",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 241,
+      "g": 158,
+      "b": 41
+   },
+   "color": {
+      "r": 0.95,
+      "g": 0.62,
+      "b": 0.16,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Nenetsia",
+   "dataName": "NTS",
+   "flagResource": "nationflags/Nenetsia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 152,
+      "g": 240,
+      "b": 222
+   },
+   "color": {
+      "r": 0.6,
+      "g": 0.94,
+      "b": 0.87,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Perm",
+   "dataName": "PRM",
+   "flagResource": "nationflags/Perm",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 232,
+      "g": 150,
+      "b": 138
+   },
+   "color": {
+      "r": 0.91,
+      "g": 0.59,
+      "b": 0.54,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
    "initialFactionStr": "",
    "cohesion": null,
    "unrest": null,

@@ -1103,10 +1103,50 @@ TINationTemplate.displayNameWithArticle.TAR=Tatarstan
 TINationTemplate.nationAdjective.TAR=Tatar
 TINationTemplate.displayNameWithArticlePrep.TAR=in Tatarstan
 
-TINationTemplate.displayName.URL=Ural Republic
-TINationTemplate.displayNameWithArticle.URL=the Ural Republic
+TINationTemplate.displayName.BSH=Bashkortostan
+TINationTemplate.displayNameWithArticle.BSH=Bashkortostan
+TINationTemplate.nationAdjective.BSH=Bashkir
+TINationTemplate.displayNameWithArticlePrep.BSH=in Bashkortostan
+
+TINationTemplate.displayName.DAG=Dagestan
+TINationTemplate.displayNameWithArticle.DAG=Dagestan
+TINationTemplate.nationAdjective.DAG=Dagestani
+TINationTemplate.displayNameWithArticlePrep.DAG=in Dagestan
+
+TINationTemplate.displayName.GSK=Gorskaya
+TINationTemplate.displayNameWithArticle.GSK=Gorskaya
+TINationTemplate.nationAdjective.GSK=Gori
+TINationTemplate.displayNameWithArticlePrep.GSK=in Gorskaya
+
+TINationTemplate.displayName.KUB=Kuban
+TINationTemplate.displayNameWithArticle.KUB=Kuban
+TINationTemplate.nationAdjective.KUB=Kubani
+TINationTemplate.displayNameWithArticlePrep.KUB=in Kuban
+
+TINationTemplate.displayName.AST=Astrakhan
+TINationTemplate.displayNameWithArticle.AST=Astrakhan
+TINationTemplate.nationAdjective.AST=Astrakhani
+TINationTemplate.displayNameWithArticlePrep.AST=in Astrakhan
+
+TINationTemplate.displayName.CZM=Chernozem
+TINationTemplate.displayNameWithArticle.CZM=Chernozem
+TINationTemplate.nationAdjective.CZM=Chernozemi
+TINationTemplate.displayNameWithArticlePrep.CZM=in Chernozem
+
+TINationTemplate.displayName.NTS=Nenetsia
+TINationTemplate.displayNameWithArticle.NTS=Nenetsia
+TINationTemplate.nationAdjective.NTS=Nenets
+TINationTemplate.displayNameWithArticlePrep.NTS=in Nenetsia
+
+TINationTemplate.displayName.PRM=Perm
+TINationTemplate.displayNameWithArticle.PRM=Perm
+TINationTemplate.nationAdjective.PRM=Permic
+TINationTemplate.displayNameWithArticlePrep.PRM=in Perm
+
+TINationTemplate.displayName.URL=Uralskaya
+TINationTemplate.displayNameWithArticle.URL=Uralskaya
 TINationTemplate.nationAdjective.URL=Ural
-TINationTemplate.displayNameWithArticlePrep.URL=in the Ural Republic
+TINationTemplate.displayNameWithArticlePrep.URL=in Uralskaya
 
 TINationTemplate.unionDisplayName.POL=Trimarium
 TINationTemplate.unionDisplayNameWithArticle.POL=Trimarium
