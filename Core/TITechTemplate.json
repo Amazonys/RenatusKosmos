@@ -606,7 +606,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 5000,
+   "researchCost": 3000,
    "prereqs": [
       "WeAreNotAlone",
       "",
