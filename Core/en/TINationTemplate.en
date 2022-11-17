@@ -474,6 +474,10 @@ TINationTemplate.displayName.POL=Poland
 TINationTemplate.displayNameWithArticle.POL=Poland
 TINationTemplate.nationAdjective.POL=Polish
 TINationTemplate.displayNameWithArticlePrep.POL=in Poland
+TINationTemplate.displayName.SIL=Silesia
+TINationTemplate.displayNameWithArticle.SIL=Silesia
+TINationTemplate.nationAdjective.SIL=Silesian
+TINationTemplate.displayNameWithArticlePrep.SIL=in Silesia
 TINationTemplate.displayName.PRK=North Korea
 TINationTemplate.displayNameWithArticle.PRK=North Korea
 TINationTemplate.nationAdjective.PRK=North Korean
@@ -686,6 +690,10 @@ TINationTemplate.displayName.UZB=Uzbekistan
 TINationTemplate.displayNameWithArticle.UZB=Uzbekistan
 TINationTemplate.nationAdjective.UZB=Uzbekistani
 TINationTemplate.displayNameWithArticlePrep.UZB=in Uzbekistan
+TINationTemplate.displayName.KKP=Karakalpakstan
+TINationTemplate.displayNameWithArticle.KKP=Karakalpakstan
+TINationTemplate.nationAdjective.KKP=Karakalpak
+TINationTemplate.displayNameWithArticlePrep.KKP=in Karakalpakstan
 TINationTemplate.displayName.VEN=Venezuela
 TINationTemplate.displayNameWithArticle.VEN=Venezuela
 TINationTemplate.nationAdjective.VEN=Venezuelan
@@ -978,10 +986,45 @@ TINationTemplate.displayNameWithArticle.GRE=Greece
 TINationTemplate.nationAdjective.GRE=Greek
 TINationTemplate.displayNameWithArticlePrep.GRE=in Greece
 
+TINationTemplate.unionDisplayName.GRE=Hellenic League
+TINationTemplate.unionDisplayNameWithArticle.GRE=the Hellenic League
+TINationTemplate.unionAdjective.GRE=Hellenic
+TINationTemplate.unionDisplayNameWithArticlePrep.GRE=in the Hellenic League
+
 TINationTemplate.displayName.CYP=Cyprus
 TINationTemplate.displayNameWithArticle.CYP=Cyprus
 TINationTemplate.nationAdjective.CYP=Cypriot
 TINationTemplate.displayNameWithArticlePrep.CYP=in Cyprus
+
+TINationTemplate.displayName.CTA=Chita
+TINationTemplate.displayNameWithArticle.CTA=Chita
+TINationTemplate.nationAdjective.CTA=Chitan
+TINationTemplate.displayNameWithArticlePrep.CTA=in Chita
+
+TINationTemplate.displayName.IKK=Irkutsk
+TINationTemplate.displayNameWithArticle.IKK=Irkutsk
+TINationTemplate.nationAdjective.IKK=Irkutsk
+TINationTemplate.displayNameWithArticlePrep.IKK=in Irkutsk
+
+TINationTemplate.displayName.KCT=Kamchatka
+TINationTemplate.displayNameWithArticle.KCT=Kamchatka
+TINationTemplate.nationAdjective.KCT=Kamchatka
+TINationTemplate.displayNameWithArticlePrep.KCT=in Kamchatka
+
+TINationTemplate.displayName.SKL=Sahkalin
+TINationTemplate.displayNameWithArticle.SKL=Sahkalin
+TINationTemplate.nationAdjective.SKL=Sahkalin
+TINationTemplate.displayNameWithArticlePrep.SKL=in Sahkalin
+
+TINationTemplate.displayName.MGD=Magadan
+TINationTemplate.displayNameWithArticle.MGD=Magadan
+TINationTemplate.nationAdjective.MGD=Magadan
+TINationTemplate.displayNameWithArticlePrep.MGD=in Magadan
+
+TINationTemplate.displayName.SKH=Sakha
+TINationTemplate.displayNameWithArticle.SKH=Sakha
+TINationTemplate.nationAdjective.SKH=Sakha
+TINationTemplate.displayNameWithArticlePrep.SKH=in Sakha
 
 TINationTemplate.displayName.GTM=Guatemala
 TINationTemplate.displayNameWithArticle.GTM=Guatemala

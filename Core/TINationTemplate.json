@@ -1176,8 +1176,8 @@
    "friendlyName": "Latvia",
    "dataName": "BAS",
    "flagResource": "nationflags/Latvia",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/BalticStates",
+   "unionTrigger": 1,
    "multiplier": 1,
    "color32": {
       "r": 220,
@@ -5282,14 +5282,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 227,
-      "g": 38,
-      "b": 171
+      "r": 0,
+      "g": 153,
+      "b": 255
    },
    "color": {
-      "r": 0.89,
-      "g": 0.15,
-      "b": 0.67,
+      "r": 0,
+      "g": 0.6,
+      "b": 1,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -5331,14 +5331,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 227,
-      "g": 38,
-      "b": 171
+      "r": 2,
+      "g": 1,
+      "b": 102
    },
    "color": {
-      "r": 0.89,
-      "g": 0.15,
-      "b": 0.67,
+      "r": 0.01,
+      "g": 0.01,
+      "b": 0.4,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -5380,14 +5380,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 227,
-      "g": 38,
-      "b": 171
+      "r": 218,
+      "g": 26,
+      "b": 53
    },
    "color": {
-      "r": 0.89,
-      "g": 0.15,
-      "b": 0.67,
+      "r": 0.86,
+      "g": 0.1,
+      "b": 0.21,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -5429,14 +5429,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 227,
-      "g": 38,
-      "b": 171
+      "r": 194,
+      "g": 194,
+      "b": 0
    },
    "color": {
-      "r": 0.89,
-      "g": 0.15,
-      "b": 0.67,
+      "r": 0.76,
+      "g": 0.76,
+      "b": 0,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -7512,6 +7512,55 @@
    ],
    "ISOCodes": [
       "POL",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Silesia",
+   "dataName": "SIL",
+   "flagResource": "nationflags/Silesia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 206,
+      "b": 8
+   },
+   "color": {
+      "r": 1,
+      "g": 0.81,
+      "b": 0.03,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Conservative",
+      "Populist",
+      "Modernization",
+      "Socialist",
+      "Centrist",
+      "Reactionary"
+   ],
+   "ISOCodes": [
+      "",
       "",
       ""
    ]
@@ -10061,6 +10110,349 @@
       ""
    ]
 },
+{
+   "friendlyName": "Buryatia",
+   "dataName": "BYT",
+   "flagResource": "nationflags/Buryatia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 217,
+      "b": 0
+   },
+   "color": {
+      "r": 1,
+      "g": 0.85,
+      "b": 0,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Chita",
+   "dataName": "CTA",
+   "flagResource": "nationflags/Chita",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 194,
+      "g": 20,
+      "b": 38
+   },
+   "color": {
+      "r": 0.76,
+      "g": 0.08,
+      "b": 0.15,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Irkutsk",
+   "dataName": "IKK",
+   "flagResource": "nationflags/Irkutsk",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 133,
+      "g": 156,
+      "b": 84
+   },
+   "color": {
+      "r": 0.52,
+      "g": 0.61,
+      "b": 0.33,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Kamchatka",
+   "dataName": "KCT",
+   "flagResource": "nationflags/Kamchatka",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 112,
+      "g": 30,
+      "b": 119
+   },
+   "color": {
+      "r": 0.44,
+      "g": 0.12,
+      "b": 0.47,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Sahkalin",
+   "dataName": "SKL",
+   "flagResource": "nationflags/Sahkalin",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 221,
+      "g": 221,
+      "b": 221
+   },
+   "color": {
+      "r": 0.87,
+      "g": 0.87,
+      "b": 0.87,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Magadan",
+   "dataName": "MGD",
+   "flagResource": "nationflags/Magadan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 187,
+      "g": 109,
+      "b": 0
+   },
+   "color": {
+      "r": 0.73,
+      "g": 0.43,
+      "b": 0,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Sakha",
+   "dataName": "SKH",
+   "flagResource": "nationflags/Sakha",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 51,
+      "g": 204,
+      "b": 255
+   },
+   "color": {
+      "r": 0.2,
+      "g": 0.8,
+      "b": 1,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "friendlyName": "Thailand",
    "dataName": "THA",
@@ -10555,7 +10947,7 @@
    "friendlyName": "United States of America",
    "dataName": "USA",
    "flagResource": "nationflags/United_States",
-   "unionFlagResource": "nationflags/United_States_of_NorthAmerica",
+   "unionFlagResource": "nationflags/United_States",
    "unionTrigger": 14,
    "multiplier": 1.5,
    "color32": {
@@ -10791,7 +11183,7 @@
  {
    "friendlyName": "Ural Republic",
    "dataName": "URL",
-   "flagResource": "nationflags/Ural",
+   "flagResource": "nationflags/Urals",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10886,7 +11278,7 @@
       ""
    ]
 },
- {
+{
    "friendlyName": "Uzbekistan",
    "dataName": "UZB",
    "flagResource": "nationflags/Uzbekistan",
@@ -10921,6 +11313,55 @@
    "buildNukeIPs": 0,
    "buildArmyIPs": 0,
    "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Authoritarian",
+      "Authoritarian",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Reactionary"
+   ],
+   "ISOCodes": [
+      "UZB",
+      "",
+      ""
+   ]
+},
+ {
+   "friendlyName": "Karakalpakstan",
+   "dataName": "KKP",
+   "flagResource": "nationflags/Karakalpakstan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 177,
+      "g": 107,
+      "b": 197
+   },
+   "color": {
+      "r": 0.69,
+      "g": 0.42,
+      "b": 0.77,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
    "initialPriorityPreset": [
       "Authoritarian",
       "Authoritarian",
