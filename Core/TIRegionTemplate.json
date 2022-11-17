@@ -22788,7 +22788,7 @@
    "resource": null,
    "oilResource": null,
    "coreEco": null,
-   "environment": "Beneficiary",
+   "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",
@@ -22924,8 +22924,8 @@
    "mapRegionName": "map_Astana",
    "primaryCity": "Nur-Sultan",
    "population_Millions": 7.321,
-   "resource": true,
-   "oilResource": true,
+   "resource": null,
+   "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
    "boostPerYear_tons": 0,
@@ -30291,7 +30291,7 @@
    "mapRegionName": "map_EasternSiberia",
    "primaryCity": "Irkutsk",
    "population_Millions": 2.707,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
@@ -30569,7 +30569,7 @@
    "mapRegionName": "map_Krasnoyarsk",
    "primaryCity": "Krasnoyarsk",
    "population_Millions": 2.857,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
@@ -32098,7 +32098,7 @@
    "mapRegionName": "map_Kamchatka",
    "primaryCity": "Petropavlovsk",
    "population_Millions": 0.339,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
@@ -32237,8 +32237,8 @@
    "mapRegionName": "map_Sahkalin",
    "primaryCity": "Sahkalin",
    "population_Millions": 0.467,
-   "resource": null,
-   "oilResource": null,
+   "resource": true,
+   "oilResource": true,
    "coreEco": null,
    "environment": "Beneficiary",
    "boostPerYear_tons": 0,
@@ -32376,7 +32376,7 @@
    "mapRegionName": "map_Yakutsk",
    "primaryCity": "Yakutsk",
    "population_Millions": 0.996,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
@@ -32515,7 +32515,7 @@
    "mapRegionName": "map_Magadan",
    "primaryCity": "Magadan",
    "population_Millions": 0.783,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
@@ -32932,8 +32932,8 @@
    "mapRegionName": "map_Volga",
    "primaryCity": "Nizhny Novgrod",
    "population_Millions": 7.281,
-   "resource": true,
-   "oilResource": true,
+   "resource": null,
+   "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -33350,7 +33350,7 @@
    "primaryCity": "Perm",
    "population_Millions": 5.139,
    "resource": true,
-   "oilResource": true,
+   "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
    "boostPerYear_tons": 0,
@@ -33627,8 +33627,8 @@
    "mapRegionName": "map_WesternSiberia",
    "primaryCity": "Novosibirsk",
    "population_Millions": 11.229,
-   "resource": true,
-   "oilResource": true,
+   "resource": null,
+   "oilResource": null,
    "coreEco": null,
    "environment": "Beneficiary",
    "boostPerYear_tons": 0,
@@ -41966,9 +41966,148 @@
    "dataName": "Uzbekistan",
    "mapRegionName": "map_Uzbekistan",
    "primaryCity": "Tashkent",
-   "population_Millions": 34.522,
+   "population_Millions": 30.743,
    "resource": null,
    "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 19,
+   "eas": null,
+   "eur": 1,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "RUSN",
+   "acc_eas": "",
+   "acc_eur": "RUSN",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Tajik-Uzbek",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Tajik-Uzbek",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "Russian",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Uzbekistan_0",
+      "illustrations/illus_Uzbekistan_1",
+      "illustrations/illus_Uzbekistan_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Urgench",
+   "mapRegionName": "map_Urgench",
+   "primaryCity": "Urgench",
+   "population_Millions": 3.873,
+   "resource": true,
+   "oilResource": true,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -47528,8 +47667,8 @@
    "mapRegionName": "map_Archangelsk",
    "primaryCity": "Archangelsk",
    "population_Millions": 1.758,
-   "resource": null,
-   "oilResource": null,
+   "resource": true,
+   "oilResource": true,
    "coreEco": null,
    "environment": "Beneficiary",
    "boostPerYear_tons": 0,

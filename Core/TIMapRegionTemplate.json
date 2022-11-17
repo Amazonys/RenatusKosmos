@@ -1584,6 +1584,15 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_Sahkalin",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 46.94,
+   "longitude": 142.71,
+   "boostLatitude": 45,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_SarawakandSabah",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",

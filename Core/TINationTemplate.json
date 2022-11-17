@@ -8156,7 +8156,7 @@
    "dataName": "RUS",
    "flagResource": "nationflags/Russia",
    "unionFlagResource": "nationflags/Eurasian_Union",
-   "unionTrigger": 12,
+   "unionTrigger": 30,
    "multiplier": 1,
    "color32": {
       "r": 200,
