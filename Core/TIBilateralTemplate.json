@@ -13720,6 +13720,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimPOLKaliningrad",
+   "relationType": "Claim",
+   "nation1": "POL",
+   "nation2": "",
+   "federation": "",
+   "region1": "Kaliningrad",
+   "region2": "",
+   "projectUnlockName": "Project_TrimariumEast",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimPOLBelarus",
    "relationType": "Claim",
    "nation1": "POL",
@@ -15409,6 +15423,20 @@
    "region2": "",
    "projectUnlockName": "Project_NordicFederation",
    "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimPADItaly",
+   "relationType": "Claim",
+   "nation1": "PAD",
+   "nation2": "",
+   "federation": "",
+   "region1": "Italy",
+   "region2": "",
+   "projectUnlockName": "Project_ItalianPartition",
+   "capitalClaim": true,
    "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
@@ -33753,6 +33781,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimROSVolgograd",
+   "relationType": "Claim",
+   "nation1": "ROS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Volgograd",
+   "region2": "",
+   "projectUnlockName": "Project_DissolutionofRussia",
+   "capitalClaim": true,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimCRICrimea",
    "relationType": "Claim",
    "nation1": "CRI",
@@ -34081,6 +34123,20 @@
    "nation2": "",
    "federation": "",
    "region1": "Estonia",
+   "region2": "",
+   "projectUnlockName": "Project_UnitedBaltics",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimBASKaliningrad",
+   "relationType": "Claim",
+   "nation1": "BAS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Kaliningrad",
    "region2": "",
    "projectUnlockName": "Project_UnitedBaltics",
    "capitalClaim": null,

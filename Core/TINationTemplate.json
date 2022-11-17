@@ -2782,8 +2782,8 @@
    "friendlyName": "Congo",
    "dataName": "COD",
    "flagResource": "nationflags/DR_Congo",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/UnitedKongo",
+   "unionTrigger": 7,
    "multiplier": 1,
    "color32": {
       "r": 0,
@@ -8544,6 +8544,55 @@
    ]
 },
  {
+   "friendlyName": "Padania",
+   "dataName": "PAD",
+   "flagResource": "nationflags/Padania",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 117,
+      "g": 156,
+      "b": 117
+   },
+   "color": {
+      "r": 0.46,
+      "g": 0.61,
+      "b": 0.46,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": -1,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Socialist",
+      "Digitalization",
+      "Conservative",
+      "Modernization",
+      "Kleptocratic",
+      "Industrialization"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
    "friendlyName": "Sicily",
    "dataName": "SIC",
    "flagResource": "nationflags/Sicily",
@@ -10910,6 +10959,55 @@
       "r": 0.06,
       "g": 0,
       "b": 0.72,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Conservative",
+      "Centrist",
+      "Industralization",
+      "Developing",
+      "Liberal",
+      "Populist"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Sierra",
+   "dataName": "SCZ",
+   "flagResource": "nationflags/SantaCruz",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 0,
+      "g": 122,
+      "b": 61
+   },
+   "color": {
+      "r": 0,
+      "g": 0.48,
+      "b": 0.24,
       "a": 0.05
    },
    "aggregateNation": null,

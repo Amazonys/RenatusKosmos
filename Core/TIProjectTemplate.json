@@ -3366,7 +3366,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 1000,
+   "researchCost": 10000,
    "prereqs": [
       "FallofEmpires",
       "",
@@ -6166,7 +6166,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 500,
+   "researchCost": 1000,
    "prereqs": [
       "FallofEmpires",
       "",
@@ -6383,6 +6383,62 @@
    "iconResource": "",
    "completedIllustrationPath": ""
 },
+{
+   "friendlyName": "Sierra Republic",
+   "dataName": "Project_SierraRepublic",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "NeutralizeNation",
+   "researchCost": 1000,
+   "prereqs": [
+      "IndependenceMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "BOL",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
  {
    "friendlyName": "Cape Republic",
    "dataName": "Project_CapeRepublic",
@@ -6390,7 +6446,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 500,
+   "researchCost": 1000,
    "prereqs": [
       "IndependenceMovements",
       "",

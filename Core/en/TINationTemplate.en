@@ -996,6 +996,16 @@ TINationTemplate.displayNameWithArticle.CYP=Cyprus
 TINationTemplate.nationAdjective.CYP=Cypriot
 TINationTemplate.displayNameWithArticlePrep.CYP=in Cyprus
 
+TINationTemplate.displayName.PAD=Padania
+TINationTemplate.displayNameWithArticle.PAD=Padania
+TINationTemplate.nationAdjective.PAD=Padanian
+TINationTemplate.displayNameWithArticlePrep.PAD=in Padania
+
+TINationTemplate.displayName.SCZ=Sierra
+TINationTemplate.displayNameWithArticle.SCZ=Sierra
+TINationTemplate.nationAdjective.SCZ=Sierran
+TINationTemplate.displayNameWithArticlePrep.SCZ=in Sierra
+
 TINationTemplate.displayName.CTA=Chita
 TINationTemplate.displayNameWithArticle.CTA=Chita
 TINationTemplate.nationAdjective.CTA=Chitan
