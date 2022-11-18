@@ -1221,6 +1221,11 @@ TINationTemplate.unionDisplayNameWithArticle.SWI=the Alpine Confederacy
 TINationTemplate.unionAdjective.SWI=Alpine
 TINationTemplate.unionDisplayNameWithArticlePrep.SWI=in the Alpine Confederacy
 
+TINationTemplate.unionDisplayName.BAS=Baltic States
+TINationTemplate.unionDisplayNameWithArticle.BAS=the Baltic States
+TINationTemplate.unionAdjective.BAS=Baltic
+TINationTemplate.unionDisplayNameWithArticlePrep.BAS=in the Baltic States
+
 
 
 
