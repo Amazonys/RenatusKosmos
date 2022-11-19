@@ -6302,7 +6302,7 @@
    "dataName": "MEX",
    "flagResource": "nationflags/Mexico",
    "unionFlagResource": "nationflags/LatinAmerica",
-   "unionTrigger": 8,
+   "unionTrigger": 17,
    "multiplier": 1,
    "color32": {
       "r": 128,
