@@ -31422,9 +31422,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": true,
    "AI_projectRole": "Councilors",
-   "researchCost": 600,
+   "researchCost": 1000,
    "prereqs": [
-      "WeAreNotAlone",
+      "ArrivalInternationalRelations",
       "",
       "",
       "",
