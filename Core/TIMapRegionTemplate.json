@@ -2352,8 +2352,8 @@
    "dataName": "map_California",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 37.21,
-   "longitude": -119.04,
+   "latitude": 34.18,
+   "longitude": -118.17,
    "boostLatitude": 35,
    "smallRegion": null
  },
@@ -2370,9 +2370,9 @@
    "dataName": "map_Cascadia",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
-   "latitude": 45.84,
-   "longitude": -118.65,
-   "boostLatitude": 45,
+   "latitude": 47.59,
+   "longitude": -122.31,
+   "boostLatitude": 50,
    "smallRegion": null
  },
  {
@@ -2397,9 +2397,45 @@
    "dataName": "map_Dixie",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 32.84,
-   "longitude": -85.24,
+   "latitude": 33.75,
+   "longitude": -84.41,
+   "boostLatitude": 30,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Nashville",
+   "terrain": "Rugged",
+   "supraRegion": "NorthAmerica",
+   "latitude": 36.19,
+   "longitude": -86.73,
+   "boostLatitude": 35,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Charlotte",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 35.16,
+   "longitude": -80.85,
+   "boostLatitude": 35,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Miami",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 25.81,
+   "longitude": -80.28,
    "boostLatitude": 25,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_NewOrleans",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 29.97,
+   "longitude": -90.17,
+   "boostLatitude": 30,
    "smallRegion": null
  },
  {
@@ -2460,8 +2496,17 @@
    "dataName": "map_HighPlains",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 40.5,
-   "longitude": -95.72,
+   "latitude": 44.97,
+   "longitude": -93.21,
+   "boostLatitude": 45,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_StLouis",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 38.66,
+   "longitude": -90.27,
    "boostLatitude": 40,
    "smallRegion": null
  },
@@ -2547,11 +2592,20 @@
    "smallRegion": null
  },
  {
+   "dataName": "map_Maritimes",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 44.66,
+   "longitude": -63.69,
+   "boostLatitude": 45,
+   "smallRegion": null
+ },
+ {
    "dataName": "map_NewEngland",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 43,
-   "longitude": -70.85,
+   "latitude": 42.34,
+   "longitude": -71.12,
    "boostLatitude": 45,
    "smallRegion": null
  },
@@ -2559,8 +2613,17 @@
    "dataName": "map_NewYork",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 41.96,
-   "longitude": -75.92,
+   "latitude": 40.82,
+   "longitude": -73.93,
+   "boostLatitude": 40,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Philadelphia",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 40.03,
+   "longitude": -75.21,
    "boostLatitude": 40,
    "smallRegion": null
  },
@@ -2604,8 +2667,8 @@
    "dataName": "map_RockyMountains",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
-   "latitude": 39.81,
-   "longitude": -104.92,
+   "latitude": 39.72,
+   "longitude": -104.86,
    "boostLatitude": 40,
    "smallRegion": null
  },
@@ -2613,8 +2676,17 @@
    "dataName": "map_Phoenix",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
-   "latitude": 33.47,
-   "longitude": -112.31,
+   "latitude": 33.59,
+   "longitude": -112.23,
+   "boostLatitude": 35,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_SaltLake",
+   "terrain": "Rugged",
+   "supraRegion": "NorthAmerica",
+   "latitude": 40.71,
+   "longitude": -111.94,
    "boostLatitude": 35,
    "smallRegion": null
  },
@@ -2622,8 +2694,8 @@
    "dataName": "map_RustBelt",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 42.04,
-   "longitude": -86.19,
+   "latitude": 41.76,
+   "longitude": -87.76,
    "boostLatitude": 40,
    "smallRegion": null
  },
@@ -2631,17 +2703,17 @@
    "dataName": "map_Shenandoah",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 38.28,
-   "longitude": -79.25,
-   "boostLatitude": 35,
+   "latitude": 38.93,
+   "longitude": -77.02,
+   "boostLatitude": 40,
    "smallRegion": null
  },
  {
    "dataName": "map_Texas",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 31.54,
-   "longitude": -96.81,
+   "latitude": 29.81,
+   "longitude": -95.44,
    "boostLatitude": 25,
    "smallRegion": null
  },
