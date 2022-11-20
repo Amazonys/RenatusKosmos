@@ -13328,6 +13328,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimCYRBenghazi",
+   "relationType": "Claim",
+   "nation1": "CYR",
+   "nation2": "",
+   "federation": "",
+   "region1": "Benghazi",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": true,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimLBYFezzan",
    "relationType": "Claim",
    "nation1": "LBY",
@@ -13338,6 +13352,20 @@
    "projectUnlockName": "",
    "capitalClaim": null,
    "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimFEZFezzan",
+   "relationType": "Claim",
+   "nation1": "FEZ",
+   "nation2": "",
+   "federation": "",
+   "region1": "Fezzan",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": true,
+   "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
  },
