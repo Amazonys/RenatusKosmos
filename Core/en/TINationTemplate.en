@@ -350,10 +350,18 @@ TINationTemplate.displayName.LAO=Laos
 TINationTemplate.displayNameWithArticle.LAO=Laos
 TINationTemplate.nationAdjective.LAO=Laotian
 TINationTemplate.displayNameWithArticlePrep.LAO=in Laos
-TINationTemplate.displayName.LBY=Libya
-TINationTemplate.displayNameWithArticle.LBY=Libya
-TINationTemplate.nationAdjective.LBY=Libyan
-TINationTemplate.displayNameWithArticlePrep.LBY=in Libya
+TINationTemplate.displayName.LBY=Tripolitania
+TINationTemplate.displayNameWithArticle.LBY=Tripolitania
+TINationTemplate.nationAdjective.LBY=Troipolitanian
+TINationTemplate.displayNameWithArticlePrep.LBY=in Tripolitania
+TINationTemplate.displayName.FEZ=Fezzan
+TINationTemplate.displayNameWithArticle.FEZ=Fezzan
+TINationTemplate.nationAdjective.FEZ=Fezzani
+TINationTemplate.displayNameWithArticlePrep.FEZ=in Fezzan
+TINationTemplate.displayName.CYR=Cyrenaica
+TINationTemplate.displayNameWithArticle.CYR=Cyrenaica
+TINationTemplate.nationAdjective.CYR=Cyrene
+TINationTemplate.displayNameWithArticlePrep.CYR=in Cyrenaica
 TINationTemplate.displayName.LWG=Republic of Kongo
 TINationTemplate.displayNameWithArticle.LWG=the Republic of Kongo
 TINationTemplate.nationAdjective.LWG=Kongolese
@@ -1226,6 +1234,9 @@ TINationTemplate.unionDisplayNameWithArticle.BAS=the Baltic States
 TINationTemplate.unionAdjective.BAS=Baltic
 TINationTemplate.unionDisplayNameWithArticlePrep.BAS=in the Baltic States
 
-
+TINationTemplate.unionDisplayName.LBY=Libya
+TINationTemplate.unionDisplayNameWithArticle.LBY=Libya
+TINationTemplate.unionAdjective.LBY=Libyan
+TINationTemplate.unionDisplayNameWithArticlePrep.LBY=in Libya
 
 

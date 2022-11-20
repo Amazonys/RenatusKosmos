@@ -5767,9 +5767,9 @@
  {
    "friendlyName": "Libya",
    "dataName": "LBY",
-   "flagResource": "nationflags/Libya",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "flagResource": "nationflags/Tripolitania",
+   "unionFlagResource": "nationflags/Libya",
+   "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
       "r": 0,
@@ -5809,6 +5809,104 @@
    ],
    "ISOCodes": [
       "LBY",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Fezzan",
+   "dataName": "FEZ",
+   "flagResource": "nationflags/Fezzan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 129,
+      "b": 129
+   },
+   "color": {
+      "r": 1,
+      "g": 0.5,
+      "b": 0.5,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Stability",
+      "Subsistence",
+      "Subsistence",
+      "Kleptocratic",
+      "Kleptocratic",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Cyrenaica",
+   "dataName": "CYR",
+   "flagResource": "nationflags/Cyrenaica",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 26,
+      "g": 26,
+      "b": 26
+   },
+   "color": {
+      "r": 0.1,
+      "g": 0.1,
+      "b": 0.1,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Stability",
+      "Subsistence",
+      "Subsistence",
+      "Kleptocratic",
+      "Kleptocratic",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
+      "",
       "",
       ""
    ]
