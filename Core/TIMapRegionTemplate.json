@@ -2350,7 +2350,7 @@
  },
  {
    "dataName": "map_California",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 34.18,
    "longitude": -118.17,
@@ -2602,7 +2602,7 @@
  },
  {
    "dataName": "map_NewEngland",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 42.34,
    "longitude": -71.12,
@@ -2620,7 +2620,7 @@
  },
  {
    "dataName": "map_Philadelphia",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 40.03,
    "longitude": -75.21,

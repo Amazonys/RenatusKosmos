@@ -38,8 +38,8 @@
  {
    "dataName": "USAInfantryHighPlains",
    "friendlyName": "1st Infantry",
-   "startRegionStr": "HighPlains",
-   "homeRegionStr": "HighPlains",
+   "startRegionStr": "RustBelt",
+   "homeRegionStr": "RustBelt",
    "armyType": "Human",
    "deploymentType": "Naval",
    "startingStrength": 1
@@ -111,9 +111,27 @@
    "dataName": "RUSArmyRussianFarEast",
    "friendlyName": "5th Guards Army",
    "startRegionStr": "RussianFarEast",
-   "homeRegionStr": "Volga",
+   "homeRegionStr": "Urals",
+   "armyType": "Urals",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "UKRArmyKiev",
+   "friendlyName": "5th Guards Army",
+   "startRegionStr": "Kiev",
+   "homeRegionStr": "Kiev",
    "armyType": "Human",
    "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "JPNArmyTokyo",
+   "friendlyName": "Self Defense Forces",
+   "startRegionStr": "Honshu",
+   "homeRegionStr": "Honshu",
+   "armyType": "Human",
+   "deploymentType": "Naval",
    "startingStrength": 1
  },
  {
@@ -148,6 +166,24 @@
    "friendlyName": "75th Group Army",
    "startRegionStr": "Guizhou",
    "homeRegionStr": "Guizhou",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "TWNArmyTaiwan",
+   "friendlyName": "6th Army Corps",
+   "startRegionStr": "Taiwan",
+   "homeRegionStr": "Taiwan",
+   "armyType": "Human",
+   "deploymentType": "Naval",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "VNMArmyHanoi",
+   "friendlyName": "ARVN Rangers",
+   "startRegionStr": "Hanoi",
+   "homeRegionStr": "Hanoi",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1

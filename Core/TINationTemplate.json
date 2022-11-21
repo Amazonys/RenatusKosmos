@@ -1562,7 +1562,7 @@
    "flagResource": "nationflags/Belgium",
    "unionFlagResource": "nationflags/European_Union",
    "unionTrigger": 2,
-   "multiplier": 1,
+   "multiplier": 1.5,
    "color32": {
       "r": 84,
       "g": 103,
@@ -11144,7 +11144,7 @@
    "dataName": "USA",
    "flagResource": "nationflags/United_States",
    "unionFlagResource": "nationflags/United_States",
-   "unionTrigger": 14,
+   "unionTrigger": 22,
    "multiplier": 1.5,
    "color32": {
       "r": 8,
