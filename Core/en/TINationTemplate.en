@@ -835,15 +835,15 @@ TINationTemplate.unionDisplayNameWithArticle.MYS=the United Malay Nation
 TINationTemplate.unionAdjective.MYS=Malaysian
 TINationTemplate.unionDisplayNameWithArticlePrep.MYS=in the United Malay Nation
 
-TINationTemplate.unionDisplayName.NGA=Nigerian Confederation
-TINationTemplate.unionDisplayNameWithArticle.NGA=the Nigerian Confederation
-TINationTemplate.unionAdjective.NGA=Nigerian
-TINationTemplate.unionDisplayNameWithArticlePrep.NGA=in the Nigerian Confederation
+TINationTemplate.unionDisplayName.NGA=Kwara Confederation
+TINationTemplate.unionDisplayNameWithArticle.NGA=the Kwara Confederation
+TINationTemplate.unionAdjective.NGA=Kwaran
+TINationTemplate.unionDisplayNameWithArticlePrep.NGA=in the Kwara Confederation
 
-TINationTemplate.unionDisplayName.PER=Peruvian Confederation
-TINationTemplate.unionDisplayNameWithArticle.PER=the Peruvian Confederation
-TINationTemplate.unionAdjective.PER=Peruvian
-TINationTemplate.unionDisplayNameWithArticlePrep.PER=in the Peruvian Confederation
+TINationTemplate.unionDisplayName.PER=Andean Confederation
+TINationTemplate.unionDisplayNameWithArticle.PER=the Andean Confederation
+TINationTemplate.unionAdjective.PER=Andean
+TINationTemplate.unionDisplayNameWithArticlePrep.PER=in the Andean Confederation
 
 TINationTemplate.unionDisplayName.PRK=Greater Korea
 TINationTemplate.unionDisplayNameWithArticle.PRK=Greater Korea
@@ -915,15 +915,15 @@ TINationTemplate.unionDisplayNameWithArticle.SCA=the Nordic Federation
 TINationTemplate.unionAdjective.SCA=Nordic
 TINationTemplate.unionDisplayNameWithArticlePrep.SCA=in the Nordic Federation
 
-TINationTemplate.unionDisplayName.UGN=West African Community
-TINationTemplate.unionDisplayNameWithArticle.UGN=the West African Community
-TINationTemplate.unionAdjective.UGN=West African
-TINationTemplate.unionDisplayNameWithArticlePrep.UGN=in the West African Community
+TINationTemplate.unionDisplayName.MLG=West African Community
+TINationTemplate.unionDisplayNameWithArticle.MLG=the West African Community
+TINationTemplate.unionAdjective.MLG=West African
+TINationTemplate.unionDisplayNameWithArticlePrep.MLG=in the West African Community
 
-TINationTemplate.unionDisplayName.USA=United States of North America
-TINationTemplate.unionDisplayNameWithArticle.USA=the United States of North America
-TINationTemplate.unionAdjective.USA=North American
-TINationTemplate.unionDisplayNameWithArticlePrep.USA=in the United States of North America
+TINationTemplate.unionDisplayName.USA=United States of America
+TINationTemplate.unionDisplayNameWithArticle.USA=the United States of America
+TINationTemplate.unionAdjective.USA=American
+TINationTemplate.unionDisplayNameWithArticlePrep.USA=in the United States of America
 
 TINationTemplate.GenericFederationDisplayName={0} Federation												// national adjective
 TINationTemplate.GenericFederationDisplayNameWithArticle=the {0} Federation

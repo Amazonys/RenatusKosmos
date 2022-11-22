@@ -3814,7 +3814,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 1000,
+   "researchCost": 2000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4032,13 +4032,13 @@
    "completedIllustrationPath": ""
 },
  {
-   "friendlyName": "United North America",
+   "friendlyName": "US Canada",
    "dataName": "Project_UnitedNorthAmerica",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 25000,
+   "researchCost": 10000,
    "prereqs": [
       "GreatNations",
       "",
@@ -4062,7 +4062,7 @@
    "requiresNation": "USA",
    "requiredControlPoint": [
       "USA",
-      ""
+      "CAN"
    ],
    "factionPrereq": [
       "",
@@ -4072,7 +4072,63 @@
       "",
       ""
    ],
-   "factionAvailableChance": 40,
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "US Mexico",
+   "dataName": "Project_USMexico",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 10000,
+   "prereqs": [
+      "GreatNations",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "USA",
+   "requiredControlPoint": [
+      "USA",
+      "MEX"
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,
@@ -4097,7 +4153,7 @@
    "researchCost": 35000,
    "prereqs": [
       "Project_UnitedNorthAmerica",
-      "",
+      "Project_USMexico",
       "",
       "",
       ""
@@ -4318,7 +4374,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -6838,7 +6894,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 5000,
+   "researchCost": 8000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -6859,9 +6915,9 @@
    ],
    "oneTimeGlobally": true,
    "repeatable": false,
-   "requiresNation": "UGN",
+   "requiresNation": "MLG",
    "requiredControlPoint": [
-      "UGN",
+      "MLG",
       ""
    ],
    "factionPrereq": [
@@ -6894,7 +6950,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "UnityMovements",
       "",

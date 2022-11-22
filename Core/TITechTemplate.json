@@ -1859,7 +1859,7 @@
    "researchCost": 4000,
    "prereqs": [
       "ArrivalDomesticPolitics",
-      "ArrivalSociology",
+      "",
       ""
    ],
    "altPrereq0": "",

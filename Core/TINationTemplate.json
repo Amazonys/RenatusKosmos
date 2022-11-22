@@ -5282,14 +5282,14 @@
    "unionTrigger": null,
    "multiplier": 1,
    "color32": {
-      "r": 0,
-      "g": 153,
-      "b": 255
+      "r": 123,
+      "g": 225,
+      "b": 204
    },
    "color": {
-      "r": 0,
-      "g": 0.6,
-      "b": 1,
+      "r": 0.48,
+      "g": 0.88,
+      "b": 0.8,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -6448,8 +6448,8 @@
    "friendlyName": "Ghana",
    "dataName": "MLG",
    "flagResource": "nationflags/Ghana",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/WestAfrica",
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 255,
@@ -6935,7 +6935,7 @@
    "friendlyName": "Nigeria",
    "dataName": "NGA",
    "flagResource": "nationflags/Nigeria",
-   "unionFlagResource": "nationflags/Nigeria",
+   "unionFlagResource": "nationflags/West_African_Alliance",
    "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
