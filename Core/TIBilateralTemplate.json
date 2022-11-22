@@ -18466,20 +18466,6 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimMLGTimbuktu",
-   "relationType": "Claim",
-   "nation1": "MLG",
-   "nation2": "",
-   "federation": "",
-   "region1": "Timbuktu",
-   "region2": "",
-   "projectUnlockName": "Project_WestAfricanCommunity",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
    "dataName": "ClaimMLGConkary",
    "relationType": "Claim",
    "nation1": "MLG",
@@ -18592,7 +18578,7 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimMLGBenin,
+   "dataName": "ClaimMLGBenin",
    "relationType": "Claim",
    "nation1": "MLG",
    "nation2": "",

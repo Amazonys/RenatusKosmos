@@ -2733,7 +2733,7 @@
    "friendlyName": "Colombia",
    "dataName": "COL",
    "flagResource": "nationflags/Colombia",
-   "unionFlagResource": "nationflags/Colombia",
+   "unionFlagResource": "nationflags/GranColombia",
    "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
