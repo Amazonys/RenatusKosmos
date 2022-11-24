@@ -16,3 +16,4 @@ UI.MissionPhase.NoTargets=This councilor cannot undertake this mission because t
 UI.MissionPhase.NoTargetLocation=Some mission targets can be invalid because the councilor's traits prevent any movement to its location:
 UI.MissionPhase.BadTrait={0}: {1}
 UI.MissionPhase.NoTargetsHelp=This councilor cannot undertake this mission because there are no valid targets for it. Targets for this mission may be invalidated for many reasons, including:
+UI.MissionPhase.Unknown=Unknown

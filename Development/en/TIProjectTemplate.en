@@ -1,6 +1,6 @@
 TIProjectTemplate.displayName.Project_TheirSignatures=Alien Signatures
 TIProjectTemplate.summary.Project_TheirSignatures=We study the recovered samples to learn how to detect alien activity.
-TIProjectTemplate.description.Project_TheirSignatures=There is no doubt: extraterrestrial life has touched down on Earth. The many questions we have regarding its origin, its species, and its intent will have to wait. All that matters now is finding it. By cross-referencing reports of unusual events in the vicinity of the landing site with similar data from our global intelligence network, we have developed a tracking system able to reliably identify disappearances most likely resulting from alien activity.
+TIProjectTemplate.description.Project_TheirSignatures=There is no doubt: Extraterrestrial life has touched down on Earth. The many questions we have regarding its origin, its species, and its intent will have to wait. All that matters now is finding it. By cross-referencing reports of unusual events in the vicinity of the landing site with similar data from our global intelligence network, we have developed a tracking system able to reliably identify disappearances most likely resulting from alien activity.
 
 TIProjectTemplate.displayName.Project_TheirMethods=Alien Methods
 TIProjectTemplate.summary.Project_TheirMethods=We track signs of alien activity to attempt to determine why they are abducting humans.
@@ -272,8 +272,8 @@ TIProjectTemplate.displayName.Project_GreaterIndia=Greater India
 TIProjectTemplate.summary.Project_GreaterIndia=India looks to regain territories lost since Partition.
 TIProjectTemplate.displayName.Project_FreistaatConfederation=Freistaat Union
 TIProjectTemplate.summary.Project_FreistaatConfederation=Germany persuades its neighbors to unite in common cause.
-TIProjectTemplate.displayName.Project_SlavicCommonwealth=Slavic Commonwealth
-TIProjectTemplate.summary.Project_SlavicCommonwealth=Poland leads western and southern Slavic peoples toward a unified state.
+TIProjectTemplate.displayName.Project_SlavicCommonwealth=The Intermarium
+TIProjectTemplate.summary.Project_SlavicCommonwealth=Poland leads Eastern European nations toward a unified state.
 TIProjectTemplate.displayName.Project_NordicFederation=The Nordic Federation
 TIProjectTemplate.summary.Project_NordicFederation=Citizens of the Nordic nations find a path to unity.
 TIProjectTemplate.displayName.Project_SouthernCross=The Republic of the Southern Cross
@@ -1517,9 +1517,10 @@ TIProjectTemplate.displayName.Project_PherocyteLiabilityTheory=Pherocyte Liabili
 TIProjectTemplate.summary.Project_PherocyteLiabilityTheory=Legal experts develop mechanisms to handle responsibility for behaviors induced by alien exposure.
 TIProjectTemplate.displayName.Project_SecurityAccountabilityChaining=Security Accountability Chaining
 TIProjectTemplate.summary.Project_SecurityAccountabilityChaining=Security agencies develop procedures to monitor each other in case one is infiltrated by pherocytes.
-
-
-
+TIProjectTemplate.displayName.Project_PatagoniaIndependenceMovement=Reconquest of the Desert
+TIProjectTemplate.summary.Project_PatagoniaIndependenceMovement=Peoples of Patagonia seek to redraw the map.
+TIProjectTemplate.displayName.Project_NetworkIntrusionProtocols=Network Intrusion Protocols
+TIProjectTemplate.summary.Project_NetworkIntrusionProtocols=We develop a variety of weapons to penetrate enemy faction networks.
 
 
 

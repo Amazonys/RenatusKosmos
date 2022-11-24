@@ -3666,7 +3666,7 @@
       ]
    },
    "attackerContexts": [
-      "",
+      "Mission_Inspire_Att",
       ""
    ],
    "defenderContexts": [
@@ -5552,7 +5552,7 @@
    "movementRule": "MoveToTarget",
    "targetEffects": [
       {
-         "$type": "TIMissionEffect_TriggerPolicySelection"
+         "$type": ""
       }
    ],
    "councilorEffects": [
@@ -6301,7 +6301,7 @@
       ]
    },
    "attackerContexts": [
-      "",
+      "Mission_Turn_Att",
       ""
    ],
    "defenderContexts": [

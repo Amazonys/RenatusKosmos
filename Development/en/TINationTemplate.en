@@ -703,10 +703,10 @@ TINationTemplate.unionDisplayNameWithArticle.MYS=the United Malay Nation
 TINationTemplate.unionAdjective.MYS=Malaysian
 TINationTemplate.unionDisplayNameWithArticlePrep.MYS=in the United Malay Nation
 
-TINationTemplate.unionDisplayName.NGA=Nigerian Confederation
-TINationTemplate.unionDisplayNameWithArticle.NGA=the Nigerian Confederation
-TINationTemplate.unionAdjective.NGA=Nigerian
-TINationTemplate.unionDisplayNameWithArticlePrep.NGA=in the Nigerian Confederation
+TINationTemplate.unionDisplayName.NGA=West African Community
+TINationTemplate.unionDisplayNameWithArticle.NGA=the West African Community
+TINationTemplate.unionAdjective.NGA=West African
+TINationTemplate.unionDisplayNameWithArticlePrep.NGA=in the West African Community
 
 TINationTemplate.unionDisplayName.PER=Peruvian Confederation
 TINationTemplate.unionDisplayNameWithArticle.PER=the Peruvian Confederation
@@ -962,11 +962,25 @@ TINationTemplate.displayNameWithArticle.URL=the Ural Republic
 TINationTemplate.nationAdjective.URL=Ural
 TINationTemplate.displayNameWithArticlePrep.URL=in the Ural Republic
 
-TINationTemplate.unionDisplayName.POL=Slavic Commonwealth
-TINationTemplate.unionDisplayNameWithArticle.POL=the Slavic Commonwealth
-TINationTemplate.unionAdjective.POL=Slavic
-TINationTemplate.unionDisplayNameWithArticlePrep.POL=in the Slavic Commonwealth
+TINationTemplate.unionDisplayName.POL=Intermarium
+TINationTemplate.unionDisplayNameWithArticle.POL=the Intermarium
+TINationTemplate.unionAdjective.POL=Intermarium
+TINationTemplate.unionDisplayNameWithArticlePrep.POL=in the Intermarium
 
+TINationTemplate.displayName.PAT=Patagonia
+TINationTemplate.displayNameWithArticle.PAT=Patagonia
+TINationTemplate.nationAdjective.PAT=Patagonian
+TINationTemplate.displayNameWithArticlePrep.PAT=in Patagonia
+
+TINationTemplate.displayName.CAY=Cayenne
+TINationTemplate.displayNameWithArticle.CAY=Cayenne
+TINationTemplate.nationAdjective.CAY=Cayenne
+TINationTemplate.displayNameWithArticlePrep.CAT=in Cayenne
+
+TINationTemplate.displayName.PNG=Papua New Guinea
+TINationTemplate.displayNameWithArticle.PNG=Papua New Guinea
+TINationTemplate.nationAdjective.PNG=Papuan
+TINationTemplate.displayNameWithArticlePrep.PNG=in Papua New Guinea
 
 
 

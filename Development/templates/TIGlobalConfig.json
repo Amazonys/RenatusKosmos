@@ -48,7 +48,7 @@
 		"maxMassforMiningResourceMalus": 5e16,
 		"bigAsteroidResourceBonusChance": 2,
 		"smallAsteroidresourceMalusChance": 0.5,		
-		/* tech * /
+		/* tech */
 		"showTriggeredProjects": false,
 		"disableUnlockChances": false,
 		/* canvases to load at launch */

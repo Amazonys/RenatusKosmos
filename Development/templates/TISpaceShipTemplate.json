@@ -672,8 +672,8 @@
    "hullAppearanceIndex": 0,
    "role": "SL_DefenseBomber",
    "hullName": "Cruiser",
-   "driveName": "OrionDrivex1",
-   "powerPlantName": "GasCoreFissionReactorIV",
+   "driveName": "PegasusDrivex2",
+   "powerPlantName": "MoltenCoreFissionReactorIII",
    "batteryName": "SuperconductingCoilBattery",
    "radiatorName": "ExoticSpike",
    "propellantTanks": 50,
@@ -695,11 +695,11 @@
          "slot": 9
       },
       {
-         "moduleName": "HeavyLithiumHeatSink",
+         "moduleName": "ISRUModule",
          "slot": 11
       },
       {
-         "moduleName": "ElectronicCountermeasures1",
+         "moduleName": "RemassScoop",
          "slot": 12
       },
       {

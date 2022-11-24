@@ -164,6 +164,7 @@ UI.Codex.codex_armies0=Armies represent multiple modern divisions that are capab
 UI.Codex.codex_armies1=Armies have a headquarters region in their home nation. If located there, they incur a smaller cost to the nation's economic development.
 UI.Codex.codex_armies2=Armies rely on two key values: its parent nation's miltech level and its strength. The strength value measures how much damage the army has taken. Armies repair themselves when not fighting in a friendly region.
 UI.Codex.codex_armies3=Some armies have a <h>Navy</h> upgrade that allows them to transit oceans. During wartime, a nation's navies can only cross the water if the nation has naval superiority over its foes. Only larger or wealthier nations have the capability to build and project power with navies.
+UI.Codex.codex_armies4=Destruction of an army grants Investment Points in its home nation's Build Army priority, representing reconstitution of the army with survivors of the prior unit. Destruction of an army with a navy also grants Investment Points in its home nation's Build Navy priority.
 UI.Codex.codex_armyOperations.Title=Army Operations
 UI.Codex.codex_armyOperations0=The faction that controls an army can conduct operations with it. They are:
 UI.Codex.codex_armyBattles.Title=Army Battles

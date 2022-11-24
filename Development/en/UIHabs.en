@@ -154,3 +154,4 @@ UI.Habs.QuickBuildTip=Select this if you'd like to skip review of cost options a
 UI.Habs.DuplicateHab=Select a nearby hab to duplicate its layout here. Unless an identical or upgraded version of a module has already been placed at the designated position, any modules you have built already with be upgraded or built over at the regular cost. This requires you have sufficient resources to play the full construction cost when ordering the modules. Builds will use any available space resources before using boost.
 UI.Habs.PriorModule=Former {0}
 UI.Habs.DecommissionModuleQueryRefund=We can cancel construction of this module at no cost.
+UI.Habs.Paren=<sp>({0}/month)

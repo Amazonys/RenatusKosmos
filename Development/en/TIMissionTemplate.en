@@ -206,7 +206,7 @@ TIMissionTemplate.Failure.SabotageHabModule=I was unable to get close enough to 
 TIMissionTemplate.CriticalFailure.SabotageHabModule=I was detected in a secure area near the {targetDisplayName} at {targetHabName}, and I am being detained for questioning.
 
 TIMissionTemplate.displayName.SabotageProject=Sabotage Project
-TIMissionTemplate.description.SabotageProject=Target a councilor or hab with an engineering module to remove progress on a project.
+TIMissionTemplate.description.SabotageProject=Target a councilor or hab with an engineering module to remove up to 5,000 research points of progress from a project. A specific project may only be sabotaged once.
 TIMissionTemplate.CriticalSuccess.SabotageProject=I have dealt {targetFactionName} a major setback to their research and have also stolen {returnedValue} for our scientists to use.
 TIMissionTemplate.Success.SabotageProject=I have dealt {targetFactionName} a major setback to their research.
 TIMissionTemplate.Failure.SabotageProject=I failed to penetrate the target to sabotage their research.
@@ -230,7 +230,7 @@ TIMissionTemplate.Failure.Stabilize=I have failed in my mission to reduce the un
 TIMissionTemplate.CriticalFailure.Stabilize=My efforts to reduce unrest {targetNationNameWithPrep} have been a disaster and the nation is increasingly divided, gaining {returnedValue} unrest.
 
 TIMissionTemplate.displayName.StealProject=Steal Project
-TIMissionTemplate.description.StealProject=Steal an engineering project from an enemy faction by targeting one of their councilors or habs with an engineering module. We may also acquire <color=#FFFFFFFF><sprite name="research"></color> if the enemy faction is ahead of us in its research income.
+TIMissionTemplate.description.StealProject=Steal an engineering project from an enemy faction by targeting one of their councilors or habs with an engineering module, unlocking it for us to research. We may also acquire <color=#FFFFFFFF><sprite name="research"></color> if the enemy faction is ahead of us in its research income.
 TIMissionTemplate.CriticalSuccess.StealProject=I have gained access to the research archives of {targetFactionName}. {returnedValue} We may now select one of their projects to steal.
 TIMissionTemplate.Success.StealProject=I have gained access to the research archives of {targetFactionName}. {returnedValue}
 TIMissionTemplate.Failure.StealProject=I failed to gain access to the research archives of {targetFactionName}.

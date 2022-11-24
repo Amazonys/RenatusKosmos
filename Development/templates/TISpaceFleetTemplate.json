@@ -350,7 +350,7 @@
          "shipTemplateName": "Ship7"
       }
    ],
-   "orbitTemplateName": "LowEarthOrbit1",
+   "orbitTemplateName": "LowJupiterOrbit",
    "meanAnomalyAtEpoch_Deg": 355
 },
  {

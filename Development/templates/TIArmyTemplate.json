@@ -96,7 +96,7 @@
    "homeRegionStr": "Novgorod",
    "armyType": "Human",
    "deploymentType": "Naval",
-   "startingStrength": 0.15
+   "startingStrength": 0.25
  },
  {
    "dataName": "RUSGuardsRostovskaya",

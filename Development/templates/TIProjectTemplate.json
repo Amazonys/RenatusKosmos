@@ -190,7 +190,7 @@
    "requiredMilestone": "",
    "effects": [
       "Effect_DetectAllOperations",
-      "",
+      "Effect_UpdateAlienThreatMeter",
       ""
    ],
    "oneTimeGlobally": false,
@@ -806,7 +806,7 @@
    "requiredMilestone": "",
    "effects": [
       "Effect_AlienRelationsEstablished",
-      "",
+      "Effect_FixAlienThreatMeter",
       ""
    ],
    "oneTimeGlobally": false,
@@ -973,7 +973,7 @@
    "altRequiredObjective0Name": "",
    "requiredMilestone": "",
    "effects": [
-      "",
+      "Effect_FixAlienThreatMeter",
       "",
       ""
    ],
@@ -1029,7 +1029,7 @@
    "altRequiredObjective0Name": "",
    "requiredMilestone": "",
    "effects": [
-      "",
+      "Effect_FixAlienThreatMeter",
       "",
       ""
    ],
@@ -5907,7 +5907,7 @@
    ],
    "oneTimeGlobally": true,
    "repeatable": false,
-   "requiresNation": "UGN",
+   "requiresNation": "NGA",
    "requiredControlPoint": [
       "",
       ""
@@ -5944,7 +5944,7 @@
    "AI_projectRole": "ExpandNation",
    "researchCost": 5000,
    "prereqs": [
-      "UnityMovements",
+      "Project_WestAfricanCommunity",
       "",
       "",
       "",
@@ -10936,7 +10936,7 @@
    ],
    "altPrereq0": "Project_SettlementCore",
    "requiredObjectiveNames": [
-      "BeginTheSearch"
+      "ResearchAlienTechnology"
    ],
    "altRequiredObjective0Name": "",
    "requiredMilestone": "",
@@ -21208,7 +21208,7 @@
       "",
       ""
    ],
-   "factionAvailableChance": 25,
+   "factionAvailableChance": 35,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 25,
@@ -30806,7 +30806,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Councilors",
-   "researchCost": 2500,
+   "researchCost": 5000,
    "prereqs": [
       "AppliedArtificialIntelligence",
       "Project_CyberneticImplants",
@@ -30862,7 +30862,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Councilors",
-   "researchCost": 4000,
+   "researchCost": 15000,
    "prereqs": [
       "MindandMachine",
       "Project_NeuralEngineering",
@@ -30918,7 +30918,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": true,
    "AI_projectRole": "Councilors",
-   "researchCost": 4000,
+   "researchCost": 10000,
    "prereqs": [
       "MindandMachine",
       "Project_Pherocytes",
@@ -30933,7 +30933,7 @@
    "altRequiredObjective0Name": "",
    "requiredMilestone": "",
    "effects": [
-      "Effect_ControlPointMaintenanceBonus20",
+      "",
       "",
       ""
    ],
@@ -38420,7 +38420,7 @@
    "dataName": "Project_Pherocyte-EnhancedInterrogations",
    "techCategory": "Xenology",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "PoliticalMissions",
    "researchCost": 8000,
    "prereqs": [
@@ -38568,7 +38568,7 @@
       "",
       ""
    ],
-   "factionAvailableChance": 75,
+   "factionAvailableChance": 100,
    "factionAlways": "DestroyCouncil",
    "initialUnlockChance": 5,
    "deltaUnlockChance": 10,
@@ -39525,6 +39525,118 @@
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 70,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Patagonia Independence Movement",
+   "dataName": "Project_PatagoniaIndependenceMovement",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "NeutralizeNation",
+   "researchCost": 250,
+   "prereqs": [
+      "IndependenceMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Network Intrusion Protocols",
+   "dataName": "Project_NetworkIntrusionProtocols",
+   "techCategory": "InformationScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Research",
+   "researchCost": 15000,
+   "prereqs": [
+      "AppliedArtificialIntelligence",
+      "NetworkedGlobalDefense",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "Effect_HackProject_Steal",
+      "Effect_HackProject_Sabotage",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "ExploitCouncil",
+   "initialUnlockChance": 20,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
       {
