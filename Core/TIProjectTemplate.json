@@ -4766,7 +4766,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 10000,
+   "researchCost": 15000,
    "prereqs": [
       "UnityMovements",
       "",
