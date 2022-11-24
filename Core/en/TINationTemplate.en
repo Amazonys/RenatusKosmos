@@ -1239,4 +1239,17 @@ TINationTemplate.unionDisplayNameWithArticle.LBY=Libya
 TINationTemplate.unionAdjective.LBY=Libyan
 TINationTemplate.unionDisplayNameWithArticlePrep.LBY=in Libya
 
+TINationTemplate.displayName.PAT=Patagonia
+TINationTemplate.displayNameWithArticle.PAT=Patagonia
+TINationTemplate.nationAdjective.PAT=Patagonian
+TINationTemplate.displayNameWithArticlePrep.PAT=in Patagonia
 
+TINationTemplate.displayName.CAY=Cayenne
+TINationTemplate.displayNameWithArticle.CAY=Cayenne
+TINationTemplate.nationAdjective.CAY=Cayenne
+TINationTemplate.displayNameWithArticlePrep.CAT=in Cayenne
+
+TINationTemplate.displayName.PNG=Papua New Guinea
+TINationTemplate.displayNameWithArticle.PNG=Papua New Guinea
+TINationTemplate.nationAdjective.PNG=Papuan
+TINationTemplate.displayNameWithArticlePrep.PNG=in Papua New Guinea

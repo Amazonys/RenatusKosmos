@@ -927,6 +927,55 @@
       ""
    ]
 },
+{
+   "friendlyName": "Patagonia",
+   "dataName": "PAT",
+   "flagResource": "nationflags/Patagonia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 8,
+      "g": 166,
+      "b": 0
+   },
+   "color": {
+      "r": 0.03,
+      "g": 0.64,
+      "b": 0,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Conservative",
+      "Populist",
+      "Liberal",
+      "Industrialization",
+      "Industrialization",
+      "Industrialization"
+   ],
+   "ISOCodes": [
+      "ARG",
+      "",
+      ""
+   ]
+},
  {
    "friendlyName": "Armenia",
    "dataName": "ARM",

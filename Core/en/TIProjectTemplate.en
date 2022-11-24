@@ -1553,7 +1553,10 @@ TIProjectTemplate.displayName.Project_PherocyteLiabilityTheory=Pherocyte Liabili
 TIProjectTemplate.summary.Project_PherocyteLiabilityTheory=Legal experts develop mechanisms to handle responsibility for behaviors induced by alien exposure.
 TIProjectTemplate.displayName.Project_SecurityAccountabilityChaining=Security Accountability Chaining
 TIProjectTemplate.summary.Project_SecurityAccountabilityChaining=Security agencies develop procedures to monitor each other in case one is infiltrated by pherocytes.
-
+TIProjectTemplate.displayName.Project_PatagoniaIndependenceMovement=Reconquest of the Desert
+TIProjectTemplate.summary.Project_PatagoniaIndependenceMovement=Peoples of Patagonia seek to redraw the map.
+TIProjectTemplate.displayName.Project_NetworkIntrusionProtocols=Network Intrusion Protocols
+TIProjectTemplate.summary.Project_NetworkIntrusionProtocols=We develop a variety of weapons to penetrate enemy faction networks.
 
 
 
