@@ -3254,9 +3254,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 5000,
+   "researchCost": 25000,
    "prereqs": [
-      "FallofEmpires",
+      "IndependenceMovements",
       "",
       "",
       "",
@@ -3310,9 +3310,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 5000,
+   "researchCost": 15000,
    "prereqs": [
-      "FallofEmpires",
+      "IndependenceMovements",
       "",
       "",
       "",
@@ -3366,9 +3366,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 10000,
+   "researchCost": 15000,
    "prereqs": [
-      "FallofEmpires",
+      "IndependenceMovements",
       "",
       "",
       "",
@@ -3422,9 +3422,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 5000,
+   "researchCost": 20000,
    "prereqs": [
-      "FallofEmpires",
+      "IndependenceMovements",
       "",
       "",
       "",
@@ -3478,9 +3478,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 3000,
+   "researchCost": 10000,
    "prereqs": [
-      "FallofEmpires",
+      "IndependenceMovements",
       "",
       "",
       "",
@@ -5498,7 +5498,7 @@
    "prereqs": [
       "GreatNations",
       "FallofEmpires",
-      "",
+      "Project_EndofChina",
       "",
       ""
    ],

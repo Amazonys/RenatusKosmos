@@ -1306,7 +1306,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 16000,
+   "researchCost": 20000,
    "prereqs": [
       "IndependenceMovements",
       "ArrivalInternationalRelations",
@@ -3556,7 +3556,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 6000,
+   "researchCost": 5000,
    "prereqs": [
       "ArrivalInternationalRelations",
       "",
