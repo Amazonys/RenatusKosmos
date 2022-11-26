@@ -506,7 +506,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 2000,
+   "researchCost": 2500,
    "prereqs": [
       "WeAreNotAlone",
       "",
@@ -606,7 +606,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 3000,
+   "researchCost": 2500,
    "prereqs": [
       "WeAreNotAlone",
       "",
@@ -1606,7 +1606,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 24000,
+   "researchCost": 20000,
    "prereqs": [
       "UnityMovements",
       "ArrivalDomesticPolitics",
@@ -1856,7 +1856,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "endGameTech": null,
-   "researchCost": 4000,
+   "researchCost": 5000,
    "prereqs": [
       "ArrivalDomesticPolitics",
       "",
