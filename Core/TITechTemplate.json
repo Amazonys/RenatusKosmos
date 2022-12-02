@@ -565,7 +565,7 @@
    "altPrereq0": "",
    "year": "",
    "effects": [
-      "",
+      "Effect_ControlCostPow",
       "",
       "",
       ""
@@ -740,7 +740,7 @@
    "altPrereq0": "",
    "year": "",
    "effects": [
-      "",
+      "Effect_ControlCostPow",
       "",
       "",
       ""
@@ -1315,7 +1315,7 @@
    "altPrereq0": "",
    "year": "",
    "effects": [
-      "",
+      "Effect_ControlCostPow",
       "",
       "",
       ""
@@ -1615,7 +1615,7 @@
    "altPrereq0": "",
    "year": "",
    "effects": [
-      "",
+      "Effect_ControlCostPow",
       "",
       "",
       ""

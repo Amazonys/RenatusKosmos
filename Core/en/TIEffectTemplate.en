@@ -685,3 +685,4 @@ TIEffectTemplate.displayName.Effect_EnthrallPublicDefense=Enthrall Public defens
 TIEffectTemplate.description.Effect_EnthrallPublicDefense=-Aliens suffer -{0} on enthrall public missions in nations where we have executive control
 TIEffectTemplate.displayName.Effect_AbductionsDefense=Abductions defenses
 TIEffectTemplate.description.Effect_AbductionsDefense=--Aliens suffer -{0} on abduction missions in nations where we have executive control
+TIEffectTemplate.description.Effect_ControlCostPow=-Reduces the control point cost of nations.

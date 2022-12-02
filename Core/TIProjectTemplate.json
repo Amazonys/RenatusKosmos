@@ -3142,7 +3142,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 5000,
+   "researchCost": 4000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -3165,8 +3165,8 @@
    "repeatable": false,
    "requiresNation": "",
    "requiredControlPoint": [
-      "RockyMountains",
-      "Monterrey"
+      "",
+      ""
    ],
    "factionPrereq": [
       "",
@@ -3198,7 +3198,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 1000,
+   "researchCost": 5000,
    "prereqs": [
       "IndependenceMovements",
       "",
@@ -4451,9 +4451,9 @@
    ],
    "oneTimeGlobally": true,
    "repeatable": false,
-   "requiresNation": "BOL",
+   "requiresNation": "SAU",
    "requiredControlPoint": [
-      "BOL",
+      "SAU",
       ""
    ],
    "factionPrereq": [
@@ -4968,7 +4968,7 @@
       "",
       ""
    ],
-   "factionAvailableChance": 30,
+   "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,
@@ -5767,14 +5767,182 @@
    "iconResource": "",
    "completedIllustrationPath": ""
 },
- {
+{
+   "friendlyName": "Lusitania League",
+   "dataName": "Project_LusitaniaLeague",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 10000,
+   "prereqs": [
+      "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "PRT",
+   "requiredControlPoint": [
+      "PRT",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 10,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Iberian Union",
+   "dataName": "Project_IberiaUnion",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 1000,
+   "prereqs": [
+      "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "ESP",
+   "requiredControlPoint": [
+      "ESP",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 10,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Mediterranean Union",
+   "dataName": "Project_MediterraneanUnion",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 10000,
+   "prereqs": [
+      "GreatNations",
+      "Project_OccitanIndependenceMovement",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "OCT",
+   "requiredControlPoint": [
+      "OCT",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 10,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
    "friendlyName": "Freistaat Confederation",
    "dataName": "Project_FreistaatConfederation",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 10000,
+   "researchCost": 6000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -5830,7 +5998,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 10000,
+   "researchCost": 8000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -6560,7 +6728,7 @@
    "AI_projectRole": "NeutralizeNation",
    "researchCost": 1000,
    "prereqs": [
-      "FallofEmpires",
+      "IndependenceMovements",
       "",
       "",
       "",
@@ -6950,7 +7118,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 10000,
+   "researchCost": 8000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -7121,7 +7289,7 @@
    "researchCost": 10000,
    "prereqs": [
       "UnityMovements",
-      "Project_EndofAmerica",
+      "",
       "",
       "",
       ""

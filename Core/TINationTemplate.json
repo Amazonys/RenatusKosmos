@@ -1706,8 +1706,8 @@
    "friendlyName": "Bolivia",
    "dataName": "BOL",
    "flagResource": "nationflags/Bolivia",
-   "unionFlagResource": "nationflags/South_American_Union",
-   "unionTrigger": 3,
+   "unionFlagResource": "",
+   "unionTrigger": null,
    "multiplier": 1,
    "color32": {
       "r": 200,
@@ -1747,6 +1747,55 @@
    ],
    "ISOCodes": [
       "BOL",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "South American Union",
+   "dataName": "SAU",
+   "flagResource": "nationflags/South_American_Union",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 200,
+      "g": 210,
+      "b": 60
+   },
+   "color": {
+      "r": 0.78,
+      "g": 0.82,
+      "b": 0.24,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Developing",
+      "Liberal",
+      "Conservative",
+      "Populist",
+      "Developing",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
+      "",
       "",
       ""
    ]
@@ -7226,8 +7275,8 @@
    "friendlyName": "Occitania",
    "dataName": "OCT",
    "flagResource": "nationflags/Occitania",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Occitania",
+   "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
       "r": 230,
@@ -7716,8 +7765,8 @@
    "friendlyName": "Portugal",
    "dataName": "PRT",
    "flagResource": "nationflags/Portugal",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Portugal",
+   "unionTrigger": 2,
    "multiplier": 1.2,
    "color32": {
       "r": 0,
@@ -8612,7 +8661,7 @@
    },
    "aggregateNation": null,
    "initialGDP": null,
-   "popGrowthModifier": -0.5,
+   "popGrowthModifier": null,
    "initialFactionStr": "",
    "cohesion": null,
    "unrest": null,
@@ -9282,8 +9331,8 @@
    "friendlyName": "Spain",
    "dataName": "ESP",
    "flagResource": "nationflags/Spain",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Spain",
+   "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
       "r": 255,
