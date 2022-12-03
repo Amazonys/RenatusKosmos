@@ -1,6 +1,6 @@
 [
  {
-   "dataName": "map_AmyzAbuja",
+   "dataName": "map_Abuja",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 9.08,
@@ -9,7 +9,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKano",
+   "dataName": "map_Kano",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 11.99,
@@ -18,7 +18,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAlgeria",
+   "dataName": "map_Algeria",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 36.65,
@@ -27,7 +27,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzGhardaia",
+   "dataName": "map_Ghardaia",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 32.48,
@@ -36,7 +36,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBechar",
+   "dataName": "map_Bechar",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 31.5,
@@ -45,7 +45,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzTamanrasset",
+   "dataName": "map_Tamanrasset",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 22.69,
@@ -54,7 +54,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEcuatoria",
+   "dataName": "map_Ecuatoria",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 1.61,
@@ -63,7 +63,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGabon",
+   "dataName": "map_Gabon",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 0.41,
@@ -72,7 +72,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAltLowerGuinea",
+   "dataName": "map_AltLowerGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -4.13,
@@ -81,7 +81,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBenin",
+   "dataName": "map_Benin",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 6.51,
@@ -90,7 +90,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAltMiddleGuinea",
+   "dataName": "map_AltMiddleGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 8.16,
@@ -99,7 +99,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMarrakech",
+   "dataName": "map_Marrakech",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 31.46,
@@ -108,7 +108,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAltMorocco",
+   "dataName": "map_AltMorocco",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 33.97,
@@ -117,7 +117,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBissau",
+   "dataName": "map_Bissau",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 11.98,
@@ -126,7 +126,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzFreetown",
+   "dataName": "map_Freetown",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 8.43,
@@ -135,7 +135,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMonrovia",
+   "dataName": "map_Monrovia",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 6.29,
@@ -144,7 +144,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAltUpperGuinea",
+   "dataName": "map_AltUpperGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 9.67,
@@ -153,7 +153,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAngola",
+   "dataName": "map_Angola",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -8.98,
@@ -162,7 +162,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBenguela",
+   "dataName": "map_Benguela",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -12.62,
@@ -171,7 +171,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzLuena",
+   "dataName": "map_Luena",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -11.75,
@@ -180,7 +180,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBotswana",
+   "dataName": "map_Botswana",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -22.5,
@@ -189,7 +189,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBurkinaFaso",
+   "dataName": "map_BurkinaFaso",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 12.36,
@@ -198,7 +198,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCameroon",
+   "dataName": "map_Cameroon",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 5.9,
@@ -207,7 +207,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCanaryIslands",
+   "dataName": "map_CanaryIslands",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 28,
@@ -216,7 +216,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCapeTown",
+   "dataName": "map_CapeTown",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -32.01,
@@ -225,7 +225,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCentralAfricanRepublic",
+   "dataName": "map_CentralAfricanRepublic",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 6.6,
@@ -234,7 +234,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzChad",
+   "dataName": "map_Chad",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 12.08,
@@ -243,7 +243,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAbeche",
+   "dataName": "map_Abeche",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 13.91,
@@ -252,7 +252,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEgypt",
+   "dataName": "map_Egypt",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 30.06,
@@ -261,7 +261,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzLuxor",
+   "dataName": "map_Luxor",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 25.69,
@@ -270,7 +270,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEritrea",
+   "dataName": "map_Eritrea",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 15.44,
@@ -279,7 +279,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzEthiopia",
+   "dataName": "map_Ethiopia",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 9.05,
@@ -288,7 +288,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEuropeanRatnakara",
+   "dataName": "map_EuropeanRatnakara",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -15.21,
@@ -297,7 +297,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzIvoryCoast",
+   "dataName": "map_IvoryCoast",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 4.42,
@@ -306,7 +306,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzJohannesburg",
+   "dataName": "map_Johannesburg",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -26.05,
@@ -315,7 +315,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzDurban",
+   "dataName": "map_Durban",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -29.84,
@@ -324,7 +324,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzKenya",
+   "dataName": "map_Kenya",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -1.24,
@@ -333,7 +333,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMombasa",
+   "dataName": "map_Mombasa",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -3.9,
@@ -342,7 +342,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKinshasa",
+   "dataName": "map_Kinshasa",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -4.6,
@@ -351,7 +351,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLagos",
+   "dataName": "map_Lagos",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 6.68,
@@ -360,7 +360,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzHarcourt",
+   "dataName": "map_Harcourt",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 4.84,
@@ -369,7 +369,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLibya",
+   "dataName": "map_Libya",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 32.87,
@@ -378,7 +378,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBenghazi",
+   "dataName": "map_Benghazi",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 32.1,
@@ -387,7 +387,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzFezzan",
+   "dataName": "map_Fezzan",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 27.08,
@@ -396,7 +396,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzKananga",
+   "dataName": "map_Kananga",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -5.94,
@@ -405,7 +405,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBukavu",
+   "dataName": "map_Bukavu",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -2.54,
@@ -414,7 +414,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMbandaka",
+   "dataName": "map_Mbandaka",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 0.17,
@@ -423,7 +423,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKisangani",
+   "dataName": "map_Kisangani",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 0.55,
@@ -432,7 +432,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLubumbashi",
+   "dataName": "map_Lubumbashi",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -11.04,
@@ -441,7 +441,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMadagascar",
+   "dataName": "map_Madagascar",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -19,
@@ -450,7 +450,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMali",
+   "dataName": "map_Mali",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 12.58,
@@ -459,7 +459,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzTimbuktu",
+   "dataName": "map_Timbuktu",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 16.72,
@@ -468,7 +468,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMauritania",
+   "dataName": "map_Mauritania",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 18.05,
@@ -477,7 +477,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMekelle",
+   "dataName": "map_Mekelle",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 13.52,
@@ -486,7 +486,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHarar",
+   "dataName": "map_Harar",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 9.32,
@@ -495,7 +495,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMorocco",
+   "dataName": "map_Morocco",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 31.32,
@@ -504,7 +504,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMozambique",
+   "dataName": "map_Mozambique",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -25.79,
@@ -513,7 +513,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBeira",
+   "dataName": "map_Beira",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -19.61,
@@ -522,7 +522,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNampula",
+   "dataName": "map_Nampula",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -15.14,
@@ -531,7 +531,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNamibia",
+   "dataName": "map_Namibia",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": -22.47,
@@ -540,7 +540,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNiger",
+   "dataName": "map_Niger",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 13.52,
@@ -549,7 +549,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAgadez",
+   "dataName": "map_Agadez",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 16.95,
@@ -558,7 +558,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzRatnakara",
+   "dataName": "map_Ratnakara",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -18.4,
@@ -567,7 +567,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSenegambia",
+   "dataName": "map_Senegambia",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 14.3,
@@ -576,7 +576,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSomalia",
+   "dataName": "map_Somalia",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 2.11,
@@ -585,7 +585,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSomaliland",
+   "dataName": "map_Somaliland",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 9.53,
@@ -594,7 +594,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSouthSudan",
+   "dataName": "map_SouthSudan",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 7.08,
@@ -603,7 +603,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSudan",
+   "dataName": "map_Sudan",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 15.54,
@@ -612,7 +612,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzDarfur",
+   "dataName": "map_Darfur",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 12.09,
@@ -621,7 +621,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzKordofan",
+   "dataName": "map_Kordofan",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 13.23,
@@ -630,7 +630,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzUpperNile",
+   "dataName": "map_UpperNile",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 13.8,
@@ -639,7 +639,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzTanzania",
+   "dataName": "map_Tanzania",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -6.7,
@@ -648,7 +648,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzZanzibar",
+   "dataName": "map_Zanzibar",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -6.15,
@@ -657,7 +657,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMbeya",
+   "dataName": "map_Mbeya",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -8.88,
@@ -666,7 +666,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzDodoma",
+   "dataName": "map_Dodoma",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -6.07,
@@ -675,7 +675,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMwanza",
+   "dataName": "map_Mwanza",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -2.64,
@@ -684,7 +684,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzTunisia",
+   "dataName": "map_Tunisia",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 33.85,
@@ -693,7 +693,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzUganda",
+   "dataName": "map_Uganda",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 1.1,
@@ -702,7 +702,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzWesternSahara",
+   "dataName": "map_WesternSahara",
    "terrain": "Rugged",
    "supraRegion": "Africa",
    "latitude": 24.45,
@@ -711,7 +711,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzZambia",
+   "dataName": "map_Zambia",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -15.34,
@@ -720,7 +720,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKitwe",
+   "dataName": "map_Kitwe",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -11.28,
@@ -729,7 +729,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMalawi",
+   "dataName": "map_Malawi",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -13.95,
@@ -738,7 +738,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzZimbabwe",
+   "dataName": "map_Zimbabwe",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": -19.43,
@@ -747,7 +747,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAfghanistan",
+   "dataName": "map_Afghanistan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 34.44,
@@ -756,7 +756,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKandahar",
+   "dataName": "map_Kandahar",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 31.66,
@@ -765,7 +765,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzHerat",
+   "dataName": "map_Herat",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 34.36,
@@ -774,7 +774,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMazarSharif",
+   "dataName": "map_MazarSharif",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 36.65,
@@ -783,7 +783,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAlmaty",
+   "dataName": "map_Almaty",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 43.34,
@@ -792,7 +792,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAnatolia",
+   "dataName": "map_Anatolia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 39.82,
@@ -801,7 +801,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSamsun",
+   "dataName": "map_Samsun",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 41.31,
@@ -810,7 +810,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzArmenia",
+   "dataName": "map_Armenia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 40.06,
@@ -819,7 +819,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAssam",
+   "dataName": "map_Assam",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 26.08,
@@ -828,7 +828,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAstana",
+   "dataName": "map_Astana",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 51.11,
@@ -837,7 +837,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAktobe",
+   "dataName": "map_Aktobe",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 49.99,
@@ -846,7 +846,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAzerbaijan",
+   "dataName": "map_Azerbaijan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 40.33,
@@ -855,7 +855,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBaghdad",
+   "dataName": "map_Baghdad",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 33.28,
@@ -864,7 +864,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBasra",
+   "dataName": "map_Basra",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 30.56,
@@ -873,7 +873,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBaluchistan",
+   "dataName": "map_Baluchistan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 30.09,
@@ -882,7 +882,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBangladesh",
+   "dataName": "map_Bangladesh",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 24,
@@ -891,7 +891,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCaucasus",
+   "dataName": "map_Caucasus",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 41.25,
@@ -900,7 +900,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzDiyarbakir",
+   "dataName": "map_Diyarbakir",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 39.25,
@@ -909,7 +909,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzUlanUde",
+   "dataName": "map_UlanUde",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 51.77,
@@ -918,7 +918,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEasternSiberia",
+   "dataName": "map_EasternSiberia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 52.26,
@@ -927,7 +927,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzGeorgia",
+   "dataName": "map_Georgia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 42.06,
@@ -936,7 +936,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGulfStates",
+   "dataName": "map_GulfStates",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 25.75,
@@ -945,7 +945,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzHijaz",
+   "dataName": "map_Hijaz",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 21.48,
@@ -954,7 +954,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzDamman",
+   "dataName": "map_Damman",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 26.42,
@@ -963,7 +963,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHail",
+   "dataName": "map_Hail",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 27.57,
@@ -972,7 +972,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMedina",
+   "dataName": "map_Medina",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 24.52,
@@ -981,7 +981,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAbha",
+   "dataName": "map_Abha",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 18.22,
@@ -990,7 +990,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHimalayas",
+   "dataName": "map_Himalayas",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 27.58,
@@ -999,7 +999,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHyderabad",
+   "dataName": "map_Hyderabad",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 14.1,
@@ -1008,7 +1008,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzIsraelPalestine",
+   "dataName": "map_IsraelPalestine",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 31.76,
@@ -1017,7 +1017,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzIstanbul",
+   "dataName": "map_Istanbul",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 41.07,
@@ -1026,7 +1026,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzIzmir",
+   "dataName": "map_Izmir",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 38.46,
@@ -1035,7 +1035,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzJaipur",
+   "dataName": "map_Jaipur",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 27.3,
@@ -1044,7 +1044,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzJammuandKashmir",
+   "dataName": "map_JammuandKashmir",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 33.31,
@@ -1053,7 +1053,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzJordan",
+   "dataName": "map_Jordan",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 31.13,
@@ -1062,7 +1062,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKhorasan",
+   "dataName": "map_Khorasan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 32.09,
@@ -1071,7 +1071,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKolkata",
+   "dataName": "map_Kolkata",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 23.28,
@@ -1080,7 +1080,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzKyrgyzstan",
+   "dataName": "map_Kyrgyzstan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 41.26,
@@ -1089,7 +1089,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMongolia",
+   "dataName": "map_Mongolia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 46.33,
@@ -1098,7 +1098,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMosul",
+   "dataName": "map_Mosul",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 36.33,
@@ -1107,7 +1107,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMumbai",
+   "dataName": "map_Mumbai",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 19.09,
@@ -1116,7 +1116,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNajd",
+   "dataName": "map_Najd",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 24.7,
@@ -1125,7 +1125,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNewDelhi",
+   "dataName": "map_NewDelhi",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 26.9,
@@ -1134,7 +1134,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzOman",
+   "dataName": "map_Oman",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 20.37,
@@ -1143,7 +1143,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPeshawar",
+   "dataName": "map_Peshawar",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 33.98,
@@ -1152,7 +1152,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPunjab",
+   "dataName": "map_Punjab",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 33.27,
@@ -1161,7 +1161,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSindh",
+   "dataName": "map_Sindh",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 25.22,
@@ -1170,7 +1170,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSriLanka",
+   "dataName": "map_SriLanka",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 7.4,
@@ -1179,7 +1179,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSyria",
+   "dataName": "map_Syria",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 33.57,
@@ -1188,7 +1188,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAleppo",
+   "dataName": "map_Aleppo",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 36.21,
@@ -1197,7 +1197,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLebanon",
+   "dataName": "map_Lebanon",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 33.91,
@@ -1206,7 +1206,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzTajikistan",
+   "dataName": "map_Tajikistan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 38.86,
@@ -1215,7 +1215,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzTehran",
+   "dataName": "map_Tehran",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 35.69,
@@ -1224,7 +1224,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzTabriz",
+   "dataName": "map_Tabriz",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 38.06,
@@ -1233,7 +1233,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAhwaz",
+   "dataName": "map_Ahwaz",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 32.66,
@@ -1242,7 +1242,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBandar",
+   "dataName": "map_Bandar",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 27.37,
@@ -1251,7 +1251,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzIsfahan",
+   "dataName": "map_Isfahan",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 32.66,
@@ -1260,7 +1260,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKermanshah",
+   "dataName": "map_Kermanshah",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 34.32,
@@ -1269,7 +1269,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzShiraz",
+   "dataName": "map_Shiraz",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 29.65,
@@ -1278,7 +1278,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzTibet",
+   "dataName": "map_Tibet",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 30.85,
@@ -1287,7 +1287,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzTurkmenistan",
+   "dataName": "map_Turkmenistan",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 39.25,
@@ -1296,7 +1296,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzUzbekistan",
+   "dataName": "map_Uzbekistan",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 41.21,
@@ -1305,7 +1305,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzUrgench",
+   "dataName": "map_Urgench",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 41.61,
@@ -1314,7 +1314,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKrasnoyarsk",
+   "dataName": "map_Krasnoyarsk",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 56.02,
@@ -1323,7 +1323,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzWesternSiberia",
+   "dataName": "map_WesternSiberia",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 54.95,
@@ -1332,7 +1332,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzXinjiang",
+   "dataName": "map_Xinjiang",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 40,
@@ -1341,7 +1341,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzYemen",
+   "dataName": "map_Yemen",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 15.44,
@@ -1350,7 +1350,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAden",
+   "dataName": "map_Aden",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 12.98,
@@ -1359,7 +1359,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBeijing",
+   "dataName": "map_Beijing",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 38.85,
@@ -1368,7 +1368,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBorneo",
+   "dataName": "map_Borneo",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": -0.67,
@@ -1377,7 +1377,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCambodia",
+   "dataName": "map_Cambodia",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 12,
@@ -1386,7 +1386,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzChongqing",
+   "dataName": "map_Chongqing",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 29.29,
@@ -1395,7 +1395,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzGobi",
+   "dataName": "map_Gobi",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 38.27,
@@ -1404,7 +1404,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzGuangzhou",
+   "dataName": "map_Guangzhou",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 23.18,
@@ -1413,7 +1413,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzGuizhou",
+   "dataName": "map_Guizhou",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 24.85,
@@ -1422,7 +1422,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHanoi",
+   "dataName": "map_Hanoi",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 20.12,
@@ -1431,7 +1431,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHoChiMinhCity",
+   "dataName": "map_HoChiMinhCity",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 10.9,
@@ -1440,7 +1440,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHokkaido",
+   "dataName": "map_Hokkaido",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 43.21,
@@ -1449,7 +1449,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHonshu",
+   "dataName": "map_Honshu",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 36.23,
@@ -1458,7 +1458,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzJava",
+   "dataName": "map_Java",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": -7.38,
@@ -1467,7 +1467,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzKyushuandShikoku",
+   "dataName": "map_KyushuandShikoku",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 32.73,
@@ -1476,7 +1476,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzLaos",
+   "dataName": "map_Laos",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 17.88,
@@ -1485,7 +1485,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzLuzon",
+   "dataName": "map_Luzon",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 16.22,
@@ -1494,7 +1494,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMalayPeninsula",
+   "dataName": "map_MalayPeninsula",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 3.31,
@@ -1503,7 +1503,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzManchuria",
+   "dataName": "map_Manchuria",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 45.5,
@@ -1512,7 +1512,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMyanmar",
+   "dataName": "map_Myanmar",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 20.96,
@@ -1521,7 +1521,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNanjing",
+   "dataName": "map_Nanjing",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 31.96,
@@ -1530,7 +1530,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNorthKorea",
+   "dataName": "map_NorthKorea",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 39.7,
@@ -1539,7 +1539,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNorthThailand",
+   "dataName": "map_NorthThailand",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 17.5,
@@ -1548,7 +1548,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzRussianFarEast",
+   "dataName": "map_RussianFarEast",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 43.31,
@@ -1557,7 +1557,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzYakutsk",
+   "dataName": "map_Yakutsk",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 61.99,
@@ -1566,7 +1566,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMagadan",
+   "dataName": "map_Magadan",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 59.65,
@@ -1575,7 +1575,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzKamchatka",
+   "dataName": "map_Kamchatka",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 53.21,
@@ -1584,7 +1584,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSahkalin",
+   "dataName": "map_Sahkalin",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 46.94,
@@ -1593,7 +1593,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSarawakandSabah",
+   "dataName": "map_SarawakandSabah",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 2.83,
@@ -1602,7 +1602,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzShanghai",
+   "dataName": "map_Shanghai",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 29.49,
@@ -1611,7 +1611,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSingapore",
+   "dataName": "map_Singapore",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 1.344,
@@ -1620,7 +1620,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSouthKorea",
+   "dataName": "map_SouthKorea",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 36.35,
@@ -1629,7 +1629,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSouthThailand",
+   "dataName": "map_SouthThailand",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 11.16,
@@ -1638,7 +1638,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSumatra",
+   "dataName": "map_Sumatra",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": -0.5,
@@ -1647,7 +1647,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzTaiwan",
+   "dataName": "map_Taiwan",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 23.69,
@@ -1656,7 +1656,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzViasyasyMindanao",
+   "dataName": "map_ViasyasyMindanao",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 8.2,
@@ -1665,7 +1665,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzWuhan",
+   "dataName": "map_Wuhan",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 29.28,
@@ -1674,7 +1674,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzXian",
+   "dataName": "map_Xian",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
    "latitude": 37.49,
@@ -1683,7 +1683,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAlpineStates",
+   "dataName": "map_AlpineStates",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 48.2,
@@ -1692,7 +1692,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSwitzerland",
+   "dataName": "map_Switzerland",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 46.95,
@@ -1701,7 +1701,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBalticStates",
+   "dataName": "map_BalticStates",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 56.95,
@@ -1710,7 +1710,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzEstonia",
+   "dataName": "map_Estonia",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 59.45,
@@ -1719,7 +1719,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLithuania",
+   "dataName": "map_Lithuania",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 54.75,
@@ -1728,7 +1728,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBarcelona",
+   "dataName": "map_Barcelona",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 41.38,
@@ -1737,7 +1737,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBelarus",
+   "dataName": "map_Belarus",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 55,
@@ -1746,7 +1746,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBenelux",
+   "dataName": "map_Benelux",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 52.37,
@@ -1755,7 +1755,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBelgium",
+   "dataName": "map_Belgium",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 50.88,
@@ -1764,7 +1764,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBulgaria",
+   "dataName": "map_Bulgaria",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 42.7,
@@ -1773,7 +1773,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCentralEurope",
+   "dataName": "map_CentralEurope",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 48.18,
@@ -1782,7 +1782,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCrimea",
+   "dataName": "map_Crimea",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 45.3,
@@ -1791,7 +1791,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCzechia",
+   "dataName": "map_Czechia",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 49.89,
@@ -1800,7 +1800,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzDenmark",
+   "dataName": "map_Denmark",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 55.43,
@@ -1809,7 +1809,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzDutchCaribbean",
+   "dataName": "map_DutchCaribbean",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 12.17,
@@ -1818,7 +1818,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEastGermany",
+   "dataName": "map_EastGermany",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 52.52,
@@ -1827,7 +1827,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzEngland",
+   "dataName": "map_England",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 52.301,
@@ -1836,7 +1836,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzFinland",
+   "dataName": "map_Finland",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 60.1,
@@ -1845,7 +1845,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGermany",
+   "dataName": "map_Germany",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 51,
@@ -1854,7 +1854,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNorthGermany",
+   "dataName": "map_NorthGermany",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 53.53,
@@ -1863,7 +1863,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSouthGermany",
+   "dataName": "map_SouthGermany",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 48.11,
@@ -1872,7 +1872,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGreece",
+   "dataName": "map_Greece",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 39.07,
@@ -1881,7 +1881,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCyprus",
+   "dataName": "map_Cyprus",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 35.18,
@@ -1890,7 +1890,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGreenland",
+   "dataName": "map_Greenland",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 65.55,
@@ -1899,7 +1899,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHungary",
+   "dataName": "map_Hungary",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 46.84,
@@ -1908,7 +1908,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzIceland",
+   "dataName": "map_Iceland",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 64.84,
@@ -1917,7 +1917,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzItaly",
+   "dataName": "map_Italy",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 45.48,
@@ -1926,7 +1926,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCentralItaly",
+   "dataName": "map_CentralItaly",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 41.9,
@@ -1935,7 +1935,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKarelia",
+   "dataName": "map_Karelia",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 65.13,
@@ -1944,7 +1944,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKharkiv",
+   "dataName": "map_Kharkiv",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 49.87,
@@ -1953,7 +1953,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzOdessa",
+   "dataName": "map_Odessa",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 46.77,
@@ -1962,7 +1962,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKiev",
+   "dataName": "map_Kiev",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 50.46,
@@ -1971,7 +1971,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLwow",
+   "dataName": "map_Lwow",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 49.85,
@@ -1980,7 +1980,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLyon",
+   "dataName": "map_Lyon",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 45.75,
@@ -1989,7 +1989,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBordeaux",
+   "dataName": "map_Bordeaux",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 44.83,
@@ -1998,7 +1998,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMoskva",
+   "dataName": "map_Moskva",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 55.74,
@@ -2007,7 +2007,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzVoronezh",
+   "dataName": "map_Voronezh",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 51.66,
@@ -2016,7 +2016,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNaples",
+   "dataName": "map_Naples",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 40.85,
@@ -2025,7 +2025,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNorthernIreland",
+   "dataName": "map_NorthernIreland",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 55,
@@ -2034,7 +2034,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNorthwestBalkans",
+   "dataName": "map_NorthwestBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 43.89,
@@ -2043,7 +2043,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCroatia",
+   "dataName": "map_Croatia",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 45.76,
@@ -2052,7 +2052,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNorway",
+   "dataName": "map_Norway",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 59.56,
@@ -2061,7 +2061,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNovgorod",
+   "dataName": "map_Novgorod",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 60.36,
@@ -2070,7 +2070,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzKaliningrad",
+   "dataName": "map_Kaliningrad",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 54.71,
@@ -2079,7 +2079,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPoland",
+   "dataName": "map_Poland",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 52.22,
@@ -2088,7 +2088,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzWroclaw",
+   "dataName": "map_Wroclaw",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 51.11,
@@ -2097,7 +2097,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGdansk",
+   "dataName": "map_Gdansk",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 54.37,
@@ -2106,7 +2106,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzPortugal",
+   "dataName": "map_Portugal",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 39.5,
@@ -2115,7 +2115,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzRomania",
+   "dataName": "map_Romania",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 44.46,
@@ -2124,7 +2124,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzTransylvania",
+   "dataName": "map_Transylvania",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 46.76,
@@ -2133,7 +2133,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMoldova",
+   "dataName": "map_Moldova",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 46.99,
@@ -2142,7 +2142,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzRostovskaya",
+   "dataName": "map_Rostovskaya",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 47.25,
@@ -2151,7 +2151,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzVolgograd",
+   "dataName": "map_Volgograd",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 48.74,
@@ -2160,7 +2160,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAstrakhan",
+   "dataName": "map_Astrakhan",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 46.42,
@@ -2169,7 +2169,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKrasnodar",
+   "dataName": "map_Krasnodar",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 45.08,
@@ -2178,7 +2178,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzVladikavkaz",
+   "dataName": "map_Vladikavkaz",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 43.12,
@@ -2187,7 +2187,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMakhachkala",
+   "dataName": "map_Makhachkala",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 43.01,
@@ -2196,7 +2196,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzScotland",
+   "dataName": "map_Scotland",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 56.3,
@@ -2205,7 +2205,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSlovakia",
+   "dataName": "map_Slovakia",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 48.87,
@@ -2214,7 +2214,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSouthwestBalkans",
+   "dataName": "map_SouthwestBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 44.79,
@@ -2223,7 +2223,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAlbania",
+   "dataName": "map_Albania",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 41.31,
@@ -2232,7 +2232,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSpain",
+   "dataName": "map_Spain",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 40.32,
@@ -2241,7 +2241,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSweden",
+   "dataName": "map_Sweden",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 59.3,
@@ -2250,7 +2250,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzUrals",
+   "dataName": "map_Urals",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 56.79,
@@ -2259,7 +2259,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSurgut",
+   "dataName": "map_Surgut",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 61.27,
@@ -2268,7 +2268,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPerm",
+   "dataName": "map_Perm",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 58.01,
@@ -2277,7 +2277,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzVolga",
+   "dataName": "map_Volga",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 56.29,
@@ -2286,7 +2286,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzKazan",
+   "dataName": "map_Kazan",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 55.82,
@@ -2295,7 +2295,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzUfa",
+   "dataName": "map_Ufa",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 54.67,
@@ -2304,7 +2304,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAlaska",
+   "dataName": "map_Alaska",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 64.55,
@@ -2313,7 +2313,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAmericanCaribbean",
+   "dataName": "map_AmericanCaribbean",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 18.19,
@@ -2322,7 +2322,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBelize",
+   "dataName": "map_Belize",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 17.02,
@@ -2331,7 +2331,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBritishColumbia",
+   "dataName": "map_BritishColumbia",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 53.5,
@@ -2340,7 +2340,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBritishWestIndies",
+   "dataName": "map_BritishWestIndies",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 25.07,
@@ -2349,7 +2349,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCalifornia",
+   "dataName": "map_California",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 34.18,
@@ -2358,7 +2358,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCanadianArctic",
+   "dataName": "map_CanadianArctic",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 63.5,
@@ -2367,7 +2367,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCascadia",
+   "dataName": "map_Cascadia",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 47.59,
@@ -2376,7 +2376,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCostaRica",
+   "dataName": "map_CostaRica",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 9.56,
@@ -2385,7 +2385,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCuba",
+   "dataName": "map_Cuba",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 22,
@@ -2394,7 +2394,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzDixie",
+   "dataName": "map_Dixie",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 33.75,
@@ -2403,7 +2403,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNashville",
+   "dataName": "map_Nashville",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 36.19,
@@ -2412,7 +2412,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCharlotte",
+   "dataName": "map_Charlotte",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 35.16,
@@ -2421,7 +2421,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMiami",
+   "dataName": "map_Miami",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 25.81,
@@ -2430,7 +2430,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNewOrleans",
+   "dataName": "map_NewOrleans",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 29.97,
@@ -2439,7 +2439,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzElSalvador",
+   "dataName": "map_ElSalvador",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 13.56,
@@ -2448,7 +2448,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzEuropeanWestIndies",
+   "dataName": "map_EuropeanWestIndies",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 4.1,
@@ -2457,7 +2457,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzFrance",
+   "dataName": "map_France",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 48.85,
@@ -2466,7 +2466,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBrittany",
+   "dataName": "map_Brittany",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 48.09,
@@ -2475,7 +2475,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzNordEst",
+   "dataName": "map_NordEst",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 48.68,
@@ -2484,7 +2484,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGuatemala",
+   "dataName": "map_Guatemala",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 14.65,
@@ -2493,7 +2493,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzHighPlains",
+   "dataName": "map_HighPlains",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 44.97,
@@ -2502,7 +2502,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzStLouis",
+   "dataName": "map_StLouis",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 38.66,
@@ -2511,7 +2511,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzHonduras",
+   "dataName": "map_Honduras",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 14.57,
@@ -2520,7 +2520,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzIreland",
+   "dataName": "map_Ireland",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 53.01,
@@ -2529,7 +2529,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLaurentia",
+   "dataName": "map_Laurentia",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 51.8,
@@ -2538,7 +2538,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMexicoCity",
+   "dataName": "map_MexicoCity",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 19.42,
@@ -2547,7 +2547,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMonterrey",
+   "dataName": "map_Monterrey",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 25.72,
@@ -2556,7 +2556,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzJuarez",
+   "dataName": "map_Juarez",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 31.48,
@@ -2565,7 +2565,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzGuadalajara",
+   "dataName": "map_Guadalajara",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 31.48,
@@ -2574,7 +2574,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzTijuana",
+   "dataName": "map_Tijuana",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 32.45,
@@ -2583,7 +2583,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMerida",
+   "dataName": "map_Merida",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 20.93,
@@ -2592,7 +2592,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMaritimes",
+   "dataName": "map_Maritimes",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 44.66,
@@ -2601,7 +2601,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNewEngland",
+   "dataName": "map_NewEngland",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 42.34,
@@ -2610,7 +2610,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNewYork",
+   "dataName": "map_NewYork",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 40.82,
@@ -2619,7 +2619,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPhiladelphia",
+   "dataName": "map_Philadelphia",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 40.03,
@@ -2628,7 +2628,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNicaragua",
+   "dataName": "map_Nicaragua",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 12.5,
@@ -2637,7 +2637,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzOntario",
+   "dataName": "map_Ontario",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 50.2,
@@ -2646,7 +2646,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPanama",
+   "dataName": "map_Panama",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 8.79,
@@ -2655,7 +2655,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzPrairies",
+   "dataName": "map_Prairies",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 53.76,
@@ -2664,7 +2664,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzRockyMountains",
+   "dataName": "map_RockyMountains",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 39.72,
@@ -2673,7 +2673,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPhoenix",
+   "dataName": "map_Phoenix",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 33.59,
@@ -2682,7 +2682,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSaltLake",
+   "dataName": "map_SaltLake",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 40.71,
@@ -2691,7 +2691,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzRustBelt",
+   "dataName": "map_RustBelt",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 41.76,
@@ -2700,7 +2700,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzShenandoah",
+   "dataName": "map_Shenandoah",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 38.93,
@@ -2709,7 +2709,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzTexas",
+   "dataName": "map_Texas",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 29.81,
@@ -2718,7 +2718,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzWestIndies",
+   "dataName": "map_WestIndies",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 18.09,
@@ -2727,7 +2727,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzHaiti",
+   "dataName": "map_Haiti",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 18.59,
@@ -2736,7 +2736,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzDominica",
+   "dataName": "map_Dominica",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
    "latitude": 18.55,
@@ -2745,7 +2745,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzAmericanPacific",
+   "dataName": "map_AmericanPacific",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": 21.45,
@@ -2754,7 +2754,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBrisbane",
+   "dataName": "map_Brisbane",
    "terrain": "Rugged",
    "supraRegion": "Oceania",
    "latitude": -21.5,
@@ -2763,7 +2763,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEuropeanPacific",
+   "dataName": "map_EuropeanPacific",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": -19.5,
@@ -2772,7 +2772,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMelanesia",
+   "dataName": "map_Melanesia",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": -6.4,
@@ -2781,7 +2781,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMicronesia",
+   "dataName": "map_Micronesia",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": 7.79,
@@ -2790,7 +2790,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMoluccasandSulawesi",
+   "dataName": "map_MoluccasandSulawesi",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": -0.99,
@@ -2799,7 +2799,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNewGuinea",
+   "dataName": "map_NewGuinea",
    "terrain": "Rugged",
    "supraRegion": "Oceania",
    "latitude": -4.49,
@@ -2808,7 +2808,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNewZealand",
+   "dataName": "map_NewZealand",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": -41,
@@ -2817,7 +2817,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPolynesia",
+   "dataName": "map_Polynesia",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": -10.5,
@@ -2826,7 +2826,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSydney",
+   "dataName": "map_Sydney",
    "terrain": "Standard",
    "supraRegion": "Oceania",
    "latitude": -33.5,
@@ -2835,7 +2835,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzWestralia",
+   "dataName": "map_Westralia",
    "terrain": "Rugged",
    "supraRegion": "Oceania",
    "latitude": -27,
@@ -2844,7 +2844,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBoaVista",
+   "dataName": "map_BoaVista",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 2.72,
@@ -2853,7 +2853,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBelem",
+   "dataName": "map_Belem",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -1.43,
@@ -2862,7 +2862,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAmazonia",
+   "dataName": "map_Amazonia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -2.99,
@@ -2871,7 +2871,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBolivia",
+   "dataName": "map_Bolivia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -16.55,
@@ -2880,7 +2880,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSantaCruz",
+   "dataName": "map_SantaCruz",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -17.66,
@@ -2889,7 +2889,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPortoVelho",
+   "dataName": "map_PortoVelho",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -8.82,
@@ -2898,7 +2898,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCuiaba",
+   "dataName": "map_Cuiaba",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -15.59,
@@ -2907,7 +2907,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCampoGrande",
+   "dataName": "map_CampoGrande",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -20.52,
@@ -2916,7 +2916,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzBrasilia",
+   "dataName": "map_Brasilia",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -15.78,
@@ -2925,7 +2925,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzColombia",
+   "dataName": "map_Colombia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 4.57,
@@ -2934,7 +2934,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzVillavicencio",
+   "dataName": "map_Villavicencio",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 4.12,
@@ -2943,7 +2943,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCali",
+   "dataName": "map_Cali",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 3.35,
@@ -2952,7 +2952,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBarranquilla",
+   "dataName": "map_Barranquilla",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 10.96,
@@ -2961,7 +2961,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzEcuador",
+   "dataName": "map_Ecuador",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -0.25,
@@ -2970,7 +2970,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSalta",
+   "dataName": "map_Salta",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -24.87,
@@ -2979,7 +2979,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGranChaco",
+   "dataName": "map_GranChaco",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -27.8,
@@ -2988,7 +2988,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGuyana",
+   "dataName": "map_Guyana",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 5.246,
@@ -2997,7 +2997,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzNorthernChile",
+   "dataName": "map_NorthernChile",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -32.95,
@@ -3006,7 +3006,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzAtacama",
+   "dataName": "map_Atacama",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -23.65,
@@ -3015,7 +3015,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPampas",
+   "dataName": "map_Pampas",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -34.82,
@@ -3024,7 +3024,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzCordoba",
+   "dataName": "map_Cordoba",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -31.47,
@@ -3033,7 +3033,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzRosario",
+   "dataName": "map_Rosario",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -32.83,
@@ -3042,7 +3042,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzParaguay",
+   "dataName": "map_Paraguay",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -25.5,
@@ -3051,7 +3051,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPatagonia",
+   "dataName": "map_Patagonia",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -39.0,
@@ -3060,7 +3060,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPeru",
+   "dataName": "map_Peru",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -11.98,
@@ -3069,7 +3069,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzIquitos",
+   "dataName": "map_Iquitos",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -3.78,
@@ -3078,7 +3078,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzHuancayo",
+   "dataName": "map_Huancayo",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -12.07,
@@ -3087,7 +3087,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCusco",
+   "dataName": "map_Cusco",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -13.55,
@@ -3096,7 +3096,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzArequipa",
+   "dataName": "map_Arequipa",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -16.41,
@@ -3105,7 +3105,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzPortoAlegre",
+   "dataName": "map_PortoAlegre",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -29.92,
@@ -3114,7 +3114,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCuritiba",
+   "dataName": "map_Curitiba",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -25.57,
@@ -3123,7 +3123,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzRecife",
+   "dataName": "map_Recife",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -8.05,
@@ -3132,7 +3132,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzFortaleza",
+   "dataName": "map_Fortaleza",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -3.83,
@@ -3141,7 +3141,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSalvador",
+   "dataName": "map_Salvador",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -12.74,
@@ -3150,7 +3150,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSaoPaolo",
+   "dataName": "map_SaoPaolo",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -23.64,
@@ -3159,7 +3159,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzRio",
+   "dataName": "map_Rio",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -22.69,
@@ -3168,7 +3168,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzBeloHorizonte",
+   "dataName": "map_BeloHorizonte",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -19.87,
@@ -3177,7 +3177,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSouthernChile",
+   "dataName": "map_SouthernChile",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -33.61,
@@ -3186,7 +3186,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzPuntasArenas",
+   "dataName": "map_PuntasArenas",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -53.18,
@@ -3195,7 +3195,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzSuriname",
+   "dataName": "map_Suriname",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 4.49,
@@ -3204,7 +3204,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzUruguay",
+   "dataName": "map_Uruguay",
    "terrain": "Standard",
    "supraRegion": "SouthAmerica",
    "latitude": -33.08,
@@ -3213,7 +3213,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzVenezuela",
+   "dataName": "map_Venezuela",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 10.34,
@@ -3222,7 +3222,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzMaracaibo",
+   "dataName": "map_Maracaibo",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 10.5,
@@ -3231,7 +3231,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGuayana",
+   "dataName": "map_Guayana",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 8.26,
@@ -3240,7 +3240,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzCentralAmerica",
+   "dataName": "map_CentralAmerica",
    "terrain": "Rugged",
    "supraRegion": "NorthAmerica",
    "latitude": 13.5,
@@ -3249,7 +3249,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzChile",
+   "dataName": "map_Chile",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": -27.2,
@@ -3258,7 +3258,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzEasternBalkans",
+   "dataName": "map_EasternBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 45.5,
@@ -3267,7 +3267,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzGuyana-Suriname",
+   "dataName": "map_Guyana-Suriname",
    "terrain": "Rugged",
    "supraRegion": "SouthAmerica",
    "latitude": 4.3,
@@ -3276,7 +3276,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzIsrael",
+   "dataName": "map_Israel",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 31.76,
@@ -3285,7 +3285,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzLowerGuinea",
+   "dataName": "map_LowerGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 3.69,
@@ -3294,7 +3294,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzMiddleGuinea",
+   "dataName": "map_MiddleGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 5.7,
@@ -3303,7 +3303,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzPalestine",
+   "dataName": "map_Palestine",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "latitude": 31.76,
@@ -3312,7 +3312,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzScandanavia",
+   "dataName": "map_Scandanavia",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 62.66,
@@ -3321,7 +3321,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSouthernBalkans",
+   "dataName": "map_SouthernBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 39.5,
@@ -3330,7 +3330,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzSt.Petersburg",
+   "dataName": "map_St.Petersburg",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 59.86,
@@ -3339,7 +3339,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzYaroslavl",
+   "dataName": "map_Yaroslavl",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 57.66,
@@ -3348,7 +3348,7 @@
    "smallRegion": true
  },
  {
-   "dataName": "map_AmyzArchangelsk",
+   "dataName": "map_Archangelsk",
    "terrain": "Standard",
    "supraRegion": "Europe",
    "latitude": 64.52,
@@ -3357,7 +3357,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzThailand",
+   "dataName": "map_Thailand",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
    "latitude": 15,
@@ -3366,7 +3366,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzUpperGuinea",
+   "dataName": "map_UpperGuinea",
    "terrain": "Standard",
    "supraRegion": "Africa",
    "latitude": 12.46,
@@ -3375,7 +3375,7 @@
    "smallRegion": null
  },
  {
-   "dataName": "map_AmyzWesternBalkans",
+   "dataName": "map_WesternBalkans",
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "latitude": 43.73,

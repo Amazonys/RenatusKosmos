@@ -5736,7 +5736,7 @@
    "projectUnlockName": "",
    "capitalClaim": null,
    "initialOwner": true,
-   "initialColony": null,
+   "initialColony": true,
    "friendlyOnly": null
  },
  {
@@ -36434,7 +36434,7 @@
    "federation": "",
    "region1": "Vladikavkaz",
    "region2": "",
-   "projectUnlockName": "Project_DissolutionofRussia",
+   "projectUnlockName": "",
    "capitalClaim": true,
    "initialOwner": null,
    "initialColony": null,
@@ -36448,7 +36448,7 @@
    "federation": "",
    "region1": "Krasnodar",
    "region2": "",
-   "projectUnlockName": "Project_DissolutionofRussia",
+   "projectUnlockName": "",
    "capitalClaim": true,
    "initialOwner": null,
    "initialColony": null,
