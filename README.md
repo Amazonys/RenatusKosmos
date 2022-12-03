@@ -21,7 +21,6 @@ TO UNINSTALL
 (Free License - https://github.com/Verdiss/TI-Economic-Equalization-Overhaul, https://steamcommunity.com/sharedfiles/filedetails/?id=2876646709)
 
 Must have UnityModManager installed (included, but also available https://www.nexusmods.com/site/mods/21)
-- Move the UnityModManager folder somewhere safe
 - Open UnityModManager executable inside the UnityModManager folder
 - Select Terra Invicta from the list. If game folder is not automatically detected, select it yourself (e.g. \Steam\steamapps\common\YourGame\)
 - Select installation method: DoorstopProxy
