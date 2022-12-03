@@ -8666,12 +8666,12 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimDEUDenmark",
+   "dataName": "ClaimDEUKaliningrad",
    "relationType": "Claim",
    "nation1": "DEU",
    "nation2": "",
    "federation": "",
-   "region1": "Denmark",
+   "region1": "Kaliningrad",
    "region2": "",
    "projectUnlockName": "Project_FreistaatConfederation",
    "capitalClaim": null,

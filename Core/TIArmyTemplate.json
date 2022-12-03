@@ -164,8 +164,8 @@
  {
    "dataName": "CHNArmyWuhan",
    "friendlyName": "75th Group Army",
-   "startRegionStr": "Guizhou",
-   "homeRegionStr": "Guizhou",
+   "startRegionStr": "Wuhan",
+   "homeRegionStr": "Wuhan",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1

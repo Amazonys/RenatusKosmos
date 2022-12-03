@@ -7118,9 +7118,65 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 8000,
+   "researchCost": 6000,
    "prereqs": [
       "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "MLG",
+   "requiredControlPoint": [
+      "MLG",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "West African Community",
+   "dataName": "Project_ExpandWestAfricanCommunity",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 6000,
+   "prereqs": [
+      "Project_WestAfricanCommunity",
       "",
       "",
       "",
