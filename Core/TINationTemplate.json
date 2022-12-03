@@ -3371,7 +3371,7 @@
    "dataName": "EGY",
    "flagResource": "nationflags/Egypt",
    "unionFlagResource": "nationflags/United_Arab_League",
-   "unionTrigger": 2,
+   "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
       "r": 188,
@@ -5373,6 +5373,55 @@
    ]
 },
 {
+   "friendlyName": "Barotse",
+   "dataName": "BTO",
+   "flagResource": "nationflags/Chokwe",
+   "unionFlagResource": "nationflags/Barotseland",
+   "unionTrigger": 2,
+   "multiplier": 1,
+   "color32": {
+      "r": 253,
+      "g": 133,
+      "b": 133
+   },
+   "color": {
+      "r": 0.99,
+      "g": 0.54,
+      "b": 0.54,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Developing",
+      "Developing",
+      "Developing",
+      "Developing",
+      "Developing",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
    "friendlyName": "Ubangi",
    "dataName": "UBG",
    "flagResource": "nationflags/Ubangi",
@@ -6538,6 +6587,104 @@
    ],
    "ISOCodes": [
       "MEX",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Rio Grande Norte",
+   "dataName": "RGN",
+   "flagResource": "nationflags/RioGrande",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 137,
+      "g": 18,
+      "b": 218
+   },
+   "color": {
+      "r": 0.54,
+      "g": 0.07,
+      "b": 0.86,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Kleptocratic",
+      "Conservative",
+      "Industrialization",
+      "Modernization",
+      "Developing",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Yucatan",
+   "dataName": "YUC",
+   "flagResource": "nationflags/Yucatan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 0,
+      "g": 104,
+      "b": 71
+   },
+   "color": {
+      "r": 0,
+      "g": 0.41,
+      "b": 0.28,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Kleptocratic",
+      "Conservative",
+      "Industrialization",
+      "Modernization",
+      "Developing",
+      "Kleptocratic"
+   ],
+   "ISOCodes": [
+      "",
       "",
       ""
    ]
@@ -7826,6 +7973,55 @@
       "r": 0.88,
       "g": 0.88,
       "b": 1,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Socialist",
+      "Liberal",
+      "Digitalization",
+      "Green",
+      "Conservative",
+      "Liberal"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "friendlyName": "Maritimes",
+   "dataName": "MRI",
+   "flagResource": "nationflags/Maritimes",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 231,
+      "g": 163,
+      "b": 1
+   },
+   "color": {
+      "r": 0.91,
+      "g": 0.64,
+      "b": 0.01,
       "a": 0.05
    },
    "aggregateNation": null,
@@ -10224,6 +10420,55 @@
       "r": 0.95,
       "g": 0.62,
       "b": 0.16,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Digitalization",
+      "Modernization",
+      "Modernization",
+      "Industrialization",
+      "Industrialization",
+      "Developing"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Yaroslavl",
+   "dataName": "YRO",
+   "flagResource": "nationflags/Yaroslavl",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 178,
+      "g": 154,
+      "b": 67
+   },
+   "color": {
+      "r": 0.70,
+      "g": 0.60,
+      "b": 0.26,
       "a": 0.05
    },
    "aggregateNation": null,

@@ -32384,9 +32384,9 @@
    "missionControl": 0,
    "worldOcean": "Yes",
    "afr": null,
-   "asi": 3,
+   "asi": null,
    "eas": 1,
-   "eur": 16,
+   "eur": 9,
    "his": null,
    "oce": null,
    "language": "ENG",
@@ -32415,38 +32415,38 @@
       null
    ],
    "asiPersonal": [
-      "Kazakh",
-      "Russian",
+      "",
+      "",
       "",
       ""
    ],
    "asiFamily": [
-      "Kazakh",
-      "Kazakh",
+      "",
+      "",
       "",
       ""
    ],
    "asiWeight": [
-      1,
-      1,
+      null,
+      null,
       null,
       null
    ],
    "easPersonal": [
-      "Mongolian",
-      "",
+      "Japanese",
+      "Korean",
       "",
       ""
    ],
    "easFamily": [
-      "Mongolian",
-      "",
+      "Japanese",
+      "Korean",
       "",
       ""
    ],
    "easWeight": [
-      "1",
-      "",
+      1,
+      4,
       null,
       null
    ],

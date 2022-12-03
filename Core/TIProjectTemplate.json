@@ -3590,10 +3590,10 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 500,
+   "researchCost": 1000,
    "prereqs": [
       "IndependenceMovements",
-      "",
+      "UnityMovements",
       "",
       "",
       ""
@@ -3646,7 +3646,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 750,
+   "researchCost": 1000,
    "prereqs": [
       "IndependenceMovements",
       "",
@@ -3758,10 +3758,10 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 30000,
+   "researchCost": 1000,
    "prereqs": [
       "UnityMovements",
-      "",
+      "IndependenceMovements",
       "",
       "",
       ""
@@ -3926,7 +3926,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 5000,
+   "researchCost": 8000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4318,7 +4318,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 5000,
+   "researchCost": 2000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4374,7 +4374,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 10000,
+   "researchCost": 6000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4430,7 +4430,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 20000,
+   "researchCost": 30000,
    "prereqs": [
       "GreatNations",
       "",
@@ -4654,7 +4654,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 20000,
+   "researchCost": 10000,
    "prereqs": [
       "Project_BosporusCaucasus",
       "Project_BosporusMesopotamia",
@@ -4710,7 +4710,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 2500,
+   "researchCost": 1000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4766,7 +4766,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 15000,
+   "researchCost": 10000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4822,7 +4822,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 20000,
+   "researchCost": 30000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -5214,7 +5214,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 15000,
+   "researchCost": 10000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -5270,7 +5270,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 25000,
+   "researchCost": 50000,
    "prereqs": [
       "GreatNations",
       "Project_TheGreaterCaliphate",
@@ -5329,8 +5329,8 @@
    "researchCost": 30000,
    "prereqs": [
       "GreatNations",
+      "FallofEmpires",
       "Project_TheCaliphate",
-      "",
       "",
       ""
    ],
@@ -5382,7 +5382,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "NeutralizeNation",
-   "researchCost": 500,
+   "researchCost": 1000,
    "prereqs": [
       "IndependenceMovements",
       "",
@@ -6147,6 +6147,62 @@
    "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 5,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Ukraine Rus",
+   "dataName": "Project_FifthProject",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 1000,
+   "prereqs": [
+      "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "UKR",
+   "requiredControlPoint": [
+      "UKR",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 25,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
@@ -7118,9 +7174,65 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 8000,
+   "researchCost": 6000,
    "prereqs": [
       "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "NGA",
+   "requiredControlPoint": [
+      "NGA",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 40,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Nigerian Confederation",
+   "dataName": "Project_ExpandNigerianConfederation",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 6000,
+   "prereqs": [
+      "Project_NigerianConfederation",
       "",
       "",
       "",
