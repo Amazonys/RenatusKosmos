@@ -22,7 +22,7 @@ TO UNINSTALL
 
 Must have UnityModManager installed (included, but also available https://www.nexusmods.com/site/mods/21)
 - Open UnityModManager executable inside the UnityModManager folder
-- Select Terra Invicta from the list. If game folder is not automatically detected, select it yourself (e.g. \Steam\steamapps\common\YourGame\)
+- Select Terra Invicta from the list. If game folder is not automatically detected, select it yourself (e.g. \Steam\steamapps\common\TerraInvicta\)
 - Select installation method: DoorstopProxy
 - Click on the install button
 - Ensure that the mod is "enabled" on load through the UnityModManager menu.
