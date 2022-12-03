@@ -1,0 +1,143 @@
+"0 LabelPosition labelPositions":  {
+"0 Array Array": [
+{"0 LabelPosition data": 
+{
+"1 string labelName": "Council",
+"0 CurvedPolyPoint labelPosition": 
+{
+"1 UInt8 bezier": 0,
+"0 Vector2f anchor": 
+{
+"0 float x": 0.2996966643254984, 
+"0 float y": -0.8961766370291886
+},
+"0 Vector2f bezier1":
+{
+"0 float x":0,
+"0 float y":0
+},
+"0 Vector2f bezier2":
+{
+"0 float x":0,
+"0 float y":0
+}
+}
+}},
+{"0 LabelPosition data": 
+{
+"1 string labelName": "Gov",
+"0 CurvedPolyPoint labelPosition": 
+{
+"1 UInt8 bezier": 0,
+"0 Vector2f anchor": 
+{
+"0 float x": 0.3009675956335081, 
+"0 float y": -0.8885128962836816
+},
+"0 Vector2f bezier1":
+{
+"0 float x":0,
+"0 float y":0
+},
+"0 Vector2f bezier2":
+{
+"0 float x":0,
+"0 float y":0
+}
+}
+}},
+{"0 LabelPosition data": 
+{
+"1 string labelName": "Army",
+"0 CurvedPolyPoint labelPosition": 
+{
+"1 UInt8 bezier": 0,
+"0 Vector2f anchor": 
+{
+"0 float x": 0.27837118432708047, 
+"0 float y": -0.892657006059617
+},
+"0 Vector2f bezier1":
+{
+"0 float x":0,
+"0 float y":0
+},
+"0 Vector2f bezier2":
+{
+"0 float x":0,
+"0 float y":0
+}
+}
+}},
+{"0 LabelPosition data": 
+{
+"1 string labelName": "Facility",
+"0 CurvedPolyPoint labelPosition": 
+{
+"1 UInt8 bezier": 0,
+"0 Vector2f anchor": 
+{
+"0 float x": 0.31281686281810045, 
+"0 float y": -0.8829537259101068
+},
+"0 Vector2f bezier1":
+{
+"0 float x":0,
+"0 float y":0
+},
+"0 Vector2f bezier2":
+{
+"0 float x":0,
+"0 float y":0
+}
+}
+}},
+{"0 LabelPosition data": 
+{
+"1 string labelName": "Alien",
+"0 CurvedPolyPoint labelPosition": 
+{
+"1 UInt8 bezier": 0,
+"0 Vector2f anchor": 
+{
+"0 float x": 0.32775162777412337, 
+"0 float y": -0.8749904866649575
+},
+"0 Vector2f bezier1":
+{
+"0 float x":0,
+"0 float y":0
+},
+"0 Vector2f bezier2":
+{
+"0 float x":0,
+"0 float y":0
+}
+}
+}},
+{"0 LabelPosition data": 
+{
+"1 string labelName": "Sea",
+"0 CurvedPolyPoint labelPosition": 
+{
+"1 UInt8 bezier": 0,
+"0 Vector2f anchor": 
+{
+"0 float x": 0.3708516086276198, 
+"0 float y": -1.0304524783805287
+},
+"0 Vector2f bezier1":
+{
+"0 float x":0,
+"0 float y":0
+},
+"0 Vector2f bezier2":
+{
+"0 float x":0,
+"0 float y":0
+}
+}
+}}
+]
+}
+}},
