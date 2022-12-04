@@ -3807,6 +3807,62 @@
    "iconResource": "",
    "completedIllustrationPath": ""
 },
+{
+   "friendlyName": "Greater Antilles",
+   "dataName": "Project_GreaterAntilles",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 1000,
+   "prereqs": [
+      "UnityMovements",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "CAB",
+   "requiredControlPoint": [
+      "CAB",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 70,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
  {
    "friendlyName": "Central American Confederation",
    "dataName": "Project_CentralAmericanConfederation",
@@ -3848,7 +3904,7 @@
       "",
       ""
    ],
-   "factionAvailableChance": 70,
+   "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,
@@ -5081,6 +5137,62 @@
       ""
    ],
    "factionAvailableChance": 30,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+{
+   "friendlyName": "Zanj Sultanate",
+   "dataName": "Project_ZanjSultanate",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 3000,
+   "prereqs": [
+      "IndependenceMovements",
+      "UnityMovements",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveNames": [
+      ""
+   ],
+   "altRequiredObjective0Name": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 25,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,

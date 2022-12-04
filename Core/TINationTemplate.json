@@ -7912,9 +7912,9 @@
    "friendlyName": "Portugal",
    "dataName": "PRT",
    "flagResource": "nationflags/Portugal",
-   "unionFlagResource": "nationflags/Portugal",
+   "unionFlagResource": "nationflags/Lusitania",
    "unionTrigger": 2,
-   "multiplier": 1.2,
+   "multiplier": 1.1,
    "color32": {
       "r": 0,
       "g": 102,
@@ -10096,6 +10096,55 @@
    "buildNukeIPs": 0,
    "buildArmyIPs": 0,
    "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Developing",
+      "Developing",
+      "Developing",
+      "Developing",
+      "Subsistence",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "TZA",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Zanzibar",
+   "dataName": "ZZB",
+   "flagResource": "nationflags/Zanzibar",
+   "unionFlagResource": "nationflags/Zanj",
+   "unionTrigger": 2,
+   "multiplier": 1,
+   "color32": {
+      "r": 30,
+      "g": 181,
+      "b": 58
+   },
+   "color": {
+      "r": 0.12,
+      "g": 0.71,
+      "b": 0.23,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
    "initialPriorityPreset": [
       "Developing",
       "Developing",
