@@ -822,10 +822,10 @@
    "dataName": "map_Assam",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "latitude": 26.08,
-   "longitude": 92.69,
+   "latitude": 26.15,
+   "longitude": 91.76,
    "boostLatitude": 25,
-   "smallRegion": null
+   "smallRegion": true
  },
  {
    "dataName": "map_Astana",
@@ -996,16 +996,70 @@
    "latitude": 27.58,
    "longitude": 85.1,
    "boostLatitude": 30,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Bhutan",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "latitude": 27.66,
+   "longitude": 85.47,
+   "boostLatitude": 30,
+   "smallRegion": true
  },
  {
    "dataName": "map_Hyderabad",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 14.1,
-   "longitude": 77.6,
+   "latitude": 17.34,
+   "longitude": 78.46,
+   "boostLatitude": 15,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Bengaluru",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 12.88,
+   "longitude": 77.53,
    "boostLatitude": 10,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Visakhapatnam",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 17.71,
+   "longitude": 83.23,
+   "boostLatitude": 15,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Chennai",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 13.06,
+   "longitude": 80.18,
+   "boostLatitude": 15,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Kochi",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 10.01,
+   "longitude": 76.3,
+   "boostLatitude": 10,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Goa",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 15.37,
+   "longitude": 73.92,
+   "boostLatitude": 15,
+   "smallRegion": true
  },
  {
    "dataName": "map_IsraelPalestine",
@@ -1038,19 +1092,19 @@
    "dataName": "map_Jaipur",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "latitude": 27.3,
-   "longitude": 74.48,
+   "latitude": 26.89,
+   "longitude": 75.78,
    "boostLatitude": 25,
-   "smallRegion": null
+   "smallRegion": true
  },
  {
    "dataName": "map_JammuandKashmir",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "latitude": 33.31,
-   "longitude": 76.3,
-   "boostLatitude": 30,
-   "smallRegion": null
+   "latitude": 34.09,
+   "longitude": 74.79,
+   "boostLatitude": 35,
+   "smallRegion": true
  },
  {
    "dataName": "map_Jordan",
@@ -1077,7 +1131,16 @@
    "latitude": 23.28,
    "longitude": 86.3,
    "boostLatitude": 20,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Cuttack",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 23.28,
+   "longitude": 86.3,
+   "boostLatitude": 20,
+   "smallRegion": true
  },
  {
    "dataName": "map_Kyrgyzstan",
@@ -1110,10 +1173,19 @@
    "dataName": "map_Mumbai",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 19.09,
-   "longitude": 75.11,
+   "latitude": 19.19,
+   "longitude": 72.95,
    "boostLatitude": 20,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Ahmedabad",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 22.99,
+   "longitude": 72.53,
+   "boostLatitude": 25,
+   "smallRegion": true
  },
  {
    "dataName": "map_Najd",
@@ -1128,10 +1200,37 @@
    "dataName": "map_NewDelhi",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "latitude": 26.9,
-   "longitude": 80.6,
+   "latitude": 28.59,
+   "longitude": 77.2,
+   "boostLatitude": 30,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Agra",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 27.17,
+   "longitude": 77.98,
+   "boostLatitude": 25,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Indore",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 22.75,
+   "longitude": 75.88,
    "boostLatitude": 20,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Raipur",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "latitude": 21.27,
+   "longitude": 81.62,
+   "boostLatitude": 20,
+   "smallRegion": true
  },
  {
    "dataName": "map_Oman",
