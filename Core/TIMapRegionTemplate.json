@@ -2001,8 +2001,17 @@
    "dataName": "map_England",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 52.301,
+   "latitude": 51.5,
    "longitude": 0,
+   "boostLatitude": 50,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Wales",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 51.51,
+   "longitude": -3.21,
    "boostLatitude": 50,
    "smallRegion": true
  },
@@ -2286,6 +2295,15 @@
    "smallRegion": true
  },
  {
+   "dataName": "map_Funchal",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 32.66,
+   "longitude": -16.94,
+   "boostLatitude": 30,
+   "smallRegion": true
+ },
+ {
    "dataName": "map_Romania",
    "terrain": "Standard",
    "supraRegion": "Europe",
@@ -2406,9 +2424,27 @@
    "dataName": "map_Spain",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "latitude": 40.32,
-   "longitude": -3.71,
-   "boostLatitude": 35,
+   "latitude": 40.39,
+   "longitude": -3.65,
+   "boostLatitude": 40,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Basque",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "latitude": 43.26,
+   "longitude": -2.93,
+   "boostLatitude": 45,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Galicia",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "latitude": 43.35,
+   "longitude": -8.41,
+   "boostLatitude": 45,
    "smallRegion": true
  },
  {
@@ -2622,10 +2658,19 @@
    "dataName": "map_EuropeanWestIndies",
    "terrain": "Standard",
    "supraRegion": "NorthAmerica",
-   "latitude": 4.1,
-   "longitude": -52.86,
+   "latitude": 16.24,
+   "longitude": -61.53,
+   "boostLatitude": 15,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_FrenchGuiana",
+   "terrain": "Standard",
+   "supraRegion": "NorthAmerica",
+   "latitude": 4.88,
+   "longitude": -52.31,
    "boostLatitude": 5,
-   "smallRegion": null
+   "smallRegion": true
  },
  {
    "dataName": "map_France",
@@ -2921,7 +2966,16 @@
    "supraRegion": "Oceania",
    "latitude": 21.45,
    "longitude": -157.99,
-   "boostLatitude": -15,
+   "boostLatitude": 20,
+   "smallRegion": null
+ },
+ {
+   "dataName": "map_Guam",
+   "terrain": "Standard",
+   "supraRegion": "Oceania",
+   "latitude": 13.47,
+   "longitude": 144.81,
+   "boostLatitude": 15,
    "smallRegion": null
  },
  {
