@@ -1470,10 +1470,28 @@
    "dataName": "map_Borneo",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
-   "latitude": -0.67,
-   "longitude": 113.55,
+   "latitude": -0.47,
+   "longitude": 117.15,
    "boostLatitude": 0,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Banjar",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": -3.36,
+   "longitude": 114.66,
+   "boostLatitude": -5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Pontianak",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": -0.02,
+   "longitude": 109.33,
+   "boostLatitude": 0,
+   "smallRegion": true
  },
  {
    "dataName": "map_Cambodia",
@@ -1560,10 +1578,19 @@
    "dataName": "map_Java",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
-   "latitude": -7.38,
-   "longitude": 110.48,
+   "latitude": -6.28,
+   "longitude": 106.81,
    "boostLatitude": -5,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_NusaTenggara",
+   "terrain": "Standard",
+   "supraRegion": "EastAsia",
+   "latitude": -8.55,
+   "longitude": 115.22,
+   "boostLatitude": -10,
+   "smallRegion": true
  },
  {
    "dataName": "map_KyushuandShikoku",
@@ -1614,10 +1641,28 @@
    "dataName": "map_Myanmar",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
-   "latitude": 20.96,
-   "longitude": 96.36,
-   "boostLatitude": 10,
-   "smallRegion": null
+   "latitude": 16.87,
+   "longitude": 96.19,
+   "boostLatitude": 15,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Mandalay",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 21.94,
+   "longitude": 96.08,
+   "boostLatitude": 20,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Shan",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 20.78,
+   "longitude": 97.04,
+   "boostLatitude": 20,
+   "smallRegion": true
  },
  {
    "dataName": "map_Nanjing",
@@ -1695,10 +1740,28 @@
    "dataName": "map_SarawakandSabah",
    "terrain": "Rugged",
    "supraRegion": "EastAsia",
-   "latitude": 2.83,
-   "longitude": 113.89,
+   "latitude": 5.99,
+   "longitude": 116.15,
+   "boostLatitude": 5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Kuching",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 1.53,
+   "longitude": 110.35,
    "boostLatitude": 0,
-   "smallRegion": null
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Brunei",
+   "terrain": "Rugged",
+   "supraRegion": "EastAsia",
+   "latitude": 4.85,
+   "longitude": 114.83,
+   "boostLatitude": 5,
+   "smallRegion": true
  },
  {
    "dataName": "map_Shanghai",
@@ -1740,10 +1803,19 @@
    "dataName": "map_Sumatra",
    "terrain": "Standard",
    "supraRegion": "EastAsia",
-   "latitude": -0.5,
-   "longitude": 101.75,
+   "latitude": 3.58,
+   "longitude": 98.65,
+   "boostLatitude": 5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Palembang",
+   "terrain": "Standard",
+   "supraRegion": "EastAsia",
+   "latitude": -2.94,
+   "longitude": 104.76,
    "boostLatitude": 0,
-   "smallRegion": null
+   "smallRegion": true
  },
  {
    "dataName": "map_Taiwan",
@@ -2892,10 +2964,19 @@
    "dataName": "map_MoluccasandSulawesi",
    "terrain": "Standard",
    "supraRegion": "Oceania",
-   "latitude": -0.99,
-   "longitude": 122.56,
-   "boostLatitude": 0,
-   "smallRegion": null
+   "latitude": -5.15,
+   "longitude": 119.47,
+   "boostLatitude": -5,
+   "smallRegion": true
+ },
+ {
+   "dataName": "map_Maluku",
+   "terrain": "Standard",
+   "supraRegion": "Oceania",
+   "latitude": -3.63,
+   "longitude": 128.19,
+   "boostLatitude": -5,
+   "smallRegion": true
  },
  {
    "dataName": "map_NewGuinea",

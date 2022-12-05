@@ -2505,11 +2505,428 @@
    "dataName": "Afghanistan",
    "mapRegionName": "map_Afghanistan",
    "primaryCity": "Kabul",
-   "population_Millions": 41.044,
+   "population_Millions": 18.229,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Pashtun",
+      "Muslim",
+      "Tajik-Uzbek",
+      ""
+   ],
+   "asiFamily": [
+      "Pashtun",
+      "Muslim",
+      "Tajik-Uzbek",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Afghanistan_0",
+      "illustrations/illus_Afghanistan_1",
+      "illustrations/illus_Afghanistan_2",
+      "illustrations/illus_Afghanistan_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "MazarSharif",
+   "mapRegionName": "map_MazarSharif",
+   "primaryCity": "Mazar-i-Sharif",
+   "population_Millions": 11.207,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Pashtun",
+      "Muslim",
+      "Tajik-Uzbek",
+      ""
+   ],
+   "asiFamily": [
+      "Pashtun",
+      "Muslim",
+      "Tajik-Uzbek",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Afghanistan_0",
+      "illustrations/illus_Afghanistan_1",
+      "illustrations/illus_Afghanistan_2",
+      "illustrations/illus_Afghanistan_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Kandahar",
+   "mapRegionName": "map_Kandahar",
+   "primaryCity": "Kandahar",
+   "population_Millions": 5.034,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "ARBC",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Pashtun",
+      "Muslim",
+      "Tajik-Uzbek",
+      ""
+   ],
+   "asiFamily": [
+      "Pashtun",
+      "Muslim",
+      "Tajik-Uzbek",
+      ""
+   ],
+   "asiWeight": [
+      3,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Afghanistan_0",
+      "illustrations/illus_Afghanistan_1",
+      "illustrations/illus_Afghanistan_2",
+      "illustrations/illus_Afghanistan_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Herat",
+   "mapRegionName": "map_Herat",
+   "primaryCity": "Herat",
+   "population_Millions": 6.577,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "No",
@@ -18892,7 +19309,7 @@
    "dataName": "Himalayas",
    "mapRegionName": "map_Himalayas",
    "primaryCity": "Kathmandu",
-   "population_Millions": 31.198,
+   "population_Millions": 30.404,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -19025,13 +19442,152 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Nepal, Bhutan"
+   "composedOf": "Nepal"
+},
+{
+   "dataName": "Bhutan",
+   "mapRegionName": "map_Bhutan",
+   "primaryCity": "Thimbu",
+   "population_Millions": 0.792,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Nepali",
+      "Hindi",
+      "Hindi",
+      ""
+   ],
+   "asiFamily": [
+      "Nepali",
+      "Nepali",
+      "Hindi",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Himalayas_0",
+      "illustrations/illus_Himalayas_1",
+      "illustrations/illus_Himalayas_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Bhutan"
 },
  {
    "dataName": "Assam",
    "mapRegionName": "map_Assam",
    "primaryCity": "Gauhati",
-   "population_Millions": 53.155,
+   "population_Millions": 53.085,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -19170,13 +19726,708 @@
    "dataName": "Hyderabad",
    "mapRegionName": "map_Hyderabad",
    "primaryCity": "Hyderabad",
-   "population_Millions": 293.564,
+   "population_Millions": 40.851,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Hyderabad_0",
+      "illustrations/illus_Hyderabad_1",
+      "illustrations/illus_Hyderabad_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Andhra Pradesh, Karnataka, Kerala, Lakshadweep, Puducherry, Tamil Nadu, and Telangana, Andaman and Nicobar Islands, Lakshadweep (Southern Zone)"
+},
+{
+   "dataName": "Bengaluru",
+   "mapRegionName": "map_Bengaluru",
+   "primaryCity": "Bengaluru",
+   "population_Millions": 71.301,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Hyderabad_0",
+      "illustrations/illus_Hyderabad_1",
+      "illustrations/illus_Hyderabad_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Andhra Pradesh, Karnataka, Kerala, Lakshadweep, Puducherry, Tamil Nadu, and Telangana, Andaman and Nicobar Islands, Lakshadweep (Southern Zone)"
+},
+{
+   "dataName": "Visakhapatnam",
+   "mapRegionName": "map_Visakhapatnam",
+   "primaryCity": "Visakhapatnam",
+   "population_Millions": 57.859,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 12,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Hyderabad_0",
+      "illustrations/illus_Hyderabad_1",
+      "illustrations/illus_Hyderabad_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Andhra Pradesh, Karnataka, Kerala, Lakshadweep, Puducherry, Tamil Nadu, and Telangana, Andaman and Nicobar Islands, Lakshadweep (Southern Zone)"
+},
+{
+   "dataName": "Chennai",
+   "mapRegionName": "map_Chennai",
+   "primaryCity": "Chennai",
+   "population_Millions": 85.656,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Hyderabad_0",
+      "illustrations/illus_Hyderabad_1",
+      "illustrations/illus_Hyderabad_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Andhra Pradesh, Karnataka, Kerala, Lakshadweep, Puducherry, Tamil Nadu, and Telangana, Andaman and Nicobar Islands, Lakshadweep (Southern Zone)"
+},
+{
+   "dataName": "Kochi",
+   "mapRegionName": "map_Kochi",
+   "primaryCity": "Kochi",
+   "population_Millions": 39.062,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 2,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Hyderabad_0",
+      "illustrations/illus_Hyderabad_1",
+      "illustrations/illus_Hyderabad_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Andhra Pradesh, Karnataka, Kerala, Lakshadweep, Puducherry, Tamil Nadu, and Telangana, Andaman and Nicobar Islands, Lakshadweep (Southern Zone)"
+},
+{
+   "dataName": "Goa",
+   "mapRegionName": "map_Goa",
+   "primaryCity": "Goa",
+   "population_Millions": 1.702,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
    "environment": "Vulnerable",
-   "boostPerYear_tons": 12,
-   "missionControl": 2,
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
    "worldOcean": "Yes",
    "afr": null,
    "asi": 1,
@@ -19309,7 +20560,7 @@
    "dataName": "Jaipur",
    "mapRegionName": "map_Jaipur",
    "primaryCity": "Jaipur",
-   "population_Millions": 143.104,
+   "population_Millions": 79.999,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -19448,7 +20699,7 @@
    "dataName": "JammuandKashmir",
    "mapRegionName": "map_JammuandKashmir",
    "primaryCity": "Srinagar",
-   "population_Millions": 22.636,
+   "population_Millions": 14.636,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -19587,8 +20838,147 @@
    "dataName": "Kolkata",
    "mapRegionName": "map_Kolkata",
    "primaryCity": "Kolkata",
-   "population_Millions": 314.891,
-   "resource": true,
+   "population_Millions": 266.891,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Bengali",
+      "Hindi",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Bengali",
+      "Hindi",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      2,
+      1,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Kolkata_0",
+      "illustrations/illus_Kolkata_1",
+      "illustrations/illus_Kolkata_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Bihar, Jharkhand, Odisha, and West Bengal (Eastern Zone)"
+},
+{
+   "dataName": "Cuttack",
+   "mapRegionName": "map_Cuttack",
+   "primaryCity": "Cuttack",
+   "population_Millions": 48.986,
+   "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Vulnerable",
@@ -19726,7 +21116,7 @@
    "dataName": "Mumbai",
    "mapRegionName": "map_Mumbai",
    "primaryCity": "Mumbai",
-   "population_Millions": 205.264,
+   "population_Millions": 131.146,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -19861,11 +21251,567 @@
    "occupationValue": 0,
    "composedOf": " Dadra and Nagar Haveli, Daman and Diu, Goa, Gujarat, and Maharashtra (Western Zone)"
 },
+{
+   "dataName": "Ahmedabad",
+   "mapRegionName": "map_Ahmedabad",
+   "primaryCity": "Ahmedabad",
+   "population_Millions": 71.219,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Mumbai_0",
+      "illustrations/illus_Mumbai_1",
+      "illustrations/illus_Mumbai_2",
+      "illustrations/illus_Mumbai_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Dadra and Nagar Haveli, Daman and Diu, Goa, Gujarat, and Maharashtra (Western Zone)"
+},
  {
    "dataName": "NewDelhi",
    "mapRegionName": "map_NewDelhi",
    "primaryCity": "New Delhi",
-   "population_Millions": 378.114,
+   "population_Millions": 90.799,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_NewDelhi_0",
+      "illustrations/illus_NewDelhi_1",
+      "illustrations/illus_NewDelhi_2",
+      "illustrations/illus_NewDelhi_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Chhattisgarh, Madhya Pradesh, Uttarakhand and Uttar Pradesh (Central Zone + New Delhi)"
+},
+{
+   "dataName": "Agra",
+   "mapRegionName": "map_Agra",
+   "primaryCity": "Agra",
+   "population_Millions": 244.962,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_NewDelhi_0",
+      "illustrations/illus_NewDelhi_1",
+      "illustrations/illus_NewDelhi_2",
+      "illustrations/illus_NewDelhi_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Chhattisgarh, Madhya Pradesh, Uttarakhand and Uttar Pradesh (Central Zone + New Delhi)"
+},
+{
+   "dataName": "Indore",
+   "mapRegionName": "map_Indore",
+   "primaryCity": "Indore",
+   "population_Millions": 84.759,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": 1,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "HING",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "Hindi",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      1,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_NewDelhi_0",
+      "illustrations/illus_NewDelhi_1",
+      "illustrations/illus_NewDelhi_2",
+      "illustrations/illus_NewDelhi_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": " Chhattisgarh, Madhya Pradesh, Uttarakhand and Uttar Pradesh (Central Zone + New Delhi)"
+},
+{
+   "dataName": "Raipur",
+   "mapRegionName": "map_Raipur",
+   "primaryCity": "Raipur",
+   "population_Millions": 29.812,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -20004,7 +21950,285 @@
    "dataName": "Borneo",
    "mapRegionName": "map_Borneo",
    "primaryCity": "Samarinda",
-   "population_Millions": 17.264,
+   "population_Millions": 4.642,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": 1,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "SING",
+   "acc_eas": "SING",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "SING",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiWeight": [
+      18,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easWeight": [
+      "18",
+      "1",
+      1,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      1,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Borneo_0",
+      "illustrations/illus_Borneo_1",
+      "illustrations/illus_Borneo_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Banjar",
+   "mapRegionName": "map_Banjar",
+   "primaryCity": "Banjar",
+   "population_Millions": 7.007,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": 1,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "SING",
+   "acc_eas": "SING",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "SING",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiWeight": [
+      18,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easWeight": [
+      "18",
+      "1",
+      1,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      1,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Borneo_0",
+      "illustrations/illus_Borneo_1",
+      "illustrations/illus_Borneo_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Pontianak",
+   "mapRegionName": "map_Pontianak",
+   "primaryCity": "Pontianak",
+   "population_Millions": 5.616,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -20143,10 +22367,149 @@
    "dataName": "Java",
    "mapRegionName": "map_Java",
    "primaryCity": "Jakarta",
-   "population_Millions": 176.401,
+   "population_Millions": 156.836,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 2,
+   "eas": 2,
+   "eur": null,
+   "his": null,
+   "oce": 1,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "SING",
+   "acc_eas": "SING",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "SING",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiWeight": [
+      18,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easWeight": [
+      "17",
+      "1",
+      2,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      1,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Java_0",
+      "illustrations/illus_Java_1",
+      "illustrations/illus_Java_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Java, Bali, West Nusa Tenggara, East Nusa Tenggara, East Timor"
+},
+{
+   "dataName": "NusaTenggara",
+   "mapRegionName": "map_NusaTenggara",
+   "primaryCity": "Bali",
+   "population_Millions": 16.921,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -20282,11 +22645,150 @@
    "dataName": "MoluccasandSulawesi",
    "mapRegionName": "map_MoluccasandSulawesi",
    "primaryCity": "Makassar",
-   "population_Millions": 24.009,
+   "population_Millions": 20.609,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": 1,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "SING",
+   "acc_eas": "SING",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "SING",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiWeight": [
+      18,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easWeight": [
+      "18",
+      "1",
+      1,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      1,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_MoluccasandSulawesi_0",
+      "illustrations/illus_MoluccasandSulawesi_1",
+      "illustrations/illus_MoluccasandSulawesi_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Maluku",
+   "mapRegionName": "map_Maluku",
+   "primaryCity": "Ambon",
+   "population_Millions": 3.246,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
-   "environment": "Standard",
+   "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
@@ -20560,7 +23062,146 @@
    "dataName": "Sumatra",
    "mapRegionName": "map_Sumatra",
    "primaryCity": "Medan",
-   "population_Millions": 58.772,
+   "population_Millions": 29.647,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Vulnerable",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 2,
+   "eas": 2,
+   "eur": null,
+   "his": null,
+   "oce": 1,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "SING",
+   "acc_eas": "SING",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "SING",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "asiWeight": [
+      18,
+      1,
+      1,
+      null
+   ],
+   "easPersonal": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easFamily": [
+      "Indonesian",
+      "Malay",
+      "Muslim",
+      ""
+   ],
+   "easWeight": [
+      "17",
+      "2",
+      1,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "Indonesian",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      1,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Sumatra_0",
+      "illustrations/illus_Sumatra_1",
+      "illustrations/illus_Sumatra_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Includes Riau Island Province, Bangka Belitung Islands Province"
+},
+{
+   "dataName": "Palembang",
+   "mapRegionName": "map_Palembang",
+   "primaryCity": "Palembang",
+   "population_Millions": 31.107,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -24591,11 +27232,289 @@
    "dataName": "SarawakandSabah",
    "mapRegionName": "map_SarawakandSabah",
    "primaryCity": "Kota Kinabalu",
-   "population_Millions": 7.248,
+   "population_Millions": 4.167,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "SING",
+   "acc_eas": "SING",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Malay",
+      "Muslim",
+      "Hindi",
+      "Indonesian"
+   ],
+   "asiFamily": [
+      "Malay",
+      "Muslim",
+      "Hindi",
+      "Indonesian"
+   ],
+   "asiWeight": [
+      20,
+      1,
+      1,
+      1
+   ],
+   "easPersonal": [
+      "Malay",
+      "Chinese",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Malay",
+      "Chinese",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "2",
+      "1",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_SarawakandSabah_0",
+      "illustrations/illus_SarawakandSabah_1",
+      "illustrations/illus_SarawakandSabah_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "(includes Brunei)"
+},
+{
+   "dataName": "Kuching",
+   "mapRegionName": "map_Kuching",
+   "primaryCity": "Kuching",
+   "population_Millions": 3.346,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": 1,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "SING",
+   "acc_eas": "SING",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "Malay",
+      "Muslim",
+      "Hindi",
+      "Indonesian"
+   ],
+   "asiFamily": [
+      "Malay",
+      "Muslim",
+      "Hindi",
+      "Indonesian"
+   ],
+   "asiWeight": [
+      20,
+      1,
+      1,
+      1
+   ],
+   "easPersonal": [
+      "Malay",
+      "Chinese",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Malay",
+      "Chinese",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "2",
+      "1",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_SarawakandSabah_0",
+      "illustrations/illus_SarawakandSabah_1",
+      "illustrations/illus_SarawakandSabah_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "(includes Brunei)"
+},
+{
+   "dataName": "Brunei",
+   "mapRegionName": "map_Brunei",
+   "primaryCity": "Brunei",
+   "population_Millions": 0.447,
+   "resource": true,
+   "oilResource": true,
+   "coreEco": null,
+   "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
@@ -26537,14 +29456,292 @@
    "dataName": "Myanmar",
    "mapRegionName": "map_Myanmar",
    "primaryCity": "Yangon",
-   "population_Millions": 55.36,
+   "population_Millions": 28.915,
    "resource": null,
    "oilResource": null,
-   "coreEco": null,
+   "coreEco": true,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
    "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Burmese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Burmese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Myanmar_0",
+      "illustrations/illus_Myanmar_1",
+      "illustrations/illus_Myanmar_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Mandalay",
+   "mapRegionName": "map_Mandalay",
+   "primaryCity": "Mandalay",
+   "population_Millions": 20.121,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Burmese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Burmese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Myanmar_0",
+      "illustrations/illus_Myanmar_1",
+      "illustrations/illus_Myanmar_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Shan",
+   "mapRegionName": "map_Shan",
+   "primaryCity": "Taunggyi",
+   "population_Millions": 6.255,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": null,
    "asi": null,
    "eas": 1,
