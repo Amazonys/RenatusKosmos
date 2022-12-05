@@ -38849,6 +38849,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimGTMMerida",
+   "relationType": "Claim",
+   "nation1": "GTM",
+   "nation2": "",
+   "federation": "",
+   "region1": "Merida",
+   "region2": "",
+   "projectUnlockName": "Project_CentralAmericanConfederation",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimGTMPanama",
    "relationType": "Claim",
    "nation1": "GTM",
