@@ -1135,7 +1135,7 @@
  },
  {
    "dataName": "map_Cuttack",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 23.28,
    "longitude": 86.3,
@@ -1216,7 +1216,7 @@
  },
  {
    "dataName": "map_Indore",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 22.75,
    "longitude": 75.88,
@@ -1225,7 +1225,7 @@
  },
  {
    "dataName": "map_Raipur",
-   "terrain": "Standard",
+   "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "latitude": 21.27,
    "longitude": 81.62,

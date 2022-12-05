@@ -13151,7 +13151,7 @@
    "nation1": "IND",
    "nation2": "",
    "federation": "",
-   "region1": "Hyderabad",
+   "region1": "Visakhapatnam",
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": null,
@@ -13240,7 +13240,7 @@
    "projectUnlockName": "",
    "capitalClaim": null,
    "initialOwner": true,
-   "initialColony": null,
+   "initialColony": true,
    "friendlyOnly": null
  },
  {
