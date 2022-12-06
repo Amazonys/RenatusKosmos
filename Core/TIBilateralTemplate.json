@@ -12670,15 +12670,15 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimHYSBhutan",
+   "dataName": "ClaimBTNBhutan",
    "relationType": "Claim",
-   "nation1": "HYS",
+   "nation1": "BTN",
    "nation2": "",
    "federation": "",
    "region1": "Bhutan",
    "region2": "",
    "projectUnlockName": "",
-   "capitalClaim": null,
+   "capitalClaim": true,
    "initialOwner": true,
    "initialColony": null,
    "friendlyOnly": null
@@ -14910,6 +14910,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimBRNBrunei",
+   "relationType": "Claim",
+   "nation1": "BRN",
+   "nation2": "",
+   "federation": "",
+   "region1": "Brunei",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": true,
+   "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimMYSBrunei",
    "relationType": "Claim",
    "nation1": "MYS",
@@ -14917,9 +14931,9 @@
    "federation": "",
    "region1": "Brunei",
    "region2": "",
-   "projectUnlockName": "",
+   "projectUnlockName": "Project_UnitedMalayNation",
    "capitalClaim": null,
-   "initialOwner": true,
+   "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
  },

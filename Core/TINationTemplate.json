@@ -4344,7 +4344,7 @@
    ]
 },
  {
-   "friendlyName": "Himalayan States",
+   "friendlyName": "Nepal",
    "dataName": "HYS",
    "flagResource": "nationflags/Nepal",
    "unionFlagResource": "",
@@ -4361,17 +4361,17 @@
       "b": 0.8,
       "a": 0.05
    },
-   "aggregateNation": true,
-   "initialGDP": 130286640000,
-   "popGrowthModifier": -1,
+   "aggregateNation": null,
+   "initialGDP": 141161000000,
+   "popGrowthModifier": -0.5,
    "initialFactionStr": "",
    "cohesion": 3,
    "unrest": 1,
-   "inequality": 3.29,
-   "democracy": 4.44,
-   "education": 5.2,
+   "inequality": 3.28,
+   "democracy": 4.41,
+   "education": 5.21,
    "spaceFunding_year": 0,
-   "miltech": 3.2,
+   "miltech": 3.3,
    "nuclearWeapons": 0,
    "initSpaceIPs": 0,
    "nuclearProgramIPs": 0,
@@ -4383,12 +4383,61 @@
       "Developing",
       "Developing",
       "Developing",
-      "Subsistence",
+      "Developing",
       "Subsistence"
    ],
    "ISOCodes": [
       "NPL",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Bhutan",
+   "dataName": "BTN",
+   "flagResource": "nationflags/Bhutan",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 173,
+      "g": 61,
+      "b": 60
+   },
+   "color": {
+      "r": 0.68,
+      "g": 0.24,
+      "b": 0.27,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": 9937000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 6,
+   "unrest": 0,
+   "inequality": 3.74,
+   "democracy": 5.71,
+   "education": 4.96,
+   "spaceFunding_year": 0,
+   "miltech": 3.2,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Green",
+      "Green",
+      "Developing",
+      "Subsistence",
+      "Subsistence",
+      "Subsistence"
+   ],
+   "ISOCodes": [
       "BTN",
+      "",
       ""
    ]
 },
@@ -6365,7 +6414,7 @@
       "a": 0.05
    },
    "aggregateNation": null,
-   "initialGDP": 992148120000,
+   "initialGDP": 1096507000000,
    "popGrowthModifier": null,
    "initialFactionStr": "",
    "cohesion": 4,
@@ -6385,13 +6434,62 @@
       "Developing",
       "Industrialization",
       "Modernization",
-      "Developing",
+      "Modernization",
       "Developing",
       "Developing"
    ],
    "ISOCodes": [
       "MYS",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Brunei",
+   "dataName": "BRN",
+   "flagResource": "nationflags/Brunei",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 247,
+      "g": 224,
+      "b": 23
+   },
+   "color": {
+      "r": 0.97,
+      "g": 0.88,
+      "b": 0.09,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": 31904000000,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": 7,
+   "unrest": 1,
+   "inequality": 6.19,
+   "democracy": 2.8,
+   "education": 7.02,
+   "spaceFunding_year": 0,
+   "miltech": 3.5,
+   "nuclearWeapons": 0,
+   "initSpaceIPs": 0,
+   "nuclearProgramIPs": 0,
+   "buildNukeIPs": 0,
+   "buildArmyIPs": 0,
+   "buildNavyIPs": 0,
+   "initialPriorityPreset": [
+      "Kleptocratic",
+      "Conservative",
+      "Conservative",
+      "Kleptocratic",
+      "Developing",
+      "Developing"
+   ],
+   "ISOCodes": [
       "BRN",
+      "",
       ""
    ]
 },
