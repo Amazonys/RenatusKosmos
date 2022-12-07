@@ -18438,6 +18438,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimBAHSalvador",
+   "relationType": "Claim",
+   "nation1": "BAH",
+   "nation2": "",
+   "federation": "",
+   "region1": "Salvador",
+   "region2": "",
+   "projectUnlockName": "Project_BreakupofBrazil",
+   "capitalClaim": true,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimARGPortoAlegre",
    "relationType": "Claim",
    "nation1": "ARG",

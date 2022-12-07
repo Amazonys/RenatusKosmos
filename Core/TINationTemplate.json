@@ -3856,6 +3856,55 @@
       ""
    ]
 },
+{
+   "friendlyName": "Bahia",
+   "dataName": "BAH",
+   "flagResource": "nationflags/Bahia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 245,
+      "g": 56,
+      "b": 56
+   },
+   "color": {
+      "r": 0.88,
+      "g": 0.22,
+      "b": 0.22,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Subsistence",
+      "Subsistence",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "friendlyName": "Fujian",
    "dataName": "WUR",
@@ -11532,11 +11581,11 @@
    ]
 },
  {
-   "friendlyName": "United Northeast Brazil",
+   "friendlyName": "Pernambuco",
    "dataName": "UNB",
-   "flagResource": "nationflags/United_Northeast_Brazil",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "flagResource": "nationflags/Pernambuco",
+   "unionFlagResource": "nationflags/United_Northeast_Brazil",
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 15,
