@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2423162883
+CRC: 2595361954
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 62e3b6ebb2e146fafb720c890cced40f
+    Hash: fd2cefabc61b59e5da5a12d1dfa06ee8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/ui/common art/flags/Bogota.png
 - Assets/ui/common art/flags/Somalia.png
 - Assets/ui/common art/flags/Kuban.png
 - Assets/ui/common art/flags/Russia.png
@@ -41,17 +42,23 @@ Assets:
 - Assets/ui/common art/flags/Cyrenaica.png
 - Assets/ui/common art/flags/Mongolia.png
 - Assets/ui/common art/flags/Tatarstan.png
+- Assets/ui/common art/flags/MatoGrossoSul.png
 - Assets/ui/common art/flags/Nepal.png
 - Assets/ui/common art/flags/Poland.png
 - Assets/ui/common art/flags/SierraLeone.png
-- Assets/ui/common art/flags/Lebanon.png
+- Assets/ui/common art/flags/RioGrandedoSul.png
 - Assets/ui/common art/flags/Slovenia.png
-- Assets/ui/common art/flags/Mozambique.png
+- Assets/ui/common art/flags/Barranquilla.png
 - Assets/ui/common art/flags/Sindh.png
+- Assets/ui/common art/flags/Appalachia.png
+- Assets/ui/common art/flags/Mozambique.png
 - Assets/ui/common art/flags/Ethiopia.png
+- Assets/ui/common art/flags/Lebanon.png
+- Assets/ui/common art/flags/NewMexico.png
 - Assets/ui/common art/flags/England.png
 - Assets/ui/common art/flags/France.png
 - Assets/ui/common art/flags/Algeria.png
+- Assets/ui/common art/flags/Jalisco.png
 - Assets/ui/common art/flags/European_Union.png
 - Assets/ui/common art/flags/Silesia.png
 - Assets/ui/common art/flags/GranColombia.PNG
@@ -59,6 +66,7 @@ Assets:
 - Assets/ui/common art/flags/Cameroon.png
 - Assets/ui/common art/flags/Oman.png
 - Assets/ui/common art/flags/Baluchistan.png
+- Assets/ui/common art/flags/Deseret.png
 - Assets/ui/common art/flags/El_Salvador.png
 - Assets/ui/common art/flags/Ubangi.png
 - Assets/ui/common art/flags/Armenia.png
@@ -70,10 +78,13 @@ Assets:
 - Assets/ui/common art/flags/Alaska.png
 - Assets/ui/common art/flags/Sweden.png
 - Assets/ui/common art/flags/Croatia.png
+- Assets/ui/common art/flags/Cali.png
 - Assets/ui/common art/flags/Latvia.png
 - Assets/ui/common art/flags/Zimbabwe.png
 - Assets/ui/common art/flags/United_Arab_League.png
+- Assets/ui/common art/flags/Dakotas.png
 - Assets/ui/common art/flags/Sichuan.png
+- Assets/ui/common art/flags/AtlanticStates.png
 - Assets/ui/common art/flags/Rostov.png
 - Assets/ui/common art/flags/Iran.png
 - Assets/ui/common art/flags/PacificStates.png
@@ -83,6 +94,7 @@ Assets:
 - Assets/ui/common art/flags/Argentina.png
 - Assets/ui/common art/flags/spareflag6.png
 - Assets/ui/common art/flags/Belgium.png
+- Assets/ui/common art/flags/Bahia.png
 - Assets/ui/common art/flags/Sudan.png
 - Assets/ui/common art/flags/Jamaica.png
 - Assets/ui/common art/flags/Namibia.png
@@ -105,6 +117,8 @@ Assets:
 - Assets/ui/common art/flags/African_Union.png
 - Assets/ui/common art/flags/Guatemala.png
 - Assets/ui/common art/flags/Texas.png
+- Assets/ui/common art/flags/Pernambuco.png
+- Assets/ui/common art/flags/Sonora.png
 - Assets/ui/common art/flags/Haasa.png
 - Assets/ui/common art/flags/Hungary.png
 - Assets/ui/common art/flags/Sicily.png
@@ -125,10 +139,13 @@ Assets:
 - Assets/ui/common art/flags/East_African_Federation.png
 - Assets/ui/common art/flags/Chernozem.png
 - Assets/ui/common art/flags/Ahwaz.png
-- Assets/ui/common art/flags/Slovakia.png
+- Assets/ui/common art/flags/Brunei.png
 - Assets/ui/common art/flags/Bangladesh.png
 - Assets/ui/common art/flags/Ivory_Coast.png
+- Assets/ui/common art/flags/Slovakia.png
 - Assets/ui/common art/flags/Sri_Lanka.png
+- Assets/ui/common art/flags/NewAmazonas.png
+- Assets/ui/common art/flags/Florida.png
 - Assets/ui/common art/flags/Cyprus.png
 - Assets/ui/common art/flags/Egypt.png
 - Assets/ui/common art/flags/Turkey.png
@@ -142,24 +159,28 @@ Assets:
 - Assets/ui/common art/flags/Nenetsia.png
 - Assets/ui/common art/flags/spareflag2.png
 - Assets/ui/common art/flags/Kivu.png
-- Assets/ui/common art/flags/Tanzania.png
-- Assets/ui/common art/flags/Dominican_Republic.png
+- Assets/ui/common art/flags/Rockies.png
+- Assets/ui/common art/flags/Zanzibar.png
 - Assets/ui/common art/flags/Syria.png
 - Assets/ui/common art/flags/Turkestan.png
-- Assets/ui/common art/flags/Magadan.png
+- Assets/ui/common art/flags/Dominican_Republic.png
 - Assets/ui/common art/flags/Abyssinia.png
 - Assets/ui/common art/flags/Japan.png
+- Assets/ui/common art/flags/Magadan.png
 - Assets/ui/common art/flags/Montenegro.png
 - Assets/ui/common art/flags/Catalonia.png
+- Assets/ui/common art/flags/MinasGerais.png
 - Assets/ui/common art/flags/Sumatra.png
 - Assets/ui/common art/flags/Waziristan.png
 - Assets/ui/common art/flags/Nigeria.png
+- Assets/ui/common art/flags/Tanzania.png
 - Assets/ui/common art/flags/Sakha.png
 - Assets/ui/common art/flags/Mauritania.png
 - Assets/ui/common art/flags/Patagonia.png
 - Assets/ui/common art/flags/Uganda.png
 - Assets/ui/common art/flags/Malawi.png
 - Assets/ui/common art/flags/China.png
+- Assets/ui/common art/flags/Para.png
 - Assets/ui/common art/flags/Republic_Ainu.png
 - Assets/ui/common art/flags/Honduras.png
 - Assets/ui/common art/flags/Botswana.png
@@ -181,6 +202,7 @@ Assets:
 - Assets/ui/common art/flags/Pakistan.png
 - Assets/ui/common art/flags/Rep_Congo.png
 - Assets/ui/common art/flags/Cascadia.png
+- Assets/ui/common art/flags/NewYork.png
 - Assets/ui/common art/flags/Eurasian_Union.png
 - Assets/ui/common art/flags/Canada.png
 - Assets/ui/common art/flags/North_Korea.png
@@ -189,11 +211,14 @@ Assets:
 - Assets/ui/common art/flags/Turkmenistan.png
 - Assets/ui/common art/flags/Buryatia.png
 - Assets/ui/common art/flags/Ogaden.png
+- Assets/ui/common art/flags/Prairies.png
+- Assets/ui/common art/flags/Zanj.png
 - Assets/ui/common art/flags/Israel.png
 - Assets/ui/common art/flags/Bosnia_and_Herzegovina.png
+- Assets/ui/common art/flags/Roraima.png
 - Assets/ui/common art/flags/Mexico.png
-- Assets/ui/common art/flags/Tunisia.png
 - Assets/ui/common art/flags/Amazonas.png
+- Assets/ui/common art/flags/Parana.png
 - Assets/ui/common art/flags/Tigray.png
 - Assets/ui/common art/flags/Belize.png
 - Assets/ui/common art/flags/West_African_Alliance.png
@@ -202,8 +227,10 @@ Assets:
 - Assets/ui/common art/flags/United_Nations.png
 - Assets/ui/common art/flags/Colombia.png
 - Assets/ui/common art/flags/Moldova.png
+- Assets/ui/common art/flags/Tunisia.png
 - Assets/ui/common art/flags/Morocco.png
 - Assets/ui/common art/flags/DR_Congo.png
+- Assets/ui/common art/flags/Maranhao.png
 - Assets/ui/common art/flags/Panama.png
 - Assets/ui/common art/flags/Afghanistan_Old.png
 - Assets/ui/common art/flags/Central_African_Republic.png
@@ -224,6 +251,7 @@ Assets:
 - Assets/ui/common art/flags/Caliphate.png
 - Assets/ui/common art/flags/Ferganastan.png
 - Assets/ui/common art/flags/Manchuria.png
+- Assets/ui/common art/flags/GreatLakes.png
 - Assets/ui/common art/flags/Greece.png
 - Assets/ui/common art/flags/South_Korea.png
 - Assets/ui/common art/flags/Guyana.png
@@ -232,6 +260,7 @@ Assets:
 - Assets/ui/common art/flags/Myanmar.png
 - Assets/ui/common art/flags/Sakhalin.png
 - Assets/ui/common art/flags/Irkutsk.png
+- Assets/ui/common art/flags/Lusitania.png
 - Assets/ui/common art/flags/Yugoslavia.png
 - Assets/ui/common art/flags/Katanga.png
 - Assets/ui/common art/flags/Brazil.png
@@ -254,18 +283,20 @@ Assets:
 - Assets/ui/common art/flags/Karakalpakstan.png
 - Assets/ui/common art/flags/Australia.png
 - Assets/ui/common art/flags/Paraguay.png
-- Assets/ui/common art/flags/Lithuania.png
+- Assets/ui/common art/flags/GreatPlains.png
 - Assets/ui/common art/flags/Italy.png
 - Assets/ui/common art/flags/Singapore.png
 - Assets/ui/common art/flags/Fezzan.png
 - Assets/ui/common art/flags/Laos.png
-- Assets/ui/common art/flags/spareflag3.png
+- Assets/ui/common art/flags/Lithuania.png
 - Assets/ui/common art/flags/Niger.png
 - Assets/ui/common art/flags/Occitania.png
+- Assets/ui/common art/flags/spareflag3.png
 - Assets/ui/common art/flags/Dravida_Nadu.png
 - Assets/ui/common art/flags/spareflag7.png
 - Assets/ui/common art/flags/Benin.png
 - Assets/ui/common art/flags/Denmark.png
+- Assets/ui/common art/flags/BajaCali.png
 - Assets/ui/common art/flags/New_Zealand.png
 - Assets/ui/common art/flags/UnitedChina.png
 - Assets/ui/common art/flags/Yemen.png
@@ -273,8 +304,10 @@ Assets:
 - Assets/ui/common art/flags/RioGrande.png
 - Assets/ui/common art/flags/Yunnan.png
 - Assets/ui/common art/flags/Serbia.png
+- Assets/ui/common art/flags/MatoGrosso.png
 - Assets/ui/common art/flags/PanAsian_Cooperative.png
 - Assets/ui/common art/flags/Chad.png
+- Assets/ui/common art/flags/LatinAmerica 1.png
 - Assets/ui/common art/flags/East_Germany.png
 - Assets/ui/common art/flags/Venezuela.png
 - Assets/ui/common art/flags/Palestine.png
@@ -282,26 +315,29 @@ Assets:
 - Assets/ui/common art/flags/Kuwait.png
 - Assets/ui/common art/flags/Spain.png
 - Assets/ui/common art/flags/Trimarium.png
+- Assets/ui/common art/flags/Bhutan.png
 - Assets/ui/common art/flags/Angola.png
-- Assets/ui/common art/flags/Portugal.png
 - Assets/ui/common art/flags/Taiwan.png
 - Assets/ui/common art/flags/Bolivia.png
 - Assets/ui/common art/flags/Crimea.png
 - Assets/ui/common art/flags/SantaCruz.png
-- Assets/ui/common art/flags/South_Sudan.png
+- Assets/ui/common art/flags/Louisiana.png
 - Assets/ui/common art/flags/Tajikistan.png
+- Assets/ui/common art/flags/South_Sudan.png
 - Assets/ui/common art/flags/Germany.png
 - Assets/ui/common art/flags/Kosovo.png
 - Assets/ui/common art/flags/Peru.png
 - Assets/ui/common art/flags/WestAfrica.PNG
+- Assets/ui/common art/flags/Rondonia.png
 - Assets/ui/common art/flags/Albania.png
 - Assets/ui/common art/flags/Uruguay.png
 - Assets/ui/common art/flags/Georgia.png
-- Assets/ui/common art/flags/LatinAmerica.png
 - Assets/ui/common art/flags/UnitedBantuNation.png
 - Assets/ui/common art/flags/Cape_Republic.png
+- Assets/ui/common art/flags/Portugal.png
 - Assets/ui/common art/flags/Macedonia.png
 - Assets/ui/common art/flags/Uzbekistan.png
+- Assets/ui/common art/flags/FirstNation.png
 - Assets/ui/common art/flags/Kyrgyzstan.png
 - Assets/ui/common art/flags/Kamchatka.png
 - Assets/ui/common art/flags/Karelia.png
@@ -309,4 +345,5 @@ Assets:
 - Assets/ui/common art/flags/Burkina_Faso.png
 - Assets/ui/common art/flags/Chile.png
 - Assets/ui/common art/flags/Switzerland.png
+- Assets/ui/common art/flags/Villavicencio.png
 Dependencies: []

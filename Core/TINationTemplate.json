@@ -3712,7 +3712,7 @@
  {
    "friendlyName": "First Nation",
    "dataName": "FNT",
-   "flagResource": "nationflags/First_Nation",
+   "flagResource": "nationflags/FirstNation",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5279,7 +5279,7 @@
    "dataName": "JPN",
    "flagResource": "nationflags/Japan",
    "unionFlagResource": "nationflags/Japan",
-   "unionTrigger": 4,
+   "unionTrigger": 6,
    "multiplier": 1.2,
    "color32": {
       "r": 188,
@@ -11144,8 +11144,8 @@
    "dataName": "THA",
    "flagResource": "nationflags/Thailand",
    "unionFlagResource": "nationflags/Southeast_Asian_Alliance",
-   "unionTrigger": 3,
-   "multiplier": 1.5,
+   "unionTrigger": 4,
+   "multiplier": 1.25,
    "color32": {
       "r": 0,
       "g": 30,
