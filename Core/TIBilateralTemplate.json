@@ -31808,6 +31808,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimEASIsan",
+   "relationType": "Claim",
+   "nation1": "EAS",
+   "nation2": "",
+   "federation": "",
+   "region1": "Isan",
+   "region2": "",
+   "projectUnlockName": "Project_Pan-AsianCooperative",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimEASSingapore",
    "relationType": "Claim",
    "nation1": "EAS",
@@ -37281,6 +37295,20 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "ClaimALNIsan",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "nation2": "",
+   "federation": "",
+   "region1": "Isan",
+   "region2": "",
+   "projectUnlockName": "Project_AlienMasterProject",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "ClaimALNBangkok",
    "relationType": "Claim",
    "nation1": "ALN",
@@ -38099,6 +38127,20 @@
    "nation2": "",
    "federation": "",
    "region1": "ChiangMai",
+   "region2": "",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": true,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimTHAIsan",
+   "relationType": "Claim",
+   "nation1": "THA",
+   "nation2": "",
+   "federation": "",
+   "region1": "Isan",
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": null,
@@ -39353,6 +39395,34 @@
    "friendlyOnly": null
  },
  {
+   "dataName": "PhysicalAdjacencyChiangMaiIsan",
+   "relationType": "PhysicalAdjacency",
+   "nation1": "",
+   "nation2": "",
+   "federation": "",
+   "region1": "ChiangMai",
+   "region2": "Isan",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "PhysicalAdjacencyIsanBangkok",
+   "relationType": "PhysicalAdjacency",
+   "nation1": "",
+   "nation2": "",
+   "federation": "",
+   "region1": "Isan",
+   "region2": "Bangkok",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
    "dataName": "PhysicalAdjacencyChiangMaiMyanmar",
    "relationType": "PhysicalAdjacency",
    "nation1": "",
@@ -39395,12 +39465,26 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "PhysicalAdjacencyChiangMaiCambodia",
+   "dataName": "PhysicalAdjacencyIsanLaos",
    "relationType": "PhysicalAdjacency",
    "nation1": "",
    "nation2": "",
    "federation": "",
-   "region1": "ChiangMai",
+   "region1": "Isan",
+   "region2": "Laos",
+   "projectUnlockName": "",
+   "capitalClaim": null,
+   "initialOwner": null,
+   "initialColony": null,
+   "friendlyOnly": null
+ },
+ {
+   "dataName": "PhysicalAdjacencyIsanCambodia",
+   "relationType": "PhysicalAdjacency",
+   "nation1": "",
+   "nation2": "",
+   "federation": "",
+   "region1": "Isan",
    "region2": "Cambodia",
    "projectUnlockName": "",
    "capitalClaim": null,

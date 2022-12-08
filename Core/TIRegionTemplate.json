@@ -9866,7 +9866,146 @@
    "dataName": "Wuhan",
    "mapRegionName": "map_Wuhan",
    "primaryCity": "Wuhan",
-   "population_Millions": 134.538,
+   "population_Millions": 59.71,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Wuhan_0",
+      "illustrations/illus_Wuhan_1",
+      "illustrations/illus_Wuhan_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Hubei, Hunan"
+},
+{
+   "dataName": "Changsha",
+   "mapRegionName": "map_Changsha",
+   "primaryCity": "Changsha",
+   "population_Millions": 68.051,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -10005,7 +10144,285 @@
    "dataName": "Xian",
    "mapRegionName": "map_Xian",
    "primaryCity": "Xian",
-   "population_Millions": 196.334,
+   "population_Millions": 76.245,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "Mongolian",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "Mongolian",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "10",
+      "1",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Xian_0",
+      "illustrations/illus_Xian_1",
+      "illustrations/illus_Xian_2",
+      "illustrations/illus_Xian_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Zhengzhou",
+   "mapRegionName": "map_Zhengzhou",
+   "primaryCity": "Zhengzhou",
+   "population_Millions": 101.768,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "Mongolian",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "Mongolian",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "10",
+      "1",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Xian_0",
+      "illustrations/illus_Xian_1",
+      "illustrations/illus_Xian_2",
+      "illustrations/illus_Xian_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Lanzhou",
+   "mapRegionName": "map_Lanzhou",
+   "primaryCity": "Lanzhou",
+   "population_Millions": 33.002,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -10138,13 +10555,13 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Shanxi, Shaanxi, Henan, Central Inner Mongolia (Bayannur, Whuai, Ordos, Baotou, Hohot, Ulanqab, Western Xinlingol League Prefectures)"
+   "composedOf": ""
 },
  {
    "dataName": "Gobi",
    "mapRegionName": "map_Gobi",
-   "primaryCity": "Xining",
-   "population_Millions": 18.569,
+   "primaryCity": "Hohhot",
+   "population_Millions": 24.631,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -10277,13 +10694,152 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
-   "composedOf": "Qinghai, Gansu (Wuwei prefucture and north), Ningxia, Alxa League Prefecture of Inner Mongolia"
+   "composedOf": ""
+},
+{
+   "dataName": "Xining",
+   "mapRegionName": "map_Xining",
+   "primaryCity": "Xining",
+   "population_Millions": 6.067,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "Mongolian",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "Mongolian",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "10",
+      "1",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Gobi_0",
+      "illustrations/illus_Gobi_1",
+      "illustrations/illus_Gobi_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
 },
  {
    "dataName": "Beijing",
    "mapRegionName": "map_Beijing",
    "primaryCity": "Beijing",
-   "population_Millions": 219.117,
+   "population_Millions": 113.038,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -10418,11 +10974,150 @@
    "occupationValue": 0,
    "composedOf": "Beijing M, Tianjin M, Shandong, Hebei"
 },
+{
+   "dataName": "Qingdao",
+   "mapRegionName": "map_Qingdao",
+   "primaryCity": "Qingdao",
+   "population_Millions": 103.982,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Beijing_0",
+      "illustrations/illus_Beijing_1",
+      "illustrations/illus_Beijing_2",
+      "illustrations/illus_Beijing_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Beijing M, Tianjin M, Shandong, Hebei"
+},
  {
    "dataName": "Manchuria",
    "mapRegionName": "map_Manchuria",
    "primaryCity": "Harbin",
-   "population_Millions": 133.177,
+   "population_Millions": 100.897,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -10561,7 +11256,7 @@
    "dataName": "Guangzhou",
    "mapRegionName": "map_Guangzhou",
    "primaryCity": "Guangzhou",
-   "population_Millions": 174.028,
+   "population_Millions": 147.739,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -10696,11 +11391,289 @@
    "occupationValue": 0,
    "composedOf": "Hainan, Guangdong, Hong Kong, Macau, Guangxi Zhuang"
 },
+{
+   "dataName": "Nanning",
+   "mapRegionName": "map_Nanning",
+   "primaryCity": "Nanning",
+   "population_Millions": 51.339,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Guangzhou_0",
+      "illustrations/illus_Guangzhou_1",
+      "illustrations/illus_Guangzhou_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Hainan, Guangdong, Hong Kong, Macau, Guangxi Zhuang"
+},
  {
    "dataName": "Guizhou",
    "mapRegionName": "map_Guizhou",
-   "primaryCity": "Guizhou",
-   "population_Millions": 88.34,
+   "primaryCity": "Guiyang",
+   "population_Millions": 39.495,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Guizhou_0",
+      "illustrations/illus_Guizhou_1",
+      "illustrations/illus_Guizhou_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Guizhou, Yunnan"
+},
+{
+   "dataName": "Kunming",
+   "mapRegionName": "map_Kunming",
+   "primaryCity": "Kunming",
+   "population_Millions": 48.351,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -10835,11 +11808,11 @@
    "occupationValue": 0,
    "composedOf": "Guizhou, Yunnan"
 },
- {
-   "dataName": "Chongqing",
-   "mapRegionName": "map_Chongqing",
-   "primaryCity": "Chongqing",
-   "population_Millions": 141.568,
+{
+   "dataName": "Chengdu",
+   "mapRegionName": "map_Chengdu",
+   "primaryCity": "Chengdu",
+   "population_Millions": 85.698,
    "resource": true,
    "oilResource": null,
    "coreEco": null,
@@ -10975,10 +11948,149 @@
    "composedOf": "Gansu (south of Wuwei Prefecture), Sichuan, Chongqing M"
 },
  {
+   "dataName": "Chongqing",
+   "mapRegionName": "map_Chongqing",
+   "primaryCity": "Chongqing",
+   "population_Millions": 32.829,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Chongqing_0",
+      "illustrations/illus_Chongqing_1",
+      "illustrations/illus_Chongqing_2",
+      "illustrations/illus_Chongqing_3",
+      "illustrations/illus_Chongqing_4",
+      "illustrations/illus_Chongqing_5"
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Gansu (south of Wuwei Prefecture), Sichuan, Chongqing M"
+},
+ {
    "dataName": "Tibet",
    "mapRegionName": "map_Tibet",
    "primaryCity": "Lhasa",
-   "population_Millions": 3.481,
+   "population_Millions": 3.736,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
@@ -11117,7 +12229,7 @@
    "dataName": "Nanjing",
    "mapRegionName": "map_Nanjing",
    "primaryCity": "Nanjing",
-   "population_Millions": 146.386,
+   "population_Millions": 91.601,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -11252,11 +12364,150 @@
    "occupationValue": 0,
    "composedOf": "Jiangsu, Anhui"
 },
+{
+   "dataName": "Hefei",
+   "mapRegionName": "map_Hefei",
+   "primaryCity": "Hefei",
+   "population_Millions": 62.502,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Nanjing_0",
+      "illustrations/illus_Nanjing_1",
+      "illustrations/illus_Nanjing_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
  {
    "dataName": "Shanghai",
    "mapRegionName": "map_Shanghai",
    "primaryCity": "Shanghai",
-   "population_Millions": 168.369,
+   "population_Millions": 91.601,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -11389,13 +12640,291 @@
    ],
    "occupyingNation": "",
    "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Fuzhou",
+   "mapRegionName": "map_Fuzhou",
+   "primaryCity": "Fuzhou",
+   "population_Millions": 42.544,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Shanghai_0",
+      "illustrations/illus_Shanghai_1",
+      "illustrations/illus_Shanghai_2",
+      "illustrations/illus_Shanghai_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Zheijiang, Shanghai, Fujian, Jiangxi"
+},
+{
+   "dataName": "Nanchang",
+   "mapRegionName": "map_Nanchang",
+   "primaryCity": "Nanchang",
+   "population_Millions": 46.281,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Chinese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Shanghai_0",
+      "illustrations/illus_Shanghai_1",
+      "illustrations/illus_Shanghai_2",
+      "illustrations/illus_Shanghai_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
    "composedOf": "Zheijiang, Shanghai, Fujian, Jiangxi"
 },
  {
    "dataName": "Xinjiang",
    "mapRegionName": "map_Xinjiang",
    "primaryCity": "Urumqi",
-   "population_Millions": 25.83,
+   "population_Millions": 26.477,
    "resource": true,
    "oilResource": true,
    "coreEco": null,
@@ -25008,8 +26537,8 @@
    "dataName": "Hokkaido",
    "mapRegionName": "map_Hokkaido",
    "primaryCity": "Sapporo",
-   "population_Millions": 5.321,
-   "resource": null,
+   "population_Millions": 5.342,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
@@ -25147,7 +26676,7 @@
    "dataName": "Honshu",
    "mapRegionName": "map_Honshu",
    "primaryCity": "Tokyo",
-   "population_Millions": 102.789,
+   "population_Millions": 72.809,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -25282,11 +26811,150 @@
    "occupationValue": 0,
    "composedOf": ""
 },
+{
+   "dataName": "Osaka",
+   "mapRegionName": "map_Osaka",
+   "primaryCity": "Osaka",
+   "population_Millions": 29.48,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "Japanese",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Japanese",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "1",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Honshu_0",
+      "illustrations/illus_Honshu_1",
+      "illustrations/illus_Honshu_2",
+      "illustrations/illus_Honshu_3",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
  {
    "dataName": "KyushuandShikoku",
    "mapRegionName": "map_KyushuandShikoku",
    "primaryCity": "Fukuoka",
-   "population_Millions": 18.239,
+   "population_Millions": 17.906,
    "resource": null,
    "oilResource": null,
    "coreEco": true,
@@ -30986,7 +32654,7 @@
    "mapRegionName": "map_NorthKorea",
    "primaryCity": "Pyongyang",
    "population_Millions": 26.022,
-   "resource": null,
+   "resource": true,
    "oilResource": null,
    "coreEco": null,
    "environment": "Standard",
@@ -41967,8 +43635,8 @@
    "mapRegionName": "map_Turkmenistan",
    "primaryCity": "Ashgabat",
    "population_Millions": 6.228,
-   "resource": null,
-   "oilResource": null,
+   "resource": true,
+   "oilResource": true,
    "coreEco": null,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -47112,7 +48780,7 @@
    "population_Millions": 46.726,
    "resource": null,
    "oilResource": null,
-   "coreEco": null,
+   "coreEco": true,
    "environment": "Vulnerable",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -52948,7 +54616,146 @@
    "dataName": "ChiangMai",
    "mapRegionName": "map_NorthThailand",
    "primaryCity": "Chiang Mai",
-   "population_Millions": 34.291,
+   "population_Millions": 12.274,
+   "resource": true,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": null,
+   "asi": null,
+   "eas": 1,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "",
+   "acc_asi": "",
+   "acc_eas": "AMER",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "afrWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "1",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "Thai-Lao",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "Thai-Lao",
+      null,
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_ChiangMai_0",
+      "illustrations/illus_ChiangMai_1",
+      "illustrations/illus_ChiangMai_2",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": ""
+},
+{
+   "dataName": "Isan",
+   "mapRegionName": "map_Isan",
+   "primaryCity": "Korat",
+   "population_Millions": 22.017,
    "resource": null,
    "oilResource": null,
    "coreEco": null,
