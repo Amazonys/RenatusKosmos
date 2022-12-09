@@ -3895,8 +3895,498 @@
       "Green",
       "Authoritarian",
       "Developing",
-      "Subsistence",
-      "Subsistence",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "MatoGrosso",
+   "dataName": "MTR",
+   "flagResource": "nationflags/MatoGrosso",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 136,
+      "g": 146,
+      "b": 63
+   },
+   "color": {
+      "r": 0.55,
+      "g": 0.57,
+      "b": 0.25,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "MatoGrossoSul",
+   "dataName": "MTS",
+   "flagResource": "nationflags/MatoGrossoSul",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 255,
+      "g": 233,
+      "b": 0
+   },
+   "color": {
+      "r": 1,
+      "g": 0.91,
+      "b": 0,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "MinasGerais",
+   "dataName": "MGS",
+   "flagResource": "nationflags/MinasGerais",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 100,
+      "g": 69,
+      "b": 69
+   },
+   "color": {
+      "r": 0.88,
+      "g": 0.22,
+      "b": 0.22,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Maranhao",
+   "dataName": "MHO",
+   "flagResource": "nationflags/Maranhao",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 37,
+      "g": 36,
+      "b": 123
+   },
+   "color": {
+      "r": 0.15,
+      "g": 0.14,
+      "b": 0.48,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Parana",
+   "dataName": "PNA",
+   "flagResource": "nationflags/Parana",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 111,
+      "g": 149,
+      "b": 129
+   },
+   "color": {
+      "r": 0.43,
+      "g": 0.58,
+      "b": 0.51,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Para",
+   "dataName": "PAR",
+   "flagResource": "nationflags/Para",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 126,
+      "g": 113,
+      "b": 206
+   },
+   "color": {
+      "r": 0.49,
+      "g": 0.44,
+      "b": 0.81,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Rio Grande do Sul",
+   "dataName": "RGS",
+   "flagResource": "nationflags/RioGrandedoSul",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 219,
+      "g": 37,
+      "b": 29
+   },
+   "color": {
+      "r": 0.86,
+      "g": 0.15,
+      "b": 0.11,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Rio de Janeiro",
+   "dataName": "RIO",
+   "flagResource": "nationflags/Rio",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 0,
+      "g": 175,
+      "b": 239
+   },
+   "color": {
+      "r": 0,
+      "g": 0.69,
+      "b": 0.97,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Rondonia",
+   "dataName": "RON",
+   "flagResource": "nationflags/Rondonia",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 245,
+      "g": 56,
+      "b": 56
+   },
+   "color": {
+      "r": 0.88,
+      "g": 0.22,
+      "b": 0.22,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
+      "Subsistence"
+   ],
+   "ISOCodes": [
+      "",
+      "",
+      ""
+   ]
+},
+{
+   "friendlyName": "Roraima",
+   "dataName": "ROR",
+   "flagResource": "nationflags/Roraima",
+   "unionFlagResource": "",
+   "unionTrigger": null,
+   "multiplier": 1,
+   "color32": {
+      "r": 245,
+      "g": 56,
+      "b": 56
+   },
+   "color": {
+      "r": 0.88,
+      "g": 0.22,
+      "b": 0.22,
+      "a": 0.05
+   },
+   "aggregateNation": null,
+   "initialGDP": null,
+   "popGrowthModifier": null,
+   "initialFactionStr": "",
+   "cohesion": null,
+   "unrest": null,
+   "inequality": null,
+   "democracy": null,
+   "education": null,
+   "spaceFunding_year": null,
+   "miltech": null,
+   "nuclearWeapons": null,
+   "initSpaceIPs": null,
+   "nuclearProgramIPs": null,
+   "buildNukeIPs": null,
+   "buildArmyIPs": null,
+   "buildNavyIPs": null,
+   "initialPriorityPreset": [
+      "Green",
+      "Authoritarian",
+      "Developing",
+      "Developing",
+      "Industrialization",
       "Subsistence"
    ],
    "ISOCodes": [
@@ -4691,7 +5181,7 @@
    "dataName": "IDN",
    "flagResource": "nationflags/Indonesia",
    "unionFlagResource": "nationflags/Indonesia",
-   "unionTrigger": 8,
+   "unionTrigger": 14,
    "multiplier": 1,
    "color32": {
       "r": 255,
