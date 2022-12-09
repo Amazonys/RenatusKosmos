@@ -2734,7 +2734,7 @@
    "dataName": "CHN",
    "flagResource": "nationflags/China",
    "unionFlagResource": "nationflags/Zhongguo",
-   "unionTrigger": 15,
+   "unionTrigger": 25,
    "multiplier": 1,
    "color32": {
       "r": 255,
