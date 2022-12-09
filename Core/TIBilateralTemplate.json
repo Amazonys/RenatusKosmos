@@ -25760,20 +25760,6 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "PhysicalAdjacencyBeijingGobi",
-   "relationType": "PhysicalAdjacency",
-   "nation1": "",
-   "nation2": "",
-   "federation": "",
-   "region1": "Gobi",
-   "region2": "Beijing",
-   "projectUnlockName": "",
-   "capitalClaim": null,
-   "initialOwner": null,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
    "dataName": "PhysicalAdjacencyLanzhouXian",
    "relationType": "PhysicalAdjacency",
    "nation1": "",
