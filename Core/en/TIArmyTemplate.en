@@ -487,7 +487,6 @@ TIArmyTemplate.displayNameWithArticle.Senegambia.0=the 22nd Armored
 TIArmyTemplate.displayNameWithArticle.IvoryCoast.0=the 1st Infantry
 
 
-TIArmyTemplate.displayNameWithArticle.
 
 TIArmyTemplate.displayName.Ghardaia.0=Ghardaia Division
 TIArmyTemplate.displayName.Bechar.0=Bechar Division
@@ -623,7 +622,37 @@ TIArmyTemplate.displayName.Gabon.0=Libreville Division
 TIArmyTemplate.displayName.Ecuatoria.0=Malabo Division
 
 
-
+TIArmyTemplate.displayName.Bhutan.0=Thimphu Division
+TIArmyTemplate.displayName.Mandalay.0=Mandalay Division
+TIArmyTemplate.displayName.Shan.0=Taunggyi Division
+TIArmyTemplate.displayName.Isan.0=Korat Division
+TIArmyTemplate.displayName.Osaka.0=Osaka Division
+TIArmyTemplate.displayName.Agra.0=Agra Division
+TIArmyTemplate.displayName.Indore.0=Indore Division
+TIArmyTemplate.displayName.Raipur.0=Raipur Division
+TIArmyTemplate.displayName.Ahmedabad.0=Ahmedabad Division
+TIArmyTemplate.displayName.Goa.0=Goa Division
+TIArmyTemplate.displayName.Cuttack.0=Cuttack Division
+TIArmyTemplate.displayName.Visakhapatnam.0=Visakhapatnam Division
+TIArmyTemplate.displayName.Chennai.0=Chennai Division
+TIArmyTemplate.displayName.Kochi.0=Kochi Division
+TIArmyTemplate.displayName.Bengaluru.0=Bengaluru Division
+TIArmyTemplate.displayName.Xining.0=Xining Division
+TIArmyTemplate.displayName.Kunming.0=Kunming Division
+TIArmyTemplate.displayName.Chengdu.0=Chengdu Division
+TIArmyTemplate.displayName.Qingdao.0=Qingdao Division
+TIArmyTemplate.displayName.Hefei.0=Hefei Division
+TIArmyTemplate.displayName.Zhengzhou.0=Zhengzhou Division
+TIArmyTemplate.displayName.Changsha.0=Changsha Division
+TIArmyTemplate.displayName.Nanchang.0=Nanchang Division
+TIArmyTemplate.displayName.Fuzhou.0=Fuzhou Division
+TIArmyTemplate.displayName.Nanning.0=Nanning Division
+TIArmyTemplate.displayName.Kuching.0=Kuching Division
+TIArmyTemplate.displayName.Brunei.0=Brunei Division
+TIArmyTemplate.displayName.Pontianak.0=Pontianak Division
+TIArmyTemplate.displayName.Banjar.0=Banjar Division
+TIArmyTemplate.displayName.Palembang.0=Palembang Division
+TIArmyTemplate.displayName.Maluku.0=Ambon Division
 
 
 TIArmyTemplate.displayNameWithArticle.Ghardaia.0=the Ghardaia Division
@@ -758,3 +787,36 @@ TIArmyTemplate.displayNameWithArticle.Monrovia.0=the Monrovia Division
 TIArmyTemplate.displayNameWithArticle.Benin.0=the Lome Division
 TIArmyTemplate.displayNameWithArticle.Gabon.0=the Libreville Division
 TIArmyTemplate.displayNameWithArticle.Ecuatoria.0=the Malabo Division
+
+
+TIArmyTemplate.displayNameWithArticle.Bhutan.0=the Thimphu Division
+TIArmyTemplate.displayNameWithArticle.Mandalay.0=the Mandalay Division
+TIArmyTemplate.displayNameWithArticle.Shan.0=the Taunggyi Division
+TIArmyTemplate.displayNameWithArticle.Isan.0=the Korat Division
+TIArmyTemplate.displayNameWithArticle.Osaka.0=the Osaka Division
+TIArmyTemplate.displayNameWithArticle.Agra.0=the Agra Division
+TIArmyTemplate.displayNameWithArticle.Indore.0=the Indore Division
+TIArmyTemplate.displayNameWithArticle.Raipur.0=the Raipur Division
+TIArmyTemplate.displayNameWithArticle.Ahmedabad.0=the Ahmedabad Division
+TIArmyTemplate.displayNameWithArticle.Goa.0=the Goa Division
+TIArmyTemplate.displayNameWithArticle.Cuttack.0=the Cuttack Division
+TIArmyTemplate.displayNameWithArticle.Visakhapatnam.0=the Visakhapatnam Division
+TIArmyTemplate.displayNameWithArticle.Chennai.0=the Chennai Division
+TIArmyTemplate.displayNameWithArticle.Kochi.0=the Kochi Division
+TIArmyTemplate.displayNameWithArticle.Bengaluru.0=the Bengaluru Division
+TIArmyTemplate.displayNameWithArticle.Xining.0=the Xining Division
+TIArmyTemplate.displayNameWithArticle.Kunming.0=the Kunming Division
+TIArmyTemplate.displayNameWithArticle.Chengdu.0=the Chengdu Division
+TIArmyTemplate.displayNameWithArticle.Qingdao.0=the Qingdao Division
+TIArmyTemplate.displayNameWithArticle.Hefei.0=the Hefei Division
+TIArmyTemplate.displayNameWithArticle.Zhengzhou.0=the Zhengzhou Division
+TIArmyTemplate.displayNameWithArticle.Changsha.0=the Changsha Division
+TIArmyTemplate.displayNameWithArticle.Nanchang.0=the Nanchang Division
+TIArmyTemplate.displayNameWithArticle.Fuzhou.0=the Fuzhou Division
+TIArmyTemplate.displayNameWithArticle.Nanning.0=the Nanning Division
+TIArmyTemplate.displayNameWithArticle.Kuching.0=the Kuching Division
+TIArmyTemplate.displayNameWithArticle.Brunei.0=the Brunei Division
+TIArmyTemplate.displayNameWithArticle.Pontianak.0=the Pontianak Division
+TIArmyTemplate.displayNameWithArticle.Banjar.0=the Banjar Division
+TIArmyTemplate.displayNameWithArticle.Palembang.0=the Palembang Division
+TIArmyTemplate.displayNameWithArticle.Maluku.0=the Ambon Division
