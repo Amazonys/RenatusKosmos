@@ -50,6 +50,7 @@ TIMissileTemplate.Warhead.Penetrator=Penetrator ({0} damage to armor)
 TIMissileTemplate.Warhead.Fragmentation=Fragmentation ({0} damage to armor)
 TIMissileTemplate.Warhead.Nuclear=Nuclear (All damage to armor)
 TIMissileTemplate.Warhead.ShapedNuclear=Shaped Nuclear (All damage to armor)
+TIMissileTemplate.Warhead.Antimatter=Antimatter ({0} damage to armor)
 TIMissileTemplate.WarheadType.Explosive=Explosive
 TIMissileTemplate.WarheadType.Penetrator=Penetrator
 TIMissileTemplate.WarheadType.Fragmentation=Fragmentation

@@ -15,7 +15,7 @@
         "nationalInvestmentArmyFactorHome": 0.5,
 		"nationalInvestmentArmyFactorAway": 1,
 		"nationalInvestmentNavyFactor": 0.5,
-		"restoreCapitalOnLiberation": true,
+		"prohibitCapitalShenanigans": true,
 		/* required investment points to trigger event */
 		"priority_ECO": 1,
 		"priority_WEL": 1,

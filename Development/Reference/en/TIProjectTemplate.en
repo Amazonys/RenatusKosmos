@@ -223,7 +223,7 @@ TIProjectTemplate.summary.Project_HokkaidoIndependenceMovement=The Ainu people s
 TIProjectTemplate.displayName.Project_SiberianIndependenceMovement=Siberian Independence Movement
 TIProjectTemplate.summary.Project_SiberianIndependenceMovement=Siberian peoples seek to break ties with Moscow.
 TIProjectTemplate.displayName.Project_BreakupofPakistan=Breakup of Pakistan
-TIProjectTemplate.summary.Project_BreakupofPakistan=Punjabis, Sindhis, Pashtuns and others decide to go it alone.
+TIProjectTemplate.summary.Project_BreakupofPakistan=Punjabis, Sindhis, Pashtuns, and others decide to go it alone.
 TIProjectTemplate.displayName.Project_WestraliaIndependenceMovement=Westralia Independence Movement
 TIProjectTemplate.summary.Project_WestraliaIndependenceMovement=The people of western Australia tire of their region's wealth only serving the cities in the East.
 TIProjectTemplate.displayName.Project_TheCaliphate=The Caliphate
@@ -281,7 +281,7 @@ TIProjectTemplate.summary.Project_SouthernCross=Australia seeks regional hegemon
 TIProjectTemplate.displayName.Project_UnitedMalayNation=The United Malay Nation
 TIProjectTemplate.summary.Project_UnitedMalayNation=Malays in many nations unite under a single banner.
 TIProjectTemplate.displayName.Project_GreaterMalaysia=Greater Malaysia
-TIProjectTemplate.summary.Project_GreaterMalaysia=Malaysia conslidates its power over nations where it has had historical influence.
+TIProjectTemplate.summary.Project_GreaterMalaysia=Malaysia consolidates its power over nations where it has had historical influence.
 TIProjectTemplate.displayName.Project_OccitanIndependenceMovement=Occitan Independence Movement
 TIProjectTemplate.summary.Project_OccitanIndependenceMovement=The people of southern France seek self-determination.
 TIProjectTemplate.displayName.Project_KatangaIndependenceMovement=Katanga Independence Movement
@@ -1279,7 +1279,7 @@ TIProjectTemplate.summary.Project_LoyaltyTraining=We subtly imbue astronaut and 
 TIProjectTemplate.displayName.Project_Psyops=Psyops
 TIProjectTemplate.summary.Project_Psyops=Psychological Operations can build support for our cause in enemy territory. 
 TIProjectTemplate.displayName.Project_NetworkedPsyops=Networked Psyops
-TIProjectTemplate.summary.Project_NetworkedPsyops=Computer-assisted psyops offer instant analysis and feedback allowing us to tailor our messaging to maniuplate individuals and populations.
+TIProjectTemplate.summary.Project_NetworkedPsyops=Computer-assisted psyops offer instant analysis and feedback allowing us to tailor our messaging to manipulate individuals and populations.
 TIProjectTemplate.displayName.Project_GuerrillaWarfare=Guerrilla Warfare
 TIProjectTemplate.summary.Project_GuerrillaWarfare=We prepare unconventional forces around the globe to advance our interests while facing superior enemies.
 TIProjectTemplate.displayName.Project_FreedomFighters=Freedom Fighters
@@ -1521,9 +1521,9 @@ TIProjectTemplate.displayName.Project_PatagoniaIndependenceMovement=Reconquest o
 TIProjectTemplate.summary.Project_PatagoniaIndependenceMovement=Peoples of Patagonia seek to redraw the map.
 TIProjectTemplate.displayName.Project_NetworkIntrusionProtocols=Network Intrusion Protocols
 TIProjectTemplate.summary.Project_NetworkIntrusionProtocols=We develop a variety of weapons to penetrate enemy faction networks.
-
-
-
-
-
-
+TIProjectTemplate.displayName.Project_HungarianIrredentism=Hungarian Irredentism
+TIProjectTemplate.summary.Project_HungarianIrredentism=The dream shall never die.
+TIProjectTemplate.displayName.Project_APeriodofUnity=A Period of Unity
+TIProjectTemplate.summary.Project_APeriodofUnity=Vietnam seeks dominion over its neighbors.
+TIProjectTemplate.displayName.Project_CentralAsianUnion=Central Asian Union
+TIProjectTemplate.summary.Project_CentralAsianUnion=Former Soviet states see strength in unity.

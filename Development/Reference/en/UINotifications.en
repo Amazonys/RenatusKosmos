@@ -547,6 +547,18 @@ UI.Notifications.OrgPoolOverfull.Hed=Reduce Unassigned Org Pool
 UI.Notifications.OrgPoolOverfull.Summary=We must reduce our pool of unassigned orgs.
 UI.Notifications.OrgPoolOverfull.Detail=Recent transactions have left our pool of unassigned orgs larger than we can manage. We must assign orgs to our councilors or sell them until we have {0} or fewer orgs in the unassigned pool. We will not be able to advance time until this matter is resolved.
 
+UI.Notifications.ArmyBeginsAnnexationHed={0} Begins Annexing {1} Region
+UI.Notifications.ArmyBeginsAnnexationSummary={0} has begun annexing the {1} region {2}.
+UI.Notifications.ArmyBeginsAnnexationDetail={0} has begun annexing the {1} region {2}. If it is not interrupted by fighting or a cessation of hostilities, {3} will take control of the region by {4}.
+
+UI.Notifications.ArmyCompletesAnnexationHed={0} Annexes {1} Region
+UI.Notifications.ArmyCompletesAnnexationSummary={0} has annexed the {1} region {2}.
+UI.Notifications.ArmyCompletesAnnexationDetail={0} has annexed the {1} region {2}.
+
+UI.Notifications.ArmyCancelsAnnexationHed={0} Annexation Attempt Fails
+UI.Notifications.ArmyCancelsAnnexationSummary=An attempt by {0} to annex the {1} region {2} has failed.
+UI.Notifications.ArmyCancelsAnnexationDetail=An attempt by {0} to annex the {1} region {2} has ended in failure.
+
 UI.Notifications.HabModuleDecommissioned.Summary=We have completed decommissioning {0} at {1}.									// module name, hab name
 
 UI.Notifications.HabDecommissioned.Hed={0} Decommissioned

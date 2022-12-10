@@ -114,3 +114,4 @@ TISpaceShipCondition_iModulesWithSpecialRule= for ships with {0} utility modules
 TISpaceShipCondition_bLaserBonusPowerTRUE= for ships with a Laser Engine utility module
 TISpaceShipCondition_tbHasUtilityModuleTypeTRUE= for ships with a {0} utility module
 TISpaceShipCondition_tiNumberOfUtilityModulesType= for ships where the number of {0} utility modules {1}
+TISpaceShipCondition_fAssaultCombatValue= if this ship's Marine complement {0}

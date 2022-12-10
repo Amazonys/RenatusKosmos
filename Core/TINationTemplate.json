@@ -4496,9 +4496,9 @@
  {
    "friendlyName": "Germany",
    "dataName": "DEU",
-   "flagResource": "nationflags/East_Germany",
+   "flagResource": "nationflags/Germany",
    "unionFlagResource": "nationflags/Germany",
-   "unionTrigger": 2,
+   "unionTrigger": 5,
    "multiplier": 1.2,
    "color32": {
       "r": 89,

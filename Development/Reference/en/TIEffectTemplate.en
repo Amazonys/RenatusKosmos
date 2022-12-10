@@ -545,8 +545,8 @@ TIEffectTemplate.displayName.Effect_CoupBonus3=Coup projects
 TIEffectTemplate.description.Effect_CoupBonus3=-Gain +{0} to Coup missions
 TIEffectTemplate.displayName.Effect_CrackdownDefense3=Crackdown defense projects
 TIEffectTemplate.description.Effect_CrackdownDefense3=-Our enemies suffer -{0} on Crackdown missions against our control points
-TIEffectTemplate.description.Effect_TotalHabMissionControlCost=-The total <color=#FFFFFFFF><sprite name="mission_control"> cost of our habs is reduced by {4}
-TIEffectTemplate.description.Effect_TotalShipMissionControlCost=-The total <color=#FFFFFFFF><sprite name="mission_control"> cost of our ships is reduced by {4}
+TIEffectTemplate.description.Effect_TotalHabMissionControlCost=-The total <color=#FFFFFFFF><sprite name="mission_control"></color> cost of our habs is reduced by {4}
+TIEffectTemplate.description.Effect_TotalShipMissionControlCost=-The total <color=#FFFFFFFF><sprite name="mission_control"></color> cost of our ships is reduced by {4}
 TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl5=-Our damage control teams conduct repairs {8} faster
 TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl25=-Our damage control teams conduct repairs {8} faster
 TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl=-Our damage control teams conduct repairs {8} faster

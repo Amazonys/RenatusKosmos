@@ -21895,6 +21895,34 @@
    "initialColony": null,
    "friendlyOnly": null
  },
+  {
+   "dataName": "ClaimVNMCambodia",
+   "relationType": "Claim",
+   "nation1": "VNM",
+   "region1": "Cambodia",
+   "projectUnlockName": "Project_APeriodofUnity"
+ },
+ {
+   "dataName": "ClaimVNMLaos",
+   "relationType": "Claim",
+   "nation1": "VNM",
+   "region1": "Laos",
+   "projectUnlockName": "Project_APeriodofUnity"
+ },
+ {
+   "dataName": "ClaimVNMKunming",
+   "relationType": "Claim",
+   "nation1": "VNM",
+   "region1": "Kunming",
+   "projectUnlockName": "Project_APeriodofUnity"
+ },
+ {
+   "dataName": "ClaimVNMNanning",
+   "relationType": "Claim",
+   "nation1": "VNM",
+   "region1": "Nanning",
+   "projectUnlockName": "Project_APeriodofUnity"
+ },
  {
    "dataName": "ClaimWAZPeshawar",
    "relationType": "Claim",
@@ -39239,6 +39267,34 @@
    "initialOwner": true,
    "initialColony": null,
    "friendlyOnly": null
+ },
+ {
+   "dataName": "ClaimHUNSlovakia",
+   "relationType": "Claim",
+   "nation1": "HUN",
+   "region1": "Slovakia",
+   "projectUnlockName": "Project_HungarianIrredentism"
+ },
+ {
+   "dataName": "ClaimHUNTransylvania",
+   "relationType": "Claim",
+   "nation1": "HUN",
+   "region1": "Transylvania",
+   "projectUnlockName": ""
+ },
+ {
+   "dataName": "ClaimHUNSarajevo",
+   "relationType": "Claim",
+   "nation1": "HUN",
+   "region1": "Sarajevo",
+   "projectUnlockName": "Project_HungarianIrredentism"
+ },
+ {
+   "dataName": "ClaimHUNCroatia",
+   "relationType": "Claim",
+   "nation1": "HUN",
+   "region1": "Croatia",
+   "projectUnlockName": "Project_HungarianIrredentism"
  },
  {
    "dataName": "ClaimCZECzechia",
