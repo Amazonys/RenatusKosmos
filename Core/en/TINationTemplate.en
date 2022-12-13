@@ -1302,10 +1302,20 @@ TINationTemplate.unionDisplayNameWithArticle.POL=Trimarium
 TINationTemplate.unionAdjective.POL=Trimaric
 TINationTemplate.unionDisplayNameWithArticlePrep.POL=in Trimarium
 
-TINationTemplate.unionDisplayName.HUN=Visegrad Group
-TINationTemplate.unionDisplayNameWithArticle.HUN=the Visegrad Group
-TINationTemplate.unionAdjective.HUN=Visegradic
-TINationTemplate.unionDisplayNameWithArticlePrep.HUN=in the Visegrad Group
+TINationTemplate.unionDisplayName.HUN=Pannonia
+TINationTemplate.unionDisplayNameWithArticle.HUN=Pannonia
+TINationTemplate.unionAdjective.HUN=Pannonian
+TINationTemplate.unionDisplayNameWithArticlePrep.HUN=in Pannonia
+
+TINationTemplate.unionDisplayName.ALP=Danubia
+TINationTemplate.unionDisplayNameWithArticle.ALP=Danubia
+TINationTemplate.unionAdjective.ALP=Danubian
+TINationTemplate.unionDisplayNameWithArticlePrep.ALP=in Danubia
+
+TINationTemplate.unionDisplayName.ROM=Carpathia
+TINationTemplate.unionDisplayNameWithArticle.ROM=Carpathia
+TINationTemplate.unionAdjective.ROM=Carpathian
+TINationTemplate.unionDisplayNameWithArticlePrep.ROM=in Carpathia
 
 TINationTemplate.unionDisplayName.UKR=Ukraine-Rus
 TINationTemplate.unionDisplayNameWithArticle.UKR=Ukraine-Rus
