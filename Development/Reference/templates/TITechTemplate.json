@@ -4,25 +4,17 @@
    "dataName": "Accelerando",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
       "MindandMachine",
       "IntegratedEarthSpaceEconomy",
       "ArrivalCulture"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_Economy_BasePCGDPIncrease02",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_Economy_BasePCGDPIncrease02"
+   ]
 },
  {
    "friendlyName": "Ad Astra",
@@ -30,199 +22,100 @@
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "MissiontotheMoon",
-      "OrbitalShipbuilding",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "OrbitalShipbuilding"
+   ]
 },
  {
    "friendlyName": "Administration Algorithms",
    "dataName": "AdministrationAlgorithms",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
       "AppliedArtificialIntelligence",
       "SelfRepairingSoftware",
       "QuantumEncryption"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_Economy_BasePCGDPIncrease02",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_Economy_BasePCGDPIncrease02"
+   ]
 },
  {
    "friendlyName": "Advanced Atomic Manipulation",
    "dataName": "AdvancedAtomicManipulation",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "AdvancedCarbonManipulation",
-      "PhotonicComputing",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "PhotonicComputing"
+   ]
 },
  {
    "friendlyName": "Advanced Carbon Manipulation",
    "dataName": "AdvancedCarbonManipulation",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
-   "researchCost": 1000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 1000
 },
  {
    "friendlyName": "Advanced Chemical Rocketry",
    "dataName": "AdvancedChemicalRocketry",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
-   "researchCost": 1000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 1000
 },
  {
    "friendlyName": "Advanced Fission Systems",
    "dataName": "AdvancedFissionSystems",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "GasCoreFissionSystems",
-      "Diamondoids",
-      ""
+      "Diamondoids"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFissionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFissionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Advanced Heat Management Concepts",
    "dataName": "AdvancedHeatManagementConcepts",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "DeepSpacePropulsionConcepts",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "DeepSpacePropulsionConcepts"
+   ]
 },
  {
    "friendlyName": "Advanced Hydrogen Containment",
    "dataName": "AdvancedHydrogenContainment",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
-      "SuperconductingMagnets",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "SuperconductingMagnets"
+   ]
 },
  {
    "friendlyName": "Advanced Magnetics",
@@ -230,724 +123,390 @@
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
-   "researchCost": 1000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "endGameTech": false,
+   "researchCost": 1000
 },
  {
    "friendlyName": "Advanced Missile Warfare Doctrine",
    "dataName": "AdvancedMissileWarfareDoctrine",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
       "MissileWarfareDoctrine",
       "AdvancedChemicalRocketry",
       "AdvancedNeuralNetworks"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Advanced Neural Networks",
    "dataName": "AdvancedNeuralNetworks",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "PhotonicComputing",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "PhotonicComputing"
+   ]
 },
  {
    "friendlyName": "Advanced Superconductors",
    "dataName": "AdvancedSuperconductors",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 3500,
    "prereqs": [
-      "AdvancedMagnetics",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedMagnetics"
+   ]
 },
  {
    "friendlyName": "Antimatter Containment",
    "dataName": "AntimatterContainment",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
       "SuperconductingMagnets",
-      "AdvancedAtomicManipulation",
-      ""
+      "AdvancedAtomicManipulation"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_CanAmassAntimatter",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_CanAmassAntimatter"
+   ]
 },
  {
    "friendlyName": "Antimatter Mass Production",
    "dataName": "AntimatterMassProduction",
    "techCategory": "Energy",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 60000,
    "prereqs": [
       "AntimatterContainment",
-      "OurSpaceFuture",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "OurSpaceFuture"
+   ]
 },
  {
    "friendlyName": "Antimatter Propulsion",
    "dataName": "AntimatterPropulsion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 60000,
    "prereqs": [
       "AntimatterMassProduction",
-      "DeepSpacePropulsionConcepts",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "DeepSpacePropulsionConcepts"
+   ]
 },
  {
    "friendlyName": "Antimatter Weaponry",
    "dataName": "AntimatterWeaponry",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 70000,
    "prereqs": [
       "AdvancedMissileWarfareDoctrine",
       "AntimatterContainment",
       "MilitarizationofSpace"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Applied Artificial Intelligence",
    "dataName": "AppliedArtificialIntelligence",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "AdvancedNeuralNetworks",
-      "QuantumComputing",
-      ""
+      "QuantumComputing"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Arc Lasers",
    "dataName": "ArcLasers",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "InfraredCombatLasers",
-      "Supercapacitors",
-      ""
+      "Supercapacitors"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_ArcLaserDefenses",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ArcLaserDefenses"
+   ]
 },
  {
    "friendlyName": "Arrival Culture",
    "dataName": "ArrivalCulture",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
       "ArrivalMassCommunications",
-      "ArrivalDomesticPolitics",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalDomesticPolitics"
+   ]
 },
  {
    "friendlyName": "Arrival Domestic Politics",
    "dataName": "ArrivalDomesticPolitics",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2000,
    "prereqs": [
-      "WeAreNotAlone",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "WeAreNotAlone"
+   ]
 },
  {
    "friendlyName": "Arrival Economics",
    "dataName": "ArrivalEconomics",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "WeAreNotAlone",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "WeAreNotAlone"
+   ]
 },
  {
    "friendlyName": "Arrival Governance",
    "dataName": "ArrivalGovernance",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
       "ArrivalCulture",
       "ArrivalSecurity",
       "OurSpaceFuture"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Arrival International Development",
    "dataName": "ArrivalInternationalDevelopment",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "ArrivalEconomics",
-      "ArrivalInternationalRelations",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalInternationalRelations"
+   ]
 },
  {
    "friendlyName": "Arrival International Relations",
    "dataName": "ArrivalInternationalRelations",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "WeAreNotAlone",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "WeAreNotAlone"
+   ]
 },
  {
    "friendlyName": "Arrival Law",
    "dataName": "ArrivalLaw",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "ArrivalDomesticPolitics",
-      "MissionToSpace",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MissionToSpace"
+   ]
 },
  {
    "friendlyName": "Arrival Mass Communications",
    "dataName": "ArrivalMassCommunications",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "ArrivalSociology",
-      "ArrivalPsychology",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalPsychology"
+   ]
 },
  {
    "friendlyName": "Arrival Psychology",
    "dataName": "ArrivalPsychology",
    "techCategory": "LifeScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "WeAreNotAlone",
-      "Biotechnology",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Biotechnology"
+   ]
 },
  {
    "friendlyName": "Arrival Security",
    "dataName": "ArrivalSecurity",
    "techCategory": "MilitaryScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "TerrestrialMilitaryScience",
-      "ArrivalLaw",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalLaw"
+   ]
 },
  {
    "friendlyName": "Arrival Sociology",
    "dataName": "ArrivalSociology",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "WeAreNotAlone",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "WeAreNotAlone"
+   ]
 },
  {
    "friendlyName": "Augmented Reality",
    "dataName": "AugmentedReality",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
-   "researchCost": 1500,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 1500
 },
  {
    "friendlyName": "Biotechnology",
    "dataName": "Biotechnology",
    "techCategory": "LifeScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
-   "researchCost": 1500,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 1500
 },
  {
    "friendlyName": "Carbon Nanotubes",
    "dataName": "CarbonNanotubes",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 3500,
    "prereqs": [
-      "AdvancedCarbonManipulation",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedCarbonManipulation"
+   ]
 },
  {
    "friendlyName": "Clean Energy",
    "dataName": "CleanEnergy",
    "techCategory": "Energy",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
       "DeuteriumHelium3Fusion",
       "AdvancedCarbonManipulation",
       "ArrivalEconomics"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_WelfareReduction_CO2_ppm",
       "Effect_Economy_CO2_ppm50",
-      "Effect_WelfareReduction_CH4_ppm",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_WelfareReduction_CH4_ppm"
+   ]
 },
  {
    "friendlyName": "Climate Change Mitigation",
    "dataName": "ClimateChangeMitigation",
    "techCategory": "LifeScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 100000,
    "prereqs": [
       "DesignerLifeforms",
       "CleanEnergy",
       "ArrivalInternationalDevelopment"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_WelfareReduction_CO2_ppm",
       "Effect_WelfareReduction_CH4_ppm",
       "Effect_WelfareReduction_N2O_ppm",
       "Effect_EndofOil"
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Coilguns",
    "dataName": "Coilguns",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
       "Railguns",
       "Supercapacitors",
       "SuperconductingMagnets"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Colony Habs",
    "dataName": "ColonyHabs",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
       "OurSpaceFuture",
       "ExtendedSpaceSurvival",
       "SettlementHabs"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Cybernetics",
    "dataName": "Cybernetics",
    "techCategory": "InformationScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "AugmentedReality",
-      "Biotechnology",
-      ""
+      "Biotechnology"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Deep Space Propulsion Concepts",
@@ -955,24 +514,11 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "MissionToSpace",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MissionToSpace"
+   ]
 },
  {
    "friendlyName": "Deep System Skywatch",
@@ -980,249 +526,150 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "FactionObjective",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "Skywatch",
-      "",
-      ""
+      "Skywatch"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_DeepSkywatch",
-      "Effect_SpaceScan",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_SpaceScan"
+   ]
 },
  {
    "friendlyName": "Designer Lifeforms",
    "dataName": "DesignerLifeforms",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
       "MolecularAssemblers",
       "TransformPhages",
       "ArrivalLaw"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_WelfareReduction_CO2_ppm",
       "Effect_WelfareReduction_CH4_ppm",
-      "Effect_WelfareReduction_N2O_ppm",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_WelfareReduction_N2O_ppm"
+   ]
 },
  {
    "friendlyName": "Deuterium-Deuterium Fusion",
    "dataName": "DeuteriumDeuteriumFusion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
-      "DeuteriumTritiumFusion",
-      "",
-      ""
+      "DeuteriumTritiumFusion"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFusionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFusionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Deuterium-Helium-3 Fusion",
    "dataName": "DeuteriumHelium3Fusion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
-      "DeuteriumTritiumFusion",
-      "",
-      ""
+      "DeuteriumTritiumFusion"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_GlobalFusionTechIncrease",
       "Effect_Economy_CO2_ppm90",
-      "Effect_Economy_BasePCGDPIncrease02",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_Economy_BasePCGDPIncrease02"
+   ]
 },
  {
    "friendlyName": "Deuterium-Tritium Fusion",
    "dataName": "DeuteriumTritiumFusion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
-      "NuclearFusioninSpace",
-      "",
-      ""
+      "NuclearFusioninSpace"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_GlobalFusionTechIncrease",
       "Effect_Economy_CO2_ppm90",
-      "Effect_Economy_BasePCGDPIncrease02",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_Economy_BasePCGDPIncrease02"
+   ]
 },
  {
    "friendlyName": "Diamondoids",
    "dataName": "Diamondoids",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 15000,
    "prereqs": [
       "CarbonNanotubes",
-      "AdvancedAtomicManipulation",
-      ""
+      "AdvancedAtomicManipulation"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Directed Energy Warfare Doctrine",
    "dataName": "DirectedEnergyWarfareDoctrine",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "PrinciplesofSpaceWarfare",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "PrinciplesofSpaceWarfare"
+   ]
 },
  {
    "friendlyName": "Directed Space Research",
    "dataName": "DirectedSpaceResearch",
    "techCategory": "SocialScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "SpaceResearch",
       "AdAstra",
       "QuantumComputing"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Electromagnetic Propulsion",
    "dataName": "ElectromagneticPropulsion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "DeepSpacePropulsionConcepts",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "DeepSpacePropulsionConcepts"
+   ]
 },
  {
    "friendlyName": "Electrostatic Plasma Confinement",
    "dataName": "ElectrostaticPlasmaConfinement",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 15000,
    "prereqs": [
       "VacuumElectrostaticPrinciples",
-      "AdvancedSuperconductors",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedSuperconductors"
+   ]
 },
  {
    "friendlyName": "Electrostatic Propulsion",
@@ -1230,874 +677,443 @@
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
       "DeepSpacePropulsionConcepts",
-      "VacuumElectrostaticPrinciples",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "VacuumElectrostaticPrinciples"
+   ]
 },
  {
    "friendlyName": "Electrothermal Propulsion",
    "dataName": "ElectrothermalPropulsion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
       "DeepSpacePropulsionConcepts",
-      "AdvancedMagnetics",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedMagnetics"
+   ]
 },
  {
    "friendlyName": "Extended Space Survival",
    "dataName": "ExtendedSpaceSurvival",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "SpaceMedicine",
       "SpaceAgriculture",
       "ArrivalPsychology"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Fall of Empires",
    "dataName": "FallofEmpires",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "IndependenceMovements",
-      "ArrivalInternationalRelations",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalInternationalRelations"
+   ]
 },
  {
    "friendlyName": "Fission Pulse Drives",
    "dataName": "FissionPulseDrives",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "SolidCoreFissionSystems",
       "Diamondoids",
       "ElectromagneticPropulsion"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Fleet Logistics",
    "dataName": "FleetLogistics",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 45000,
    "prereqs": [
       "MilitarizationofSpace",
-      "IntegratedEarthSpaceEconomy",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "IntegratedEarthSpaceEconomy"
+   ]
 },
  {
    "friendlyName": "Future Tech: Energy",
    "dataName": "FutureTechEnergy",
    "techCategory": "Energy",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
+   "AI_criticalTech": false,
    "endGameTech": true,
-   "researchCost": 100000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "researchCost": 100000
 },
  {
    "friendlyName": "Future Tech: Information Science",
    "dataName": "FutureTechInformationScience",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
+   "AI_criticalTech": false,
    "endGameTech": true,
-   "researchCost": 100000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "researchCost": 100000
 },
  {
    "friendlyName": "Future Tech: Life Science",
    "dataName": "FutureTechLifeScience",
    "techCategory": "LifeScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
+   "AI_criticalTech": false,
    "endGameTech": true,
-   "researchCost": 100000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "researchCost": 100000
 },
  {
    "friendlyName": "Future Tech: Materials",
    "dataName": "FutureTechMaterials",
    "techCategory": "Materials",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
+   "AI_criticalTech": false,
    "endGameTech": true,
-   "researchCost": 100000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "researchCost": 100000
 },
  {
    "friendlyName": "Future Tech: Military Science",
    "dataName": "FutureTechMilitaryScience",
    "techCategory": "MilitaryScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
+   "AI_criticalTech": false,
    "endGameTech": true,
    "researchCost": 100000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Future Tech: Social Science",
    "dataName": "FutureTechSocialScience",
    "techCategory": "SocialScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
+   "AI_criticalTech": false,
    "endGameTech": true,
-   "researchCost": 100000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "researchCost": 100000
 },
  {
    "friendlyName": "Future Tech: Space Science",
    "dataName": "FutureTechSpaceScience",
    "techCategory": "SpaceScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
+   "AI_criticalTech": false,
    "endGameTech": true,
-   "researchCost": 100000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "researchCost": 100000
 },
  {
    "friendlyName": "Gas Core Fission Systems",
    "dataName": "GasCoreFissionSystems",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
-      "MoltenCoreFissionSystems",
-      "",
-      ""
+      "MoltenCoreFissionSystems"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFissionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFissionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Genies",
    "dataName": "Genies",
    "techCategory": "LifeScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
       "TransformPhages",
-      "AppliedArtificialIntelligence",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AppliedArtificialIntelligence"
+   ]
 },
  {
    "friendlyName": "Great Nations",
    "dataName": "GreatNations",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "UnityMovements",
-      "ArrivalDomesticPolitics",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalDomesticPolitics"
+   ]
 },
  {
    "friendlyName": "Heavy Pulsed Propulsion",
    "dataName": "HeavyPulsedPropulsion",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
       "AdvancedFissionSystems",
-      "FissionPulseDrives",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "FissionPulseDrives"
+   ]
 },
  {
    "friendlyName": "High Temperature Superconductors",
    "dataName": "HighTemperatureSuperconductors",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
       "AdvancedSuperconductors",
       "AdvancedAtomicManipulation",
       "AdvancedHeatManagementConcepts"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "High-Energy Electromagnetic Propulsion",
    "dataName": "HighEnergyElectromagneticPropulsion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "ElectromagneticPropulsion",
-      "MagneticPlasmaConfinementTechniques",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MagneticPlasmaConfinementTechniques"
+   ]
 },
  {
    "friendlyName": "High-Energy Electrostatic Propulsion",
    "dataName": "HighEnergyElectrostaticPropulsion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "ElectrostaticPropulsion",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ElectrostaticPropulsion"
+   ]
 },
  {
    "friendlyName": "High-Energy Electrothermal Propulsion",
    "dataName": "HighEnergyElectrothermalPropulsion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "ElectrothermalPropulsion",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ElectrothermalPropulsion"
+   ]
 },
  {
    "friendlyName": "High-Energy Lasers",
    "dataName": "HighEnergyLasers",
    "techCategory": "Energy",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
-   "researchCost": 1000,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 1000
 },
  {
    "friendlyName": "Hydrogen-Lithium-6 Fusion",
    "dataName": "HydrogenLithium6Fusion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
-      "NuclearFusioninSpace",
-      "",
-      ""
+      "NuclearFusioninSpace"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFusionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFusionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Improved Shipbuilding Techniques",
    "dataName": "ImprovedShipbuildingTechniques",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
       "IndustrializationofSpace",
-      "NextGenerationAerospace",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "NextGenerationAerospace"
+   ]
 },
  {
    "friendlyName": "In Situ Resource Utilization",
    "dataName": "InSituResourceUtilization",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "SpaceMiningandRefining",
-      "",
-      ""
+      "SpaceMiningandRefining"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_DummyTooltipInSituResourceUtilization1",
-      "Effect_DummyTooltipInSituResourceUtilization2",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_DummyTooltipInSituResourceUtilization2"
+   ]
 },
  {
    "friendlyName": "Independence Movements",
    "dataName": "IndependenceMovements",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "ArrivalDomesticPolitics",
-      "ArrivalSociology",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalSociology"
+   ]
 },
  {
    "friendlyName": "Industrialization of Space",
    "dataName": "IndustrializationofSpace",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 15000,
    "prereqs": [
       "OrbitalShipbuilding",
-      "SpaceMiningandRefining",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "SpaceMiningandRefining"
+   ]
 },
  {
    "friendlyName": "Inertial Plasma Confinement Techniques",
    "dataName": "InertialPlasmaConfinementTechniques",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
       "HighEnergyLasers",
       "AdvancedNeuralNetworks",
       "AdvancedAtomicManipulation"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Infrared Combat Lasers",
    "dataName": "InfraredCombatLasers",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "HighEnergyLasers",
-      "DirectedEnergyWarfareDoctrine",
-      ""
+      "DirectedEnergyWarfareDoctrine"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_StandardLaserDefenses",
-      "Effect_IRLaserDefenses",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IRLaserDefenses"
+   ]
 },
  {
    "friendlyName": "Integrated Earth-Space Economy",
    "dataName": "IntegratedEarthSpaceEconomy",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 40000,
    "prereqs": [
       "ArrivalInternationalDevelopment",
       "OurSpaceFuture",
       "NextGenerationAerospace"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_Economy_BasePCGDPIncrease02",
-      "Effect_WelfareReduction_CO2_ppm",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_WelfareReduction_CO2_ppm"
+   ]
 },
  {
    "friendlyName": "Interplanetary Polities",
    "dataName": "InterplanetaryPolities",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
       "ColonyHabs",
       "OrbitalTorusHabs",
       "ArrivalGovernance"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Kinetics Warfare Doctrine",
    "dataName": "KineticsWarfareDoctrine",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "PrinciplesofSpaceWarfare",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "PrinciplesofSpaceWarfare"
+   ]
 },
  {
    "friendlyName": "Magnetic Force Manipulation",
    "dataName": "MagneticForceManipulation",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "AdvancedMagnetics",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedMagnetics"
+   ]
 },
  {
    "friendlyName": "Magnetic Nozzles",
    "dataName": "MagneticNozzles",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "DeepSpacePropulsionConcepts",
       "MagneticPlasmaConfinementTechniques",
       "SuperconductingMagnets"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Magnetic Plasma Confinement Techniques",
    "dataName": "MagneticPlasmaConfinementTechniques",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
       "HighTemperatureSuperconductors",
-      "MagneticForceManipulation",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MagneticForceManipulation"
+   ]
 },
  {
    "friendlyName": "Mass Drivers",
@@ -2105,174 +1121,95 @@
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "AdvancedMagnetics",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedMagnetics"
+   ]
 },
  {
    "friendlyName": "Militarization of Space",
    "dataName": "MilitarizationofSpace",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "PrinciplesofSpaceWarfare",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "PrinciplesofSpaceWarfare"
+   ]
 },
  {
    "friendlyName": "Mind and Machine",
    "dataName": "MindandMachine",
    "techCategory": "LifeScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
       "AppliedArtificialIntelligence",
       "Cybernetics",
       "ArrivalPsychology"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Missile Warfare Doctrine",
    "dataName": "MissileWarfareDoctrine",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "PrinciplesofSpaceWarfare",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "PrinciplesofSpaceWarfare"
+   ]
 },
  {
    "friendlyName": "Mission to Jupiter",
    "dataName": "MissiontoJupiter",
    "techCategory": "SpaceScience",
-   "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_techRole": "SpaceExpansion",
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
-      "MissiontotheAsteroids",
-      "",
-      ""
+      "MissiontotheAsteroids"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_ExploreJupiter",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ExploreJupiter"
+   ]
 },
  {
    "friendlyName": "Mission to Mars",
    "dataName": "MissiontoMars",
    "techCategory": "SpaceScience",
-   "AI_techRole": "SpaceDevelopment",
+   "AI_techRole": "SpaceExpansion",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "OutpostHabs",
-      "",
-      ""
+      "OutpostHabs"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_ExploreMars",
-      "Effect_ExploreEarthLagrangePoints",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ExploreEarthLagrangePoints"
+   ]
 },
  {
    "friendlyName": "Mission to Saturn",
    "dataName": "MissiontoSaturn",
    "techCategory": "SpaceScience",
-   "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_techRole": "SpaceExpansion",
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
-      "MissiontoJupiter",
-      "",
-      ""
+      "MissiontoJupiter"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_ExploreSaturn",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ExploreSaturn"
+   ]
 },
  {
    "friendlyName": "Mission To Space",
@@ -2280,174 +1217,101 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
-   "researchCost": 250,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "endGameTech": false,
+   "researchCost": 250
 },
  {
    "friendlyName": "Mission to the Asteroids",
    "dataName": "MissiontotheAsteroids",
    "techCategory": "SpaceScience",
-   "AI_techRole": "SpaceDevelopment",
+   "AI_techRole": "SpaceExpansion",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 3500,
    "prereqs": [
       "MissiontoMars",
       "Skywatch",
       "DeepSpacePropulsionConcepts"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_ExploreAsteroids",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ExploreAsteroids"
+   ]
 },
  {
    "friendlyName": "Mission to the Inner Planets",
    "dataName": "MissiontotheInnerPlanets",
    "techCategory": "SpaceScience",
-   "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_techRole": "SpaceExpansion",
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 15000,
    "prereqs": [
       "MissiontoMars",
-      "AdvancedHeatManagementConcepts",
-      ""
+      "AdvancedHeatManagementConcepts"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_ExploreInnerPlanets",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ExploreInnerPlanets"
+   ]
 },
  {
    "friendlyName": "Mission to the Moon",
    "dataName": "MissiontotheMoon",
    "techCategory": "SpaceScience",
-   "AI_techRole": "SpaceDevelopment",
+   "AI_techRole": "SpaceExpansion",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "OutpostHabs",
-      "",
-      ""
+      "OutpostHabs"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_ExploreLuna",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ExploreLuna"
+   ]
 },
  {
    "friendlyName": "Mission to the Outer Planets",
    "dataName": "MissiontotheOuterPlanets",
    "techCategory": "SpaceScience",
-   "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_techRole": "SpaceExpansion",
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 40000,
    "prereqs": [
       "MissiontoSaturn",
       "DeepSystemSkywatch",
       "ExtendedSpaceSurvival"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_ExploreOuterPlanets",
-      "Effect_ExploreKuiperBelt",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_ExploreKuiperBelt"
+   ]
 },
  {
    "friendlyName": "Molecular Assemblers",
    "dataName": "MolecularAssemblers",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
-      "QuantumComputing",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "QuantumComputing"
+   ]
 },
  {
    "friendlyName": "Molten Core Fission Systems",
    "dataName": "MoltenCoreFissionSystems",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
-      "SolidCoreFissionSystems",
-      "",
-      ""
+      "SolidCoreFissionSystems"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFissionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFissionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Networked Global Defense",
@@ -2455,99 +1319,58 @@
    "techCategory": "MilitaryScience",
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "ArrivalSecurity",
-      "QuantumEncryption",
-      ""
+      "QuantumEncryption"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Networked Propaganda",
    "dataName": "NetworkedPropaganda",
    "techCategory": "InformationScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "ArrivalMassCommunications",
-      "Cybernetics",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Cybernetics"
+   ]
 },
  {
    "friendlyName": "Neutronium Containment",
    "dataName": "NeutroniumContainment",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "AdvancedAtomicManipulation",
-      "Diamondoids",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Diamondoids"
+   ]
 },
  {
    "friendlyName": "Next-Generation Aerospace",
    "dataName": "NextGenerationAerospace",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "CarbonNanotubes",
-      "AdvancedChemicalRocketry",
-      ""
+      "AdvancedChemicalRocketry"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_IncreaseMaxArmyTechLevel",
-      "Effect_AdvancedAircraft",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_AdvancedAircraft"
+   ]
 },
  {
    "friendlyName": "Nuclear Fission in Space",
@@ -2555,24 +1378,14 @@
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
-      "DeepSpacePropulsionConcepts",
-      "",
-      ""
+      "DeepSpacePropulsionConcepts"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFissionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFissionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Nuclear Fusion in Space",
@@ -2580,49 +1393,27 @@
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "HighTemperatureSuperconductors",
-      "NuclearFissioninSpace",
-      ""
+      "NuclearFissioninSpace"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFusionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFusionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Orbital Ring Habs",
    "dataName": "OrbitalRingHabs",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "AdAstra",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdAstra"
+   ]
 },
  {
    "friendlyName": "Orbital Shipbuilding",
@@ -2630,74 +1421,39 @@
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "MissionToSpace",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MissionToSpace"
+   ]
 },
  {
    "friendlyName": "Orbital Torus Habs",
    "dataName": "OrbitalTorusHabs",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
       "OurSpaceFuture",
       "ExtendedSpaceSurvival",
       "OrbitalRingHabs"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Our Space Future",
    "dataName": "OurSpaceFuture",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
       "MilitarizationofSpace",
       "DirectedSpaceResearch",
       "SpaceCommerce"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Outpost Habs",
@@ -2705,149 +1461,75 @@
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "MissionToSpace",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MissionToSpace"
+   ]
 },
  {
    "friendlyName": "Particle Cannon",
    "dataName": "ParticleCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "VacuumElectrostaticPrinciples",
-      "DirectedEnergyWarfareDoctrine",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "DirectedEnergyWarfareDoctrine"
+   ]
 },
  {
    "friendlyName": "Phased-Array Lasers",
    "dataName": "PhasedArrayLasers",
    "techCategory": "Energy",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 70000,
    "prereqs": [
       "ArcLasers",
-      "Ultracapacitors",
-      ""
+      "Ultracapacitors"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_PhaserDefenses",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_PhaserDefenses"
+   ]
 },
  {
    "friendlyName": "Photonic Computing",
    "dataName": "PhotonicComputing",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
-   "researchCost": 1500,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 1500
 },
  {
    "friendlyName": "Plasma Weapons",
    "dataName": "PlasmaWeapons",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 40000,
    "prereqs": [
       "Coilguns",
-      "MagneticPlasmaConfinementTechniques",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MagneticPlasmaConfinementTechniques"
+   ]
 },
  {
    "friendlyName": "Predictive Genetics",
    "dataName": "PredictiveGenetics",
    "techCategory": "LifeScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "Biotechnology",
-      "PhotonicComputing",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "PhotonicComputing"
+   ]
 },
  {
    "friendlyName": "Principles of Space Warfare",
@@ -2855,199 +1537,103 @@
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "OrbitalShipbuilding",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "OrbitalShipbuilding"
+   ]
 },
  {
    "friendlyName": "Proton-Boron Fusion",
    "dataName": "ProtonBoronFusion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 40000,
    "prereqs": [
       "DeuteriumHelium3Fusion",
-      "AdvancedHydrogenContainment",
-      ""
+      "AdvancedHydrogenContainment"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFusionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFusionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Proton-Proton Fusion",
    "dataName": "ProtonProtonFusion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 95000,
    "prereqs": [
-      "ProtonBoronFusion",
-      "",
-      ""
+      "ProtonBoronFusion"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFusionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFusionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Quantum Computing",
    "dataName": "QuantumComputing",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
-      "AdvancedAtomicManipulation",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedAtomicManipulation"
+   ]
 },
  {
    "friendlyName": "Quantum Encryption",
    "dataName": "QuantumEncryption",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
-      "QuantumComputing",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "QuantumComputing"
+   ]
 },
  {
    "friendlyName": "Railguns",
    "dataName": "Railguns",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
       "KineticsWarfareDoctrine",
-      "MassDrivers",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MassDrivers"
+   ]
 },
  {
    "friendlyName": "Self-Repairing Software",
    "dataName": "SelfRepairingSoftware",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
-      "AdvancedNeuralNetworks",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedNeuralNetworks"
+   ]
 },
  {
    "friendlyName": "Settlement Habs",
    "dataName": "SettlementHabs",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "AdAstra",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdAstra"
+   ]
 },
  {
    "friendlyName": "Skywatch",
@@ -3055,24 +1641,12 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "FactionObjective",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 250,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_Skywatch",
-      "Effect_SpaceScan",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_SpaceScan"
+   ]
 },
  {
    "friendlyName": "Solid Core Fission Systems",
@@ -3080,124 +1654,67 @@
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
-      "NuclearFissioninSpace",
-      "",
-      ""
+      "NuclearFissioninSpace"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFissionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFissionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Space Agriculture",
    "dataName": "SpaceAgriculture",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
       "SpaceResearch",
-      "Biotechnology",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Biotechnology"
+   ]
 },
  {
    "friendlyName": "Space Assault Doctrine",
    "dataName": "SpaceAssaultDoctrine",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "MilitarizationofSpace",
-      "TerrestrialMilitaryScience",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "TerrestrialMilitaryScience"
+   ]
 },
  {
    "friendlyName": "Space Commerce",
    "dataName": "SpaceCommerce",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
       "IndustrializationofSpace",
       "ArrivalEconomics",
       "ArrivalLaw"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Space Medicine",
    "dataName": "SpaceMedicine",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
       "SpaceResearch",
-      "Biotechnology",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Biotechnology"
+   ]
 },
  {
    "friendlyName": "Space Mining and Refining",
@@ -3205,399 +1722,222 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
-   "endGameTech": null,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
       "MassDrivers",
-      "OutpostHabs",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "OutpostHabs"
+   ]
 },
  {
    "friendlyName": "Space Research",
    "dataName": "SpaceResearch",
    "techCategory": "SocialScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
       "MissionToSpace",
-      "AugmentedReality",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AugmentedReality"
+   ]
 },
  {
    "friendlyName": "Space Tourism",
    "dataName": "SpaceTourism",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "MissionToSpace",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MissionToSpace"
+   ]
 },
  {
    "friendlyName": "Supercapacitors",
    "dataName": "Supercapacitors",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "CarbonNanotubes",
-      "AdvancedSuperconductors",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedSuperconductors"
+   ]
 },
  {
    "friendlyName": "Superconducting Magnets",
    "dataName": "SuperconductingMagnets",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "MagneticForceManipulation",
-      "AdvancedSuperconductors",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedSuperconductors"
+   ]
 },
  {
    "friendlyName": "Targeted Biological Warfare",
    "dataName": "TargetedBiologicalWarfare",
    "techCategory": "MilitaryScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 30000,
    "prereqs": [
       "NetworkedGlobalDefense",
-      "DesignerLifeforms",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "DesignerLifeforms"
+   ]
 },
  {
    "friendlyName": "Terawatt Fusion Reactors",
    "dataName": "TerawattFusionReactors",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 95000,
    "prereqs": [
       "NuclearFusioninSpace",
       "Ultracapacitors",
       "Diamondoids"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GlobalFusionTechIncrease",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GlobalFusionTechIncrease"
+   ]
 },
  {
    "friendlyName": "Terrestrial Military Science",
    "dataName": "TerrestrialMilitaryScience",
    "techCategory": "MilitaryScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 3000,
    "prereqs": [
-      "WeAreNotAlone",
-      "",
-      ""
+      "WeAreNotAlone"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Titanic Spacecraft",
    "dataName": "TitanicSpacecraft",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 60000,
    "prereqs": [
       "ImprovedShipbuildingTechniques",
       "Diamondoids",
       "FleetLogistics"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Trans-Interface Warfare",
    "dataName": "TransInterfaceWarfare",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "TerrestrialMilitaryScience",
       "VisibleCombatLasers",
       "NextGenerationAerospace"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
       "Effect_AllowSpaceDefensesConstruction",
-      "Effect_IncreaseMaxArmyTechLevel",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_IncreaseMaxArmyTechLevel"
+   ]
 },
  {
    "friendlyName": "Transform Phages",
    "dataName": "TransformPhages",
    "techCategory": "LifeScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
       "PredictiveGenetics",
-      "Cybernetics",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Cybernetics"
+   ]
 },
  {
    "friendlyName": "Ultracapacitors",
    "dataName": "Ultracapacitors",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 40000,
    "prereqs": [
       "Supercapacitors",
-      "MolecularAssemblers",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MolecularAssemblers"
+   ]
 },
  {
    "friendlyName": "Ultraviolet Combat Lasers",
    "dataName": "UltravioletCombatLasers",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 60000,
    "prereqs": [
       "VisibleCombatLasers",
-      "MilitarizationofSpace",
-      ""
+      "MilitarizationofSpace"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_UVLaserDefenses",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_UVLaserDefenses"
+   ]
 },
  {
    "friendlyName": "Unity Movements",
    "dataName": "UnityMovements",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
-      "ArrivalInternationalRelations",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "ArrivalInternationalRelations"
+   ]
 },
  {
    "friendlyName": "Vacuum Electrostatic Principles",
    "dataName": "VacuumElectrostaticPrinciples",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 1000,
    "prereqs": [
-      "AdvancedMagnetics",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "AdvancedMagnetics"
+   ]
 },
  {
    "friendlyName": "Visible Combat Lasers",
    "dataName": "VisibleCombatLasers",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
       "InfraredCombatLasers",
-      "AdvancedHeatManagementConcepts",
-      ""
+      "AdvancedHeatManagementConcepts"
    ],
-   "altPrereq0": "",
-   "year": "",
    "effects": [
-      "Effect_GreenLaserDefenses",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "Effect_GreenLaserDefenses"
+   ]
 },
  {
    "friendlyName": "We Are Not Alone",
@@ -3605,73 +1945,33 @@
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": true,
-   "endGameTech": null,
-   "researchCost": 500,
-   "prereqs": [
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   "endGameTech": false,
+   "researchCost": 500
 },
  {
    "friendlyName": "White Collar Automation",
    "dataName": "WhiteCollarAutomation",
    "techCategory": "InformationScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 40000,
    "prereqs": [
       "ArrivalEconomics",
       "SelfRepairingSoftware",
       "AppliedArtificialIntelligence"
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+   ]
 },
  {
    "friendlyName": "Z-Pinch Techniques",
    "dataName": "ZPinchTechniques",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
-   "endGameTech": null,
+   "AI_criticalTech": false,
+   "endGameTech": false,
    "researchCost": 15000,
    "prereqs": [
-      "MagneticPlasmaConfinementTechniques",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "year": "",
-   "effects": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": "",
-   "voiceoverPath": ""
+      "MagneticPlasmaConfinementTechniques"
+   ]
 }
 ]

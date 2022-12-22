@@ -7900,5 +7900,617 @@
       "",
       ""
    ]
+},
+ {
+   "dataName": "orgIcon440",
+   "path": "orglogos/orgIcon440",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon441",
+   "path": "orglogos/orgIcon441",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon442",
+   "path": "orglogos/orgIcon442",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon443",
+   "path": "orglogos/orgIcon443",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon444",
+   "path": "orglogos/orgIcon444",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "Sect",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon445",
+   "path": "orglogos/orgIcon445",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "Security",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon446",
+   "path": "orglogos/orgIcon446",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon447",
+   "path": "orglogos/orgIcon447",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon448",
+   "path": "orglogos/orgIcon448",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon449",
+   "path": "orglogos/orgIcon449",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon450",
+   "path": "orglogos/orgIcon450",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon451",
+   "path": "orglogos/orgIcon451",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon452",
+   "path": "orglogos/orgIcon452",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Criminal",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon453",
+   "path": "orglogos/orgIcon453",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon454",
+   "path": "orglogos/orgIcon454",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon455",
+   "path": "orglogos/orgIcon455",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "Criminal",
+      "Security",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon456",
+   "path": "orglogos/orgIcon456",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon457",
+   "path": "orglogos/orgIcon457",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "Research",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon458",
+   "path": "orglogos/orgIcon458",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon459",
+   "path": "orglogos/orgIcon459",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "Security",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon460",
+   "path": "orglogos/orgIcon460",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "Research",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon461",
+   "path": "orglogos/orgIcon461",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "Research",
+      "Influence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon462",
+   "path": "orglogos/orgIcon462",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon463",
+   "path": "orglogos/orgIcon463",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "Research",
+      "NGO",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon464",
+   "path": "orglogos/orgIcon464",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon465",
+   "path": "orglogos/orgIcon465",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Engineering",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon466",
+   "path": "orglogos/orgIcon466",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "Engineering",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon467",
+   "path": "orglogos/orgIcon467",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon468",
+   "path": "orglogos/orgIcon468",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon469",
+   "path": "orglogos/orgIcon469",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon470",
+   "path": "orglogos/orgIcon470",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon471",
+   "path": "orglogos/orgIcon471",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon472",
+   "path": "orglogos/orgIcon472",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "orgIcon473",
+   "path": "orglogos/orgIcon473",
+   "minTier": 1,
+   "maxTier": 3,
+   "firstLetters": "",
+   "primaryOrgType": "Influence",
+   "allowedOrgTypes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
 }
 ]

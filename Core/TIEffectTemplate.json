@@ -11445,6 +11445,132 @@
    ]
 },
 {
+   "dataName": "Effect_UpdateAlienThreatMeter",
+   "instantEffect": "UpdateAlienThreatMeter",
+   "operation": "",
+   "value": null,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "instant",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_FixAlienThreatMeter",
+   "instantEffect": "UpdateAlienThreatMeter_Accurate",
+   "operation": "",
+   "value": null,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "instant",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_HackProject_Steal",
+   "instantEffect": "",
+   "operation": "Additive",
+   "value": 3,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "Mission_StealProject_Att",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_HackProject_Sabotage",
+   "instantEffect": "",
+   "operation": "Additive",
+   "value": 3,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "Mission_SabotageProject_Att",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_InspireBonus",
+   "instantEffect": "",
+   "operation": "Additive",
+   "value": 3,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "Mission_Inspire_Att",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_TurnBonus",
+   "instantEffect": "",
+   "operation": "Additive",
+   "value": 3,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "Mission_Trait_Att",
+      ""
+   ]
+},
+{
     "dataName": "Effect_ControlCostPow",
     "instantEffect": "",
     "operation": "",

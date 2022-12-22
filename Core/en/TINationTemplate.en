@@ -933,10 +933,10 @@ TINationTemplate.unionDisplayNameWithArticle.KAZ=Turkestan
 TINationTemplate.unionAdjective.KAZ=Turkestani
 TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=in Turkestan
 
-TINationTemplate.unionDisplayName.POR=Lusitanian League
-TINationTemplate.unionDisplayNameWithArticle.POR=the Lusitanian League
-TINationTemplate.unionAdjective.POR=Lusitanian
-TINationTemplate.unionDisplayNameWithArticlePrep.POR=in the Lusitanian League
+TINationTemplate.unionDisplayName.PRT=Lusitanian League
+TINationTemplate.unionDisplayNameWithArticle.PRT=the Lusitanian League
+TINationTemplate.unionAdjective.PRT=Lusitanian
+TINationTemplate.unionDisplayNameWithArticlePrep.PRT=in the Lusitanian League
 
 TINationTemplate.unionDisplayName.ESP=Iberian Union
 TINationTemplate.unionDisplayNameWithArticle.ESP=the Iberian Union
