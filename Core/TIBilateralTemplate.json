@@ -1759,7 +1759,8 @@
    "relationType": "Claim",
    "nation1": "SAU",
    "region1": "Rio",
-   "projectUnlockName": "Project_SouthAmericanUnion"
+   "projectUnlockName": "Project_SouthAmericanUnion",
+   "capitalClaim": true
  },
  {
    "dataName": "ClaimSAUCampoGrande",
@@ -1795,17 +1796,14 @@
    "relationType": "Claim",
    "nation1": "SAU",
    "region1": "Bolivia",
-   "projectUnlockName": "Project_SouthAmericanUnion",
-   "capitalClaim": true,
-   "initialOwner": true
+   "projectUnlockName": "Project_SouthAmericanUnion"
  },
  {
    "dataName": "ClaimSAUSantaCruz",
    "relationType": "Claim",
    "nation1": "SAU",
    "region1": "SantaCruz",
-   "projectUnlockName": "Project_SouthAmericanUnion",
-   "initialOwner": true
+   "projectUnlockName": "Project_SouthAmericanUnion"
  },
  {
    "dataName": "ClaimSAUBrasilia",
@@ -4400,16 +4398,14 @@
    "relationType": "Claim",
    "nation1": "WGA",
    "region1": "NorthGermany",
-   "projectUnlockName": "Project_OurOwnWay",
-   "capitalClaim": true
+   "projectUnlockName": "Project_OurOwnWay"
  },
  {
    "dataName": "ClaimWGASouthGermany",
    "relationType": "Claim",
    "nation1": "WGA",
    "region1": "SouthGermany",
-   "projectUnlockName": "Project_OurOwnWay",
-   "capitalClaim": true
+   "projectUnlockName": "Project_OurOwnWay"
  },
  {
    "dataName": "ClaimEGYAlgeria",
@@ -6827,7 +6823,6 @@
    "relationType": "Claim",
    "nation1": "ITA",
    "region1": "Italy",
-   "capitalClaim": true,
    "initialOwner": true
  },
  {
@@ -6953,13 +6948,6 @@
    "nation1": "KAZ",
    "region1": "Astana",
    "capitalClaim": true,
-   "initialOwner": true
- },
- {
-   "dataName": "ClaimKAZAktobe",
-   "relationType": "Claim",
-   "nation1": "KAZ",
-   "region1": "Astana",
    "initialOwner": true
  },
  {
@@ -18502,7 +18490,7 @@
    "initialOwner": true
  },
  {
-   "dataName": "ClaimCROZagreb",
+   "dataName": "ClaimCROCroatia",
    "relationType": "Claim",
    "nation1": "CRO",
    "region1": "Croatia",

@@ -4251,7 +4251,7 @@
 {
    "friendlyName": "Rio de Janeiro",
    "dataName": "RIO",
-   "flagResource": "nationflags/Rio",
+   "flagResource": "nationflags/Brazil",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11485,7 +11485,7 @@
 {
    "friendlyName": "Sahkalin",
    "dataName": "SKL",
-   "flagResource": "nationflags/Sahkalin",
+   "flagResource": "nationflags/Sakhalin",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
