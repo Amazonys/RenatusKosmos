@@ -8942,8 +8942,7 @@
    "relationType": "Claim",
    "nation1": "SCA",
    "region1": "Greenland",
-   "projectUnlockName": "Project_NordicFederation",
-   "initialColony": true
+   "projectUnlockName": "Project_NordicFederation"
  },
  {
    "dataName": "ClaimSCASweden",
