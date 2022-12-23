@@ -11026,7 +11026,6 @@
  {
    "dataName": "PhysicalAdjacencyEnglandFrance",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "England",
    "region2": "France",
    "friendlyOnly": true
@@ -11034,7 +11033,6 @@
  {
    "dataName": "PhysicalAdjacencyHonshuHokkaido",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Honshu",
    "region2": "Hokkaido",
    "friendlyOnly": true
@@ -11042,14 +11040,12 @@
  {
    "dataName": "PhysicalAdjacencyHonshuOsaka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Honshu",
    "region2": "Osaka"
  },
  {
    "dataName": "PhysicalAdjacencySpainRabat",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Spain",
    "region2": "Rabat",
    "projectUnlockName": "Project_StraitofGibraltarCrossing",
@@ -11058,7 +11054,6 @@
  {
    "dataName": "PhysicalAdjacencyAdenHarar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Aden",
    "region2": "Harar",
    "projectUnlockName": "Project_BridgeoftheHorns",
@@ -11067,7 +11062,6 @@
  {
    "dataName": "PhysicalAdjacencyJavaPalembang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Java",
    "region2": "Palembang",
    "projectUnlockName": "Project_SundaStraitBridge",
@@ -11076,7 +11070,6 @@
  {
    "dataName": "PhysicalAdjacencyJavaNusaTenggara",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Java",
    "region2": "NusaTenggara",
    "projectUnlockName": "Project_SundaStraitBridge",
@@ -11085,14 +11078,12 @@
  {
    "dataName": "PhysicalAdjacencySumatraPalembang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sumatra",
    "region2": "Palembang"
  },
  {
    "dataName": "PhysicalAdjacencyAlaskaKamchatka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Alaska",
    "region2": "Kamchatka",
    "projectUnlockName": "Project_BeringStraitCrossing",
@@ -11101,7 +11092,6 @@
  {
    "dataName": "PhysicalAdjacencyMalayPeninsulaSumatra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MalayPeninsula",
    "region2": "Sumatra",
    "projectUnlockName": "Project_MalaccaStraitBridge",
@@ -11110,7 +11100,6 @@
  {
    "dataName": "PhysicalAdjacencyMedinaEgypt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Medina",
    "region2": "Egypt",
    "projectUnlockName": "Project_StraitofTiranCauseway",
@@ -11119,119 +11108,102 @@
  {
    "dataName": "PhysicalAdjacencyAbujaChad",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abuja",
    "region2": "Chad"
  },
  {
    "dataName": "PhysicalAdjacencyAbecheChad",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abeche",
    "region2": "Chad"
  },
  {
    "dataName": "PhysicalAdjacencyAfghanistanKandahar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Afghanistan",
    "region2": "Kandahar"
  },
  {
    "dataName": "PhysicalAdjacencyAfghanistanMazarSharif",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Afghanistan",
    "region2": "MazarSharif"
  },
  {
    "dataName": "PhysicalAdjacencyAfghanistanHerat",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Afghanistan",
    "region2": "Herat"
  },
  {
    "dataName": "PhysicalAdjacencyMazarSharifHerat",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MazarSharif",
    "region2": "Herat"
  },
  {
    "dataName": "PhysicalAdjacencyKandaharHerat",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kandahar",
    "region2": "Herat"
  },
  {
    "dataName": "PhysicalAdjacencyAfghanistanBaluchistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Afghanistan",
    "region2": "Baluchistan"
  },
  {
    "dataName": "PhysicalAdjacencyKandaharBaluchistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kandahar",
    "region2": "Baluchistan"
  },
  {
    "dataName": "PhysicalAdjacencyAfghanistanPeshawar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Afghanistan",
    "region2": "Peshawar"
  },
  {
    "dataName": "PhysicalAdjacencyMazarSharifPeshawar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MazarSharif",
    "region2": "Peshawar"
  },
  {
    "dataName": "PhysicalAdjacencyMazarSharifTajikistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MazarSharif",
    "region2": "Tajikistan"
  },
  {
    "dataName": "PhysicalAdjacencyHeratTurkmenistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Herat",
    "region2": "Turkmenistan"
  },
  {
    "dataName": "PhysicalAdjacencyMazarSharifTurkmenistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MazarSharif",
    "region2": "Turkmenistan"
  },
  {
    "dataName": "PhysicalAdjacencyMazarSharifUzbekistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MazarSharif",
    "region2": "Uzbekistan"
  },
  {
    "dataName": "PhysicalAdjacencyUrgenchUzbekistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Urgench",
    "region2": "Uzbekistan"
  },
  {
    "dataName": "PhysicalAdjacencyMazarSharifXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MazarSharif",
    "region2": "Xinjiang",
    "projectUnlockName": "Project_WakhanCorridorProject"
@@ -11239,868 +11211,744 @@
  {
    "dataName": "PhysicalAdjacencyAlaskaBritishColumbia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Alaska",
    "region2": "BritishColumbia"
  },
  {
    "dataName": "PhysicalAdjacencyAlaskaCanadianArctic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Alaska",
    "region2": "CanadianArctic"
  },
  {
    "dataName": "PhysicalAdjacencyTamanrassetTimbuktu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tamanrasset",
    "region2": "Timbuktu"
  },
  {
    "dataName": "PhysicalAdjacencyMaliTimbuktu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mali",
    "region2": "Timbuktu"
  },
  {
    "dataName": "PhysicalAdjacencyAlgeriaGhardaia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Algeria",
    "region2": "Ghardaia"
  },
  {
    "dataName": "PhysicalAdjacencyAlgeriaBechar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Algeria",
    "region2": "Bechar"
  },
  {
    "dataName": "PhysicalAdjacencyBecharGhardaia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bechar",
    "region2": "Ghardaia"
  },
  {
    "dataName": "PhysicalAdjacencyBecharTamanrasset",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bechar",
    "region2": "Tamanrasset"
  },
  {
    "dataName": "PhysicalAdjacencyTamanrassetGhardaia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tamanrasset",
    "region2": "Ghardaia"
  },
  {
    "dataName": "PhysicalAdjacencyAlgeriaTunisia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Algeria",
    "region2": "Tunisia"
  },
  {
    "dataName": "PhysicalAdjacencyGhardaiaTunisia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ghardaia",
    "region2": "Tunisia"
  },
  {
    "dataName": "PhysicalAdjacencyTamanrassetTunisia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tamanrasset",
    "region2": "Tunisia"
  },
  {
    "dataName": "PhysicalAdjacencyTamanrassetLibya",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tamanrasset",
    "region2": "Libya"
  },
  {
    "dataName": "PhysicalAdjacencyLibyaFezzan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Fezzan",
    "region2": "Libya"
  },
  {
    "dataName": "PhysicalAdjacencyTamanrassetFezzan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tamanrasset",
    "region2": "Fezzan"
  },
  {
    "dataName": "PhysicalAdjacencyBenghaziLibya",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benghazi",
    "region2": "Libya"
  },
  {
    "dataName": "PhysicalAdjacencyBenghaziFezzan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benghazi",
    "region2": "Fezzan"
  },
  {
    "dataName": "PhysicalAdjacencyBecharMauritania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bechar",
    "region2": "Mauritania"
  },
  {
    "dataName": "PhysicalAdjacencyTamanrassetAgadez",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tamanrasset",
    "region2": "Agadez"
  },
  {
    "dataName": "PhysicalAdjacencyAgadezNiger",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Agadez",
    "region2": "Niger"
  },
  {
    "dataName": "PhysicalAdjacencyAlmatyAstana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Almaty",
    "region2": "Astana"
  },
  {
    "dataName": "PhysicalAdjacencyAktobeAstana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Aktobe",
    "region2": "Astana"
  },
  {
    "dataName": "PhysicalAdjacencyAlmatyAktobe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Almaty",
    "region2": "Aktobe"
  },
  {
    "dataName": "PhysicalAdjacencyAlmatyKyrgyzstan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Almaty",
    "region2": "Kyrgyzstan"
  },
  {
    "dataName": "PhysicalAdjacencyAlmatyUzbekistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Almaty",
    "region2": "Uzbekistan"
  },
  {
    "dataName": "PhysicalAdjacencyAlmatyXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Almaty",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyBelemEuropeanWestIndies",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belem",
    "region2": "EuropeanWestIndies"
  },
  {
    "dataName": "PhysicalAdjacencyAmazoniaBelem",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Amazonia",
    "region2": "Belem"
  },
  {
    "dataName": "PhysicalAdjacencyAmazoniaBoaVista",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Amazonia",
    "region2": "BoaVista"
  },
  {
    "dataName": "PhysicalAdjacencyBelemFortaleza",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belem",
    "region2": "Fortaleza"
  },
   {
    "dataName": "PhysicalAdjacencyBelemCuiaba",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belem",
    "region2": "Cuiaba"
  },
  {
    "dataName": "PhysicalAdjacencyRecifeFortaleza",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Recife",
    "region2": "Fortaleza"
  },
  {
    "dataName": "PhysicalAdjacencyAnatoliaDiyarbakir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Anatolia",
    "region2": "Diyarbakir"
  },
  {
    "dataName": "PhysicalAdjacencyAnatoliaSamsun",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Anatolia",
    "region2": "Samsun"
  },
  {
    "dataName": "PhysicalAdjacencyDiyarbakirSamsun",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Diyarbakir",
    "region2": "Samsun"
  },
  {
    "dataName": "PhysicalAdjacencyGeorgiaSamsun",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Georgia",
    "region2": "Samsun"
  },
  {
    "dataName": "PhysicalAdjacencyIstanbulSamsun",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Istanbul",
    "region2": "Samsun"
  },
  {
    "dataName": "PhysicalAdjacencyAnatoliaAleppo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Anatolia",
    "region2": "Aleppo"
  },
  {
    "dataName": "PhysicalAdjacencyAnatoliaSyria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Anatolia",
    "region2": "Syria"
  },
  {
    "dataName": "PhysicalAdjacencyAleppoSyria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Aleppo",
    "region2": "Syria"
  },
  {
    "dataName": "PhysicalAdjacencyBenguelaNamibia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benguela",
    "region2": "Namibia"
  },
  {
    "dataName": "PhysicalAdjacencyLuenaNamibia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Luena",
    "region2": "Namibia"
  },
  {
    "dataName": "PhysicalAdjacencyLuenaZambia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Luena",
    "region2": "Zambia"
  },
  {
    "dataName": "PhysicalAdjacencyKitweZambia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kitwe",
    "region2": "Zambia"
  },
  {
    "dataName": "PhysicalAdjacencyKitweMalawi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kitwe",
    "region2": "Malawi"
  },
  {
    "dataName": "PhysicalAdjacencyAssamHimalayas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Assam",
    "region2": "Himalayas"
  },
   {
    "dataName": "PhysicalAdjacencyAssamBhutan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Assam",
    "region2": "Bhutan"
  },
  {
    "dataName": "PhysicalAdjacencyAssamTibet",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Assam",
    "region2": "Tibet"
  },
  {
    "dataName": "PhysicalAdjacencyXiningTibet",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Xining",
    "region2": "Tibet"
  },
  {
    "dataName": "PhysicalAdjacencyAktobeTurkmenistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Aktobe",
    "region2": "Turkmenistan"
  },
  {
    "dataName": "PhysicalAdjacencyAktobeUzbekistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Aktobe",
    "region2": "Uzbekistan"
  },
  {
    "dataName": "PhysicalAdjacencyAktobeUrgench",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Aktobe",
    "region2": "Urgench"
  },
  {
    "dataName": "PhysicalAdjacencyBasraGulfStates",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Basra",
    "region2": "GulfStates"
  },
  {
    "dataName": "PhysicalAdjacencyBaghdadJordan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baghdad",
    "region2": "Jordan"
  },
  {
    "dataName": "PhysicalAdjacencyBaghdadSyria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baghdad",
    "region2": "Syria"
  },
  {
    "dataName": "PhysicalAdjacencyBaghdadAleppo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baghdad",
    "region2": "Aleppo"
  },
  {
    "dataName": "PhysicalAdjacencyIsfahanTehran",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isfahan",
    "region2": "Tehran"
  },
  {
    "dataName": "PhysicalAdjacencyIsfahanKermanshah",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isfahan",
    "region2": "Kermanshah"
  },
  {
    "dataName": "PhysicalAdjacencyIsfahanKhorasan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isfahan",
    "region2": "Khorasan"
  },
  {
    "dataName": "PhysicalAdjacencyIsfahanBandar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isfahan",
    "region2": "Bandar"
  },
  {
    "dataName": "PhysicalAdjacencyKermanshahTehran",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kermanshah",
    "region2": "Tehran"
  },
  {
    "dataName": "PhysicalAdjacencyBasraKermanshah",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Basra",
    "region2": "Kermanshah"
  },
  {
    "dataName": "PhysicalAdjacencyKermanshahAhwaz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kermanshah",
    "region2": "Ahwaz"
  },
  {
    "dataName": "PhysicalAdjacencyAhwazBasra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ahwaz",
    "region2": "Basra"
  },
  {
    "dataName": "PhysicalAdjacencyAhwazIsfahan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isfahan",
    "region2": "Ahwaz"
  },
  {
    "dataName": "PhysicalAdjacencyBaghdadMosul",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baghdad",
    "region2": "Mosul"
  },
  {
    "dataName": "PhysicalAdjacencyBaghdadBasra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baghdad",
    "region2": "Basra"
  },
  {
    "dataName": "PhysicalAdjacencyMosulBasra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Basra",
    "region2": "Mosul"
  },
  {
    "dataName": "PhysicalAdjacencyBalticStatesBelarus",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BalticStates",
    "region2": "Belarus"
  },
  {
    "dataName": "PhysicalAdjacencyLithuaniaBelarus",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lithuania",
    "region2": "Belarus"
  },
  {
    "dataName": "PhysicalAdjacencyBaluchistanPeshawar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baluchistan",
    "region2": "Peshawar"
  },
  {
    "dataName": "PhysicalAdjacencyBaluchistanPunjab",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baluchistan",
    "region2": "Punjab"
  },
  {
    "dataName": "PhysicalAdjacencyBaluchistanSindh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Baluchistan",
    "region2": "Sindh"
  },
  {
    "dataName": "PhysicalAdjacencyBeijingQingdao",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Beijing",
    "region2": "Qingdao"
  },
  {
    "dataName": "PhysicalAdjacencyQingdaoNanjing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Qingdao",
    "region2": "Nanjing"
  },
  {
    "dataName": "PhysicalAdjacencyBeijingXian",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Beijing",
    "region2": "Xian"
  },
  {
    "dataName": "PhysicalAdjacencyXianZhengzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Xian",
    "region2": "Zhengzhou"
  },
  {
    "dataName": "PhysicalAdjacencyBeijingZhengzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Beijing",
    "region2": "Zhengzhou"
  },
  {
    "dataName": "PhysicalAdjacencyOdessaKharkiv",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Odessa",
    "region2": "Kharkiv"
  },
  {
    "dataName": "PhysicalAdjacencyRomaniaOdessa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Romania",
    "region2": "Odessa"
  },
  {
    "dataName": "PhysicalAdjacencyMoldovaOdessa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Moldova",
    "region2": "Odessa"
  },
  {
    "dataName": "PhysicalAdjacencyRomaniaMoldova",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Romania",
    "region2": "Moldova"
  },
  {
    "dataName": "PhysicalAdjacencyRomaniaTransylvania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Romania",
    "region2": "Transylvania"
  },
  {
    "dataName": "PhysicalAdjacencyBelarusKiev",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belarus",
    "region2": "Kiev"
  },
  {
    "dataName": "PhysicalAdjacencyBelarusLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belarus",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencyBoliviaSalta",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bolivia",
    "region2": "Salta"
  },
  {
    "dataName": "PhysicalAdjacencyBoliviaParaguay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bolivia",
    "region2": "Paraguay"
  },
  {
    "dataName": "PhysicalAdjacencySantaCruzParaguay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SantaCruz",
    "region2": "Paraguay"
  },
  {
    "dataName": "PhysicalAdjacencyBotswanaJohannesburg",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Botswana",
    "region2": "Johannesburg"
  },
  {
    "dataName": "PhysicalAdjacencyDurbanJohannesburg",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Durban",
    "region2": "Johannesburg"
  },
  {
    "dataName": "PhysicalAdjacencyDurbanCape",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Durban",
    "region2": "Cape"
  },
  {
    "dataName": "PhysicalAdjacencyDurbanMozambique",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Durban",
    "region2": "Mozambique"
  },
  {
    "dataName": "PhysicalAdjacencyBotswanaZimbabwe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Botswana",
    "region2": "Zimbabwe"
  },
  {
    "dataName": "PhysicalAdjacencyBrasiliaBelem",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brasilia",
    "region2": "Belem"
  },
  {
    "dataName": "PhysicalAdjacencyBrasiliaFortaleza",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brasilia",
    "region2": "Fortaleza"
  },
  {
    "dataName": "PhysicalAdjacencyBrasiliaSalvador",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brasilia",
    "region2": "Salvador"
  },
  {
    "dataName": "PhysicalAdjacencyRecifeSalvador",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Recife",
    "region2": "Salvador"
  },
  {
    "dataName": "PhysicalAdjacencyFortalezaSalvador",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Fortaleza",
    "region2": "Salvador"
  },
  {
    "dataName": "PhysicalAdjacencyBrasiliaCuiaba",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brasilia",
    "region2": "Cuiaba"
  },
  {
    "dataName": "PhysicalAdjacencyBrasiliaCampoGrande",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brasilia",
    "region2": "CampoGrande"
  },
  {
    "dataName": "PhysicalAdjacencyBrasiliaBeloHorizonte",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brasilia",
    "region2": "BeloHorizonte"
  },
  {
    "dataName": "PhysicalAdjacencyRioBeloHorizonte",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rio",
    "region2": "BeloHorizonte"
  },
  {
    "dataName": "PhysicalAdjacencyCuiabaSantaCruz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cuiaba",
    "region2": "SantaCruz"
  },
  {
    "dataName": "PhysicalAdjacencyCampoGrandeParaguay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CampoGrande",
    "region2": "Paraguay"
  },
  {
    "dataName": "PhysicalAdjacencyCampoGrandeCuritiba",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CampoGrande",
    "region2": "Curitiba"
  },
  {
    "dataName": "PhysicalAdjacencyCampoGrandeCuiaba",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CampoGrande",
    "region2": "Cuiaba"
  },
  {
    "dataName": "PhysicalAdjacencyCuritibaPortoAlegre",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Curitiba",
    "region2": "PortoAlegre"
  },
  {
    "dataName": "PhysicalAdjacencyCampoGrandeSaoPaolo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CampoGrande",
    "region2": "SaoPaolo"
  },
  {
    "dataName": "PhysicalAdjacencyBritishColumbiaCanadianArctic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BritishColumbia",
    "region2": "CanadianArctic"
  },
  {
    "dataName": "PhysicalAdjacencyBritishColumbiaCascadia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BritishColumbia",
    "region2": "Cascadia"
  },
  {
    "dataName": "PhysicalAdjacencyBritishColumbiaPrairies",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BritishColumbia",
    "region2": "Prairies"
  },
  {
    "dataName": "PhysicalAdjacencyCaliforniaTijuana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "California",
    "region2": "Tijuana"
  },
  {
    "dataName": "PhysicalAdjacencyCambodiaHoChiMinhCity",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cambodia",
    "region2": "HoChiMinhCity"
  },
  {
    "dataName": "PhysicalAdjacencyCambodiaLaos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cambodia",
    "region2": "Laos"
  },
  {
    "dataName": "PhysicalAdjacencyCanadianArcticPrairies",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CanadianArctic",
    "region2": "Prairies"
  },
  {
    "dataName": "PhysicalAdjacencyCapeTownBotswana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CapeTown",
    "region2": "Botswana"
  },
  {
    "dataName": "PhysicalAdjacencyCapeTownJohannesburg",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CapeTown",
    "region2": "Johannesburg"
  },
  {
    "dataName": "PhysicalAdjacencyCapeTownNamibia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CapeTown",
    "region2": "Namibia"
  },
  {
    "dataName": "PhysicalAdjacencyCascadiaCalifornia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cascadia",
    "region2": "California"
  },
  {
    "dataName": "PhysicalAdjacencyCascadiaRockyMountains",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cascadia",
    "region2": "RockyMountains"
  },
  {
    "dataName": "PhysicalAdjacencyCascadiaSaltLake",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cascadia",
    "region2": "SaltLake"
  },
  {
    "dataName": "PhysicalAdjacencySaltLakeRockyMountains",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SaltLake",
    "region2": "RockyMountains"
  },
  {
    "dataName": "PhysicalAdjacencyPhoenixRockyMountains",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Phoenix",
    "region2": "RockyMountains"
  },
  {
    "dataName": "PhysicalAdjacencyPanamaCali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Panama",
    "region2": "Cali",
    "projectUnlockName": "Project_DarienGapRoad"
@@ -12108,385 +11956,330 @@
  {
    "dataName": "PhysicalAdjacencyChadCentralAfricanRepublic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Chad",
    "region2": "CentralAfricanRepublic"
  },
  {
    "dataName": "PhysicalAdjacencyAbecheFezzan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abeche",
    "region2": "Fezzan"
  },
  {
    "dataName": "PhysicalAdjacencyAbecheBenghazi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abeche",
    "region2": "Benghazi"
  },
  {
    "dataName": "PhysicalAdjacencyChadDarfur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Chad",
    "region2": "Darfur"
  },
  {
    "dataName": "PhysicalAdjacencyAbecheDarfur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abeche",
    "region2": "Darfur"
  },
  {
    "dataName": "PhysicalAdjacencyDarfurSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Darfur",
    "region2": "Sudan"
  },
  {
    "dataName": "PhysicalAdjacencyDarfurKordofan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Darfur",
    "region2": "Kordofan"
  },
  {
    "dataName": "PhysicalAdjacencyChadNiger",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Chad",
    "region2": "Niger"
  },
  {
    "dataName": "PhysicalAdjacencyAbecheNiger",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abeche",
    "region2": "Niger"
  },
  {
    "dataName": "PhysicalAdjacencyCaliColombia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Colombia",
    "region2": "Cali"
  },
  {
    "dataName": "PhysicalAdjacencyBarranquillaCali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cali",
    "region2": "Barranquilla"
  },
  {
    "dataName": "PhysicalAdjacencyBarranquillaColombia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Colombia",
    "region2": "Barranquilla"
  },
  {
    "dataName": "PhysicalAdjacencyVillavicencioCali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cali",
    "region2": "Villavicencio"
  },
  {
    "dataName": "PhysicalAdjacencyVillavicencioColombia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Colombia",
    "region2": "Villavicencio"
  },
  {
    "dataName": "PhysicalAdjacencyVillavicencioAmazonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Villavicencio",
    "region2": "Amazonia"
  },
  {
    "dataName": "PhysicalAdjacencyPortoVelhoAmazonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "PortoVelho",
    "region2": "Amazonia"
  },
  {
    "dataName": "PhysicalAdjacencyPortoVelhoSantaCruz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "PortoVelho",
    "region2": "SantaCruz"
  },
  {
    "dataName": "PhysicalAdjacencyCampoGrandeSantaCruz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CampoGrande",
    "region2": "SantaCruz"
  },
  {
    "dataName": "PhysicalAdjacencyCampoGrandeBeloHorizonte",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CampoGrande",
    "region2": "BeloHorizonte"
  },
  {
    "dataName": "PhysicalAdjacencyPortoVelhoCuiaba",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "PortoVelho",
    "region2": "Cuiaba"
  },
  {
    "dataName": "PhysicalAdjacencyCaliEcuador",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cali",
    "region2": "Ecuador"
  },
  {
    "dataName": "PhysicalAdjacencyVillavicencioEcuador",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Villavicencio",
    "region2": "Ecuador"
  },
  {
    "dataName": "PhysicalAdjacencyColombiaMaracaibo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Colombia",
    "region2": "Maracaibo"
  },
  {
    "dataName": "PhysicalAdjacencyBarranquillaMaracaibo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Barranquilla",
    "region2": "Maracaibo"
  },
  {
    "dataName": "PhysicalAdjacencyVillavicencioMaracaibo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Villavicencio",
    "region2": "Maracaibo"
  },
  {
    "dataName": "PhysicalAdjacencyVillavicencioGuayana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Villavicencio",
    "region2": "Guayana"
  },
  {
    "dataName": "PhysicalAdjacencyVenezuelaGuayana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Venezuela",
    "region2": "Guayana"
  },
  {
    "dataName": "PhysicalAdjacencyMaracaiboGuayana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Maracaibo",
    "region2": "Guayana"
  },
  {
    "dataName": "PhysicalAdjacencyVenezuelaMaracaibo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Venezuela",
    "region2": "Maracaibo"
  },
  {
    "dataName": "PhysicalAdjacencyVillavicencioIquitos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Villavicencio",
    "region2": "Iquitos"
  },
  {
    "dataName": "PhysicalAdjacencyPeruIquitos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Peru",
    "region2": "Iquitos"
  },
  {
    "dataName": "PhysicalAdjacencyPeruHuancayo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Peru",
    "region2": "Huancayo"
  },
  {
    "dataName": "PhysicalAdjacencyHuancayoIquitos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Huancayo",
    "region2": "Iquitos"
  },
  {
    "dataName": "PhysicalAdjacencyPeruArequipa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Peru",
    "region2": "Arequipa"
  },
  {
    "dataName": "PhysicalAdjacencyHuancayoCusco",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Huancayo",
    "region2": "Cusco"
  },
  {
    "dataName": "PhysicalAdjacencyHuancayoArequipa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Huancayo",
    "region2": "Arequipa"
  },
  {
    "dataName": "PhysicalAdjacencyCuscoArequipa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cusco",
    "region2": "Arequipa"
  },
  {
    "dataName": "PhysicalAdjacencyDixieNashville",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nashville",
    "region2": "RustBelt"
  },
  {
    "dataName": "PhysicalAdjacencyDixieNashville",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Dixie",
    "region2": "Nashville"
  },
  {
    "dataName": "PhysicalAdjacencyDixieCharlotte",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Dixie",
    "region2": "Charlotte"
  },
  {
    "dataName": "PhysicalAdjacencyNashvilleCharlotte",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nashville",
    "region2": "Charlotte"
  },
  {
    "dataName": "PhysicalAdjacencyDixieMiami",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Dixie",
    "region2": "Miami"
  },
  {
    "dataName": "PhysicalAdjacencyDixieNewOrleans",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Dixie",
    "region2": "NewOrleans"
  },
  {
    "dataName": "PhysicalAdjacencyNashvilleNewOrleans",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nashville",
    "region2": "NewOrleans"
  },
  {
    "dataName": "PhysicalAdjacencyDiyarbakirMosul",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Diyarbakir",
    "region2": "Mosul"
  },
  {
    "dataName": "PhysicalAdjacencyDiyarbakirAleppo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Diyarbakir",
    "region2": "Aleppo"
  },
  {
    "dataName": "PhysicalAdjacencyDiyarbakirTabriz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Diyarbakir",
    "region2": "Tabriz"
  },
  {
    "dataName": "PhysicalAdjacencyTehranTabriz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tehran",
    "region2": "Tabriz"
  },
  {
    "dataName": "PhysicalAdjacencyEasternSiberiaUlanUde",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "EasternSiberia",
    "region2": "UlanUde"
  },
  {
    "dataName": "PhysicalAdjacencyEasternSiberiaYakutsk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "EasternSiberia",
    "region2": "Yakutsk"
  },
  {
    "dataName": "PhysicalAdjacencyYakutskUlanUde",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Yakutsk",
    "region2": "UlanUde"
  },
  {
    "dataName": "PhysicalAdjacencyUlanUdeRussianFarEast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "UlanUde",
    "region2": "RussianFarEast"
  },
  {
    "dataName": "PhysicalAdjacencyYakutskRussianFarEast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Yakutsk",
    "region2": "RussianFarEast"
  },
  {
    "dataName": "PhysicalAdjacencyMagadanRussianFarEast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Magadan",
    "region2": "RussianFarEast"
  },
  {
    "dataName": "PhysicalAdjacencySahkalinRussianFarEast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sahkalin",
    "region2": "RussianFarEast",
    "friendlyOnly": true
@@ -12494,7 +12287,6 @@
  {
    "dataName": "PhysicalAdjacencySahkalinHokkaido",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sahkalin",
    "region2": "Hokkaido",
    "friendlyOnly": true
@@ -12502,7 +12294,6 @@
  {
    "dataName": "PhysicalAdjacencySahkalinKamchatka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sahkalin",
    "region2": "Kamchatka",
    "friendlyOnly": true
@@ -12510,707 +12301,606 @@
  {
    "dataName": "PhysicalAdjacencyYakutskMagadan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Yakutsk",
    "region2": "Magadan"
  },
  {
    "dataName": "PhysicalAdjacencyYakutskKamchatka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Yakutsk",
    "region2": "Kamchatka"
  },
  {
    "dataName": "PhysicalAdjacencyKamchatkaMagadan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kamchatka",
    "region2": "Magadan"
  },
  {
    "dataName": "PhysicalAdjacencyEcuadorPeru",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ecuador",
    "region2": "Peru"
  },
  {
    "dataName": "PhysicalAdjacencyEcuadorIquitos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ecuador",
    "region2": "Iquitos"
  },
  {
    "dataName": "PhysicalAdjacencyEnglandScotland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "England",
    "region2": "Scotland"
  },
  {
    "dataName": "PhysicalAdjacencyEthiopiaMekelle",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ethiopia",
    "region2": "Mekelle"
  },
  {
    "dataName": "PhysicalAdjacencyEthiopiaHarar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ethiopia",
    "region2": "Harar"
  },
  {
    "dataName": "PhysicalAdjacencyMekelleHarar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mekelle",
    "region2": "Harar"
  },
  {
    "dataName": "PhysicalAdjacencyEritreaMekelle",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Eritrea",
    "region2": "Mekelle"
  },
  {
    "dataName": "PhysicalAdjacencyEritreaHarar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Eritrea",
    "region2": "Harar"
  },
  {
    "dataName": "PhysicalAdjacencyUpperNileMekelle",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "UpperNile",
    "region2": "Mekelle"
  },
  {
    "dataName": "PhysicalAdjacencyEritreaSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Eritrea",
    "region2": "Sudan"
  },
  {
    "dataName": "PhysicalAdjacencyEritreaUpperNile",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Eritrea",
    "region2": "UpperNile"
  },
  {
    "dataName": "PhysicalAdjacencySomaliaHarar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Somalia",
    "region2": "Harar"
  },
  {
    "dataName": "PhysicalAdjacencySomalilandHarar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Somaliland",
    "region2": "Harar"
  },
  {
    "dataName": "PhysicalAdjacencyHararKenya",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Harar",
    "region2": "Kenya"
  },
  {
    "dataName": "PhysicalAdjacencyHararMombasa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Harar",
    "region2": "Mombasa"
  },
  {
    "dataName": "PhysicalAdjacencyFranceBrittany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "France",
    "region2": "Brittany"
  },
  {
    "dataName": "PhysicalAdjacencyBordeauxBrittany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bordeaux",
    "region2": "Brittany"
  },
  {
    "dataName": "PhysicalAdjacencyFranceBelgium",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "France",
    "region2": "Belgium"
  },
  {
    "dataName": "PhysicalAdjacencyNordEstBelgium",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NordEst",
    "region2": "Belgium"
  },
  {
    "dataName": "PhysicalAdjacencyFranceNordEst",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "France",
    "region2": "NordEst"
  },
  {
    "dataName": "PhysicalAdjacencyNordEstGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NordEst",
    "region2": "Germany"
  },
  {
    "dataName": "PhysicalAdjacencyNordEstSouthGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NordEst",
    "region2": "SouthGermany"
  },
  {
    "dataName": "PhysicalAdjacencyLyonItaly",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lyon",
    "region2": "Italy"
  },
  {
    "dataName": "PhysicalAdjacencyLyonBern",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lyon",
    "region2": "Bern"
  },
  {
    "dataName": "PhysicalAdjacencyBernVienna",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bern",
    "region2": "Vienna"
  },
  {
    "dataName": "PhysicalAdjacencyNordEstBern",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NordEst",
    "region2": "Bern"
  },
  {
    "dataName": "PhysicalAdjacencyBernItaly",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bern",
    "region2": "Italy"
  },
  {
    "dataName": "PhysicalAdjacencyViennaItaly",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Vienna",
    "region2": "Italy"
  },
  {
    "dataName": "PhysicalAdjacencyEastGermanyWroclaw",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "EastGermany",
    "region2": "Wroclaw"
  },
  {
    "dataName": "PhysicalAdjacencyEastGermanyGdansk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "EastGermany",
    "region2": "Gdansk"
  },
  {
    "dataName": "PhysicalAdjacencyGermanyEastGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Germany",
    "region2": "EastGermany"
  },
  {
    "dataName": "PhysicalAdjacencyGermanyNorthGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Germany",
    "region2": "NorthGermany"
  },
  {
    "dataName": "PhysicalAdjacencyGermanySouthGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Germany",
    "region2": "SouthGermany"
  },
  {
    "dataName": "PhysicalAdjacencyEastGermanyNorthGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "EastGermany",
    "region2": "NorthGermany"
  },
  {
    "dataName": "PhysicalAdjacencyEastGermanySouthGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "EastGermany",
    "region2": "SouthGermany"
  },
  {
    "dataName": "PhysicalAdjacencySouthGermanyVienna",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SouthGermany",
    "region2": "Vienna"
  },
  {
    "dataName": "PhysicalAdjacencySouthGermanyBern",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SouthGermany",
    "region2": "Bern"
  },
  {
    "dataName": "PhysicalAdjacencyItalyCentralItaly",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Italy",
    "region2": "CentralItaly"
  },
  {
    "dataName": "PhysicalAdjacencyCentralItalyNaples",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CentralItaly",
    "region2": "Naples"
  },
  {
    "dataName": "PhysicalAdjacencyBelgiumBenelux",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belgium",
    "region2": "Benelux"
  },
  {
    "dataName": "PhysicalAdjacencyGermanyBenelux",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Germany",
    "region2": "Benelux"
  },
  {
    "dataName": "PhysicalAdjacencyNorthGermanyBenelux",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NorthGermany",
    "region2": "Benelux"
  },
  {
    "dataName": "PhysicalAdjacencyGermanyBelgium",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Germany",
    "region2": "Belgium"
  },
  {
    "dataName": "PhysicalAdjacencyNorthGermanyBelgium",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NorthGermany",
    "region2": "Belgium"
  },
  {
    "dataName": "PhysicalAdjacencyChengduChongqing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Chengdu",
    "region2": "Chongqing"
  },
  {
    "dataName": "PhysicalAdjacencyLanzhouChengdu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lanzhou",
    "region2": "Chengdu"
  },
  {
    "dataName": "PhysicalAdjacencyLanzhouXining",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lanzhou",
    "region2": "Xining"
  },
  {
    "dataName": "PhysicalAdjacencyLanzhouGobi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Gobi",
    "region2": "Lanzhou"
  },
  {
    "dataName": "PhysicalAdjacencyLanzhouXian",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lanzhou",
    "region2": "Xian"
  },
  {
    "dataName": "PhysicalAdjacencyGobiXian",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Gobi",
    "region2": "Xian"
  },
  {
    "dataName": "PhysicalAdjacencyLanzhouXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lanzhou",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyXiningXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Xining",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyGranChacoSalta",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "GranChaco",
    "region2": "Salta"
  },
  {
    "dataName": "PhysicalAdjacencyCordobaSalta",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cordoba",
    "region2": "Salta"
  },
  {
    "dataName": "PhysicalAdjacencyCordobaRosario",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cordoba",
    "region2": "Rosario"
  },
  {
    "dataName": "PhysicalAdjacencyCordobaPampas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cordoba",
    "region2": "Pampas"
  },
  {
    "dataName": "PhysicalAdjacencyGranChacoRosario",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "GranChaco",
    "region2": "Rosario"
  },
  {
    "dataName": "PhysicalAdjacencyRosarioPampas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rosario",
    "region2": "Pampas"
  },
  {
    "dataName": "PhysicalAdjacencyRosarioUruguay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rosario",
    "region2": "Uruguay"
  },
  {
    "dataName": "PhysicalAdjacencyKunmingGuizhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kunming",
    "region2": "Guizhou"
  },
  {
    "dataName": "PhysicalAdjacencyNanningGuangzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanning",
    "region2": "Guangzhou"
  },
  {
    "dataName": "PhysicalAdjacencyNanningGuizhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanning",
    "region2": "Guizhou"
  },
  {
    "dataName": "PhysicalAdjacencyNanningKunming",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanning",
    "region2": "Kunming"
  },
  {
    "dataName": "PhysicalAdjacencyNanningHanoi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanning",
    "region2": "Hanoi"
  },
  {
    "dataName": "PhysicalAdjacencyChangshaWuhan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Changsha",
    "region2": "Wuhan"
  },
  {
    "dataName": "PhysicalAdjacencyGuangzhouChangsha",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guangzhou",
    "region2": "Changsha"
  },
  {
    "dataName": "PhysicalAdjacencyNanningChangsha",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanning",
    "region2": "Changsha"
  },
  {
    "dataName": "PhysicalAdjacencyGuizhouChongqing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guizhou",
    "region2": "Chongqing"
  },
  {
    "dataName": "PhysicalAdjacencyGuizhouChengdu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guizhou",
    "region2": "Chengdu"
  },
  {
    "dataName": "PhysicalAdjacencyKunmingChengdu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kunming",
    "region2": "Chengdu"
  },
  {
    "dataName": "PhysicalAdjacencyKunmingHanoi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kunming",
    "region2": "Hanoi"
  },
  {
    "dataName": "PhysicalAdjacencyHanoiHoChiMinhCity",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hanoi",
    "region2": "HoChiMinhCity"
  },
  {
    "dataName": "PhysicalAdjacencyKunmingLaos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kunming",
    "region2": "Laos"
  },
  {
    "dataName": "PhysicalAdjacencyMandalayMyanmar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mandalay",
    "region2": "Myanmar"
  },
  {
    "dataName": "PhysicalAdjacencyShanMyanmar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Shan",
    "region2": "Myanmar"
  },
  {
    "dataName": "PhysicalAdjacencyMandalayShan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mandalay",
    "region2": "Shan"
  },
  {
    "dataName": "PhysicalAdjacencyKunmingShan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kunming",
    "region2": "Shan"
  },
  {
    "dataName": "PhysicalAdjacencyKunmingMandalay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kunming",
    "region2": "Mandalay"
  },
  {
    "dataName": "PhysicalAdjacencyKunmingTibet",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kunming",
    "region2": "Tibet"
  },
  {
    "dataName": "PhysicalAdjacencyHighPlainsRustBelt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "HighPlains",
    "region2": "RustBelt"
  },
  {
    "dataName": "PhysicalAdjacencyStLouisRustBelt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "StLouis",
    "region2": "RustBelt"
  },
  {
    "dataName": "PhysicalAdjacencyHighPlainsStLouis",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "HighPlains",
    "region2": "StLouis"
  },
  {
    "dataName": "PhysicalAdjacencyStLouisTexas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "HighPlains",
    "region2": "Texas"
  },
  {
    "dataName": "PhysicalAdjacencyMedinaJordan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Medina",
    "region2": "Jordan"
  },
  {
    "dataName": "PhysicalAdjacencyHailJordan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hail",
    "region2": "Jordan"
  },
  {
    "dataName": "PhysicalAdjacencyHijazMedina",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hijaz",
    "region2": "Medina"
  },
  {
    "dataName": "PhysicalAdjacencyHailMedina",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hail",
    "region2": "Medina"
  },
  {
    "dataName": "PhysicalAdjacencyHijazAbha",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hijaz",
    "region2": "Abha"
  },
  {
    "dataName": "PhysicalAdjacencyNajdAbha",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abha",
    "region2": "Najd"
  },
  {
    "dataName": "PhysicalAdjacencyHijazNajd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hijaz",
    "region2": "Najd"
  },
  {
    "dataName": "PhysicalAdjacencyDammanNajd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Damman",
    "region2": "Najd"
  },
  {
    "dataName": "PhysicalAdjacencyDammanBasra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Damman",
    "region2": "Basra"
  },
  {
    "dataName": "PhysicalAdjacencyHailNajd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hail",
    "region2": "Najd"
  },
  {
    "dataName": "PhysicalAdjacencyMedinaNajd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Medina",
    "region2": "Najd"
  },
  {
    "dataName": "PhysicalAdjacencyAbhaYemen",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abha",
    "region2": "Yemen"
  },
  {
    "dataName": "PhysicalAdjacencyAbhaAden",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Abha",
    "region2": "Aden"
  },
  {
    "dataName": "PhysicalAdjacencyAdenYemen",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Aden",
    "region2": "Yemen"
  },
  {
    "dataName": "PhysicalAdjacencyOsakaKyushuandShikoku",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Osaka",
    "region2": "KyushuandShikoku",
    "friendlyOnly": true
@@ -13218,49 +12908,42 @@
  {
    "dataName": "PhysicalAdjacencyHyderabadVisakhapatnam",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hyderabad",
    "region2": "Visakhapatnam"
  },
  {
    "dataName": "PhysicalAdjacencyBengaluruVisakhapatnam",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bengaluru",
    "region2": "Visakhapatnam"
  },
  {
    "dataName": "PhysicalAdjacencyHyderabadBengaluru",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hyderabad",
    "region2": "Bengaluru"
  },
  {
    "dataName": "PhysicalAdjacencyGoaBengaluru",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Goa",
    "region2": "Bengaluru"
  },
  {
    "dataName": "PhysicalAdjacencyKochiBengaluru",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kochi",
    "region2": "Bengaluru"
  },
  {
    "dataName": "PhysicalAdjacencyKochiChennai",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kochi",
    "region2": "Chennai"
  },
  {
    "dataName": "PhysicalAdjacencySriLankaChennai",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SriLanka",
    "region2": "Chennai",
    "friendlyOnly": true
@@ -13268,560 +12951,480 @@
  {
    "dataName": "PhysicalAdjacencyChennaiBengaluru",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Chennai",
    "region2": "Bengaluru"
  },
  {
    "dataName": "PhysicalAdjacencyChennaiVisakhapatnam",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Chennai",
    "region2": "Visakhapatnam"
  },
  {
    "dataName": "PhysicalAdjacencyHyderabadRaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hyderabad",
    "region2": "Raipur"
  },
  {
    "dataName": "PhysicalAdjacencyVisakhapatnamCuttack",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Visakhapatnam",
    "region2": "Cuttack"
  },
  {
    "dataName": "PhysicalAdjacencyVisakhapatnamRaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Visakhapatnam",
    "region2": "Raipur"
  },
  {
    "dataName": "PhysicalAdjacencyHyderabadMumbai",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hyderabad",
    "region2": "Mumbai"
  },
  {
    "dataName": "PhysicalAdjacencyBengaluruMumbai",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bengaluru",
    "region2": "Mumbai"
  },
  {
    "dataName": "PhysicalAdjacencyGoaMumbai",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Goa",
    "region2": "Mumbai"
  },
  {
    "dataName": "PhysicalAdjacencyCombinedIsraelJordan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CombinedIsrael",
    "region2": "Jordan"
  },
  {
    "dataName": "PhysicalAdjacencyCombinedIsraelSyria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CombinedIsrael",
    "region2": "Syria"
  },
  {
    "dataName": "PhysicalAdjacencyCombinedIsraelLebanon",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CombinedIsrael",
    "region2": "Lebanon"
  },
  {
    "dataName": "PhysicalAdjacencyLebanonSyria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lebanon",
    "region2": "Syria"
  },
  {
    "dataName": "PhysicalAdjacencyCombinedIsraelEgypt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CombinedIsrael",
    "region2": "Egypt"
  },
  {
    "dataName": "PhysicalAdjacencyIstanbulAnatolia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Istanbul",
    "region2": "Anatolia"
  },
  {
    "dataName": "PhysicalAdjacencyIstanbulIzmir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Istanbul",
    "region2": "Izmir"
  },
  {
    "dataName": "PhysicalAdjacencyIzmirAnatolia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Izmir",
    "region2": "Anatolia"
  },
  {
    "dataName": "PhysicalAdjacencyJaipurAgra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Jaipur",
    "region2": "Agra"
  },
  {
    "dataName": "PhysicalAdjacencyKenyaEthiopia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kenya",
    "region2": "Ethiopia"
  },
  {
    "dataName": "PhysicalAdjacencySomalilandSomalia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Somaliland",
    "region2": "Somalia"
  },
  {
    "dataName": "PhysicalAdjacencyMombasaSomalia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mombasa",
    "region2": "Somalia"
  },
  {
    "dataName": "PhysicalAdjacencyMombasaKenya",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mombasa",
    "region2": "Kenya"
  },
  {
    "dataName": "PhysicalAdjacencyKenyaSouthSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kenya",
    "region2": "SouthSudan"
  },
  {
    "dataName": "PhysicalAdjacencyKenyaMwanza",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kenya",
    "region2": "Mwanza"
  },
  {
    "dataName": "PhysicalAdjacencyKenyaDodoma",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kenya",
    "region2": "Dodoma"
  },
   {
    "dataName": "PhysicalAdjacencyMombasaDodoma",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mombasa",
    "region2": "Dodoma"
  },
  {
    "dataName": "PhysicalAdjacencyMombasaTanzania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mombasa",
    "region2": "Tanzania"
  },
  {
    "dataName": "PhysicalAdjacencyDodomaTanzania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Dodoma",
    "region2": "Tanzania"
  },
  {
    "dataName": "PhysicalAdjacencyMbeyaTanzania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mbeya",
    "region2": "Tanzania"
  },
  {
    "dataName": "PhysicalAdjacencyMbeyaDodoma",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mbeya",
    "region2": "Dodoma"
  },
  {
    "dataName": "PhysicalAdjacencyMbeyaMwanza",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mbeya",
    "region2": "Mwanza"
  },
  {
    "dataName": "PhysicalAdjacencyMwanzaDodoma",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mwanza",
    "region2": "Dodoma"
  },
  {
    "dataName": "PhysicalAdjacencyKenyaUganda",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kenya",
    "region2": "Uganda"
  },
  {
    "dataName": "PhysicalAdjacencyKhorasanHerat",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Khorasan",
    "region2": "Herat"
  },
  {
    "dataName": "PhysicalAdjacencyBandarHerat",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bandar",
    "region2": "Herat"
  },
  {
    "dataName": "PhysicalAdjacencyBandarKandahar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bandar",
    "region2": "Kandahar"
  },
  {
    "dataName": "PhysicalAdjacencyBandarBaluchistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bandar",
    "region2": "Baluchistan"
  },
  {
    "dataName": "PhysicalAdjacencyKhorasanTurkmenistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Khorasan",
    "region2": "Turkmenistan"
  },
  {
    "dataName": "PhysicalAdjacencyKievKharkiv",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kiev",
    "region2": "Kharkiv"
  },
  {
    "dataName": "PhysicalAdjacencyKievOdessa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kiev",
    "region2": "Odessa"
  },
  {
    "dataName": "PhysicalAdjacencyKievLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kiev",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencyLwowOdessa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lwow",
    "region2": "Odessa"
  },
  {
    "dataName": "PhysicalAdjacencyOdessaCrimea",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Odessa",
    "region2": "Crimea"
  },
  {
    "dataName": "PhysicalAdjacencyLuenaAngola",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Luena",
    "region2": "Angola"
  },
  {
    "dataName": "PhysicalAdjacencyBenguelaAngola",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benguela",
    "region2": "Angola"
  },
  {
    "dataName": "PhysicalAdjacencyLueanaBenguela",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Luena",
    "region2": "Benguela"
  },
  {
    "dataName": "PhysicalAdjacencyKinshasaAngola",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kinshasa",
    "region2": "Angola"
  },
  {
    "dataName": "PhysicalAdjacencyKinshasaLuena",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kinshasa",
    "region2": "Luena"
  },
  {
    "dataName": "PhysicalAdjacencyKinshasaKananga",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kinshasa",
    "region2": "Kananga"
  },
  {
    "dataName": "PhysicalAdjacencyKinshasaMbandaka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kinshasa",
    "region2": "Mbandaka"
  },
  {
    "dataName": "PhysicalAdjacencyKanangaLubumbashi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kananga",
    "region2": "Lubumbashi"
  },
  {
    "dataName": "PhysicalAdjacencyBukavuLubumbashi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bukavu",
    "region2": "Lubumbashi"
  },
  {
    "dataName": "PhysicalAdjacencyBukavuKananga",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bukavu",
    "region2": "Kananga"
  },
  {
    "dataName": "PhysicalAdjacencyKisanganiMbandaka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kisangani",
    "region2": "Mbandaka"
  },
  {
    "dataName": "PhysicalAdjacencyKanangaMbandaka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kananga",
    "region2": "Mbandaka"
  },
  {
    "dataName": "PhysicalAdjacencyBukavuKisangani",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bukavu",
    "region2": "Kisangani"
  },
  {
    "dataName": "PhysicalAdjacencyKolkataAssam",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kolkata",
    "region2": "Assam"
  },
  {
    "dataName": "PhysicalAdjacencyKolkataBangladesh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kolkata",
    "region2": "Bangladesh"
  },
  {
    "dataName": "PhysicalAdjacencyKolkataHimalayas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kolkata",
    "region2": "Himalayas"
  },
  {
    "dataName": "PhysicalAdjacencyKyrgyzstanXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kyrgyzstan",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyLagosAbuja",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lagos",
    "region2": "Abuja"
  },
  {
    "dataName": "PhysicalAdjacencyLagosHarcourt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lagos",
    "region2": "Harcourt"
  },
  {
    "dataName": "PhysicalAdjacencyHarcourtAbuja",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Harcourt",
    "region2": "Abuja"
  },
  {
    "dataName": "PhysicalAdjacencyKanoAbuja",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kano",
    "region2": "Abuja"
  },
  {
    "dataName": "PhysicalAdjacencyLaosHanoi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Laos",
    "region2": "Hanoi"
  },
  {
    "dataName": "PhysicalAdjacencyLaosHoChiMinhCity",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Laos",
    "region2": "HoChiMinhCity"
  },
  {
    "dataName": "PhysicalAdjacencyLaosShan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Laos",
    "region2": "Shan"
  },
  {
    "dataName": "PhysicalAdjacencyLaurentiaNewEngland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Laurentia",
    "region2": "NewEngland"
  },
  {
    "dataName": "PhysicalAdjacencyMaritimesNewEngland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Maritimes",
    "region2": "NewEngland"
  },
  {
    "dataName": "PhysicalAdjacencyLaurentiaMaritimes",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Laurentia",
    "region2": "Maritimes"
  },
  {
    "dataName": "PhysicalAdjacencyBenghaziEgypt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benghazi",
    "region2": "Egypt"
  },
  {
    "dataName": "PhysicalAdjacencyBenghaziLuxor",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benghazi",
    "region2": "Luxor"
  },
  {
    "dataName": "PhysicalAdjacencyFezzanAgadez",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Fezzan",
    "region2": "Agadez"
  },
  {
    "dataName": "PhysicalAdjacencyBenghaziSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benghazi",
    "region2": "Sudan"
  },
  {
    "dataName": "PhysicalAdjacencyBenghaziDarfur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benghazi",
    "region2": "Darfur"
  },
  {
    "dataName": "PhysicalAdjacencyKanangaLuena",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kananga",
    "region2": "Luena"
  },
  {
    "dataName": "PhysicalAdjacencyLubumbashiLuena",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lubumbashi",
    "region2": "Luena"
  },
  {
    "dataName": "PhysicalAdjacencyKisanganiCentralAfricanRepublic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kisangani",
    "region2": "CentralAfricanRepublic"
  },
  {
    "dataName": "PhysicalAdjacencyMbandakaCentralAfricanRepublic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mbandaka",
    "region2": "CentralAfricanRepublic"
  },
  {
    "dataName": "PhysicalAdjacencyKisanganiSouthSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kisangani",
    "region2": "SouthSudan"
  },
  {
    "dataName": "PhysicalAdjacencyZanzibarTanzania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Zanzibar",
    "region2": "Tanzania",
    "friendlyOnly": true
@@ -13829,371 +13432,318 @@
  {
    "dataName": "PhysicalAdjacencyBukavuUganda",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bukavu",
    "region2": "Uganda"
  },
  {
    "dataName": "PhysicalAdjacencyKisanganiUganda",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kisangani",
    "region2": "Uganda"
  },
  {
    "dataName": "PhysicalAdjacencyLubumbashiZambia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lubumbashi",
    "region2": "Zambia"
  },
  {
    "dataName": "PhysicalAdjacencyLubumbashiKitwe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lubumbashi",
    "region2": "Kitwe"
  },
  {
    "dataName": "PhysicalAdjacencyMalayPeninsulaSingapore",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MalayPeninsula",
    "region2": "Singapore"
  },
  {
    "dataName": "PhysicalAdjacencyTimbuktuAgadez",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Timbuktu",
    "region2": "Agadez"
  },
  {
    "dataName": "PhysicalAdjacencyTimbuktuNiger",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Timbuktu",
    "region2": "Niger"
  },
  {
    "dataName": "PhysicalAdjacencyGobiBeijing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Gobi",
    "region2": "Beijing"
  },
  {
    "dataName": "PhysicalAdjacencyManchuriaBeijing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Manchuria",
    "region2": "Beijing"
  },
  {
    "dataName": "PhysicalAdjacencyManchuriaUlanUde",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Manchuria",
    "region2": "UlanUde"
  },
  {
    "dataName": "PhysicalAdjacencyManchuriaRussianFarEast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Manchuria",
    "region2": "RussianFarEast"
  },
  {
    "dataName": "PhysicalAdjacencyMauritaniaMali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mauritania",
    "region2": "Mali"
  },
  {
    "dataName": "PhysicalAdjacencyMauritaniaTimbuktu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mauritania",
    "region2": "Timbuktu"
  },
  {
    "dataName": "PhysicalAdjacencyMongoliaEasternSiberia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mongolia",
    "region2": "EasternSiberia"
  },
  {
    "dataName": "PhysicalAdjacencyMongoliaUlanUde",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mongolia",
    "region2": "UlanUde"
  },
  {
    "dataName": "PhysicalAdjacencyMongoliaGobi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mongolia",
    "region2": "Gobi"
  },
  {
    "dataName": "PhysicalAdjacencyMongoliaLanzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mongolia",
    "region2": "Lanzhou"
  },
  {
    "dataName": "PhysicalAdjacencyMongoliaManchuria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mongolia",
    "region2": "Manchuria"
  },
  {
    "dataName": "PhysicalAdjacencyGobiManchuria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Gobi",
    "region2": "Manchuria"
  },
  {
    "dataName": "PhysicalAdjacencyMongoliaWesternSiberia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mongolia",
    "region2": "WesternSiberia"
  },
  {
    "dataName": "PhysicalAdjacencyKrasnoyarskWesternSiberia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Krasnoyarsk",
    "region2": "WesternSiberia"
  },
  {
    "dataName": "PhysicalAdjacencyMongoliaXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mongolia",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyMonterreyMexicoCity",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Monterrey",
    "region2": "MexicoCity"
  },
  {
    "dataName": "PhysicalAdjacencyMonterreyGuadalajara",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Monterrey",
    "region2": "Guadalajara"
  },
  {
    "dataName": "PhysicalAdjacencyMexicoCityGuadalajara",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guadalajara",
    "region2": "MexicoCity"
  },
  {
    "dataName": "PhysicalAdjacencyMonterreyJuarez",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Juarez",
    "region2": "Monterrey"
  },
  {
    "dataName": "PhysicalAdjacencyJuarezGuadalajara",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guadalajara",
    "region2": "Juarez"
  },
  {
    "dataName": "PhysicalAdjacencyJuarezTijuana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tijuana",
    "region2": "Juarez"
  },
  {
    "dataName": "PhysicalAdjacencyMexicoCityMerida",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "MexicoCity",
    "region2": "Merida"
  },
  {
    "dataName": "PhysicalAdjacencyMoskvaBelarus",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Moskva",
    "region2": "Belarus"
  },
  {
    "dataName": "PhysicalAdjacencyMoskvaVoronezh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Moskva",
    "region2": "Voronezh"
  },
  {
    "dataName": "PhysicalAdjacencyMoskvaKiev",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Moskva",
    "region2": "Kiev"
  },
  {
    "dataName": "PhysicalAdjacencyVoronezhKharkiv",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Voronezh",
    "region2": "Kharkiv"
  },
  {
    "dataName": "PhysicalAdjacencyVoronezhKiev",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Voronezh",
    "region2": "Kiev"
  },
  {
    "dataName": "PhysicalAdjacencyVoronezhRostovskaya",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Voronezh",
    "region2": "Rostovskaya"
  },
  {
    "dataName": "PhysicalAdjacencyVoronezhVolgograd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Voronezh",
    "region2": "Volgograd"
  },
  {
    "dataName": "PhysicalAdjacencyMosulAleppo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mosul",
    "region2": "Aleppo"
  },
  {
    "dataName": "PhysicalAdjacencyMosulKermanshah",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mosul",
    "region2": "Kermanshah"
  },
  {
    "dataName": "PhysicalAdjacencyMosulTabriz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mosul",
    "region2": "Tabriz"
  },
  {
    "dataName": "PhysicalAdjacencyTabrizKermanshah",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tabriz",
    "region2": "Kermanshah"
  },
  {
    "dataName": "PhysicalAdjacencyMozambiqueJohannesburg",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mozambique",
    "region2": "Johannesburg"
  },
  {
    "dataName": "PhysicalAdjacencyMozambiqueBeira",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mozambique",
    "region2": "Beira"
  },
  {
    "dataName": "PhysicalAdjacencyNampulaBeira",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nampula",
    "region2": "Beira"
  },
  {
    "dataName": "PhysicalAdjacencyMozambiqueZimbabwe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mozambique",
    "region2": "Zimbabwe"
  },
  {
    "dataName": "PhysicalAdjacencyBeiraZimbabwe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Beira",
    "region2": "Zimbabwe"
  },
  {
    "dataName": "PhysicalAdjacencyMumbaiAhmedabad",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mumbai",
    "region2": "Ahmedabad"
  },
  {
    "dataName": "PhysicalAdjacencyAhmedabadJaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ahmedabad",
    "region2": "Jaipur"
  },
  {
    "dataName": "PhysicalAdjacencyAhmedabadIndore",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ahmedabad",
    "region2": "Indore"
  },
  {
    "dataName": "PhysicalAdjacencyMumbaiIndore",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mumbai",
    "region2": "Indore"
  },
  {
    "dataName": "PhysicalAdjacencyMumbaiRaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mumbai",
    "region2": "Raipur"
  },
  {
    "dataName": "PhysicalAdjacencyAhmedabadSindh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ahmedabad",
    "region2": "Sindh"
  },
  {
    "dataName": "PhysicalAdjacencyMandalayAssam",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mandalay",
    "region2": "Assam"
  },
  {
    "dataName": "PhysicalAdjacencyMandalayBangladesh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mandalay",
    "region2": "Bangladesh",
    "projectUnlockName": "Project_KachinPass"
@@ -14201,679 +13751,582 @@
  {
    "dataName": "PhysicalAdjacencyMyanmarBangladesh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Myanmar",
    "region2": "Bangladesh"
  },
  {
    "dataName": "PhysicalAdjacencyAssamBangladesh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Assam",
    "region2": "Bangladesh"
  },
  {
    "dataName": "PhysicalAdjacencyHailBaghdad",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hail",
    "region2": "Baghdad"
  },
  {
    "dataName": "PhysicalAdjacencyHailBasra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hail",
    "region2": "Basra"
  },
  {
    "dataName": "PhysicalAdjacencyDammanGulfStates",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Damman",
    "region2": "GulfStates"
  },
  {
    "dataName": "PhysicalAdjacencyDammanOman",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Damman",
    "region2": "Oman"
  },
  {
    "dataName": "PhysicalAdjacencyDammanAden",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Damman",
    "region2": "Aden"
  },
  {
    "dataName": "PhysicalAdjacencyDammanAbha",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Damman",
    "region2": "Abha"
  },
  {
    "dataName": "PhysicalAdjacencyDammanHail",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Damman",
    "region2": "Hail"
  },
  {
    "dataName": "PhysicalAdjacencyHailJordan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hail",
    "region2": "Jordan"
  },
  {
    "dataName": "PhysicalAdjacencyNamibiaBotswana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Namibia",
    "region2": "Botswana"
  },
  {
    "dataName": "PhysicalAdjacencyNamibiaZambia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Namibia",
    "region2": "Zambia"
  },
  {
    "dataName": "PhysicalAdjacencyNanjingShanghai",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanjing",
    "region2": "Shanghai"
  },
  {
    "dataName": "PhysicalAdjacencyHefeiShanghai",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hefei",
    "region2": "Shanghai"
  },
  {
    "dataName": "PhysicalAdjacencyHefeiNanchang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hefei",
    "region2": "Nanchang"
  },
  {
    "dataName": "PhysicalAdjacencyShanghaiNanchang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Shanghai",
    "region2": "Nanchang"
  },
  {
    "dataName": "PhysicalAdjacencyFuzhouNanchang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Fuzhou",
    "region2": "Nanchang"
  },
  {
    "dataName": "PhysicalAdjacencyShanghaiFuzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Shanghai",
    "region2": "Fuzhou"
  },
  {
    "dataName": "PhysicalAdjacencyNanjingHefei",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanjing",
    "region2": "Hefei"
  },
  {
    "dataName": "PhysicalAdjacencyHefeiWuhan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hefei",
    "region2": "Wuhan"
  },
  {
    "dataName": "PhysicalAdjacencyQingdaoZhengzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Qingdao",
    "region2": "Zhengzhou"
  },
  {
    "dataName": "PhysicalAdjacencyHefeiZhengzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hefei",
    "region2": "Zhengzhou"
  },
  {
    "dataName": "PhysicalAdjacencyAgraHimalayas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Agra",
    "region2": "Himalayas"
  },
  {
    "dataName": "PhysicalAdjacencyNewDelhiJaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewDelhi",
    "region2": "Jaipur"
  },
  {
    "dataName": "PhysicalAdjacencyIndoreJaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Indore",
    "region2": "Jaipur"
  },
  {
    "dataName": "PhysicalAdjacencyNewDelhiJammuandKashmir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewDelhi",
    "region2": "JammuandKashmir"
  },
  {
    "dataName": "PhysicalAdjacencyNewDelhiPunjab",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewDelhi",
    "region2": "Punjab"
  },
  {
    "dataName": "PhysicalAdjacencyNewDelhiAgra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewDelhi",
    "region2": "Agra"
  },
  {
    "dataName": "PhysicalAdjacencyIndoreAgra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Indore",
    "region2": "Agra"
  },
  {
    "dataName": "PhysicalAdjacencyRaipurAgra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Raipur",
    "region2": "Agra"
  },
  {
    "dataName": "PhysicalAdjacencyAgraKolkata",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Agra",
    "region2": "Kolkata"
  },
  {
    "dataName": "PhysicalAdjacencyRaipurKolkata",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Raipur",
    "region2": "Kolkata"
  },
  {
    "dataName": "PhysicalAdjacencyRaipurCuttack",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Raipur",
    "region2": "Cuttack"
  },
  {
    "dataName": "PhysicalAdjacencyNewDelhiTibet",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewDelhi",
    "region2": "Tibet"
  },
  {
    "dataName": "PhysicalAdjacencyAgraTibet",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Agra",
    "region2": "Tibet"
  },
  {
    "dataName": "PhysicalAdjacencyNewGuineaMelanesia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewGuinea",
    "region2": "Melanesia"
  },
  {
    "dataName": "PhysicalAdjacencyNewYorkPhiladelphia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewYork",
    "region2": "Philadelphia"
  },
  {
    "dataName": "PhysicalAdjacencyPhiladelphiaRustBelt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Philadelphia",
    "region2": "RustBelt"
  },
  {
    "dataName": "PhysicalAdjacencyPhiladelphiaShenandoah",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Philadelphia",
    "region2": "Shenandoah"
  },
  {
    "dataName": "PhysicalAdjacencyNewYorkNewEngland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NewYork",
    "region2": "NewEngland"
  },
  {
    "dataName": "PhysicalAdjacencyNigerKano",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Niger",
    "region2": "Kano"
  },
  {
    "dataName": "PhysicalAdjacencyAgadezKano",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Agadez",
    "region2": "Kano"
  },
  {
    "dataName": "PhysicalAdjacencyNorthernIrelandIreland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NorthernIreland",
    "region2": "Ireland"
  },
  {
    "dataName": "PhysicalAdjacencyNorthKoreaManchuria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NorthKorea",
    "region2": "Manchuria"
  },
  {
    "dataName": "PhysicalAdjacencyNorthKoreaRussianFarEast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NorthKorea",
    "region2": "RussianFarEast"
  },
  {
    "dataName": "PhysicalAdjacencyOmanGulfStates",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Oman",
    "region2": "GulfStates"
  },
  {
    "dataName": "PhysicalAdjacencyOmanAden",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Oman",
    "region2": "Aden"
  },
  {
    "dataName": "PhysicalAdjacencyOntarioHighPlains",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ontario",
    "region2": "HighPlains"
  },
  {
    "dataName": "PhysicalAdjacencyOntarioLaurentia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ontario",
    "region2": "Laurentia"
  },
  {
    "dataName": "PhysicalAdjacencyOntarioNewYork",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ontario",
    "region2": "NewYork"
  },
  {
    "dataName": "PhysicalAdjacencyOntarioRustBelt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ontario",
    "region2": "RustBelt"
  },
  {
    "dataName": "PhysicalAdjacencyPampasPatagonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Pampas",
    "region2": "Patagonia"
  },
  {
    "dataName": "PhysicalAdjacencyCordobaPatagonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cordoba",
    "region2": "Patagonia"
  },
  {
    "dataName": "PhysicalAdjacencyParaguayGranChaco",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Paraguay",
    "region2": "GranChaco"
  },
  {
    "dataName": "PhysicalAdjacencyParaguaySalta",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Paraguay",
    "region2": "Salta"
  },
  {
    "dataName": "PhysicalAdjacencyParaguayRosario",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Paraguay",
    "region2": "Rosario"
  },
  {
    "dataName": "PhysicalAdjacencyIquitosAmazonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Iquitos",
    "region2": "Amazonia"
  },
  {
    "dataName": "PhysicalAdjacencyHuancayoAmazonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Huancayo",
    "region2": "Amazonia"
  },
  {
    "dataName": "PhysicalAdjacencyCuscoAmazonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cusco",
    "region2": "Amazonia"
  },
  {
    "dataName": "PhysicalAdjacencyCuscoSantaCruz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cusco",
    "region2": "SantaCruz"
  },
  {
    "dataName": "PhysicalAdjacencyBoliviaSantaCruz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bolivia",
    "region2": "SantaCruz"
  },
  {
    "dataName": "PhysicalAdjacencyArequipaBolivia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Arequipa",
    "region2": "Bolivia"
  },
  {
    "dataName": "PhysicalAdjacencyCuscoBolivia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cusco",
    "region2": "Bolivia"
  },
  {
    "dataName": "PhysicalAdjacencyPeshawarJammuandKashmir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Peshawar",
    "region2": "JammuandKashmir"
  },
  {
    "dataName": "PhysicalAdjacencyPeshawarXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Peshawar",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyLithuaniaBalticStates",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lithuania",
    "region2": "BalticStates"
  },
  {
    "dataName": "PhysicalAdjacencyEstoniaBalticStates",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Estonia",
    "region2": "BalticStates"
  },
  {
    "dataName": "PhysicalAdjacencyPolandLithuania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Poland",
    "region2": "Lithuania"
  },
  {
    "dataName": "PhysicalAdjacencyPolandBelarus",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Poland",
    "region2": "Belarus"
  },
  {
    "dataName": "PhysicalAdjacencyPolandLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Poland",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencyPortoAlegreRosario",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "PortoAlegre",
    "region2": "Rosario"
  },
  {
    "dataName": "PhysicalAdjacencyPortoAlegreParaguay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "PortoAlegre",
    "region2": "Paraguay"
  },
  {
    "dataName": "PhysicalAdjacencyPortoAlegreUruguay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "PortoAlegre",
    "region2": "Uruguay"
  },
  {
    "dataName": "PhysicalAdjacencyPortugalSpain",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Portugal",
    "region2": "Spain"
  },
  {
    "dataName": "PhysicalAdjacencyPrairiesHighPlains",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Prairies",
    "region2": "HighPlains"
  },
  {
    "dataName": "PhysicalAdjacencyPrairiesOntario",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Prairies",
    "region2": "Ontario"
  },
  {
    "dataName": "PhysicalAdjacencyPrairiesRockyMountains",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Prairies",
    "region2": "RockyMountains"
  },
  {
    "dataName": "PhysicalAdjacencyPunjabJaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Punjab",
    "region2": "Jaipur"
  },
  {
    "dataName": "PhysicalAdjacencyPunjabJammuandKashmir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Punjab",
    "region2": "JammuandKashmir"
  },
  {
    "dataName": "PhysicalAdjacencyPunjabPeshawar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Punjab",
    "region2": "Peshawar"
  },
  {
    "dataName": "PhysicalAdjacencyRioSaoPaolo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rio",
    "region2": "SaoPaolo"
  },
  {
    "dataName": "PhysicalAdjacencySalvadorRio",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Salvador",
    "region2": "Rio"
  },
  {
    "dataName": "PhysicalAdjacencyBeloHorizonteSaoPaolo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BeloHorizonte",
    "region2": "SaoPaolo"
  },
  {
    "dataName": "PhysicalAdjacencySalvadorBeloHorizonte",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Salvador",
    "region2": "BeloHorizonte"
  },
  {
    "dataName": "PhysicalAdjacencySaltLakeCalifornia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SaltLake",
    "region2": "California"
  },
  {
    "dataName": "PhysicalAdjacencyPhoenixCalifornia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Phoenix",
    "region2": "California"
  },
  {
    "dataName": "PhysicalAdjacencySaltLakePhoenix",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SaltLake",
    "region2": "Phoenix"
  },
  {
    "dataName": "PhysicalAdjacencyRockyMountainsHighPlains",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "RockyMountains",
    "region2": "HighPlains"
  },
  {
    "dataName": "PhysicalAdjacencyRockyMountainsStLouis",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "RockyMountains",
    "region2": "StLouis"
  },
  {
    "dataName": "PhysicalAdjacencyPhoenixStLouis",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Phoenix",
    "region2": "StLouis"
  },
  {
    "dataName": "PhysicalAdjacencyPhoenixJuarez",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Phoenix",
    "region2": "Juarez"
  },
  {
    "dataName": "PhysicalAdjacencyPhoenixTijuana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Phoenix",
    "region2": "Tijuana"
  },
  {
    "dataName": "PhysicalAdjacencyPhoenixTexas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Phoenix",
    "region2": "Texas"
  },
  {
    "dataName": "PhysicalAdjacencyVolgogradAktobe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Volgograd",
    "region2": "Aktobe"
  },
  {
    "dataName": "PhysicalAdjacencyAstrakhanAktobe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Astrakhan",
    "region2": "Aktobe"
  },
  {
    "dataName": "PhysicalAdjacencyRostovskayaKharkiv",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rostovskaya",
    "region2": "Kharkiv"
  },
  {
    "dataName": "PhysicalAdjacencyKrasnodarCrimea",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Krasnodar",
    "region2": "Crimea",
    "friendlyOnly": true
@@ -14881,441 +14334,378 @@
  {
    "dataName": "PhysicalAdjacencySaoPaoloCuritiba",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SaoPaolo",
    "region2": "Curitiba"
  },
  {
    "dataName": "PhysicalAdjacencySarawakandSabahBorneo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SarawakandSabah",
    "region2": "Borneo"
  },
   {
    "dataName": "PhysicalAdjacencySarawakandSabahKuching",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SarawakandSabah",
    "region2": "Kuching"
  },
   {
    "dataName": "PhysicalAdjacencyKuchingBrunei",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kuching",
    "region2": "Brunei"
  },
  {
    "dataName": "PhysicalAdjacencyKuchingBorneo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kuching",
    "region2": "Borneo"
  },
  {
    "dataName": "PhysicalAdjacencyKuchingPontianak",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kuching",
    "region2": "Pontianak"
  },
  {
    "dataName": "PhysicalAdjacencyPontianakBorneo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Pontianak",
    "region2": "Borneo"
  },
  {
    "dataName": "PhysicalAdjacencyPontianakBanjar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Pontianak",
    "region2": "Banjar"
  },
  {
    "dataName": "PhysicalAdjacencyBanjarBorneo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Banjar",
    "region2": "Borneo"
  },
  {
    "dataName": "PhysicalAdjacencyNanchangGuangzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanchang",
    "region2": "Guangzhou"
  },
  {
    "dataName": "PhysicalAdjacencyFuzhouGuangzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Fuzhou",
    "region2": "Guangzhou"
  },
  {
    "dataName": "PhysicalAdjacencyNanchangWuhan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanchang",
    "region2": "Wuhan"
  },
  {
    "dataName": "PhysicalAdjacencyNanchangChangsha",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nanchang",
    "region2": "Changsha"
  },
  {
    "dataName": "PhysicalAdjacencyShenandoahNashville",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Shenandoah",
    "region2": "Nashville"
  },
  {
    "dataName": "PhysicalAdjacencyShenandoahCharlotte",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Shenandoah",
    "region2": "Charlotte"
  },
  {
    "dataName": "PhysicalAdjacencyShenandoahRustBelt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Shenandoah",
    "region2": "RustBelt"
  },
  {
    "dataName": "PhysicalAdjacencySindhPunjab",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sindh",
    "region2": "Punjab"
  },
  {
    "dataName": "PhysicalAdjacencySindhJaipur",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sindh",
    "region2": "Jaipur"
  },
  {
    "dataName": "PhysicalAdjacencySouthKoreaNorthKorea",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SouthKorea",
    "region2": "NorthKorea"
  },
  {
    "dataName": "PhysicalAdjacencySouthSudanCentralAfricanRepublic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SouthSudan",
    "region2": "CentralAfricanRepublic"
  },
  {
    "dataName": "PhysicalAdjacencySouthSudanEthiopia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SouthSudan",
    "region2": "Ethiopia"
  },
  {
    "dataName": "PhysicalAdjacencySouthSudanMekelle",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SouthSudan",
    "region2": "Mekelle"
  },
  {
    "dataName": "PhysicalAdjacencySouthSudanUganda",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "SouthSudan",
    "region2": "Uganda"
  },
  {
    "dataName": "PhysicalAdjacencyBarcelonaLyon",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Barcelona",
    "region2": "Lyon"
  },
  {
    "dataName": "PhysicalAdjacencyBarcelonaBordeaux",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Barcelona",
    "region2": "Bordeaux"
  },
  {
    "dataName": "PhysicalAdjacencySpainBarcelona",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Spain",
    "region2": "Barcelona"
  },
  {
    "dataName": "PhysicalAdjacencyNordEstLyon",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "NordEst",
    "region2": "Lyon"
  },
  {
    "dataName": "PhysicalAdjacencyFranceLyon",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "France",
    "region2": "Lyon"
  },
  {
    "dataName": "PhysicalAdjacencyFranceBordeaux",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "France",
    "region2": "Bordeaux"
  },
  {
    "dataName": "PhysicalAdjacencyBordeauxLyon",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bordeaux",
    "region2": "Lyon"
  },
  {
    "dataName": "PhysicalAdjacencyDarfurCentralAfricanRepublic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Darfur",
    "region2": "CentralAfricanRepublic"
  },
  {
    "dataName": "PhysicalAdjacencySudanUpperNile",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sudan",
    "region2": "UpperNile"
  },
  {
    "dataName": "PhysicalAdjacencyDarfurSouthSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Darfur",
    "region2": "SouthSudan"
  },
  {
    "dataName": "PhysicalAdjacencyKordofanSouthSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kordofan",
    "region2": "SouthSudan"
  },
  {
    "dataName": "PhysicalAdjacencyKordofanUpperNile",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kordofan",
    "region2": "UpperNile"
  },
  {
    "dataName": "PhysicalAdjacencyKordofanSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kordofan",
    "region2": "Sudan"
  },
  {
    "dataName": "PhysicalAdjacencyUpperNileSouthSudan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "UpperNile",
    "region2": "SouthSudan"
  },
  {
    "dataName": "PhysicalAdjacencyEgyptLuxor",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Luxor",
    "region2": "Egypt"
  },
  {
    "dataName": "PhysicalAdjacencySudanLuxor",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sudan",
    "region2": "Luxor"
  },
  {
    "dataName": "PhysicalAdjacencyBenghaziLuxor",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benghazi",
    "region2": "Luxor"
  },
  {
    "dataName": "PhysicalAdjacencySydneyBrisbane",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sydney",
    "region2": "Brisbane"
  },
  {
    "dataName": "PhysicalAdjacencySydneyWestralia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sydney",
    "region2": "Westralia"
  },
  {
    "dataName": "PhysicalAdjacencySyriaJordan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Syria",
    "region2": "Jordan"
  },
  {
    "dataName": "PhysicalAdjacencyTajikistanKyrgyzstan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tajikistan",
    "region2": "Kyrgyzstan"
  },
  {
    "dataName": "PhysicalAdjacencyTajikistanXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tajikistan",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyMbeyaKitwe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mbeya",
    "region2": "Kitwe"
  },
   {
    "dataName": "PhysicalAdjacencyMbeyaMalawi",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mbeya",
    "region2": "Malawi"
  },
  {
    "dataName": "PhysicalAdjacencyMbeyaNampula",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mbeya",
    "region2": "Nampula"
  },
  {
    "dataName": "PhysicalAdjacencyTanzaniaNampula",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tanzania",
    "region2": "Nampula"
  },
  {
    "dataName": "PhysicalAdjacencyMwanzaUganda",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Mwanza",
    "region2": "Uganda"
  },
  {
    "dataName": "PhysicalAdjacencyTehranKhorasan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tehran",
    "region2": "Khorasan"
  },
  {
    "dataName": "PhysicalAdjacencyIsfahanShiraz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isfahan",
    "region2": "Shiraz"
  },
  {
    "dataName": "PhysicalAdjacencyBandarKhorasan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bandar",
    "region2": "Khorasan"
  },
  {
    "dataName": "PhysicalAdjacencyBandarShiraz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bandar",
    "region2": "Shiraz"
  },
  {
    "dataName": "PhysicalAdjacencyShirazAhwaz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Shiraz",
    "region2": "Ahwaz"
  },
  {
    "dataName": "PhysicalAdjacencyTexasNewOrleans",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Texas",
    "region2": "NewOrleans"
  },
  {
    "dataName": "PhysicalAdjacencyTexasMonterrey",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Texas",
    "region2": "Monterrey"
  },
  {
    "dataName": "PhysicalAdjacencyTexasJuarez",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Texas",
    "region2": "Juarez"
  },
  {
    "dataName": "PhysicalAdjacencyTibetChengdu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tibet",
    "region2": "Chengdu"
  },
  {
    "dataName": "PhysicalAdjacencyTibetHimalayas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tibet",
    "region2": "Himalayas"
  },
  {
    "dataName": "PhysicalAdjacencyTibetBhutan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tibet",
    "region2": "Bhutan"
  },
  {
    "dataName": "PhysicalAdjacencyTibetJammuandKashmir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tibet",
    "region2": "JammuandKashmir"
  },
  {
    "dataName": "PhysicalAdjacencyTibetMandalay",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tibet",
    "region2": "Mandalay",
    "projectUnlockName": "Project_KachinPass"
@@ -15323,357 +14713,306 @@
  {
    "dataName": "PhysicalAdjacencyTibetXinjiang",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tibet",
    "region2": "Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencyTunisiaLibya",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Tunisia",
    "region2": "Libya"
  },
  {
    "dataName": "PhysicalAdjacencyTurkmenistanUzbekistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Turkmenistan",
    "region2": "Uzbekistan"
  },
  {
    "dataName": "PhysicalAdjacencyTurkmenistanUrgench",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Turkmenistan",
    "region2": "Urgench"
  },
  {
    "dataName": "PhysicalAdjacencyUralsAstana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Urals",
    "region2": "Astana"
  },
  {
    "dataName": "PhysicalAdjacencyUralsSurgut",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Urals",
    "region2": "Surgut"
  },
  {
    "dataName": "PhysicalAdjacencyKazanUfa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kazan",
    "region2": "Ufa"
  },
  {
    "dataName": "PhysicalAdjacencyPermUfa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Perm",
    "region2": "Ufa"
  },
  {
    "dataName": "PhysicalAdjacencyKazanPerm",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kazan",
    "region2": "Perm"
  },
  {
    "dataName": "PhysicalAdjacencyVolgaKazan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Volga",
    "region2": "Kazan"
  },
  {
    "dataName": "PhysicalAdjacencyVolgaPerm",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Volga",
    "region2": "Perm"
  },
  {
    "dataName": "PhysicalAdjacencyUralsUfa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Urals",
    "region2": "Ufa"
  },
  {
    "dataName": "PhysicalAdjacencyUralsPerm",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Urals",
    "region2": "Perm"
  },
  {
    "dataName": "PhysicalAdjacencyUzbekistanKyrgyzstan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Uzbekistan",
    "region2": "Kyrgyzstan"
  },
  {
    "dataName": "PhysicalAdjacencyUzbekistanTajikistan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Uzbekistan",
    "region2": "Tajikistan"
  },
  {
    "dataName": "PhysicalAdjacencyGuayanaAmazonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guayana",
    "region2": "Amazonia"
  },
  {
    "dataName": "PhysicalAdjacencyGuayanaBoaVista",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guayana",
    "region2": "BoaVista"
  },
  {
    "dataName": "PhysicalAdjacencyKazanAktobe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kazan",
    "region2": "Aktobe"
  },
  {
    "dataName": "PhysicalAdjacencyUfaAktobe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ufa",
    "region2": "Aktobe"
  },
  {
    "dataName": "PhysicalAdjacencyUfaAstana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ufa",
    "region2": "Astana"
  },
  {
    "dataName": "PhysicalAdjacencyVolgaMoskva",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Volga",
    "region2": "Moskva"
  },
  {
    "dataName": "PhysicalAdjacencyVolgaVoronezh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Volga",
    "region2": "Voronezh"
  },
  {
    "dataName": "PhysicalAdjacencyKazanVoronezh",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kazan",
    "region2": "Voronezh"
  },
  {
    "dataName": "PhysicalAdjacencyKazanVolgograd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kazan",
    "region2": "Volgograd"
  },
  {
    "dataName": "PhysicalAdjacencyWesternSiberiaAstana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "WesternSiberia",
    "region2": "Astana"
  },
  {
    "dataName": "PhysicalAdjacencyWesternSiberiaEasternSiberia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "WesternSiberia",
    "region2": "EasternSiberia"
  },
  {
    "dataName": "PhysicalAdjacencyKrasnoyarskEasternSiberia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Krasnoyarsk",
    "region2": "EasternSiberia"
  },
  {
    "dataName": "PhysicalAdjacencyKrasnoyarskYakutsk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Krasnoyarsk",
    "region2": "Yakutsk"
  },
  {
    "dataName": "PhysicalAdjacencyWesternSiberiaUrals",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "WesternSiberia",
    "region2": "Urals"
  },
  {
    "dataName": "PhysicalAdjacencyWesternSiberiaSurgut",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "WesternSiberia",
    "region2": "Surgut"
  },
  {
    "dataName": "PhysicalAdjacencyKrasnoyarskSurgut",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Krasnoyarsk",
    "region2": "Surgut"
  },
  {
    "dataName": "PhysicalAdjacencyWestraliaBrisbane",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Westralia",
    "region2": "Brisbane"
  },
  {
    "dataName": "PhysicalAdjacencyWuhanChongqing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Wuhan",
    "region2": "Chongqing"
  },
  {
    "dataName": "PhysicalAdjacencyChangshaChongqing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Changsha",
    "region2": "Chongqing"
  },
  {
    "dataName": "PhysicalAdjacencyChangshaGuizhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Changsha",
    "region2": "Guizhou"
  },
  {
    "dataName": "PhysicalAdjacencyWuhanXian",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Wuhan",
    "region2": "Xian"
  },
  {
    "dataName": "PhysicalAdjacencyWuhanZhengzhou",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Wuhan",
    "region2": "Zhengzhou"
  },
  {
    "dataName": "PhysicalAdjacencyXianChongqing",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Xian",
    "region2": "Chongqing"
  },
  {
    "dataName": "PhysicalAdjacencyXianChengdu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Xian",
    "region2": "Chengdu"
  },
  {
    "dataName": "PhysicalAdjacencyXinjiangJammuandKashmir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Xinjiang",
    "region2": "JammuandKashmir"
  },
  {
    "dataName": "PhysicalAdjacencyXinjiangWesternSiberia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Xinjiang",
    "region2": "WesternSiberia"
  },
  {
    "dataName": "PhysicalAdjacencyMalawiNampula",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Malawi",
    "region2": "Nampula"
  },
  {
    "dataName": "PhysicalAdjacencyZambiaBeira",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Zambia",
    "region2": "Beira"
  },
  {
    "dataName": "PhysicalAdjacencyKitweBeira",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Kitwe",
    "region2": "Beira"
  },
  {
    "dataName": "PhysicalAdjacencyMalawiBeira",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Malawi",
    "region2": "Beira"
  },
  {
    "dataName": "PhysicalAdjacencyZambiaZimbabwe",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Zambia",
    "region2": "Zimbabwe"
  },
  {
    "dataName": "PhysicalAdjacencyZimbabweJohannesburg",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Zimbabwe",
    "region2": "Johannesburg"
  },
  {
    "dataName": "PhysicalAdjacencyNorwaySweden",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Norway",
    "region2": "Sweden"
  },
  {
    "dataName": "PhysicalAdjacencySwedenFinland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sweden",
    "region2": "Finland"
  },
  {
    "dataName": "PhysicalAdjacencyNorwayFinland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Norway",
    "region2": "Finland"
  },
  {
    "dataName": "PhysicalAdjacencySwedenDenmark",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sweden",
    "region2": "Denmark",
    "friendlyOnly": true
@@ -15681,7 +15020,6 @@
  {
    "dataName": "PhysicalAdjacencyDenmarkNorthGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Denmark",
    "region2": "NorthGermany"
  },
@@ -20066,1113 +19404,954 @@
  {
    "dataName": "PhysicalAdjacencyMeridaBelize",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Merida",
    "region2": "Belize"
  },
  {
    "dataName": "PhysicalAdjacencyMeridaGuatemala",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Merida",
    "region2": "Guatemala"
  },
  {
    "dataName": "PhysicalAdjacencyGuatemalaElSalvador",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guatemala",
    "region2": "ElSalvador"
  },
  {
    "dataName": "PhysicalAdjacencyHondurasElSalvador",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Honduras",
    "region2": "ElSalvador"
  },
  {
    "dataName": "PhysicalAdjacencyGuatemalaHonduras",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guatemala",
    "region2": "Honduras"
  },
  {
    "dataName": "PhysicalAdjacencyGuatemalaBelize",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guatemala",
    "region2": "Belize"
  },
  {
    "dataName": "PhysicalAdjacencyHondurasNicaragua",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Honduras",
    "region2": "Nicaragua"
  },
  {
    "dataName": "PhysicalAdjacencyNicaraguaCostaRica",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Nicaragua",
    "region2": "CostaRica"
  },
  {
    "dataName": "PhysicalAdjacencyCostaRicaPanama",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "CostaRica",
    "region2": "Panama"
  },
  {
    "dataName": "PhysicalAdjacencyVenezuelaGuyana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Venezuela",
    "region2": "Guyana"
  },
  {
    "dataName": "PhysicalAdjacencyGuayanaGuyana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guayana",
    "region2": "Guyana"
  },
  {
    "dataName": "PhysicalAdjacencyGuyanaSuriname",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Guyana",
    "region2": "Suriname"
  },
  {
    "dataName": "PhysicalAdjacencySurinameEuropeanWestIndies",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Suriname",
    "region2": "EuropeanWestIndies"
  },
  {
    "dataName": "PhysicalAdjacencyHaitiDominica",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Haiti",
    "region2": "Dominica"
  },
  {
    "dataName": "PhysicalAdjacencyBoaVistaGuyana",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BoaVista",
    "region2": "Guyana"
  },
  {
    "dataName": "PhysicalAdjacencyBelemSuriname",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belem",
    "region2": "Suriname"
  },
  {
    "dataName": "PhysicalAdjacencyArequipaAntofagasta",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Arequipa",
    "region2": "Antofagasta"
  },
  {
    "dataName": "PhysicalAdjacencyAntofagastaValparaiso",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Antofagasta",
    "region2": "Valparaiso"
  },
  {
    "dataName": "PhysicalAdjacencyBoliviaAntofagasta",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bolivia",
    "region2": "Antofagasta"
  },
  {
    "dataName": "PhysicalAdjacencySaltaAntofagasta",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Salta",
    "region2": "Antofagasta"
  },
  {
    "dataName": "PhysicalAdjacencySaltaValparaiso",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Salta",
    "region2": "Valparaiso"
  },
  {
    "dataName": "PhysicalAdjacencyCordobaValparaiso",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cordoba",
    "region2": "Valparaiso"
  },
  {
    "dataName": "PhysicalAdjacencySantiagoValparaiso",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Santiago",
    "region2": "Valparaiso"
  },
  {
    "dataName": "PhysicalAdjacencySantiagoPuntasArenas",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Santiago",
    "region2": "PuntasArenas"
  },
  {
    "dataName": "PhysicalAdjacencySantiagoCordoba",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Santiago",
    "region2": "Cordoba"
  },
  {
    "dataName": "PhysicalAdjacencySantiagoPatagonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Santiago",
    "region2": "Patagonia"
  },
  {
    "dataName": "PhysicalAdjacencyPuntasArenasPatagonia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "PuntasArenas",
    "region2": "Patagonia"
  },
  {
    "dataName": "PhysicalAdjacencyChiangMaiBangkok",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "ChiangMai",
    "region2": "Bangkok"
  },
  {
    "dataName": "PhysicalAdjacencyChiangMaiIsan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "ChiangMai",
    "region2": "Isan"
  },
  {
    "dataName": "PhysicalAdjacencyIsanBangkok",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isan",
    "region2": "Bangkok"
  },
  {
    "dataName": "PhysicalAdjacencyChiangMaiMyanmar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "ChiangMai",
    "region2": "Myanmar"
  },
  {
    "dataName": "PhysicalAdjacencyChiangMaiShan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "ChiangMai",
    "region2": "Shan"
  },
  {
    "dataName": "PhysicalAdjacencyChiangMaiLaos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "ChiangMai",
    "region2": "Laos"
  },
  {
    "dataName": "PhysicalAdjacencyIsanLaos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isan",
    "region2": "Laos"
  },
  {
    "dataName": "PhysicalAdjacencyIsanCambodia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Isan",
    "region2": "Cambodia"
  },
  {
    "dataName": "PhysicalAdjacencyBangkokMyanmar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bangkok",
    "region2": "Myanmar"
  },
  {
    "dataName": "PhysicalAdjacencyBangkokCambodia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bangkok",
    "region2": "Cambodia"
  },
  {
    "dataName": "PhysicalAdjacencyBangkokMalayPeninsula",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bangkok",
    "region2": "MalayPeninsula"
  },
  {
    "dataName": "PhysicalAdjacencyRabatAlgeria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rabat",
    "region2": "Algeria"
  },
  {
    "dataName": "PhysicalAdjacencyRabatMarrakech",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rabat",
    "region2": "Marrakech"
  },
  {
    "dataName": "PhysicalAdjacencyRabatBechar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rabat",
    "region2": "Bechar"
  },
  {
    "dataName": "PhysicalAdjacencyMarrakechBechar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Marrakech",
    "region2": "Bechar"
  },
  {
    "dataName": "PhysicalAdjacencyMarrakechWesternSahara",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Marrakech",
    "region2": "WesternSahara"
  },
  {
    "dataName": "PhysicalAdjacencyWesternSaharaBechar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "WesternSahara",
    "region2": "Bechar"
  },
  {
    "dataName": "PhysicalAdjacencyWesternSaharaMauritania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "WesternSahara",
    "region2": "Mauritania"
  },
  {
    "dataName": "PhysicalAdjacencySenegambiaMauritania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Senegambia",
    "region2": "Mauritania"
  },
  {
    "dataName": "PhysicalAdjacencySenegambiaMali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Senegambia",
    "region2": "Mali"
  },
  {
    "dataName": "PhysicalAdjacencySenegambiaConkary",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Senegambia",
    "region2": "Conkary"
  },
  {
    "dataName": "PhysicalAdjacencyBissauConkary",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bissau",
    "region2": "Conkary"
  },
  {
    "dataName": "PhysicalAdjacencySenegambiaBissau",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Senegambia",
    "region2": "Bissau"
  },
  {
    "dataName": "PhysicalAdjacencyConkaryMali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Conkary",
    "region2": "Mali"
  },
  {
    "dataName": "PhysicalAdjacencyConkaryFreetown",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Conkary",
    "region2": "Freetown"
  },
  {
    "dataName": "PhysicalAdjacencyConkaryMonrovia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Conkary",
    "region2": "Monrovia"
  },
  {
    "dataName": "PhysicalAdjacencyConkaryIvoryCoast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Conkary",
    "region2": "IvoryCoast"
  },
  {
    "dataName": "PhysicalAdjacencyMonroviaIvoryCoast",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Monrovia",
    "region2": "IvoryCoast"
  },
  {
    "dataName": "PhysicalAdjacencyMonroviaFreetown",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Monrovia",
    "region2": "Freetown"
  },
  {
    "dataName": "PhysicalAdjacencyIvoryCoastMali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "IvoryCoast",
    "region2": "Mali"
  },
  {
    "dataName": "PhysicalAdjacencyIvoryCoastBurkinaFaso",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "IvoryCoast",
    "region2": "BurkinaFaso"
  },
  {
    "dataName": "PhysicalAdjacencyIvoryCoastAccra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "IvoryCoast",
    "region2": "Accra"
  },
  {
    "dataName": "PhysicalAdjacencyBeninAccra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benin",
    "region2": "Accra"
  },
  {
    "dataName": "PhysicalAdjacencyBurkinaFasoMali",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BurkinaFaso",
    "region2": "Mali"
  },
  {
    "dataName": "PhysicalAdjacencyBurkinaFasoTimbuktu",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BurkinaFaso",
    "region2": "Timbuktu"
  },
  {
    "dataName": "PhysicalAdjacencyBurkinaFasoNiger",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BurkinaFaso",
    "region2": "Niger"
  },
  {
    "dataName": "PhysicalAdjacencyBeninNiger",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benin",
    "region2": "Niger"
  },
  {
    "dataName": "PhysicalAdjacencyBurkinaFasoAccra",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BurkinaFaso",
    "region2": "Accra"
  },
  {
    "dataName": "PhysicalAdjacencyBurkinaFasoBenin",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BurkinaFaso",
    "region2": "Benin"
  },
  {
    "dataName": "PhysicalAdjacencyBurkinaFasoAbuja",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BurkinaFaso",
    "region2": "Abuja"
  },
  {
    "dataName": "PhysicalAdjacencyBeninKano",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benin",
    "region2": "Kano"
  },
  {
    "dataName": "PhysicalAdjacencyBeninAbuja",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benin",
    "region2": "Abuja"
  },
  {
    "dataName": "PhysicalAdjacencyBeninLagos",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Benin",
    "region2": "Lagos"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonAbuja",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "Abuja"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonHarcourt",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "Harcourt"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonKano",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "Kano"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonChad",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "Chad"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonCentralAfricanRepublic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "CentralAfricanRepublic"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonBrazzaville",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "Brazzaville"
  },
  {
    "dataName": "PhysicalAdjacencyGabonBrazzaville",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Gabon",
    "region2": "Brazzaville"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonGabon",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "Gabon"
  },
  {
    "dataName": "PhysicalAdjacencyCameroonEcuatoria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Cameroon",
    "region2": "Ecuatoria"
  },
  {
    "dataName": "PhysicalAdjacencyEcuatoriaGabon",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Ecuatoria",
    "region2": "Gabon"
  },
  {
    "dataName": "PhysicalAdjacencyBrazzavilleCentralAfricanRepublic",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brazzaville",
    "region2": "CentralAfricanRepublic"
  },
  {
    "dataName": "PhysicalAdjacencyBrazzavilleKinshasa",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brazzaville",
    "region2": "Kinshasa"
  },
  {
    "dataName": "PhysicalAdjacencyBrazzavilleMbandaka",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Brazzaville",
    "region2": "Mbandaka"
  },
  {
    "dataName": "PhysicalAdjacencyFinlandKarelia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Finland",
    "region2": "Karelia"
  },
  {
    "dataName": "PhysicalAdjacencyKareliaNorway",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Karelia",
    "region2": "Norway"
  },
  {
    "dataName": "PhysicalAdjacencyKareliaNovgorod",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Karelia",
    "region2": "Novgorod"
  },
  {
    "dataName": "PhysicalAdjacencyKareliaArchangelsk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Karelia",
    "region2": "Archangelsk"
  },
  {
    "dataName": "PhysicalAdjacencyKareliaYaroslavl",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Karelia",
    "region2": "Yaroslavl"
  },
   {
    "dataName": "PhysicalAdjacencyNovgorodYaroslavl",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Novgorod",
    "region2": "Yaroslavl"
  },
   {
    "dataName": "PhysicalAdjacencyArchangelskYaroslavl",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Archangelsk",
    "region2": "Yaroslavl"
  },
  {
    "dataName": "PhysicalAdjacencyBalticStatesNovgorod",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "BalticStates",
    "region2": "Novgorod"
  },
  {
    "dataName": "PhysicalAdjacencyEstoniaNovgorod",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Estonia",
    "region2": "Novgorod"
  },
  {
    "dataName": "PhysicalAdjacencyMoskvaNovgorod",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Moskva",
    "region2": "Novgorod"
  },
  {
    "dataName": "PhysicalAdjacencyMoskvaYaroslavl",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Moskva",
    "region2": "Yaroslavl"
  },
  {
    "dataName": "PhysicalAdjacencyUralsArchangelsk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Urals",
    "region2": "Archangelsk"
  },
  {
    "dataName": "PhysicalAdjacencySurgutArchangelsk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Surgut",
    "region2": "Archangelsk"
  },
  {
    "dataName": "PhysicalAdjacencyPermArchangelsk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Perm",
    "region2": "Archangelsk"
  },
  {
    "dataName": "PhysicalAdjacencyVolgaYaroslavl",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Volga",
    "region2": "Yaroslavl"
  },
   {
    "dataName": "PhysicalAdjacencyPermYaroslavl",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Perm",
    "region2": "Yaroslavl"
  },
  {
    "dataName": "PhysicalAdjacencyBelarusNovgorod",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belarus",
    "region2": "Novgorod"
  },
  {
    "dataName": "PhysicalAdjacencyLithuaniaKaliningrad",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Lithuania",
    "region2": "Kaliningrad"
  },
  {
    "dataName": "PhysicalAdjacencyGdanskKaliningrad",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Gdansk",
    "region2": "Kaliningrad"
  },
  {
    "dataName": "PhysicalAdjacencyCzechiaSouthGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Czechia",
    "region2": "SouthGermany"
  },
  {
    "dataName": "PhysicalAdjacencyCzechiaEastGermany",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Czechia",
    "region2": "EastGermany"
  },
  {
    "dataName": "PhysicalAdjacencyCzechiaWroclaw",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Czechia",
    "region2": "Wroclaw"
  },
  {
    "dataName": "PhysicalAdjacencyGdanskWroclaw",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Gdansk",
    "region2": "Wroclaw"
  },
  {
    "dataName": "PhysicalAdjacencyPolandWroclaw",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Poland",
    "region2": "Wroclaw"
  },
  {
    "dataName": "PhysicalAdjacencyPolandGdansk",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Poland",
    "region2": "Gdansk"
  },
  {
    "dataName": "PhysicalAdjacencyCzechiaVienna",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Czechia",
    "region2": "Vienna"
  },
  {
    "dataName": "PhysicalAdjacencyCzechiaSlovakia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Czechia",
    "region2": "Slovakia"
  },
  {
    "dataName": "PhysicalAdjacencySlovakiaPoland",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Slovakia",
    "region2": "Poland"
  },
  {
    "dataName": "PhysicalAdjacencySlovakiaWroclaw",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Slovakia",
    "region2": "Wroclaw"
  },
  {
    "dataName": "PhysicalAdjacencySlovakiaHungary",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Slovakia",
    "region2": "Hungary"
  },
  {
    "dataName": "PhysicalAdjacencySlovakiaLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Slovakia",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencySlovakiaVienna",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Slovakia",
    "region2": "Vienna"
  },
  {
    "dataName": "PhysicalAdjacencyHungaryVienna",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hungary",
    "region2": "Vienna"
  },
  {
    "dataName": "PhysicalAdjacencyHungaryLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hungary",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencyHungaryTransylvania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hungary",
    "region2": "Transylvania"
  },
  {
    "dataName": "PhysicalAdjacencyHungaryCroatia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hungary",
    "region2": "Croatia"
  },
  {
    "dataName": "PhysicalAdjacencyBosniaCroatia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Sarajevo",
    "region2": "Croatia"
  },
  {
    "dataName": "PhysicalAdjacencyHungaryBelgrade",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Hungary",
    "region2": "Belgrade"
  },
  {
    "dataName": "PhysicalAdjacencyRomaniaLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Romania",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencyTransylvaniaLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Transylvania",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencyMoldovaLwow",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Moldova",
    "region2": "Lwow"
  },
  {
    "dataName": "PhysicalAdjacencyRomaniaBulgaria",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Romania",
    "region2": "Bulgaria"
  },
  {
    "dataName": "PhysicalAdjacencyRomaniaBelgrade",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Romania",
    "region2": "Belgrade"
  },
  {
    "dataName": "PhysicalAdjacencyTransylvaniaBelgrade",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Transylvania",
    "region2": "Belgrade"
  },
  {
    "dataName": "PhysicalAdjacencyBulgariaBelgrade",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bulgaria",
    "region2": "Belgrade"
  },
  {
    "dataName": "PhysicalAdjacencyBulgariaAlbania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bulgaria",
    "region2": "Albania"
  },
  {
    "dataName": "PhysicalAdjacencyBulgariaGreece",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bulgaria",
    "region2": "Greece"
  },
  {
    "dataName": "PhysicalAdjacencyBulgariaIstanbul",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Bulgaria",
    "region2": "Istanbul"
  },
  {
    "dataName": "PhysicalAdjacencyGreeceIstanbul",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Greece",
    "region2": "Istanbul"
  },
  {
    "dataName": "PhysicalAdjacencyGreeceAlbania",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Greece",
    "region2": "Albania"
  },
  {
    "dataName": "PhysicalAdjacencyAlbaniaCroatia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Albania",
    "region2": "Croatia"
  },
  {
    "dataName": "PhysicalAdjacencyBelgradeSarajevo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Belgrade",
    "region2": "Sarajevo"
  },
  {
    "dataName": "PhysicalAdjacencyAlbaniaSarajevo",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Albania",
    "region2": "Sarajevo"
  },
  {
    "dataName": "PhysicalAdjacencyCroatiaVienna",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Croatia",
    "region2": "Vienna"
  },
  {
    "dataName": "PhysicalAdjacencyCroatiaItaly",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Croatia",
    "region2": "Italy"
  },
  {
    "dataName": "PhysicalAdjacencyGeorgiaVladikavkaz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Georgia",
    "region2": "Vladikavkaz"
  },
  {
    "dataName": "PhysicalAdjacencyGeorgiaKrasnodar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Georgia",
    "region2": "Krasnodar"
  },
  {
    "dataName": "PhysicalAdjacencyGeorgiaMakhachkala",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Georgia",
    "region2": "Makhachkala"
  },
  {
    "dataName": "PhysicalAdjacencyAzerbaijanMakhachkala",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Azerbaijan",
    "region2": "Makhachkala"
  },
  {
    "dataName": "PhysicalAdjacencyRostovskayaKrasnodar",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rostovskaya",
    "region2": "Krasnodar"
  },
  {
    "dataName": "PhysicalAdjacencyRostovskayaVladikavkaz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rostovskaya",
    "region2": "Vladikavkaz"
  },
  {
    "dataName": "PhysicalAdjacencyRostovskayaAstrakhan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rostovskaya",
    "region2": "Astrakhan"
  },
  {
    "dataName": "PhysicalAdjacencyRostovskayaVolgograd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Rostovskaya",
    "region2": "Volgograd"
  },
  {
    "dataName": "PhysicalAdjacencyAstrakhanVolgograd",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Astrakhan",
    "region2": "Volgograd"
  },
  {
    "dataName": "PhysicalAdjacencyAstrakhanMakhachkala",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Astrakhan",
    "region2": "Makhachkala"
  },
  {
    "dataName": "PhysicalAdjacencyAstrakhanVladikavkaz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Astrakhan",
    "region2": "Vladikavkaz"
  },
  {
    "dataName": "PhysicalAdjacencyMakhachkalaVladikavkaz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Makhachkala",
    "region2": "Vladikavkaz"
  },
  {
    "dataName": "PhysicalAdjacencyKrasnodarVladikavkaz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Krasnodar",
    "region2": "Vladikavkaz"
  },
  {
    "dataName": "PhysicalAdjacencyGeorgiaDiyarbakir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Georgia",
    "region2": "Diyarbakir"
  },
  {
    "dataName": "PhysicalAdjacencyGeorgiaAzerbaijan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Georgia",
    "region2": "Azerbaijan"
  },
  {
    "dataName": "PhysicalAdjacencyGeorgiaArmenia",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Georgia",
    "region2": "Armenia"
  },
  {
    "dataName": "PhysicalAdjacencyArmeniaAzerbaijan",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Armenia",
    "region2": "Azerbaijan"
  },
  {
    "dataName": "PhysicalAdjacencyArmeniaTabriz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Armenia",
    "region2": "Tabriz"
  },
  {
    "dataName": "PhysicalAdjacencyArmeniaDiyarbakir",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Armenia",
    "region2": "Diyarbakir"
  },
  {
    "dataName": "PhysicalAdjacencyAzerbaijanTabriz",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Azerbaijan",
    "region2": "Tabriz"
  },
  {
    "dataName": "PhysicalAdjacencyAzerbaijanTehran",
    "relationType": "PhysicalAdjacency",
-   "nation1": "",
    "region1": "Azerbaijan",
    "region2": "Tehran"
  }
