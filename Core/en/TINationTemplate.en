@@ -170,10 +170,6 @@ TINationTemplate.displayName.DEU=Germany
 TINationTemplate.displayNameWithArticle.DEU=Germany
 TINationTemplate.nationAdjective.DEU=German
 TINationTemplate.displayNameWithArticlePrep.DEU=in Germany
-TINationTemplate.displayName.DOM=Greater Dominion
-TINationTemplate.displayNameWithArticle.DOM=the Greater Dominion
-TINationTemplate.nationAdjective.DOM=Greater Dominion
-TINationTemplate.displayNameWithArticlePrep.DOM=in the Greater Dominion
 TINationTemplate.displayName.DVD=Dravidia
 TINationTemplate.displayNameWithArticle.DVD=Dravidia
 TINationTemplate.nationAdjective.DVD=Dravidian
@@ -1331,6 +1327,11 @@ TINationTemplate.unionDisplayName.BAS=Baltic States
 TINationTemplate.unionDisplayNameWithArticle.BAS=the Baltic States
 TINationTemplate.unionAdjective.BAS=Baltic
 TINationTemplate.unionDisplayNameWithArticlePrep.BAS=in the Baltic States
+
+TINationTemplate.unionDisplayName.CSA=Greater Dominion
+TINationTemplate.unionDisplayNameWithArticle.CSA=the Greater Dominion
+TINationTemplate.unionAdjective.CSA=Greater Dominion
+TINationTemplate.unionDisplayNameWithArticlePrep.CSA=in the Greater Dominion
 
 TINationTemplate.unionDisplayName.LBY=Libya
 TINationTemplate.unionDisplayNameWithArticle.LBY=Libya
