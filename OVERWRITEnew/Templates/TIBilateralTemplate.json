@@ -4433,7 +4433,7 @@
    "region2": "",
    "projectUnlockName": "Project_SouthAmericanUnion",
    "capitalClaim": true,
-   "initialOwner": true,
+   "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
  },
@@ -4447,7 +4447,7 @@
    "region2": "",
    "projectUnlockName": "Project_SouthAmericanUnion",
    "capitalClaim": null,
-   "initialOwner": true,
+   "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
  },
@@ -9584,7 +9584,7 @@
    "region1": "NorthGermany",
    "region2": "",
    "projectUnlockName": "Project_OurOwnWay",
-   "capitalClaim": true,
+   "capitalClaim": null,
    "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
@@ -9598,7 +9598,7 @@
    "region1": "SouthGermany",
    "region2": "",
    "projectUnlockName": "Project_OurOwnWay",
-   "capitalClaim": true,
+   "capitalClaim": null,
    "initialOwner": null,
    "initialColony": null,
    "friendlyOnly": null
@@ -14358,7 +14358,7 @@
    "region1": "Italy",
    "region2": "",
    "projectUnlockName": "",
-   "capitalClaim": true,
+   "capitalClaim": null,
    "initialOwner": true,
    "initialColony": null,
    "friendlyOnly": null
@@ -14597,20 +14597,6 @@
    "region2": "",
    "projectUnlockName": "",
    "capitalClaim": true,
-   "initialOwner": true,
-   "initialColony": null,
-   "friendlyOnly": null
- },
- {
-   "dataName": "ClaimKAZAktobe",
-   "relationType": "Claim",
-   "nation1": "KAZ",
-   "nation2": "",
-   "federation": "",
-   "region1": "Astana",
-   "region2": "",
-   "projectUnlockName": "",
-   "capitalClaim": null,
    "initialOwner": true,
    "initialColony": null,
    "friendlyOnly": null
@@ -38877,7 +38863,7 @@
    "friendlyOnly": null
  },
  {
-   "dataName": "ClaimCROZagreb",
+   "dataName": "ClaimCROCroatia",
    "relationType": "Claim",
    "nation1": "CRO",
    "nation2": "",
