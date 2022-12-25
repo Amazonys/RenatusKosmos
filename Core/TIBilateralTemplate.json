@@ -18928,8 +18928,7 @@
    "relationType": "Claim",
    "nation1": "ROS",
    "region1": "Volgograd",
-   "projectUnlockName": "Project_DissolutionofRussia",
-   "capitalClaim": true
+   "projectUnlockName": "Project_DissolutionofRussia"
  },
  {
    "dataName": "ClaimCRICrimea",
@@ -19059,14 +19058,6 @@
    "relationType": "Claim",
    "nation1": "BYT",
    "region1": "UlanUde",
-   "projectUnlockName": "Project_DissolutionofRussia",
-   "capitalClaim": true
- },
- {
-   "dataName": "ClaimSKHYakutsk",
-   "relationType": "Claim",
-   "nation1": "PRM",
-   "region1": "Yakutsk",
    "projectUnlockName": "Project_DissolutionofRussia",
    "capitalClaim": true
  },
