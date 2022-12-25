@@ -1570,6 +1570,44 @@
    "resourcesGranted": []
 },
 {
+   "friendlyName": "Brazil Amazon",
+   "dataName": "Project_BrazilAmazon",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 4000,
+   "prereqs": [
+      "UnityMovements"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "BRA",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Brazil LaPlata",
+   "dataName": "Project_BrazilLaPlata",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 4000,
+   "prereqs": [
+      "UnityMovements"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "BRA",
+   "factionAvailableChance": 70,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
+{
    "friendlyName": "La Plata",
    "dataName": "Project_LaPlata",
    "techCategory": "SocialScience",

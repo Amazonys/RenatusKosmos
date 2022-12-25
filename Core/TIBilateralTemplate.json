@@ -2191,6 +2191,90 @@
    "projectUnlockName": "Project_LusitaniaLeague"
  },
  {
+   "dataName": "ClaimBRASantaCruz",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "SantaCruz",
+   "projectUnlockName": "Project_BrazilAmazon"
+ },
+ {
+   "dataName": "ClaimBRAVillavicencio",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Villavicencio",
+   "projectUnlockName": "Project_BrazilAmazon"
+ },
+ {
+   "dataName": "ClaimBRAGuayana",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Guayana",
+   "projectUnlockName": "Project_BrazilAmazon"
+ },
+ {
+   "dataName": "ClaimBRASuriname",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Suriname",
+   "projectUnlockName": "Project_BrazilAmazon"
+ },
+ {
+   "dataName": "ClaimBRAEuropeanWestIndies",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "EuropeanWestIndies",
+   "projectUnlockName": "Project_BrazilAmazon"
+ },
+ {
+   "dataName": "ClaimBRAIquitos",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Iquitos",
+   "projectUnlockName": "Project_BrazilAmazon"
+ },
+ {
+   "dataName": "ClaimBRAGranChaco",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "GranChaco",
+   "projectUnlockName": "Project_BrazilLaPlata"
+ },
+ {
+   "dataName": "ClaimBRACordoba",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Cordoba",
+   "projectUnlockName": "Project_BrazilLaPlata"
+ },
+ {
+   "dataName": "ClaimBRARosario",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Rosario",
+   "projectUnlockName": "Project_BrazilLaPlata"
+ },
+ {
+   "dataName": "ClaimBRAPampas",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Pampas",
+   "projectUnlockName": "Project_BrazilLaPlata"
+ },
+ {
+   "dataName": "ClaimBRAUruguay",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Uruguay",
+   "projectUnlockName": "Project_BrazilLaPlata"
+ },
+ {
+   "dataName": "ClaimBRAParaguay",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Paraguay",
+   "projectUnlockName": "Project_BrazilLaPlata"
+ },
+ {
    "dataName": "ClaimARGCuritiba",
    "relationType": "Claim",
    "nation1": "ARG",
