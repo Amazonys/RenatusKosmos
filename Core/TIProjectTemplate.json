@@ -1601,7 +1601,7 @@
    "oneTimeGlobally": true,
    "repeatable": false,
    "requiresNation": "BRA",
-   "factionAvailableChance": 70,
+   "factionAvailableChance": 100,
    "initialUnlockChance": 0,
    "deltaUnlockChance": 2,
    "maxUnlockChance": 50,
