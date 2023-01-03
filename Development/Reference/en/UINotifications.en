@@ -65,6 +65,7 @@ UI.Notifications.MyControlPointDominatedHed=Control Point Surrendered
 UI.Notifications.MyControlPointDominatedSummary={0} agents have forced the surrender of a {1} control point {2}.													// faction adjective, faction adjective, nation with prep
 UI.Notifications.MyControlPointDominatedDetail=Agents of {0} threatened to use orbital strikes on various military and civilian targets {1}, causing leaders there to surrender one of our control points to them. {2}
 UI.Notifications.MyControlPointDominatedDetail2=Supporters of {0} have launched devastating orbital strikes against military and civilian targets {1} after attempting to cow our defiant supporters into submission. The survivors have surrended one of our control points to them. {2}
+UI.Notifications.Neutral=neutral
 UI.Notifications.MyControlPointCrackedDownHed=Crackdown
 UI.Notifications.MyControlPointCrackedDownSummary=Our adversaries have conducted a crackdown on our {0} control point in {1}. 
 UI.Notifications.MyControlPointCrackedDownDetail=Our adversaries have conducted a crackdown on our {0} control point in {1}. It is vulnerable to the Purge mission, and we will not receive benefits from it until {2}.					// control point description, nation, date

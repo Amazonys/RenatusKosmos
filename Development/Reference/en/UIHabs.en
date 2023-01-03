@@ -155,3 +155,4 @@ UI.Habs.DuplicateHab=Select a nearby hab to duplicate its layout here. Unless an
 UI.Habs.PriorModule=Former {0}
 UI.Habs.DecommissionModuleQueryRefund=We can cancel construction of this module at no cost.
 UI.Habs.Paren=<sp>({0}/month)
+UI.Habs.UpgradeOnly=Only one module of this type (including its upgrades) is allowed on this hab.
