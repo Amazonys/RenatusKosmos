@@ -2416,6 +2416,13 @@
    "projectUnlockName": "Project_BrazilAmazon"
  },
  {
+   "dataName": "ClaimBRAGuyana",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Guyana",
+   "projectUnlockName": "Project_BrazilAmazon"
+ },
+ {
    "dataName": "ClaimBRASuriname",
    "relationType": "Claim",
    "nation1": "BRA",
@@ -2477,6 +2484,125 @@
    "nation1": "BRA",
    "region1": "Paraguay",
    "projectUnlockName": "Project_BrazilLaPlata"
+ },
+ {
+   "dataName": "ClaimBRAColombia",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Colombia",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRABarranquilla",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Barranquilla",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRACali",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Cali",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAEcuador",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Ecuador",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAVenezuela",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Venezuela",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAMaracaibo",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Maracaibo",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRABolivia",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Bolivia",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAPeru",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Peru",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRACusco",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Cusco",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAArequipa",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Arequipa",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAHuancayo",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Huancayo",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRASalta",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Salta",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAAntofagasta",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Antofagasta",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAValparaiso",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Valparaiso",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRASantiago",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Santiago",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAPuntasArenas",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "PuntasArenas",
+   "projectUnlockName": "Project_ImperioSul"
+ },
+ {
+   "dataName": "ClaimBRAPatagonia",
+   "relationType": "Claim",
+   "nation1": "BRA",
+   "region1": "Patagonia",
+   "projectUnlockName": "Project_ImperioSul"
  },
  {
    "dataName": "ClaimARGCuritiba",

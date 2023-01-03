@@ -1608,6 +1608,27 @@
    "resourcesGranted": []
 },
 {
+   "friendlyName": "Brazil Imperio Sul",
+   "dataName": "Project_ImperioSul",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 4000,
+   "prereqs": [
+   	  "GreatNations",
+   	  "Project_BrazilAmazon",
+      "Project_BrazilLaPlata"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "BRA",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
+{
    "friendlyName": "La Plata",
    "dataName": "Project_LaPlata",
    "techCategory": "SocialScience",

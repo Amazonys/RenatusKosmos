@@ -1902,8 +1902,8 @@
    "friendlyName": "Brazil",
    "dataName": "BRA",
    "flagResource": "nationflags/Brazil",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Brazil",
+   "unionTrigger": 29,
    "multiplier": 1,
    "color32": {
       "r": 0,
