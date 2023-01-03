@@ -2608,6 +2608,26 @@
    "maxUnlockChance": 50,
    "resourcesGranted": []
 },
+{
+   "friendlyName": "Irredentist Brunei",
+   "dataName": "Project_IrredentistBrunei",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 1000,
+   "prereqs": [
+	  "IndependenceMovements",
+      "UnityMovements"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "BRN",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 2,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
  {
    "friendlyName": "United Malay Nation",
    "dataName": "Project_UnitedMalayNation",

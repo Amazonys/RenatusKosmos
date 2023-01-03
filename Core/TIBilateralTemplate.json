@@ -7703,6 +7703,20 @@
    "initialOwner": true
  },
  {
+   "dataName": "ClaimMYSKuching",
+   "relationType": "Claim",
+   "nation1": "BRN",
+   "region1": "Kuching",
+   "projectUnlockName": "Project_IrredentistBrunei"
+ },
+ {
+   "dataName": "ClaimMYSSarawakandSabah",
+   "relationType": "Claim",
+   "nation1": "BRN",
+   "region1": "SarawakandSabah",
+   "projectUnlockName": "Project_IrredentistBrunei"
+ },
+ {
    "dataName": "ClaimMYSBrunei",
    "relationType": "Claim",
    "nation1": "MYS",
