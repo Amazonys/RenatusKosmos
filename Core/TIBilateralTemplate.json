@@ -12,6 +12,18 @@
    "federation": "EUAFed"
  },
  {
+   "dataName": "FederationESTEUAFed",
+   "relationType": "Federation",
+   "nation1": "EST",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationLTHEUAFed",
+   "relationType": "Federation",
+   "nation1": "LTH",
+   "federation": "EUAFed"
+ },
+ {
    "dataName": "FederationDEUEUAFed",
    "relationType": "Federation",
    "nation1": "DEU",
@@ -21,6 +33,12 @@
    "dataName": "FederationEUAEUAFed",
    "relationType": "Federation",
    "nation1": "EUA",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationFRAEUAFed",
+   "relationType": "Federation",
+   "nation1": "FRA",
    "federation": "EUAFed"
  },
  {
@@ -54,12 +72,6 @@
    "federation": "EUAFed"
  },
  {
-   "dataName": "FederationSCAEUAFed",
-   "relationType": "Federation",
-   "nation1": "SCA",
-   "federation": "EUAFed"
- },
- {
    "dataName": "FederationESPEUAFed",
    "relationType": "Federation",
    "nation1": "ESP",
@@ -69,6 +81,12 @@
    "dataName": "FederationALPEUAFed",
    "relationType": "Federation",
    "nation1": "ALP",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationSCAEUAFed",
+   "relationType": "Federation",
+   "nation1": "SCA",
    "federation": "EUAFed"
  },
  {
@@ -102,6 +120,12 @@
    "federation": "EUAFed"
  },
  {
+   "dataName": "FederationCYPEUAFed",
+   "relationType": "Federation",
+   "nation1": "CYP",
+   "federation": "EUAFed"
+ },
+ {
    "dataName": "FederationCZEEUAFed",
    "relationType": "Federation",
    "nation1": "CZE",
@@ -120,9 +144,9 @@
    "federation": "EUAFed"
  },
  {
-   "dataName": "FederationNBKEUAFed",
+   "dataName": "FederationCROEUAFed",
    "relationType": "Federation",
-   "nation1": "NBK",
+   "nation1": "CRO",
    "federation": "EUAFed"
  },
  {
@@ -162,6 +186,12 @@
    "nation2": "CHN"
  },
  {
+   "dataName": "BreakawaySMLSOM",
+   "relationType": "Breakaway",
+   "nation1": "SML",
+   "nation2": "SOM"
+ },
+ {
    "dataName": "BreakawayPALISR",
    "relationType": "Breakaway",
    "nation1": "PAL",
@@ -174,6 +204,18 @@
    "nation2": "BAS"
  },
  {
+   "dataName": "AllianceUSAEST",
+   "relationType": "Alliance",
+   "nation1": "USA",
+   "nation2": "EST"
+ },
+ {
+   "dataName": "AllianceUSALTH",
+   "relationType": "Alliance",
+   "nation1": "USA",
+   "nation2": "LTH"
+ },
+ {
    "dataName": "AllianceUSADEU",
    "relationType": "Alliance",
    "nation1": "USA",
@@ -184,6 +226,12 @@
    "relationType": "Alliance",
    "nation1": "USA",
    "nation2": "EUA"
+ },
+ {
+   "dataName": "AllianceUSAFRA",
+   "relationType": "Alliance",
+   "nation1": "USA",
+   "nation2": "FRA"
  },
  {
    "dataName": "AllianceUSAITA",
@@ -270,6 +318,12 @@
    "nation2": "GRE"
  },
  {
+   "dataName": "AllianceUSACYP",
+   "relationType": "Alliance",
+   "nation1": "USA",
+   "nation2": "CYP"
+ },
+ {
    "dataName": "AllianceUSACZE",
    "relationType": "Alliance",
    "nation1": "USA",
@@ -288,10 +342,16 @@
    "nation2": "HUN"
  },
  {
-   "dataName": "AllianceUSANBK",
+   "dataName": "AllianceUSACRO",
    "relationType": "Alliance",
    "nation1": "USA",
-   "nation2": "NBK"
+   "nation2": "CRO"
+ },
+ {
+   "dataName": "AllianceUSAALB",
+   "relationType": "Alliance",
+   "nation1": "USA",
+   "nation2": "ALB"
  },
  {
    "dataName": "AllianceUSASCA",
@@ -312,6 +372,18 @@
    "nation2": "BAS"
  },
  {
+   "dataName": "AllianceCANEST",
+   "relationType": "Alliance",
+   "nation1": "CAN",
+   "nation2": "EST"
+ },
+ {
+   "dataName": "AllianceCANLTH",
+   "relationType": "Alliance",
+   "nation1": "CAN",
+   "nation2": "LTH"
+ },
+ {
    "dataName": "AllianceCANDEU",
    "relationType": "Alliance",
    "nation1": "CAN",
@@ -322,6 +394,12 @@
    "relationType": "Alliance",
    "nation1": "CAN",
    "nation2": "EUA"
+ },
+ {
+   "dataName": "AllianceCANFRA",
+   "relationType": "Alliance",
+   "nation1": "CAN",
+   "nation2": "FRA"
  },
  {
    "dataName": "AllianceCANITA",
@@ -402,6 +480,12 @@
    "nation2": "GRE"
  },
  {
+   "dataName": "AllianceCANCYP",
+   "relationType": "Alliance",
+   "nation1": "CAN",
+   "nation2": "CYP"
+ },
+ {
    "dataName": "AllianceCANCZE",
    "relationType": "Alliance",
    "nation1": "CAN",
@@ -420,10 +504,16 @@
    "nation2": "HUN"
  },
  {
-   "dataName": "AllianceCANNBK",
+   "dataName": "AllianceCANCRO",
    "relationType": "Alliance",
    "nation1": "CAN",
-   "nation2": "NBK"
+   "nation2": "CRO"
+ },
+ {
+   "dataName": "AllianceCANALB",
+   "relationType": "Alliance",
+   "nation1": "CAN",
+   "nation2": "ALB"
  },
  {
    "dataName": "AllianceCANSCA",
@@ -444,6 +534,18 @@
    "nation2": "BAS"
  },
  {
+   "dataName": "AllianceGBREST",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "EST"
+ },
+ {
+   "dataName": "AllianceGBRLTH",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "LTH"
+ },
+ {
    "dataName": "AllianceGBRDEU",
    "relationType": "Alliance",
    "nation1": "GBR",
@@ -454,6 +556,12 @@
    "relationType": "Alliance",
    "nation1": "GBR",
    "nation2": "EUA"
+ },
+ {
+   "dataName": "AllianceGBRFRA",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "FRA"
  },
  {
    "dataName": "AllianceGBRITA",
@@ -528,6 +636,12 @@
    "nation2": "GRE"
  },
  {
+   "dataName": "AllianceGBRCYP",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "CYP"
+ },
+ {
    "dataName": "AllianceGBRCZE",
    "relationType": "Alliance",
    "nation1": "GBR",
@@ -546,10 +660,16 @@
    "nation2": "HUN"
  },
  {
-   "dataName": "AllianceGBRNBK",
+   "dataName": "AllianceGBRCRO",
    "relationType": "Alliance",
    "nation1": "GBR",
-   "nation2": "NBK"
+   "nation2": "CRO"
+ },
+ {
+   "dataName": "AllianceGBRALB",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "ALB"
  },
  {
    "dataName": "AllianceGBRSCA",
@@ -570,6 +690,18 @@
    "nation2": "BAS"
  },
  {
+   "dataName": "AllianceISLEST",
+   "relationType": "Alliance",
+   "nation1": "ISL",
+   "nation2": "EST"
+ },
+ {
+   "dataName": "AllianceISLLTH",
+   "relationType": "Alliance",
+   "nation1": "ISL",
+   "nation2": "LTH"
+ },
+ {
    "dataName": "AllianceISLDEU",
    "relationType": "Alliance",
    "nation1": "ISL",
@@ -580,6 +712,12 @@
    "relationType": "Alliance",
    "nation1": "ISL",
    "nation2": "EUA"
+ },
+ {
+   "dataName": "AllianceISLFRA",
+   "relationType": "Alliance",
+   "nation1": "ISL",
+   "nation2": "FRA"
  },
  {
    "dataName": "AllianceISLITA",
@@ -648,6 +786,12 @@
    "nation2": "GRE"
  },
  {
+   "dataName": "AllianceISLCYP",
+   "relationType": "Alliance",
+   "nation1": "ISL",
+   "nation2": "CYP"
+ },
+ {
    "dataName": "AllianceISLCZE",
    "relationType": "Alliance",
    "nation1": "ISL",
@@ -666,10 +810,16 @@
    "nation2": "HUN"
  },
  {
-   "dataName": "AllianceISLNBK",
+   "dataName": "AllianceISLCRO",
    "relationType": "Alliance",
    "nation1": "ISL",
-   "nation2": "NBK"
+   "nation2": "CRO"
+ },
+ {
+   "dataName": "AllianceISLALB",
+   "relationType": "Alliance",
+   "nation1": "ISL",
+   "nation2": "ALB"
  },
  {
    "dataName": "AllianceISLSCA",
@@ -690,6 +840,18 @@
    "nation2": "BAS"
  },
  {
+   "dataName": "AllianceNOREST",
+   "relationType": "Alliance",
+   "nation1": "NOR",
+   "nation2": "EST"
+ },
+ {
+   "dataName": "AllianceNORLTH",
+   "relationType": "Alliance",
+   "nation1": "NOR",
+   "nation2": "LTH"
+ },
+ {
    "dataName": "AllianceNORDEU",
    "relationType": "Alliance",
    "nation1": "NOR",
@@ -700,6 +862,12 @@
    "relationType": "Alliance",
    "nation1": "NOR",
    "nation2": "EUA"
+ },
+ {
+   "dataName": "AllianceNORFRA",
+   "relationType": "Alliance",
+   "nation1": "NOR",
+   "nation2": "FRA"
  },
  {
    "dataName": "AllianceNORITA",
@@ -762,6 +930,12 @@
    "nation2": "GRE"
  },
  {
+   "dataName": "AllianceNORCYP",
+   "relationType": "Alliance",
+   "nation1": "NOR",
+   "nation2": "CYP"
+ },
+ {
    "dataName": "AllianceNORCZE",
    "relationType": "Alliance",
    "nation1": "NOR",
@@ -780,10 +954,16 @@
    "nation2": "HUN"
  },
  {
-   "dataName": "AllianceNORNBK",
+   "dataName": "AllianceNORCRO",
    "relationType": "Alliance",
    "nation1": "NOR",
-   "nation2": "NBK"
+   "nation2": "CRO"
+ },
+ {
+   "dataName": "AllianceNORALB",
+   "relationType": "Alliance",
+   "nation1": "NOR",
+   "nation2": "ALB"
  },
  {
    "dataName": "AllianceNORSCA",
@@ -804,6 +984,18 @@
    "nation2": "BAS"
  },
  {
+   "dataName": "AllianceTUREST",
+   "relationType": "Alliance",
+   "nation1": "TUR",
+   "nation2": "EST"
+ },
+ {
+   "dataName": "AllianceTURLTH",
+   "relationType": "Alliance",
+   "nation1": "TUR",
+   "nation2": "LTH"
+ },
+ {
    "dataName": "AllianceTURDEU",
    "relationType": "Alliance",
    "nation1": "TUR",
@@ -814,6 +1006,12 @@
    "relationType": "Alliance",
    "nation1": "TUR",
    "nation2": "EUA"
+ },
+ {
+   "dataName": "AllianceTURFRA",
+   "relationType": "Alliance",
+   "nation1": "TUR",
+   "nation2": "FRA"
  },
  {
    "dataName": "AllianceTURITA",
@@ -870,6 +1068,12 @@
    "nation2": "GRE"
  },
  {
+   "dataName": "AllianceTURCYP",
+   "relationType": "Alliance",
+   "nation1": "TUR",
+   "nation2": "CYP"
+ },
+ {
    "dataName": "AllianceTURCZE",
    "relationType": "Alliance",
    "nation1": "TUR",
@@ -888,10 +1092,16 @@
    "nation2": "HUN"
  },
  {
-   "dataName": "AllianceTURNBK",
+   "dataName": "AllianceTURCRO",
    "relationType": "Alliance",
    "nation1": "TUR",
-   "nation2": "NBK"
+   "nation2": "CRO"
+ },
+ {
+   "dataName": "AllianceTURALB",
+   "relationType": "Alliance",
+   "nation1": "TUR",
+   "nation2": "ALB"
  },
  {
    "dataName": "AllianceTURSCA",
@@ -1116,45 +1326,39 @@
    "nation2": "TJK"
  },
  {
-   "dataName": "AllianceEUATCD",
+   "dataName": "AllianceFRATCD",
    "relationType": "Alliance",
-   "nation1": "EUA",
+   "nation1": "FRA",
    "nation2": "TCD"
  },
  {
-   "dataName": "AllianceEUANER",
+   "dataName": "AllianceFRANER",
    "relationType": "Alliance",
-   "nation1": "EUA",
+   "nation1": "FRA",
    "nation2": "NER"
  },
  {
-   "dataName": "AllianceEUASEG",
+   "dataName": "AllianceFRASEG",
    "relationType": "Alliance",
-   "nation1": "EUA",
+   "nation1": "FRA",
    "nation2": "SEG"
  },
  {
-   "dataName": "AllianceEUAIVO",
+   "dataName": "AllianceFRAIVO",
    "relationType": "Alliance",
-   "nation1": "EUA",
+   "nation1": "FRA",
    "nation2": "IVO"
  },
  {
-   "dataName": "AllianceEUACMR",
+   "dataName": "AllianceFRACMR",
    "relationType": "Alliance",
-   "nation1": "EUA",
+   "nation1": "FRA",
    "nation2": "CMR"
  },
  {
-   "dataName": "AllianceEUALWG",
+   "dataName": "AllianceFRABKF",
    "relationType": "Alliance",
-   "nation1": "EUA",
-   "nation2": "LWG"
- },
- {
-   "dataName": "AllianceEUABKF",
-   "relationType": "Alliance",
-   "nation1": "EUA",
+   "nation1": "FRA",
    "nation2": "BKF"
  },
  {
@@ -4884,8 +5088,7 @@
    "relationType": "Claim",
    "nation1": "AFR",
    "region1": "Ethiopia",
-   "projectUnlockName": "Project_AfricanUnion",
-   "capitalClaim": true
+   "projectUnlockName": "Project_AfricanUnion"
  },
  {
    "dataName": "ClaimAFRHarar",
@@ -4934,7 +5137,8 @@
    "relationType": "Claim",
    "nation1": "AFR",
    "region1": "Durban",
-   "projectUnlockName": "Project_AfricanUnion"
+   "projectUnlockName": "Project_AfricanUnion",
+   "capitalClaim": true
  },
  {
    "dataName": "ClaimAFRKenya",
