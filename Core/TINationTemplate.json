@@ -738,8 +738,8 @@
    "friendlyName": "Austria",
    "dataName": "ALP",
    "flagResource": "nationflags/Austria",
-   "unionFlagResource": "",
-   "unionTrigger": null,
+   "unionFlagResource": "nationflags/Austria",
+   "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
       "r": 220,

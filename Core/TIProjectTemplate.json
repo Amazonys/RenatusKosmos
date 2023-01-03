@@ -2551,6 +2551,63 @@
    "maxUnlockChance": 50,
    "resourcesGranted": []
 },
+{
+   "friendlyName": "Alpine Confederacy",
+   "dataName": "Project_AlpineConfederacy",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 2000,
+   "prereqs": [
+      "UnityMovements"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "SWI",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 10,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "United Danubia",
+   "dataName": "Project_UnitedDanubia",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 2500,
+   "prereqs": [
+      "UnityMovements"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "ALP",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 10,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Greater Danubia",
+   "dataName": "Project_GreaterDanubia",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 2500,
+   "prereqs": [
+      "Project_UnitedDanubia"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "ALP",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 10,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
  {
    "friendlyName": "United Baltic",
    "dataName": "Project_UnitedBaltics",

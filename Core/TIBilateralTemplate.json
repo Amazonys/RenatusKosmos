@@ -1609,12 +1609,131 @@
    "initialOwner": true
  },
  {
+   "dataName": "ClaimALPCroatia",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Croatia",
+   "projectUnlockName": "Project_UnitedDanubia"
+ },
+ {
+   "dataName": "ClaimALPSarajevo",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Sarajevo",
+   "projectUnlockName": "Project_UnitedDanubia"
+ },
+ {
+   "dataName": "ClaimALPHungary",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Hungary",
+   "projectUnlockName": "Project_UnitedDanubia"
+ },
+ {
+   "dataName": "ClaimALPCzechia",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Czechia",
+   "projectUnlockName": "Project_UnitedDanubia"
+ },
+ {
+   "dataName": "ClaimALPSlovakia",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Slovakia",
+   "projectUnlockName": "Project_UnitedDanubia"
+ },
+ {
+   "dataName": "ClaimALPTransylvania",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Transylvania",
+   "projectUnlockName": "Project_UnitedDanubia"
+ },
+ {
+   "dataName": "ClaimALPRomania",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Romania",
+   "projectUnlockName": "Project_GreaterDanubia"
+ },
+ {
+   "dataName": "ClaimALPMunich",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Munich",
+   "projectUnlockName": "Project_GreaterDanubia"
+ },
+ {
+   "dataName": "ClaimALPMoldova",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Moldova",
+   "projectUnlockName": "Project_GreaterDanubia"
+ },
+ {
+   "dataName": "ClaimALPBelgrade",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Belgrade",
+   "projectUnlockName": "Project_GreaterDanubia"
+ },
+ {
+   "dataName": "ClaimALPBulgaria",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Bulgaria",
+   "projectUnlockName": "Project_GreaterDanubia"
+ },
+ {
+   "dataName": "ClaimALPLwow",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Lwow",
+   "projectUnlockName": "Project_GreaterDanubia"
+ },
+ {
+   "dataName": "ClaimALPAlbania",
+   "relationType": "Claim",
+   "nation1": "ALP",
+   "region1": "Albania",
+   "projectUnlockName": "Project_GreaterDanubia"
+ },
+ {
    "dataName": "ClaimSWIBern",
    "relationType": "Claim",
    "nation1": "SWI",
    "region1": "Bern",
    "capitalClaim": true,
    "initialOwner": true
+ },
+ {
+   "dataName": "ClaimSWIItaly",
+   "relationType": "Claim",
+   "nation1": "SWI",
+   "region1": "Italy",
+   "projectUnlockName": "Project_AlpineConfederacy"
+ },
+ {
+   "dataName": "ClaimSWILyon",
+   "relationType": "Claim",
+   "nation1": "SWI",
+   "region1": "Lyon",
+   "projectUnlockName": "Project_AlpineConfederacy"
+ },
+ {
+   "dataName": "ClaimSWIMunich",
+   "relationType": "Claim",
+   "nation1": "SWI",
+   "region1": "Munich",
+   "projectUnlockName": "Project_AlpineConfederacy"
+ },
+ {
+   "dataName": "ClaimSWIVienna",
+   "relationType": "Claim",
+   "nation1": "SWI",
+   "region1": "Vienna",
+   "projectUnlockName": "Project_AlpineConfederacy"
  },
  {
    "dataName": "ClaimARGGranChaco",
