@@ -171,7 +171,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 35000,
+   "researchCost": 50000,
    "prereqs": [
       "SuperconductingMagnets",
       "AdvancedAtomicManipulation"
@@ -187,7 +187,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 60000,
+   "researchCost": 95000,
    "prereqs": [
       "AntimatterContainment",
       "OurSpaceFuture"
@@ -196,7 +196,7 @@
  {
    "friendlyName": "Antimatter Propulsion",
    "dataName": "AntimatterPropulsion",
-   "techCategory": "Energy",
+   "techCategory": "SpaceScience",
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": false,
    "endGameTech": false,
@@ -888,7 +888,7 @@
  {
    "friendlyName": "High-Energy Electromagnetic Propulsion",
    "dataName": "HighEnergyElectromagneticPropulsion",
-   "techCategory": "Energy",
+   "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
@@ -901,7 +901,7 @@
  {
    "friendlyName": "High-Energy Electrostatic Propulsion",
    "dataName": "HighEnergyElectrostaticPropulsion",
-   "techCategory": "Energy",
+   "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
@@ -913,7 +913,7 @@
  {
    "friendlyName": "High-Energy Electrothermal Propulsion",
    "dataName": "HighEnergyElectrothermalPropulsion",
-   "techCategory": "Energy",
+   "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
@@ -1205,7 +1205,8 @@
    "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
-      "MissiontoJupiter"
+      "MissiontoJupiter",
+      "NuclearFissioninSpace"
    ],
    "effects": [
       "Effect_ExploreSaturn"
@@ -1375,7 +1376,7 @@
  {
    "friendlyName": "Nuclear Fission in Space",
    "dataName": "NuclearFissioninSpace",
-   "techCategory": "Energy",
+   "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
    "endGameTech": false,
@@ -1390,7 +1391,7 @@
  {
    "friendlyName": "Nuclear Fusion in Space",
    "dataName": "NuclearFusioninSpace",
-   "techCategory": "Energy",
+   "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
    "endGameTech": false,

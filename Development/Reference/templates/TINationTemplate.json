@@ -2240,12 +2240,12 @@
    "buildArmyIPs": 0,
    "buildNavyIPs": 0,
    "initialPriorityPreset": [
-      "Kleptocratic",
+      "Subsistence",
       "Stability",
-      "Authoritarian",
-      "Kleptocratic",
-      "Kleptocratic",
-      "Kleptocratic"
+      "Survival",
+      "Developing",
+      "Developing",
+      "Developing"
    ],
    "ISOCodes": [
       "CAF",
@@ -2291,10 +2291,10 @@
    "initialPriorityPreset": [
       "Authoritarian",
       "Stability",
-      "Kleptocratic",
-      "Kleptocratic",
-      "Kleptocratic",
-      "Kleptocratic"
+      "Subsistence",
+      "Developing",
+      "Developing",
+      "Developing"
    ],
    "ISOCodes": [
       "TCD",
@@ -2391,7 +2391,7 @@
       "Industrialization",
       "Modernization",
       "Digitalization",
-      "Technocratic",
+      "Communist",
       "Communist"
    ],
    "ISOCodes": [
@@ -2487,10 +2487,10 @@
    "initialPriorityPreset": [
       "Kleptocratic",
       "Developing",
-      "Kleptocratic",
-      "Kleptocratic",
-      "Kleptocratic",
-      "Kleptocratic"
+      "Subsistence",
+      "Developing",
+      "Developing",
+      "Developing"
    ],
    "ISOCodes": [
       "COD",
@@ -5854,7 +5854,7 @@
    "initialFactionStr": "",
    "cohesion": 10,
    "unrest": 0,
-   "inequality": 8.6,
+   "inequality": 7.6,
    "democracy": 1.08,
    "education": 7,
    "spaceFunding_year": 2,

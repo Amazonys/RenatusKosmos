@@ -16,6 +16,7 @@ UI.Notifications.CouncilorReports=Secure Communication from {0}											// cou
 UI.Notifications.ContinueButtonText=Continue
 UI.Notifications.CloseButtonText=Close
 UI.Notifications.GotoButtonText=Take me There
+UI.Notifications.GotoButtonTextObjectives=View Objectives
 UI.Notifications.RepeatMissionButtonText=Repeat Mission
 UI.Notifications.RepeatOpButtonText=Repeat Operation
 UI.Notifications.PermanentAssignment=Permanent Assignment
@@ -462,7 +463,7 @@ UI.Notifications.UniqueProjectCompletedSummary={0} completed the {1} project, fo
 UI.Notifications.UniqueProjectCompletedDetail={0} completed the {1} project before we could finish it. We have lost all our progress on it and must select a new project to research.
 UI.Notifications.TraitorDiscoveredHed={0} is a traitor
 UI.Notifications.TraitorDiscoveredSummary=We have discovered {0} is a traitor!
-UI.Notifications.TraitorDiscoveredDetail=We have discovered a traitor on our council! {0} is working for {1} and has been passing them information about our activities. The simplest solution may be to dismiss this backstabber from the council, but we could also send an operative on an assassinate or inspire mission to eliminate or bring the renegade back into the fold.
+UI.Notifications.TraitorDiscoveredDetail=We have discovered a traitor on our council! {0} is working for {1} and has been passing them information about our activities. The simplest solution may be to dismiss this backstabber from the council, but we may also send an operative on an assassinate the traitor, or an inspire mission to bring the renegade back into the fold.
 UI.Notifications.TurnedCouncilorLostHed=Our Asset Goes Silent
 UI.Notifications.TurnedCouncilorLostSummary=Our agent {0} is no longer working for us.
 UI.Notifications.TurnedCouncilorLostDetail={0} is no longer responding to our messages. We can no longer consider this councilor to be working for us.
@@ -630,6 +631,12 @@ UI.Notifications.Diplomacy.TradeValueLow=We're going to need a little more from 
 UI.Notifications.Diplomacy.TradeValueEqual=This is a fair trade, I accept.
 UI.Notifications.Diplomacy.TradeValueHigh=A generous trade, I accept.
 UI.Notifications.Diplomacy.TradeValueOffered=What do you think of this trade?
+UI.Notifications.Diplomacy.TradeValueNone.Alien=Offer (<color=#9964FF>Submit proposition</color>).
+UI.Notifications.Diplomacy.TradeValueVeryLow.Alien=Lacking (<color=#9964FF>Insufficient. Unacceptable.</color>).
+UI.Notifications.Diplomacy.TradeValueLow.Alien=Inadequate (<color=#9964FF>Undesirable</color>).
+UI.Notifications.Diplomacy.TradeValueEqual.Alien=Adequate (<color=#9964FF>Acceptable</color>).
+UI.Notifications.Diplomacy.TradeValueHigh.Alien=Generous (<color=#9964FF>Approved</color>).
+UI.Notifications.Diplomacy.TradeValueOffered.Alien=Review (<color=#9964FF>Accept offer</color>).
 UI.Notifications.Diplomacy.TabResources=Resources
 UI.Notifications.Diplomacy.TabOrgs=Orgs
 UI.Notifications.Diplomacy.TabProjects=Projects
@@ -649,3 +656,5 @@ UI.Notifications.Diplomacy.NAP=Non-Aggression Pact
 UI.Notifications.Diplomacy.Truce=Truce
 UI.Notifications.Diplomacy.NAPDesc=Non-Aggression Pact is an agreement to avoid hostile councilor missions and policies against your faction.
 UI.Notifications.Diplomacy.TruceDesc=Truce is an agreement to end war and cease hostile councilor missions and policies against your faction for {0} months.								//truce duration
+UI.Notifications.Diplomacy.ImproveRelations=Improve Relations
+UI.Notifications.Diplomacy.ImproveRelationsTooltip=Completing a trade with another faction will lower their hate towards your faction and improve relations.

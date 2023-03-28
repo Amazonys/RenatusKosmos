@@ -2,7 +2,6 @@
 	{
 		"dataName": "GenericTimeEvent",
 		"displayName": "Generic",
-		"blocking": false,
 		"pauseTime": false,
 	},
 	{
@@ -10,16 +9,16 @@
 		"displayName": "Date Update",
 		"eventType": "Day",
 		"eventName": "DailyUpdate",
-		"blocking": false,
 		"pauseTime": false,
+		"stopClock": true
 	},
 	{
 		"dataName": "CouncilorMissionUpdate",
 		"displayName": "Councilor Mission Update",
 		"eventType": "WeekToMonth",
 		"eventName": "CouncilorMissionUpdate",
-		"blocking": false,
 		"pauseTime": true,
+		"stopClock": true,
 		"repeatChange": {
 		    "triggerCondition": {
 				"$type": "TIGlobalCondition_fCampaignDuration_years",

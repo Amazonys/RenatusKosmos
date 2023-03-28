@@ -343,7 +343,7 @@
    "powerPlantName": "GasCoreFissionReactorII",
    "batteryName": "Lithium-SulfurBattery",
    "radiatorName": "TinDroplet",
-   "propellantTanks": 50,
+   "propellantTanks": 20,
    "noseArmor": {
       "materialName": "CompositeArmor",
       "armorValue": 5
@@ -366,11 +366,11 @@
          "slot": 10
       },
       {
-         "moduleName": "SlushHydrogenTankage",
+         "moduleName": "LaserEngine",
          "slot": 12
       },
       {
-         "moduleName": "HydronTrap",
+         "moduleName": "ISRUModule",
          "slot": 13
       },
       {
@@ -584,7 +584,7 @@
          "slot": 10
       },
       {
-         "moduleName": "ElectronicCountermeasures1",
+         "moduleName": "EliteMarineAssaultUnit",
          "slot": 12
       },
       {
@@ -2560,17 +2560,17 @@
    "role": "LS_Strike",
    "hullName": "Corvette",
    "driveName": "IcarusDrivex5",
-   "powerPlantName": "FusionTokamakV",
+   "powerPlantName": "HybridConfinementFusionReactorIII",
    "batteryName": "SuperconductingCoilBattery",
    "radiatorName": "TinDroplet",
-   "propellantTanks": 50,
+   "propellantTanks": 15,
    "noseArmor": {
       "materialName": "CompositeArmor",
-      "armorValue": 8
+      "armorValue": 10
    },
    "lateralArmor": {
       "materialName": "CompositeArmor",
-      "armorValue": 4
+      "armorValue": 2
    },
    "tailArmor": {
       "materialName": "CompositeArmor",
@@ -2612,7 +2612,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "60cmGreenPhaserBattery",
+         "moduleName": "PointDefensePhaserTurret",
          "slot": 8
       },
       {
@@ -2646,7 +2646,7 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "LightRailCannonMk2",
+         "moduleName": "LightCoilCannonMk2",
          "slot": 7
       },
       {
@@ -2693,11 +2693,11 @@
          "slot": 9
       },
       {
-         "moduleName": "HeavyLithiumHeatSink",
+         "moduleName": "AdvancedLaserEngine",
          "slot": 10
       },
       {
-         "moduleName": "SlushHydrogenTankage",
+         "moduleName": "ElectronicCountermeasures3",
          "slot": 12
       },
       {
@@ -2723,11 +2723,11 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "60cmIRLaserBattery",
+         "moduleName": "PointDefenseLaserTurret",
          "slot": 8
       },
       {
-         "moduleName": "LightRailgunBatteryMk1",
+         "moduleName": "LightCoilgunBatteryMk2",
          "slot": 11
       },
       {
@@ -2757,7 +2757,7 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "240cmIRLaserCannon",
+         "moduleName": "240cmUVLaserCannon",
          "slot": 7
       },
       {

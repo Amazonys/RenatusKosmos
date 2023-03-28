@@ -1862,7 +1862,7 @@
    "tier": 1,
    "upgradesFromName": "",
    "requiredProjectName": "Project_SpaceDock",
-   "crew": 20,
+   "crew": 40,
    "power": -10,
    "reserved": 0,
    "baseMass_tons": 80,
@@ -1888,7 +1888,7 @@
    ],
    "unlocksProjectName": "",
    "specialRules": [
-      "",
+      "PowerFirst",
       "",
       "",
       "",
@@ -1897,7 +1897,7 @@
    ],
    "specialRulesValue": null,
    "supportMaterials_month": {
-      "money": 3,
+      "money": 0,
       "boost": null,
       "water": null,
       "volatiles": null,
@@ -2407,11 +2407,11 @@
    "baseMass_tons": 125,
    "buildTime_Days": 90,
    "incomeMoney_month": 0,
-   "incomeInfluence_month": 10,
+   "incomeInfluence_month": 12,
    "incomeOps_month": 0,
    "incomeResearch_month": 0,
    "incomeProjects": 0,
-   "missionControl": -1,
+   "missionControl": 0,
    "incomeNobles_month": 0,
    "incomeFissiles_month": 0,
    "incomeAntimatter_month": 0,
@@ -3864,7 +3864,7 @@
    "tier": 2,
    "upgradesFromName": "SpaceDock",
    "requiredProjectName": "Project_Shipyard",
-   "crew": 100,
+   "crew": 120,
    "power": -40,
    "reserved": 0,
    "baseMass_tons": 400,
@@ -3880,7 +3880,7 @@
    "incomeAntimatter_month": 0,
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
-   "constructionTimeModifier": 0.75,
+   "constructionTimeModifier": 0.85,
    "miningModifier": 0,
    "techBonuses": [
       {
@@ -3890,7 +3890,7 @@
    ],
    "unlocksProjectName": "",
    "specialRules": [
-      "",
+      "PowerFirst",
       "",
       "",
       "",
@@ -3899,7 +3899,7 @@
    ],
    "specialRulesValue": null,
    "supportMaterials_month": {
-      "money": 30,
+      "money": 0,
       "boost": null,
       "water": null,
       "volatiles": null,
@@ -4430,7 +4430,7 @@
    "unlocksProjectName": "",
    "specialRules": [
       "Farm",
-      "",
+      "PowerFirst",
       "",
       "",
       "",
@@ -5722,7 +5722,7 @@
    "incomeOps_month": 0,
    "incomeResearch_month": 0,
    "incomeProjects": 0,
-   "missionControl": -1,
+   "missionControl": 0,
    "incomeNobles_month": 0,
    "incomeFissiles_month": 0,
    "incomeAntimatter_month": 0,
@@ -6405,7 +6405,7 @@
    "tier": 3,
    "upgradesFromName": "Shipyard",
    "requiredProjectName": "Project_Spaceworks",
-   "crew": 500,
+   "crew": 400,
    "power": -120,
    "reserved": 0,
    "baseMass_tons": 3200,
@@ -6421,7 +6421,7 @@
    "incomeAntimatter_month": 0,
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
-   "constructionTimeModifier": 0.5,
+   "constructionTimeModifier": 0.7,
    "miningModifier": 0,
    "techBonuses": [
       {
@@ -6431,7 +6431,7 @@
    ],
    "unlocksProjectName": "",
    "specialRules": [
-      "",
+      "PowerFirst",
       "",
       "",
       "",
@@ -6440,7 +6440,7 @@
    ],
    "specialRulesValue": null,
    "supportMaterials_month": {
-      "money": 90,
+      "money": 0,
       "boost": null,
       "water": null,
       "volatiles": null,
@@ -6746,7 +6746,7 @@
       "",
       ""
    ],
-   "specialRulesValue": 12,
+   "specialRulesValue": 8,
    "supportMaterials_month": {
       "money": 0,
       "boost": null,
@@ -6823,7 +6823,7 @@
       "",
       ""
    ],
-   "specialRulesValue": 15,
+   "specialRulesValue": 12,
    "supportMaterials_month": {
       "money": 0,
       "boost": null,
@@ -6900,7 +6900,7 @@
       "",
       ""
    ],
-   "specialRulesValue": 18,
+   "specialRulesValue": 16,
    "supportMaterials_month": {
       "money": 0,
       "boost": null,
@@ -6977,7 +6977,7 @@
       "",
       ""
    ],
-   "specialRulesValue": 12,
+   "specialRulesValue": 8,
    "supportMaterials_month": {
       "money": 0,
       "boost": null,
@@ -7054,7 +7054,7 @@
       "",
       ""
    ],
-   "specialRulesValue": 18,
+   "specialRulesValue": 12,
    "supportMaterials_month": {
       "money": 0,
       "boost": null,
@@ -7131,7 +7131,7 @@
       "",
       ""
    ],
-   "specialRulesValue": 14,
+   "specialRulesValue": 16,
    "supportMaterials_month": {
       "money": 0,
       "boost": null,
@@ -8048,14 +8048,14 @@
    ],
    "unlocksProjectName": "",
    "specialRules": [
-      "Xenofauna",
+      "WarDogs",
+      "Griffins",
       "PowerFirst",
-      "",
       "",
       "",
       ""
    ],
-   "specialRulesValue": null,
+   "specialRulesValue": 4,
    "supportMaterials_month": {
       "money": 0,
       "boost": null,
@@ -8126,10 +8126,10 @@
    "unlocksProjectName": "",
    "specialRules": [
       "Salamanders",
+      "WarDogs",
+      "Griffins",
       "DropTroops",
       "PowerFirst",
-      "",
-      "",
       ""
    ],
    "specialRulesValue": 8,

@@ -5,6 +5,7 @@
    "active": true,
    "core": true,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "CODE Bold SDF -HEADER",
    "bodyTextFontPath": "Arcon-Regular SDF",
    "nameListOffset": 0
@@ -15,6 +16,7 @@
    "active": true,
    "core": false,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 1
@@ -25,6 +27,7 @@
    "active": true,
    "core": false,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 2
@@ -35,6 +38,7 @@
    "active": true,
    "core": false,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 3
@@ -45,7 +49,8 @@
    "active": true,
    "core": false,
    "requiresFontChange": true,
-   "headlineFontPath": "NotoSansTC-Bold SDF",
+   "largeLineHeight": true,
+   "headlineFontPath": "NotoSansTC-Bold SDF-HEADER",
    "bodyTextFontPath": "NotoSansTC-Regular SDF",
    "nameListOffset": 4
  },
@@ -55,7 +60,8 @@
    "active": true,
    "core": false,
    "requiresFontChange": true,
-   "headlineFontPath": "NotoSansSC-Bold SDF_0",
+   "largeLineHeight": true,
+   "headlineFontPath": "NotoSansSC-Bold SDF_0-HEADER",
    "bodyTextFontPath": "NotoSansSC-Regular SDF_0",
    "nameListOffset": 5
  },
@@ -65,7 +71,8 @@
    "active": true,
    "core": false,
    "requiresFontChange": true,
-   "headlineFontPath": "NotoSansJP-Bold SDF",
+   "largeLineHeight": true,
+   "headlineFontPath": "NotoSansJP-Bold SDF-HEADER",
    "bodyTextFontPath": "NotoSansJP-Regular SDF",
    "nameListOffset": 6
  },
@@ -75,6 +82,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": true,
+   "largeLineHeight": false,
    "headlineFontPath": "NotoSans-Bold SDF-HEADER",
    "bodyTextFontPath": "NotoSans-Regular SDF",
    "nameListOffset": 7
@@ -85,6 +93,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": true,
+   "largeLineHeight": false,
    "headlineFontPath": "NotoSansKR-Bold SDF-HEADER",
    "bodyTextFontPath": "NotoSansKR-Regular SDF",
    "nameListOffset": 8
@@ -95,6 +104,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 9
@@ -105,6 +115,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 10
@@ -115,6 +126,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 11
@@ -125,6 +137,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": null,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 12
@@ -135,6 +148,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": true,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 13
@@ -145,6 +159,7 @@
    "active": false,
    "core": false,
    "requiresFontChange": true,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
    "nameListOffset": 14
@@ -155,9 +170,10 @@
    "active": false,
    "core": false,
    "requiresFontChange": true,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
-   "nameListOffset": null
+   "nameListOffset": 15
  },
  {
    "dataName": "tur",
@@ -165,8 +181,9 @@
    "active": false,
    "core": false,
    "requiresFontChange": false,
+   "largeLineHeight": false,
    "headlineFontPath": "",
    "bodyTextFontPath": "",
-   "nameListOffset": null
+   "nameListOffset": 16
  }
 ]

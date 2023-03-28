@@ -42,7 +42,6 @@ UI.Operations.ActiveOperationData=Completion: {0}
 UI.Operations.Microthrust=Microthrust Spiral
 UI.Operations.Impulse=Impulse Conic
 UI.Operations.Torch=Torch Kinematic
-UI.Operations.LinearPlaceholder=Placeholder Kinematic
 UI.Operations.ChangeTrajectoryPrompt=Change Fleet Trajectory
 UI.Operations.ChangeTrajectoryInfo=Your fleet {0} no longer has a valid trajectory to the target fleet {1}. Select a new transfer to intercept the fleet or cancel the intercept and remain on the original trajectory.
 UI.Operations.OperationTabbed={0}<rcol>{1}</rcol>

@@ -2349,7 +2349,7 @@
    "idleVideoOld": "charactervideos/M_ASI_11_Mid",
    "portraitYoung": "characterportraits/M_ASI_11",
    "portraitOld": "characterportraits/M_ASI_11_Mid",
-   "iconYoung": "charactericons/M_ASI_11_icon",
+   "iconYoung": "charactericons_gui/M_ASI_11_icon",
    "iconOld": "",
    "allowedGenders": [
       "Male",
@@ -2394,7 +2394,7 @@
    "idleVideoOld": "charactervideos/M_ASI_12_Mid",
    "portraitYoung": "characterportraits/M_ASI_12",
    "portraitOld": "characterportraits/M_ASI_12_Mid",
-   "iconYoung": "charactericons/M_ASI_12_icon",
+   "iconYoung": "charactericons_gui/M_ASI_12_icon",
    "iconOld": "",
    "allowedGenders": [
       "Male",
@@ -2439,7 +2439,7 @@
    "idleVideoOld": "charactervideos/M_HIS_03_Mid",
    "portraitYoung": "characterportraits/M_HIS_03",
    "portraitOld": "characterportraits/M_HIS_03_Mid",
-   "iconYoung": "charactericons/M_HIS_03_icon",
+   "iconYoung": "charactericons_gui/M_HIS_03_icon",
    "iconOld": "",
    "allowedGenders": [
       "Male",
@@ -2484,7 +2484,7 @@
    "idleVideoOld": "charactervideos/F_EUR_06_Mid",
    "portraitYoung": "characterportraits/F_EUR_06",
    "portraitOld": "characterportraits/F_EUR_06_Mid",
-   "iconYoung": "charactericons/F_EUR_06_icon",
+   "iconYoung": "charactericons_gui/F_EUR_06_icon",
    "iconOld": "",
    "allowedGenders": [
       "Female",
@@ -2529,7 +2529,7 @@
    "idleVideoOld": "charactervideos/F_AFR_04_Mid",
    "portraitYoung": "characterportraits/F_AFR_04",
    "portraitOld": "characterportraits/F_AFR_04_Mid",
-   "iconYoung": "charactericons/F_AFR_04_icon",
+   "iconYoung": "charactericons_gui/F_AFR_04_icon",
    "iconOld": "",
    "allowedGenders": [
       "Female",
@@ -2574,7 +2574,7 @@
    "idleVideoOld": "charactervideos/M_EUR_06_Mid",
    "portraitYoung": "characterportraits/M_EUR_06",
    "portraitOld": "characterportraits/M_EUR_06_Mid",
-   "iconYoung": "charactericons/M_EUR_06_icon",
+   "iconYoung": "charactericons_gui/M_EUR_06_icon",
    "iconOld": "",
    "allowedGenders": [
       "Male",
@@ -2619,7 +2619,7 @@
    "idleVideoOld": "charactervideos/F_EAS_06_Mid",
    "portraitYoung": "characterportraits/F_EAS_06",
    "portraitOld": "characterportraits/F_EAS_06_Mid",
-   "iconYoung": "charactericons/F_EAS_06_icon",
+   "iconYoung": "charactericons_gui/F_EAS_06_icon",
    "iconOld": "",
    "allowedGenders": [
       "Female",

@@ -13,6 +13,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": 0.3,
       "volatiles": 0.34,
@@ -27,6 +28,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_ISRUModule",
    "modelResource": ""
 },
@@ -44,6 +47,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.1,
@@ -58,6 +62,8 @@
       "RefuelFromAtmospheres",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_RemassScoop",
    "modelResource": ""
 },
@@ -75,6 +81,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": true,
    "requiresFusionDrive": true,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.2,
@@ -89,6 +96,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_MuonSpiker",
    "modelResource": ""
 },
@@ -106,6 +115,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": true,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.2,
@@ -120,6 +130,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_NeutroniumSpiker",
    "modelResource": ""
 },
@@ -137,6 +149,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": true,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.2,
@@ -151,6 +164,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_AntimatterSpiker",
    "modelResource": ""
 },
@@ -168,6 +183,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.1,
@@ -182,6 +198,8 @@
       "Prospector",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_MobileSpaceScienceLab",
    "modelResource": ""
 },
@@ -199,6 +217,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.2,
@@ -213,6 +232,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_RepairBay",
    "modelResource": ""
 },
@@ -230,6 +251,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.4,
@@ -240,10 +262,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "Marines",
+      "Assault",
       "",
       ""
    ],
+   "marineOpsValue": 2,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_MarineAssaultUnit",
    "modelResource": ""
 },
@@ -261,6 +285,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.4,
@@ -271,10 +296,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "AdvancedMarines",
+      "Assault",
       "",
       ""
    ],
+   "marineOpsValue": 4,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_AdvancedMarineAssaultUnit",
    "modelResource": ""
 },
@@ -292,6 +319,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.4,
@@ -302,10 +330,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "EliteMarines",
+      "Assault",
       "",
       ""
    ],
+   "marineOpsValue": 6,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_EliteMarineAssaultUnit",
    "modelResource": ""
 },
@@ -323,6 +353,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.3,
@@ -337,6 +368,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_LaserEngine",
    "modelResource": ""
 },
@@ -354,6 +387,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.3,
@@ -368,6 +402,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_AdvancedLaserEngine",
    "modelResource": ""
 },
@@ -385,6 +421,7 @@
    "requiresHydrogenPropellant": true,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.35,
@@ -399,6 +436,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_LiquidHydrogenContainment",
    "modelResource": ""
 },
@@ -416,6 +455,7 @@
    "requiresHydrogenPropellant": true,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.35,
@@ -430,6 +470,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_SlushHydrogenTankage",
    "modelResource": ""
 },
@@ -447,6 +489,7 @@
    "requiresHydrogenPropellant": true,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.25,
@@ -461,6 +504,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_HydronTrap",
    "modelResource": ""
 },
@@ -478,6 +523,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.1,
@@ -492,6 +538,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Magazine",
    "modelResource": ""
 },
@@ -509,6 +557,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.5,
@@ -523,6 +572,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_ComponentArmor",
    "modelResource": ""
 },
@@ -540,6 +591,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.4,
@@ -554,6 +606,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_SolarPlatformKit",
    "modelResource": ""
 },
@@ -571,6 +625,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.4,
@@ -585,6 +640,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_SolarOutpostKit",
    "modelResource": ""
 },
@@ -602,6 +659,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.25,
@@ -616,6 +674,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_FissionPlatformKit",
    "modelResource": ""
 },
@@ -633,6 +693,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.25,
@@ -647,6 +708,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_FissionOutpostKit",
    "modelResource": ""
 },
@@ -664,6 +727,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.2,
@@ -678,6 +742,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_FusionPlatformKit",
    "modelResource": ""
 },
@@ -695,6 +761,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.2,
@@ -709,6 +776,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_FusionOutpostKit",
    "modelResource": ""
 },
@@ -726,6 +795,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.4,
@@ -740,6 +810,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_AutomatedSolarPlatformKit",
    "modelResource": ""
 },
@@ -757,6 +829,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.4,
@@ -771,6 +844,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_AutomatedSolarOutpostKit",
    "modelResource": ""
 },
@@ -788,6 +863,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.25,
@@ -802,6 +878,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_AutomatedFissionPlatformKit",
    "modelResource": ""
 },
@@ -819,6 +897,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.25,
@@ -833,6 +912,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_AutomatedFissionOutpostKit",
    "modelResource": ""
 },
@@ -850,6 +931,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.2,
@@ -860,10 +942,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "ECM1",
+      "ECM",
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": 0.2,
    "iconResource": "shipbuildericons/ICO_ECM_A",
    "modelResource": ""
 },
@@ -881,6 +965,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.2,
@@ -891,10 +976,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "ECM2",
+      "ECM",
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": 0.4,
    "iconResource": "shipbuildericons/ICO_ECM_B",
    "modelResource": ""
 },
@@ -912,6 +999,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.2,
@@ -922,10 +1010,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "ECM3",
+      "ECM",
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": 0.6,
    "iconResource": "shipbuildericons/ICO_ECM_C",
    "modelResource": ""
 },
@@ -943,6 +1033,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.6,
@@ -957,6 +1048,8 @@
       "LandHydra",
       "ImmunetoAerobrakingDamage"
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_MarineAssaultUnit",
    "modelResource": ""
 },
@@ -974,6 +1067,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.6,
@@ -985,9 +1079,11 @@
    },
    "specialModuleRules": [
       "Crashdown",
-      "Salamanders",
+      "Assault",
       "ImmunetoAerobrakingDamage"
    ],
+   "marineOpsValue": 6,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_MarineAssaultUnit",
    "modelResource": ""
 },
@@ -1005,6 +1101,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.35,
@@ -1017,8 +1114,10 @@
    "specialModuleRules": [
       "LandArmy",
       "ImmunetoAerobrakingDamage",
-      ""
+      "MarineOpsDefenseOnly"
    ],
+   "marineOpsValue": 50,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1036,6 +1135,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.2,
@@ -1046,10 +1146,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "FoundFusionPlatform",
+      "FoundFusionOutpost",
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1067,6 +1169,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": true,
    "weightedBuildMaterials": {
       "water": 0.05,
       "volatiles": 0.2,
@@ -1077,10 +1180,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "FoundFusionOutpost",
+      "FoundFusionPlatform",
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1098,6 +1203,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": 0.1,
       "volatiles": 0.2,
@@ -1112,6 +1218,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1129,6 +1237,7 @@
    "requiresHydrogenPropellant": true,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.35,
@@ -1143,6 +1252,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1160,6 +1271,7 @@
    "requiresHydrogenPropellant": true,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.25,
@@ -1174,6 +1286,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1191,6 +1305,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.1,
@@ -1205,6 +1320,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1222,6 +1339,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.2,
@@ -1232,10 +1350,12 @@
       "exotics": null
    },
    "specialModuleRules": [
-      "ECM3",
+      "ECM",
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": 0.6,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1253,6 +1373,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": 0.2,
@@ -1267,6 +1388,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "shipbuildericons/ICO_Unknown",
    "modelResource": ""
 },
@@ -1284,6 +1407,7 @@
    "requiresHydrogenPropellant": null,
    "requiresNuclearDrive": null,
    "requiresFusionDrive": null,
+   "noCombatRepair": null,
    "weightedBuildMaterials": {
       "water": null,
       "volatiles": null,
@@ -1298,6 +1422,8 @@
       "",
       ""
    ],
+   "marineOpsValue": null,
+   "ECMValue": null,
    "iconResource": "",
    "modelResource": ""
 }

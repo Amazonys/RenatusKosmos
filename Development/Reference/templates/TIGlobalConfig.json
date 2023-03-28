@@ -49,6 +49,7 @@
 		"bigAsteroidResourceBonusChance": 2,
 		"smallAsteroidresourceMalusChance": 0.5,		
 		/* tech */
+		"globalResearchMultiplier": 1,
 		"showTriggeredProjects": false,
 		"disableUnlockChances": false,
 		/* canvases to load at launch */

@@ -249,10 +249,10 @@ TIFactionTemplate.Diplomacy.Submit.Appease.Conflict=You fear them, when instead 
 TIFactionTemplate.Diplomacy.Submit.Appease.Tolerance=Though you reject their love, you accept their superiority. That is enough - for now.
 TIFactionTemplate.Diplomacy.Alien.Submit=Greetings, faithful servant (<color=#9964FF>Kneel, domestic animal</color>). You are loved (<color=#9964FF>you are nothing</color>).  
 TIFactionTemplate.Diplomacy.Alien.Appease.War=Yield (<color=#9964FF>die</color>).
-TIFactionTemplate.Diplomacy.Alien.Appease.Conflict=Submission=survival (<color=#9964FF>Resistance=obliteration</color>..
+TIFactionTemplate.Diplomacy.Alien.Appease.Conflict=Submission=survival (<color=#9964FF>Resistance=obliteration</color>.
 TIFactionTemplate.Diplomacy.Alien.Appease.Tolerance=You are tolerated (<color=#9964FF>You present no threat</color>).
-TIFactionTemplate.Diplomacy.Alien.Cooperate.War=Undesired obstacle (<color=#9964FF>Expunge the threat</color>.
-TIFactionTemplate.Diplomacy.Alien.Cooperate.Conflict=Cease. Cease. Cease. (<color=#9964FF>Threat. Threat. Threat.</color>
+TIFactionTemplate.Diplomacy.Alien.Cooperate.War=Undesired obstacle (<color=#9964FF>Expunge the threat</color>).
+TIFactionTemplate.Diplomacy.Alien.Cooperate.Conflict=Cease. Cease. Cease. (<color=#9964FF>Threat. Threat. Threat.</color>)
 TIFactionTemplate.Diplomacy.Alien.Cooperate.Tolerance=Communication=acceptable (<color=#9964FF>Human=persuadable?</color>).
 
 

@@ -3,9 +3,36 @@
    "dataName": "HumanGeneralEarth",
    "objectiveType": "General",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -14,15 +41,51 @@
       "AppeaseCouncil",
       "CooperateCouncil",
       "ExploitCouncil"
-   ]
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "HumanGeneralSpace",
    "objectiveType": "General",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -31,15 +94,51 @@
       "AppeaseCouncil",
       "CooperateCouncil",
       "ExploitCouncil"
-   ]
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "HumanGeneralCouncil",
    "objectiveType": "General",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -48,639 +147,2426 @@
       "AppeaseCouncil",
       "CooperateCouncil",
       "ExploitCouncil"
-   ]
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialSelectCouncilor",
    "objectiveType": "Tutorial",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialAssignMission",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialSelectMission",
    "objectiveType": "Tutorial",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialAssignMission",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialUseMissionSlider",
    "objectiveType": "Tutorial",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialAssignMission",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignMission",
    "objectiveType": "Tutorial",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialAssignMission",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialSetResearchPriority",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialAssignMission"
+      "TutorialAssignMission",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialSetResearchPriority",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignControlNationMission",
    "objectiveType": "Tutorial",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialGainControlPoint",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialGainControlPoint",
    "objectiveType": "Tutorial",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialGainControlPoint",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ResistCouncil"
-   ]
-},
- {
-   "dataName": "TutorialCheckNationalPriority",
-   "objectiveType": "Tutorial",
-   "starter": false,
-   "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "isChildObjective": false,
-   "targetMilestone": "TutorialCheckNationalPriority",
-   "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialRecruitCouncilor3",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+      "TutorialSetResearchPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildCouncil",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialRecruitCouncilor4",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+      "TutorialSetResearchPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildCouncil",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchWeAreNotAlone",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+      "TutorialSetResearchPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
    "targetTechTemplateName": "WeAreNotAlone",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildCouncil",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchClandestineCells",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+      "TutorialSetResearchPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_ClandestineCells",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildCouncil",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialBuildCouncil",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+      "TutorialSetResearchPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialBuildCouncil",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignPublicCampaign",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+      "TutorialGainControlPoint",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialGainLargeNationControlPoint",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
+},
+ {
+   "dataName": "TutorialTakeOverAdjacentControlPoint",
+   "objectiveType": "Tutorial",
+   "starter": false,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "TutorialGainControlPoint",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
+   "isChildObjective": true,
+   "targetMilestone": "TutorialGainLargeNationControlPoint",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
+   "NewAIValuesIndex": -1,
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "factionDataNames": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
+},
+ {
+   "dataName": "TutorialTakeOverFederationControlPoint",
+   "objectiveType": "Tutorial",
+   "starter": false,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "TutorialGainControlPoint",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
+   "isChildObjective": true,
+   "targetMilestone": "TutorialGainLargeNationControlPoint",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
+   "NewAIValuesIndex": -1,
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "factionDataNames": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialGainLargeNationControlPoint",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainControlPoint"
+      "TutorialGainControlPoint",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialGainLargeNationControlPoint",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
+},
+ {
+   "dataName": "TutorialGainLargeNationExecutiveControlPoint",
+   "objectiveType": "Tutorial",
+   "starter": false,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "TutorialGainLargeNationControlPoint",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
+   "isChildObjective": false,
+   "targetMilestone": "TutorialGainLargeNationExecutiveControlPoint",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
+   "NewAIValuesIndex": -1,
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "factionDataNames": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignDefendInterests",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainLargeNationControlPoint"
+      "TutorialGainLargeNationExecutiveControlPoint",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialAssignDefendInterests",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignCrackdown",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialAssignDefendInterests"
+      "TutorialAssignDefendInterests",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialAssignPurge",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignPurge",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialAssignDefendInterests"
+      "TutorialAssignDefendInterests",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialAssignPurge",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignIncreaseUnrest",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialAssignPurge"
+      "TutorialAssignPurge",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialAssignCoup",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialAssignCoup",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialAssignPurge"
+      "TutorialAssignPurge",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialAssignCoup",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
+},
+ {
+   "dataName": "TutorialCheckNationalPriority",
+   "objectiveType": "Tutorial",
+   "starter": false,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "TutorialGainLargeNationExecutiveControlPoint",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
+   "isChildObjective": false,
+   "targetMilestone": "TutorialCheckNationalPriority",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
+   "NewAIValuesIndex": -1,
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "factionDataNames": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialPurchaseOrg",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildCouncil"
+      "TutorialCheckNationalPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialEquipOrg",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialUnequipOrg",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildCouncil"
+      "TutorialCheckNationalPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialEquipOrg",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialEquipOrg",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildCouncil"
+      "TutorialCheckNationalPriority",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialEquipOrg",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialFoundStation",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialGainLargeNationControlPoint"
+      "TutorialEquipOrg",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialFoundStation",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialBuildStationPower",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialFoundStation"
+      "TutorialFoundStation",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialBuildStationPower",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialBuildStationLab",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildStationPower"
+      "TutorialBuildStationPower",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialBuildStationLab",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchMissionToMoonMars",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildStationLab"
+      "TutorialBuildStationLab",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
    "targetTechTemplateName": "MissiontotheMoon",
    "isChildObjective": true,
    "targetMilestone": "TutorialProbeSpaceBody",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialProbeSpaceBody",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildStationLab"
+      "TutorialBuildStationLab",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialProbeSpaceBody",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchMissionToSpace",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialProbeSpaceBody"
+      "TutorialProbeSpaceBody",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
    "targetTechTemplateName": "MissionToSpace",
    "isChildObjective": true,
    "targetMilestone": "TutorialFoundBase",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchOutpostHabs",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialProbeSpaceBody"
+      "TutorialProbeSpaceBody",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
    "targetTechTemplateName": "OutpostHabs",
    "isChildObjective": true,
    "targetMilestone": "TutorialFoundBase",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchOutpostCore",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialProbeSpaceBody"
+      "TutorialProbeSpaceBody",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_OutpostCore",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialFoundBase",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialFoundBase",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialProbeSpaceBody"
+      "TutorialProbeSpaceBody",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialFoundBase",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchSpaceMining",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialFoundBase"
+      "TutorialFoundBase",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
    "targetTechTemplateName": "SpaceMiningandRefining",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildMine",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchOutpostMining",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialFoundBase"
+      "TutorialFoundBase",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_OutpostMiningComplex",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildMine",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialBuildMine",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialFoundBase"
+      "TutorialFoundBase",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialBuildMine",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialBuildHab",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialFoundBase"
+      "TutorialFoundBase",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchOrbitalShipbuilding",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildMine"
+      "TutorialBuildMine",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
    "targetTechTemplateName": "OrbitalShipbuilding",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchSpaceDock",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildMine"
+      "TutorialBuildMine",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_SpaceDock",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialResearchInterplanetaryWarships",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildMine"
+      "TutorialBuildMine",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_Warships",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialSpaceDock",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildMine"
+      "TutorialBuildMine",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialDesignShip",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildMine"
+      "TutorialBuildMine",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": true,
    "targetMilestone": "TutorialBuildShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "TutorialBuildShip",
    "objectiveType": "Tutorial",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "TutorialBuildMine"
+      "TutorialBuildMine",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "TutorialBuildShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
-      "ResistCouncil"
-   ]
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "InvestigateAlienCrashdown",
    "objectiveType": "Campaign",
    "starter": true,
+   "unlockingObjectivesConjunction": "",
+   "unlockingObjectiveNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
    "targetMissionTemplateName": "InvestigateAlienActivity",
    "targetMissionTarget": "UFOCrashdown",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 0,
+   "setsWinConditionForFaction": null,
    "resourcesGranted": [
       {
          "resource": "Influence",
@@ -700,6 +2586,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_InvestigateAlienCrashdown",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_4",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_4",
@@ -713,13 +2600,36 @@
    "dataName": "ResearchTheirSignatures",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "InvestigateAlienCrashdown"
+      "InvestigateAlienCrashdown",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirSignatures",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -729,6 +2639,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienSignatures",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_5",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_5",
@@ -742,14 +2653,36 @@
    "dataName": "InvestigateAlienAbductions",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirSignatures"
+      "ResearchTheirSignatures",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "InvestigateAlienActivity",
    "targetMissionTarget": "Abductions",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -759,6 +2692,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_InvestigateAlienAbductions",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_7",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_6",
@@ -772,13 +2706,36 @@
    "dataName": "ResearchTheirMethods",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "InvestigateAlienAbductions"
+      "InvestigateAlienAbductions",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirMethods",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -788,6 +2745,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienMethods",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_8",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_7",
@@ -801,14 +2759,36 @@
    "dataName": "InvestigateEnthrallMission",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirMethods"
+      "ResearchTheirMethods",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "InvestigateAlienActivity",
    "targetMissionTarget": "EnthrallMission",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -818,6 +2798,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_InvestigateEnthrall",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_9",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_8",
@@ -831,13 +2812,36 @@
    "dataName": "ResearchTheirOperations",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "InvestigateEnthrallMission"
+      "InvestigateEnthrallMission",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirOperations",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -847,6 +2851,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienOperations",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_10",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_9",
@@ -860,13 +2865,36 @@
    "dataName": "ResearchTheirMovements",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirOperations"
+      "ResearchTheirOperations",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirMovements",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -876,6 +2904,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienMovements",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_11",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_11",
@@ -889,175 +2918,372 @@
    "dataName": "ContactTheAliens",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirMovements"
+      "ResearchTheirMovements",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "Contact",
    "targetMissionTarget": "HydraCouncilor",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "SubmitCouncil",
       "AppeaseCouncil",
-      "CooperateCouncil"
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ContactAliens",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_12",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_12",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
    "completedVoicePathSubmit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Submit_11"
 },
  {
    "dataName": "ResearchTheirOrigin",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirSignatures"
+      "ResearchTheirSignatures",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirOrigin",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
       "ExploitCouncil",
-      "AppeaseCouncil"
+      "AppeaseCouncil",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienOrigin",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_6",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_13",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_11",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_11",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_11",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_11"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_11",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "AccessHydraCorpus",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirMovements"
+      "ResearchTheirMovements",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "AccessHydraCorpus",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_AccessHydraCorpus",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_14",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_12",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_12",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_12",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_12"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_12",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchHydraBiology",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "AccessHydraCorpus"
+      "AccessHydraCorpus",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_HydraBiology",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchHydraBiology",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_15",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_13",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_13",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_13",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_13"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_13",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchPherocytes",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchHydraBiology"
+      "ResearchHydraBiology",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_Pherocytes",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchPherocytes",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_16",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_14",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_14",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_14",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_14"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_14",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchAlienContainment",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchPherocytes"
+      "ResearchPherocytes",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_AlienContainment",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienContainment",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_17",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_15",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_15",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_15",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_15"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_15",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "CaptureAHydra",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchAlienContainment"
+      "ResearchAlienContainment",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "AccessLiveHydra",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_CaptureAHydra",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_18",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_16",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_16",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_16",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_16"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_16",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchTheirLanguage",
@@ -1066,12 +3292,33 @@
    "unlockingObjectivesConjunction": "Or",
    "unlockingObjectiveNames": [
       "CaptureAHydra",
-      "ContactTheAliens"
+      "ContactTheAliens",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_HydraLanguage",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
@@ -1081,6 +3328,7 @@
       "CooperateCouncil",
       "ExploitCouncil"
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchTheirLanguage",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_14",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_19",
@@ -1094,26 +3342,54 @@
    "dataName": "SalvageAlienTechnology",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirSignatures"
+      "ResearchTheirSignatures",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "AccessAlienTech",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_SalvageAlienTechnology",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_20",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_18",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_18",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_18",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_18"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_18",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "SalvageAlienWarship",
@@ -1123,25 +3399,50 @@
    "unlockingObjectiveNames": [
       "ResearchTheirOperations",
       "ResearchTheirOrigin",
-      "ResearchAlienTechnology"
+      "ResearchAlienTechnology",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
    "targetMilestone": "AccessAlienShip",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_SalvageAlienWarship",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_22",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_20",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_20",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_20",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_20"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_20",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchAlienTechnology",
@@ -1150,27 +3451,51 @@
    "unlockingObjectivesConjunction": "Or",
    "unlockingObjectiveNames": [
       "SalvageAlienTechnology",
-      "ContactTheAliens"
+      "ContactTheAliens",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirTechnology",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
       "ExploitCouncil",
-      "AppeaseCouncil"
+      "AppeaseCouncil",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienTechnology",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_13",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_21",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_19",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_19",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_19",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_19"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_19",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchExotics",
@@ -1179,62 +3504,157 @@
    "unlockingObjectivesConjunction": "Or",
    "unlockingObjectiveNames": [
       "ConductHydraDiplomacy",
-      "SalvageAlienWarship"
+      "SalvageAlienWarship",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_Exotics",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
       "ExploitCouncil",
-      "AppeaseCouncil"
+      "AppeaseCouncil",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchExotics",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_16",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_23",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_21",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_21",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_21",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_21"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_21",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchExoticHybridSystems",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchExotics"
+      "ResearchExotics",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_ExoticHybridSystems",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "EscapeCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "EscapeCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchExoticHybrids",
-   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_23"
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_23",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "BeginTheSearch",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchAlienTechnology"
+      "ResearchAlienTechnology",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
    "targetHabModuleName": "DeepSpaceTelescope",
    "targetCount": 1,
    "targetHabLocation": "HighLunarOrbit",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "EscapeCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_24"
+   "factionDataNames": [
+      "EscapeCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_24",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchANewHome",
@@ -1243,159 +3663,422 @@
    "unlockingObjectivesConjunction": "And",
    "unlockingObjectiveNames": [
       "BeginTheSearch",
-      "ConductHydraInterrogation"
+      "ConductHydraInterrogation",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_ANewHome",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "EscapeCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "EscapeCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchANewHome",
-   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_25"
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_25",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ConductHydraDiplomacy",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirLanguage"
+      "ResearchTheirLanguage",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_HydraDiplomacy",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "SubmitCouncil",
       "AppeaseCouncil",
-      "CooperateCouncil"
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ConductAlienDiplomacy",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_15",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_25",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
    "completedVoicePathSubmit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Submit_13"
 },
  {
    "dataName": "ResearchTheAlienNation",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ConductHydraDiplomacy"
+      "ConductHydraDiplomacy",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheAlienNation",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "SubmitCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "SubmitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchAlienNation",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
    "completedVoicePathSubmit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Submit_14"
 },
  {
    "dataName": "ConductHydraInterrogation",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirLanguage"
+      "ResearchTheirLanguage",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_HydraInterrogation",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "EscapeCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ConductHydraInterrogation",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_24",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_22",
    "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_22",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_22",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_22"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_22",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchTheirPurpose",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ConductHydraInterrogation"
+      "ConductHydraInterrogation",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirPurpose",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
-      "CooperateCouncil"
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchTheirPurpose",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_27",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_23"
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_23",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchTheirDemands",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ConductHydraDiplomacy"
+      "ConductHydraDiplomacy",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirDemands",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "SubmitCouncil",
       "AppeaseCouncil",
-      "CooperateCouncil"
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchTheirDemands",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_17",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_26",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
    "completedVoicePathSubmit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Submit_15"
 },
  {
    "dataName": "ResearchTheirWeakness",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ConductHydraInterrogation"
+      "ConductHydraInterrogation",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheirWeakness",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "DestroyCouncil",
-      "CooperateCouncil"
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchTheirWeakness",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_28",
-   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_23"
+   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_23",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchPherocyteResistance",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ConductHydraInterrogation"
+      "ConductHydraInterrogation",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_PherocyteResistance",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Objective_ResearchPherocyteResistance",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_29",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_23",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_25"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_25",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchWormholes",
@@ -1405,186 +4088,579 @@
    "unlockingObjectiveNames": [
       "ConductHydraInterrogation",
       "ResearchExotics",
-      "ResearchTheirOrigin"
+      "ResearchTheirOrigin",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_Wormholes",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_30",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_24",
+   "completedVoicePathEscape": "",
    "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_26",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_24"
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_24",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchAlienChokePoint",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchWormholes"
+      "ResearchWormholes",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheChokePoint",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
    "factionDataNames": [
       "ResistCouncil",
       "DestroyCouncil",
       "CooperateCouncil",
-      "ExploitCouncil"
+      "ExploitCouncil",
+      "",
+      "",
+      ""
    ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_31",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_25",
-   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_27"
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_27",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchHydraBiowarfare",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirWeakness"
+      "ResearchTheirWeakness",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_HydraBiowarfare",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "DestroyCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_26"
+   "factionDataNames": [
+      "DestroyCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_26",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchPherocyteMastery",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchPherocyteResistance"
+      "ResearchPherocyteResistance",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_PherocyteMastery",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ExploitCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_24"
+   "factionDataNames": [
+      "ExploitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_24",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchAppeaseVictory",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirOperations"
+      "ResearchTheirOperations",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_AppeaseVictory",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "AppeaseCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_18"
+   "factionDataNames": [
+      "AppeaseCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_18",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchCooperateVictory",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirOperations"
+      "ResearchTheirOperations",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_CooperateVictory",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "CooperateCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_10"
+   "factionDataNames": [
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_10",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchDestroyVictory",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirMethods"
+      "ResearchTheirMethods",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_DestroyVictory",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "DestroyCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_27"
+   "factionDataNames": [
+      "DestroyCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_27",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchEscapeVictory",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirOrigin"
+      "ResearchTheirOrigin",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_EscapeVictory",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "EscapeCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_26"
+   "factionDataNames": [
+      "EscapeCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_26",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchExploitVictory",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirOperations"
+      "ResearchTheirOperations",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_ExploitVictory",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ExploitCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_25"
+   "factionDataNames": [
+      "ExploitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_25",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchResistVictory",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirOperations"
+      "ResearchTheirOperations",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_ResistVictory",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ResistCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_26"
+   "factionDataNames": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_26",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchSubmitVictory",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheirMethods"
+      "ResearchTheirMethods",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_SubmitVictory",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "SubmitCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "SubmitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
    "completedVoicePathSubmit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Submit_16"
 },
  {
@@ -1595,16 +4671,50 @@
    "unlockingObjectiveNames": [
       "ResearchAppeaseVictory",
       "ResearchTheirDemands",
-      "ResearchTheirOrigin"
+      "ResearchTheirOrigin",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_CoexistencePact",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 2,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "AppeaseCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_19"
+   "factionDataNames": [
+      "AppeaseCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_19",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchAPermanentPeace",
@@ -1619,14 +4729,45 @@
       "ResearchTheirWeakness",
       "ResearchTheirDemands"
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_APermanentPeace",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 2,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "CooperateCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_32"
+   "factionDataNames": [
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_32",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchKilltheHive",
@@ -1636,16 +4777,50 @@
    "unlockingObjectiveNames": [
       "ResearchDestroyVictory",
       "ResearchHydraBiowarfare",
-      "ResearchAlienChokePoint"
+      "ResearchAlienChokePoint",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_KilltheHive",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 2,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "DestroyCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_28"
+   "factionDataNames": [
+      "DestroyCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_28",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchTheGreatJourney",
@@ -1655,16 +4830,50 @@
    "unlockingObjectiveNames": [
       "ResearchEscapeVictory",
       "ResearchANewHome",
-      "ResearchExoticHybridSystems"
+      "ResearchExoticHybridSystems",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheGreatJourney",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 2,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "EscapeCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_27"
+   "factionDataNames": [
+      "EscapeCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_27",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchEnslavetheMasters",
@@ -1674,16 +4883,50 @@
    "unlockingObjectiveNames": [
       "ResearchExploitVictory",
       "ResearchPherocyteMastery",
-      "ResearchAlienChokePoint"
+      "ResearchAlienChokePoint",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_EnslavetheMasters",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 2,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ExploitCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_28"
+   "factionDataNames": [
+      "ExploitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_28",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchTheFinalAssault",
@@ -1693,16 +4936,50 @@
    "unlockingObjectiveNames": [
       "ResearchResistVictory",
       "ResearchAlienChokePoint",
-      "ResearchTheirPurpose"
+      "ResearchTheirPurpose",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheFinalAssault",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 2,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ResistCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_27"
+   "factionDataNames": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_27",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResearchTheOneTruePath",
@@ -1712,15 +4989,49 @@
    "unlockingObjectiveNames": [
       "ResearchSubmitVictory",
       "ResearchTheirDemands",
-      "ResearchTheAlienNation"
+      "ResearchTheAlienNation",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
    "targetProjectTemplateName": "Project_TheOneTruePath",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": 2,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "SubmitCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "SubmitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
    "completedVoicePathSubmit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Submit_17"
 },
  {
@@ -1731,168 +5042,473 @@
    "unlockingObjectiveNames": [
       "ResearchCoexistencePact",
       "ResearchAlienTechnology",
-      "ResearchExotics"
+      "ResearchExotics",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
    "targetHabModuleName": "SentinelComplex",
    "targetCount": 10,
    "targetHabLocation": "LowEarthOrbit1",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "AppeaseCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_20"
+   "factionDataNames": [
+      "AppeaseCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_20",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ConstructTheBifrost",
    "objectiveType": "Campaign",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheGreatJourney"
+      "ResearchTheGreatJourney",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
+   "targetMissionTemplateName": "",
+   "targetMissionTarget": "",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
    "targetHabModuleName": "InterstellarLaunchingLaser",
    "targetCount": 1,
    "targetHabLocation": "HighMercuryOrbit",
    "NewAIValuesIndex": -1,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "EscapeCouncil"
+   "setsWinConditionForFaction": null,
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
-   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_28"
+   "factionDataNames": [
+      "EscapeCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
+   "completedIllustrationResource": "",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_28",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "AppeaseVictory",
    "objectiveType": "Victory",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchCoexistencePact"
+      "ResearchCoexistencePact",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "AppeaseWin",
    "targetMissionTarget": "AppeaseSentinel",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
    "setsWinConditionForFaction": true,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "AppeaseCouncil"
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "AppeaseCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Victory_AppeaseCouncil",
-   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_21"
+   "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_21",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "CooperateVictory",
    "objectiveType": "Victory",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchAPermanentPeace"
+      "ResearchAPermanentPeace",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "CooperateWin",
    "targetMissionTarget": "AlienHQ",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
    "setsWinConditionForFaction": true,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "CooperateCouncil"
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "CooperateCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Victory_CooperateCouncil",
-   "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_33"
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_33",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "DestroyVictory",
    "objectiveType": "Victory",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchKilltheHive"
+      "ResearchKilltheHive",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "DestroyWin",
    "targetMissionTarget": "AlienHQ",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
    "setsWinConditionForFaction": true,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "DestroyCouncil"
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "DestroyCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Victory_DestroyCouncil",
-   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_29"
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_29",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "EscapeVictory",
    "objectiveType": "Victory",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheGreatJourney"
+      "ResearchTheGreatJourney",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "EscapeWin",
    "targetMissionTarget": "EscapeLaunchSite",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
    "setsWinConditionForFaction": true,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "EscapeCouncil"
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "EscapeCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Victory_EscapeCouncil",
-   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_29"
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Escape_29",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ExploitVictory",
    "objectiveType": "Victory",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchEnslavetheMasters"
+      "ResearchEnslavetheMasters",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "ExploitWin",
    "targetMissionTarget": "AlienHQ",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
    "setsWinConditionForFaction": true,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ExploitCouncil"
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "ExploitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Victory_ExploitCouncil",
-   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_29"
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Exploit_29",
+   "completedVoicePathResist": "",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "ResistVictory",
    "objectiveType": "Victory",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheFinalAssault"
+      "ResearchTheFinalAssault",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "ResistWin",
    "targetMissionTarget": "AlienHQ",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
    "setsWinConditionForFaction": true,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "ResistCouncil"
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Victory_ResistCouncil",
-   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_28"
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Resist_28",
+   "completedVoicePathSubmit": ""
 },
  {
    "dataName": "SubmitVictory",
    "objectiveType": "Victory",
    "starter": false,
+   "unlockingObjectivesConjunction": "",
    "unlockingObjectiveNames": [
-      "ResearchTheOneTruePath"
+      "ResearchTheOneTruePath",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "targetMissionTemplateName": "SubmitWin",
    "targetMissionTarget": "NewYorkRegion",
+   "targetProjectTemplateName": "",
+   "targetTechTemplateName": "",
    "isChildObjective": false,
+   "targetMilestone": "",
+   "targetHabModuleName": "",
+   "targetCount": null,
+   "targetHabLocation": "",
    "NewAIValuesIndex": -1,
    "setsWinConditionForFaction": true,
-   "resourcesGranted": [],
-   "factionDataNames": [
-      "SubmitCouncil"
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
    ],
+   "factionDataNames": [
+      "SubmitCouncil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "assignedIllustrationResource": "",
    "completedIllustrationResource": "illustrations/Victory_SubmitCouncil",
+   "completedVoicePathAppease": "",
+   "completedVoicePathCooperate": "",
+   "completedVoicePathDestroy": "",
+   "completedVoicePathEscape": "",
+   "completedVoicePathExploit": "",
+   "completedVoicePathResist": "",
    "completedVoicePathSubmit": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Submit_18"
 }
 ]

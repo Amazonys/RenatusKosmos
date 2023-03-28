@@ -8,18 +8,18 @@
    "noise": [
       8,
       4,
-      null,
-      null,
+      0,
+      0,
       2,
       -4
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -97,15 +97,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "Mission_Abductions_Att",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -161,20 +164,20 @@
    "baseMission": false,
    "persistentEffect": true,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": true,
@@ -252,15 +255,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -318,16 +324,16 @@
    "noise": [
       10,
       4,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       5,
       0,
-      null,
-      null,
+      0,
+      0,
       10,
       0
    ],
@@ -407,6 +413,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -473,16 +482,16 @@
    "noise": [
       12,
       6,
-      null,
-      null,
+      0,
+      0,
       4,
       0
    ],
    "hate": [
       2,
       2,
-      null,
-      null,
+      0,
+      0,
       10,
       10
    ],
@@ -562,6 +571,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -570,7 +582,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -626,20 +638,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -717,15 +729,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -783,18 +798,18 @@
    "noise": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -872,15 +887,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -936,20 +954,20 @@
    "baseMission": true,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -1027,15 +1045,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -1093,16 +1114,16 @@
    "noise": [
       30,
       30,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       2,
       2,
-      null,
-      null,
+      0,
+      0,
       7,
       7
    ],
@@ -1130,7 +1151,7 @@
             "$type": "TIMissionModifier_TargetNegativeInfluence"
          },
          {
-            "$type": ""
+            "$type": "TIMissionModifier_AttackerMissionControlShortage"
          },
          {
             "$type": ""
@@ -1182,6 +1203,9 @@
          },
          {
             "$type": "TIMissionModifier_DefendingForceSize"
+         },
+         {
+            "$type": "TIMissionModifier_DefenderMissionControlShortage"
          }
       ]
    },
@@ -1248,16 +1272,16 @@
    "noise": [
       8,
       4,
-      null,
-      null,
+      0,
+      0,
       2,
-      null
+      0
    ],
    "hate": [
       3,
       0,
-      null,
-      null,
+      0,
+      0,
       5,
       5
    ],
@@ -1337,6 +1361,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -1345,7 +1372,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -1403,16 +1430,16 @@
    "noise": [
       6,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       2,
       0
    ],
@@ -1474,6 +1501,9 @@
          },
          {
             "$type": "TIMissionModifier_DefendedAsset"
+         },
+         {
+            "$type": ""
          },
          {
             "$type": ""
@@ -1556,20 +1586,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -1647,15 +1677,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -1711,20 +1744,20 @@
    "baseMission": true,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -1802,15 +1835,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -1868,16 +1904,16 @@
    "noise": [
       8,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       1,
       1,
-      null,
-      null,
+      0,
+      0,
       2,
       3
    ],
@@ -1957,6 +1993,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -2021,20 +2060,20 @@
    "baseMission": false,
    "persistentEffect": true,
    "noise": [
-      null,
-      null,
-      null,
-      null,
+      0,
+      0,
+      0,
+      0,
       -4,
-      null
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": true,
@@ -2112,15 +2151,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -2178,16 +2220,16 @@
    "noise": [
       30,
       30,
-      null,
-      null,
+      0,
+      0,
       30,
       30
    ],
    "hate": [
       30,
       20,
-      null,
-      null,
+      0,
+      0,
       5,
       5
    ],
@@ -2246,6 +2288,9 @@
          {
             "$type": "",
             "defenderAttribute": ""
+         },
+         {
+            "$type": ""
          },
          {
             "$type": ""
@@ -2333,16 +2378,16 @@
    "noise": [
       8,
       4,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       5,
       5
    ],
@@ -2422,6 +2467,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -2488,16 +2536,16 @@
    "noise": [
       4,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       3,
       3
    ],
@@ -2577,15 +2625,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -2643,16 +2694,16 @@
    "noise": [
       8,
       4,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -2732,11 +2783,14 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
@@ -2798,16 +2852,16 @@
    "noise": [
       8,
       4,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -2887,6 +2941,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -2895,7 +2952,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -2953,16 +3010,16 @@
    "noise": [
       10,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       1,
       1
    ],
@@ -3042,15 +3099,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -3108,16 +3168,16 @@
    "noise": [
       4,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -3197,6 +3257,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -3205,7 +3268,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -3261,20 +3324,20 @@
    "baseMission": true,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
+      0,
+      0,
+      0,
+      0,
       -8,
-      null
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": true,
@@ -3352,15 +3415,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -3418,16 +3484,16 @@
    "noise": [
       8,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       1,
       0,
-      null,
-      null,
+      0,
+      0,
       2,
       2
    ],
@@ -3486,6 +3552,9 @@
          {
             "$type": "TIMissionModifier_NationalIndustries_Def",
             "defenderAttribute": ""
+         },
+         {
+            "$type": ""
          },
          {
             "$type": ""
@@ -3573,18 +3642,18 @@
    "noise": [
       -2,
       -4,
-      null,
-      null,
+      0,
+      0,
       -4,
       -4
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -3662,6 +3731,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -3670,7 +3742,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -3728,18 +3800,18 @@
    "noise": [
       2,
       0,
-      null,
-      null,
+      0,
+      0,
       -2,
       -4
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -3817,15 +3889,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -3883,16 +3958,16 @@
    "noise": [
       2,
       0,
-      null,
-      null,
+      0,
+      0,
       -2,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -3972,6 +4047,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -3980,7 +4058,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -4036,20 +4114,20 @@
    "baseMission": true,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -4127,15 +4205,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -4191,20 +4272,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -4282,15 +4363,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -4348,16 +4432,16 @@
    "noise": [
       8,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -4437,6 +4521,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -4445,7 +4532,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -4501,20 +4588,20 @@
    "baseMission": false,
    "persistentEffect": true,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": true,
@@ -4592,15 +4679,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -4658,16 +4748,16 @@
    "noise": [
       8,
       4,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       1,
       1,
-      null,
-      null,
+      0,
+      0,
       5,
       5
    ],
@@ -4747,6 +4837,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -4813,16 +4906,16 @@
    "noise": [
       12,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -6
    ],
    "hate": [
       2,
       0,
-      null,
-      null,
+      0,
+      0,
       3,
       0
    ],
@@ -4887,6 +4980,9 @@
          },
          {
             "$type": "TIMissionModifier_AlienNation"
+         },
+         {
+            "$type": ""
          },
          {
             "$type": ""
@@ -4968,16 +5064,16 @@
    "noise": [
       12,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -6
    ],
    "hate": [
       2,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -5044,6 +5140,9 @@
             "$type": "TIMissionModifier_SpaceSupportShortage"
          },
          {
+            "$type": "TIMissionModifier_DefenderMissionControlShortage"
+         },
+         {
             "$type": ""
          },
          {
@@ -5104,7 +5203,7 @@
       "value": null
    },
    "knowledgeProject": "",
-   "missionIconImagePath": "councilor_missions/ICO_sabotagefacilities",
+   "missionIconImagePath": "councilor_missions/ICO_sabotagehab",
    "targetingMethodType": "TIMissionTargeting_HabModule",
    "completedIllustrationResource": [
       "illustrations/Mission_SabotageHabModule",
@@ -5123,16 +5222,16 @@
    "noise": [
       8,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       -2
    ],
    "hate": [
       2,
       0,
-      null,
-      null,
+      0,
+      0,
       3,
       0
    ],
@@ -5194,6 +5293,9 @@
          },
          {
             "$type": "TIMissionModifier_SpaceSupportShortage"
+         },
+         {
+            "$type": "TIMissionModifier_DefenderMissionControlShortage"
          },
          {
             "$type": ""
@@ -5278,16 +5380,16 @@
    "noise": [
       12,
       6,
-      null,
-      null,
+      0,
+      0,
       2,
       4
    ],
    "hate": [
       2,
       2,
-      null,
-      null,
+      0,
+      0,
       10,
       10
    ],
@@ -5315,7 +5417,7 @@
             "$type": "TIMissionModifier_AttackingForceSize"
          },
          {
-            "$type": ""
+            "$type": "TIMissionModifier_AttackerMissionControlShortage"
          },
          {
             "$type": ""
@@ -5344,17 +5446,20 @@
             "defenderAttribute": "Command"
          },
          {
-            "$type": "TIMissionModifier_SpaceSupportShortage",
+            "$type": "TIMissionModifier_DefendingForceSize",
             "defenderAttribute": ""
          },
          {
-            "$type": "TIMissionModifier_DefendingForceSize"
-         },
-         {
-            "$type": "TIMissionModifier_DefenderHabSize"
+            "$type": "TIMissionModifier_SpaceSupportShortage"
          },
          {
             "$type": "TIMissionModifier_DecommissioningHab"
+         },
+         {
+            "$type": "TIMissionModifier_DefenderMissionControlShortage"
+         },
+         {
+            "$type": ""
          },
          {
             "$type": ""
@@ -5431,20 +5536,20 @@
    "baseMission": true,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
+      0,
+      0,
+      0,
+      0,
       10,
-      null
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -5522,15 +5627,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -5588,16 +5696,16 @@
    "noise": [
       6,
       3,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       0,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -5677,6 +5785,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -5685,7 +5796,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -5743,16 +5854,16 @@
    "noise": [
       8,
       2,
-      null,
-      null,
+      0,
+      0,
       0,
       -8
    ],
    "hate": [
       2,
       0,
-      null,
-      null,
+      0,
+      0,
       3,
       0
    ],
@@ -5814,6 +5925,9 @@
          },
          {
             "$type": "TIMissionModifier_SpaceSupportShortage"
+         },
+         {
+            "$type": "TIMissionModifier_DefenderMissionControlShortage"
          },
          {
             "$type": ""
@@ -5898,18 +6012,18 @@
    "noise": [
       16,
       16,
-      null,
-      null,
+      0,
+      0,
       30,
       16
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -5987,11 +6101,14 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
@@ -6051,20 +6168,20 @@
    "baseMission": true,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -6142,15 +6259,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -6208,16 +6328,16 @@
    "noise": [
       12,
       6,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       3,
       3,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -6297,6 +6417,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -6305,7 +6428,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -6363,16 +6486,16 @@
    "noise": [
       12,
       6,
-      null,
-      null,
+      0,
+      0,
       0,
       -4
    ],
    "hate": [
       2,
       0,
-      null,
-      null,
+      0,
+      0,
       0,
       0
    ],
@@ -6452,6 +6575,9 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
@@ -6460,7 +6586,7 @@
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -6518,18 +6644,18 @@
    "noise": [
       8,
       4,
-      null,
-      null,
+      0,
+      0,
       2,
       -4
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
       0,
-      null
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -6607,11 +6733,14 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
@@ -6671,20 +6800,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -6762,15 +6891,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -6826,20 +6958,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -6917,15 +7049,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -6981,20 +7116,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -7072,15 +7207,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -7136,20 +7274,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -7227,15 +7365,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -7291,20 +7432,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -7382,15 +7523,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -7446,20 +7590,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -7537,15 +7681,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {
@@ -7601,20 +7748,20 @@
    "baseMission": false,
    "persistentEffect": false,
    "noise": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "hate": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
    ],
    "specialPost": false,
    "permanentAssignment": false,
@@ -7692,15 +7839,18 @@
          },
          {
             "$type": ""
+         },
+         {
+            "$type": ""
          }
       ]
    },
    "attackerContexts": [
-      "",
+      "None",
       ""
    ],
    "defenderContexts": [
-      ""
+      "None"
    ],
    "conditions": [
       {

@@ -100,7 +100,7 @@
    "barycenterName": "Sol",
    "objectType": "Planet",
    "effectToExplore": "Effect_ExploreInnerPlanets",
-   "irradiatedMultiplier": 5,
+   "irradiatedMultiplier": 3.5,
    "atmosphere": "Trace",
    "semiMajorAxis_AU": 0.387099,
    "semiMajorAxis_km": null,

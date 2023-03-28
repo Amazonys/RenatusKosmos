@@ -105,27 +105,6 @@
    ]
 },
  {
-   "dataName": "Effect_CanContactAliens",
-   "instantEffect": "",
-   "operation": "SetToFixedValue",
-   "value": 1,
-   "instantRnd": null,
-   "strValue": "",
-   "effectTarget": "SourceFaction",
-   "effectSecondaryTarget": "",
-   "effectDuration": "permanent",
-   "stackable": false,
-   "duration_months": -1,
-   "initialFactionsStr": [
-      "",
-      ""
-   ],
-   "contexts": [
-      "CanContactAliens",
-      ""
-   ]
-},
- {
    "dataName": "Effect_AlienRelationsEstablished",
    "instantEffect": "",
    "operation": "SetToFixedValue",
@@ -11546,6 +11525,132 @@
    ],
    "contexts": [
       "Mission_Trait_Att",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_LoseTraitDeclining",
+   "instantEffect": "CouncilorLosesTrait",
+   "operation": "",
+   "value": null,
+   "instantRnd": null,
+   "strValue": "Declining",
+   "effectTarget": "InputState",
+   "effectSecondaryTarget": "",
+   "effectDuration": "instant",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_EaseAbductions",
+   "instantEffect": "",
+   "operation": "Additive",
+   "value": 5,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "GlobalEffectSet",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "Mission_Abductions_Att ",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_SpaceResearchBoost05",
+   "instantEffect": "",
+   "operation": "Multiplicative",
+   "value": 1.01,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "HabResearchProduction",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_SpaceResearchBoost1",
+   "instantEffect": "",
+   "operation": "Multiplicative",
+   "value": 1.02,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "HabResearchProduction",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_BlockAlienContact",
+   "instantEffect": "",
+   "operation": "SetToFixedValue",
+   "value": 1,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": false,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "CanContactAliens",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_SetAlienHate0",
+   "instantEffect": "SetAlienHate",
+   "operation": "SetToFixedValue",
+   "value": 0,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "instant",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "",
       ""
    ]
 }

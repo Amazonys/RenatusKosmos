@@ -85,7 +85,7 @@ TIMissionTemplate.Failure.Crackdown=Our attempt to neutralize {targetFactionName
 TIMissionTemplate.CriticalFailure.Crackdown=Our attempt to neutralize {targetFactionName} {targetNationNameWithPrep} failed, and we suffered some negative publicity as a result.
 
 TIMissionTemplate.displayName.DefendInterests=Defend Interests
-TIMissionTemplate.description.DefendInterests=Fortify our control points in this nation against enemy Crackdowns, Purges and Coups.
+TIMissionTemplate.description.DefendInterests=Fortify our control points in this nation against enemy Crackdowns, Purges and Coups. Duration decreases with the number of control points we are protecting.
 TIMissionTemplate.Success.DefendInterests=I have put the right people in the right places, and our control {targetDisplayNameSent} is now protected until {returnedValue}. Enemy factions trying to wrest control from us there will suffer significant penalties.
 
 TIMissionTemplate.displayName.Detain=Detain Councilor
@@ -216,7 +216,7 @@ TIMissionTemplate.Prompt.SabotageProject=Select a project to sabotage ...
 TIMissionTemplate.SecondarySelection=Selection: {0}
 
 TIMissionTemplate.displayName.SeizeSpaceAsset=Assault Enemy Space Asset
-TIMissionTemplate.description.SeizeSpaceAsset=Lead space Marines in an attempt to capture an enemy hab. Requires Marines at the councilor's location. Fleets must dock with enemy stations to launch an assault. Stations may drop troops to the surface, and bases may assault nearby hab sites. Requires spare Mission Control.
+TIMissionTemplate.description.SeizeSpaceAsset=Lead space Marines in an attempt to capture an enemy hab. Requires fleet or hab Marines at the councilor's location. Fleets must dock with enemy stations to assault it. Stations may drop troops to the surface, and bases may assault nearby hab sites. Marine modules may be damaged or destroyed.
 TIMissionTemplate.CriticalSuccess.SeizeSpaceAsset=Victory! We have captured {targetDisplayName} from {targetFactionName}. {returnedValue}
 TIMissionTemplate.Success.SeizeSpaceAsset=Victory! We have captured {targetDisplayName} from {targetFactionName}. {returnedValue}
 TIMissionTemplate.Failure.SeizeSpaceAsset=Defeat! We failed to capture {targetDisplayName} from {targetFactionName}. {returnedValue}
@@ -263,7 +263,7 @@ TIMissionTemplate.Failure.Turn=We failed to turn {targetDisplayName} to our caus
 TIMissionTemplate.CriticalFailure.Turn=I failed to turn {targetDisplayName} to our cause and it seems likely my whereabouts are known to {targetFactionName}.
 
 TIMissionTemplate.displayName.Unrest=Increase Unrest
-TIMissionTemplate.description.Unrest=Increase unrest in the nation of the targeted region, hurting the economy and making coups, revolutions and secessions more likely. Success in a region with an independence movement may trigger a secession there. 
+TIMissionTemplate.description.Unrest=Increase unrest in the nation of the targeted region, hurting the economy and making coups, revolutions, and secessions more likely. Success in a region with an independence movement may trigger a secession there instead of a revolution.
 TIMissionTemplate.CriticalSuccess.Unrest=My efforts have increased unrest {targetNationNameWithPrep} by {returnedValue} to {targetNationUnrestWithString}. We now have some support among insurgent movements here should they ever overthrow the government.
 TIMissionTemplate.Success.Unrest=My efforts have increased unrest {targetNationNameWithPrep} by {returnedValue} to {targetNationUnrestWithString}. We now have some support among insurgent movements here should they ever overthrow the government.
 TIMissionTemplate.Failure.Unrest=I was unable to increase unrest {targetNationNameWithPrep}.
@@ -319,7 +319,7 @@ TIMissionEffect_InvestigateCouncilor.MySpecial1=We have pinpointed their actual 
 TIMissionEffect_InvestigateCouncilor.MySpecial2=We have learned that {0} has been turned against us by {1} and has been spying on us. This is a major leak that we need to plug as soon as possible.
 TIMissionEffect_InvestigateCouncilor.MySpecial3=Our investigation was handled so badly that {0} learned of it and was angered by it, losing a point of loyalty.
 TIMissionEffect_Advise.Special1=Until I am assigned a new mission, I shall be increasing the nation's research output by {0}, the effective GDP used to calculate investment points by {1}, and the performance of its armies and defense forces by {2} miltech value.
-TIMissionEffect_Advise.Special2=Until I am assigned a new mission, I shall be increasing the hab's research output by {0} and its resource and monetary production by {1}. 					// dev note: addback later: and its defensive performance by {2}.
+TIMissionEffect_Advise.Special2=Until I am assigned a new mission, I shall be increasing the hab's research output by {0}, its resource and monetary production by {1}, and the combat capabilities of its Marines by {2}.
 TIMissionEffect_Advise.Special3=Until I am assigned a new mission, I shall be increasing the fleet's combat performance by {0} and its research output by {1}.
 TIMissionEffect_StealProject.Special=I have been arrested and expect to be turned over to {0} shortly. I will resist their interrogation as long as I can.					// faction name
 TIMissionEffect_StealProject.Steal=I have also acquired {0} from their archives.
@@ -412,6 +412,8 @@ TIMissionModifier_DecommissioningHab.displayName=Decommissioning Hab
 TIMissionModifier_AlienCoordination.displayName=Proxy Support
 TIMissionModifier_NationSizeEnthrallDifficulty.displayName=Nation Size
 TIMissionModifier_ConditionalEnthrallDefendedPoint.displayName=Defend Interests
+TIMissionModifier_AttackerMissionControlShortage.displayName=Mission Control Shortage
+TIMissionModifier_DefenderMissionControlShortage.displayName=Mission Control Shortage
 
 TIMissionCondition_GenericFail=Invalid target for this mission
 TIMissionCondition_AvailableControlPoint=Nation has no open control points
@@ -467,6 +469,8 @@ TIMissionCondition_AllowedTransferTarget=Transfer target must be in range
 TIMissionCondition_CanDeorbit=Councilor must be in an interface orbit or in the Earth-Luna System
 TIMissionCondition_AllowedDeorbitTarget=Deorbit target must be in range
 TIMissionCondition_ContactableTarget=Can't target this councilor with a Contact mission
+TIMissionCondition_ContactableTarget2=Can't target our own councilor with a Contact mission
+TIMissionCondition_ContactableTarget3=This faction is ignoring our contact attempts
 TIMissionCondition_SeizeSpaceAssetTroopsPresent=No combat units present to conduct mission
 TIMissionCondition_SeizeSpaceAssetTargetInRange=Local combat units cannot reach target
 TIMissionCondition_TerrorizeVulnerableControlPoint=Control Point already loyal or too well-defended

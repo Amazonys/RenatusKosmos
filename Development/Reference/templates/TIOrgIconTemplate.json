@@ -4,7 +4,6 @@
    "path": "orglogos/orgIcon1",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -13,8 +12,7 @@
       "Engineering",
       "InformationTechnology",
       "NGO",
-      "Research",
-      ""
+      "Research"
    ]
 },
  {
@@ -22,17 +20,13 @@
    "path": "orglogos/orgIcon2",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Engineering",
       "NGO",
-      "Research",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -40,17 +34,13 @@
    "path": "orglogos/orgIcon3",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "",
       "Influence",
       "InformationTechnology",
       "NGO",
-      "Research",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -58,17 +48,12 @@
    "path": "orglogos/orgIcon4",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Aerospace",
       "BusinessManagement",
       "Criminal",
-      "Security",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -76,17 +61,13 @@
    "path": "orglogos/orgIcon5",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Influence",
       "NGO",
       "Research",
-      "Resource",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -94,7 +75,6 @@
    "path": "orglogos/orgIcon6",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "Aerospace",
@@ -102,9 +82,7 @@
       "Commercial",
       "Engineering",
       "InformationTechnology",
-      "Research",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -112,17 +90,12 @@
    "path": "orglogos/orgIcon7",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Criminal",
       "Engineering",
-      "Security",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -130,7 +103,6 @@
    "path": "orglogos/orgIcon8",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Aerospace",
@@ -139,8 +111,7 @@
       "Engineering",
       "Influence",
       "Investigations",
-      "Research",
-      ""
+      "Research"
    ]
 },
  {
@@ -148,7 +119,6 @@
    "path": "orglogos/orgIcon9",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
@@ -156,9 +126,7 @@
       "Engineering",
       "InformationTechnology",
       "Investigations",
-      "Security",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -166,17 +134,12 @@
    "path": "orglogos/orgIcon10",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Engineering",
-      "Investigations",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -184,17 +147,10 @@
    "path": "orglogos/orgIcon11",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -202,7 +158,6 @@
    "path": "orglogos/orgIcon12",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Aerospace",
@@ -211,8 +166,7 @@
       "Engineering",
       "Influence",
       "InformationTechnology",
-      "NGO",
-      ""
+      "NGO"
    ]
 },
  {
@@ -220,7 +174,6 @@
    "path": "orglogos/orgIcon13",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Aerospace",
@@ -229,8 +182,7 @@
       "InformationTechnology",
       "Investigations",
       "Research",
-      "Security",
-      ""
+      "Security"
    ]
 },
  {
@@ -238,17 +190,13 @@
    "path": "orglogos/orgIcon14",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Engineering",
       "Influence",
-      "Investigations",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -256,17 +204,13 @@
    "path": "orglogos/orgIcon15",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Engineering",
       "Influence",
-      "Sect",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -274,7 +218,6 @@
    "path": "orglogos/orgIcon16",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -283,8 +226,7 @@
       "InformationTechnology",
       "Investigations",
       "NGO",
-      "Research",
-      ""
+      "Research"
    ]
 },
  {
@@ -292,17 +234,11 @@
    "path": "orglogos/orgIcon17",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
       "InformationTechnology",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -310,7 +246,6 @@
    "path": "orglogos/orgIcon18",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Aerospace",
@@ -328,17 +263,13 @@
    "path": "orglogos/orgIcon19",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
       "Engineering",
       "Influence",
       "InformationTechnology",
-      "Research",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -346,7 +277,6 @@
    "path": "orglogos/orgIcon20",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -355,8 +285,7 @@
       "Influence",
       "InformationTechnology",
       "Investigations",
-      "NGO",
-      ""
+      "NGO"
    ]
 },
  {
@@ -364,17 +293,11 @@
    "path": "orglogos/orgIcon21",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -382,17 +305,12 @@
    "path": "orglogos/orgIcon22",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Resource",
-      "Sect",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -400,17 +318,9 @@
    "path": "orglogos/orgIcon23",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -418,17 +328,11 @@
    "path": "orglogos/orgIcon24",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -436,17 +340,11 @@
    "path": "orglogos/orgIcon25",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Aerospace",
       "Commercial",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -454,17 +352,12 @@
    "path": "orglogos/orgIcon26",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Aerospace",
       "Commercial",
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -472,17 +365,12 @@
    "path": "orglogos/orgIcon27",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Influence",
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -490,17 +378,11 @@
    "path": "orglogos/orgIcon28",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Influence",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -508,17 +390,9 @@
    "path": "orglogos/orgIcon29",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -526,17 +400,9 @@
    "path": "orglogos/orgIcon30",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -544,17 +410,11 @@
    "path": "orglogos/orgIcon31",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
       "NGO",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -568,11 +428,7 @@
       "Commercial",
       "Influence",
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -580,17 +436,11 @@
    "path": "orglogos/orgIcon33",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Criminal",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -598,17 +448,9 @@
    "path": "orglogos/orgIcon34",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -616,17 +458,11 @@
    "path": "orglogos/orgIcon35",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -634,7 +470,6 @@
    "path": "orglogos/orgIcon36",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
@@ -642,9 +477,7 @@
       "Influence",
       "InformationTechnology",
       "Research",
-      "Sect",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -652,17 +485,11 @@
    "path": "orglogos/orgIcon37",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "InformationTechnology",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -670,17 +497,12 @@
    "path": "orglogos/orgIcon38",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Influence",
       "NGO",
       "Resource",
-      "Sect",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -688,17 +510,12 @@
    "path": "orglogos/orgIcon39",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
       "Influence",
       "NGO",
-      "Sect",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -706,17 +523,10 @@
    "path": "orglogos/orgIcon40",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Research",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -724,17 +534,11 @@
    "path": "orglogos/orgIcon41",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
       "Engineering",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -742,17 +546,13 @@
    "path": "orglogos/orgIcon42",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Commercial",
       "Engineering",
       "Influence",
       "Investigations",
-      "Research",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -760,17 +560,9 @@
    "path": "orglogos/orgIcon43",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -778,17 +570,10 @@
    "path": "orglogos/orgIcon44",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Commercial",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -796,7 +581,6 @@
    "path": "orglogos/orgIcon45",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -804,9 +588,7 @@
       "Engineering",
       "Investigations",
       "NGO",
-      "Research",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -817,14 +599,7 @@
    "firstLetters": "S",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -832,17 +607,11 @@
    "path": "orglogos/orgIcon47",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -850,17 +619,11 @@
    "path": "orglogos/orgIcon48",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -868,25 +631,13 @@
    "path": "orglogos/orgIcon49",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Research",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Research"
 },
  {
    "dataName": "orgIcon50",
    "path": "orglogos/orgIcon50",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -894,9 +645,7 @@
       "Engineering",
       "Influence",
       "Investigations",
-      "NGO",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -904,17 +653,12 @@
    "path": "orglogos/orgIcon51",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -922,17 +666,10 @@
    "path": "orglogos/orgIcon52",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -940,17 +677,11 @@
    "path": "orglogos/orgIcon53",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Aerospace",
       "NGO",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -958,17 +689,11 @@
    "path": "orglogos/orgIcon54",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -976,17 +701,10 @@
    "path": "orglogos/orgIcon55",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "Criminal",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -994,17 +712,11 @@
    "path": "orglogos/orgIcon56",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1012,17 +724,10 @@
    "path": "orglogos/orgIcon57",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1030,17 +735,11 @@
    "path": "orglogos/orgIcon58",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Sect",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1048,17 +747,10 @@
    "path": "orglogos/orgIcon59",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1066,17 +758,10 @@
    "path": "orglogos/orgIcon60",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -1084,35 +769,18 @@
    "path": "orglogos/orgIcon61",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon62",
    "path": "orglogos/orgIcon62",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -1120,17 +788,13 @@
    "path": "orglogos/orgIcon63",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
       "Influence",
       "Investigations",
-      "NGO",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1138,17 +802,11 @@
    "path": "orglogos/orgIcon64",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1156,17 +814,9 @@
    "path": "orglogos/orgIcon65",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -1174,53 +824,24 @@
    "path": "orglogos/orgIcon66",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon67",
    "path": "orglogos/orgIcon67",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon68",
    "path": "orglogos/orgIcon68",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1228,17 +849,13 @@
    "path": "orglogos/orgIcon69",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
       "InformationTechnology",
       "Resource",
-      "Sect",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -1246,17 +863,10 @@
    "path": "orglogos/orgIcon70",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Engineering",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -1264,17 +874,11 @@
    "path": "orglogos/orgIcon71",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Criminal",
       "NGO",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -1282,17 +886,10 @@
    "path": "orglogos/orgIcon72",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1300,35 +897,17 @@
    "path": "orglogos/orgIcon73",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon74",
    "path": "orglogos/orgIcon74",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1336,17 +915,12 @@
    "path": "orglogos/orgIcon75",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
       "Investigations",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -1354,17 +928,11 @@
    "path": "orglogos/orgIcon76",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Engineering",
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1372,17 +940,11 @@
    "path": "orglogos/orgIcon77",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Aerospace",
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1390,17 +952,13 @@
    "path": "orglogos/orgIcon78",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Engineering",
       "InformationTechnology",
-      "Sect",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -1408,7 +966,6 @@
    "path": "orglogos/orgIcon79",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -1416,9 +973,7 @@
       "Engineering",
       "InformationTechnology",
       "NGO",
-      "Research",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1426,17 +981,9 @@
    "path": "orglogos/orgIcon80",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -1444,17 +991,10 @@
    "path": "orglogos/orgIcon81",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1462,17 +1002,9 @@
    "path": "orglogos/orgIcon82",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -1480,17 +1012,11 @@
    "path": "orglogos/orgIcon83",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Engineering",
       "InformationTechnology",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -1498,17 +1024,13 @@
    "path": "orglogos/orgIcon84",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Aerospace",
       "Commercial",
       "Engineering",
       "Influence",
-      "Investigations",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -1516,17 +1038,13 @@
    "path": "orglogos/orgIcon85",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
       "Criminal",
       "Engineering",
       "Investigations",
-      "Sect",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -1534,17 +1052,9 @@
    "path": "orglogos/orgIcon86",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Aerospace",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Aerospace"
    ]
 },
  {
@@ -1552,17 +1062,9 @@
    "path": "orglogos/orgIcon87",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -1570,17 +1072,10 @@
    "path": "orglogos/orgIcon88",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1588,17 +1083,12 @@
    "path": "orglogos/orgIcon89",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Criminal",
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1606,17 +1096,11 @@
    "path": "orglogos/orgIcon90",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Aerospace",
       "Commercial",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -1624,17 +1108,11 @@
    "path": "orglogos/orgIcon91",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -1642,17 +1120,11 @@
    "path": "orglogos/orgIcon92",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Criminal",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1660,17 +1132,12 @@
    "path": "orglogos/orgIcon93",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1678,17 +1145,10 @@
    "path": "orglogos/orgIcon94",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -1696,17 +1156,11 @@
    "path": "orglogos/orgIcon95",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "Aerospace",
       "Criminal",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -1714,17 +1168,11 @@
    "path": "orglogos/orgIcon96",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1732,17 +1180,9 @@
    "path": "orglogos/orgIcon97",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -1750,17 +1190,11 @@
    "path": "orglogos/orgIcon98",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1771,14 +1205,7 @@
    "firstLetters": "D",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1786,17 +1213,10 @@
    "path": "orglogos/orgIcon100",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1804,17 +1224,11 @@
    "path": "orglogos/orgIcon101",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Commercial",
       "InformationTechnology",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1822,17 +1236,12 @@
    "path": "orglogos/orgIcon102",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "BusinessManagement",
       "InformationTechnology",
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1840,17 +1249,12 @@
    "path": "orglogos/orgIcon103",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
       "Engineering",
       "Research",
-      "Security",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1858,17 +1262,10 @@
    "path": "orglogos/orgIcon104",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Criminal",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -1876,17 +1273,9 @@
    "path": "orglogos/orgIcon105",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1894,17 +1283,11 @@
    "path": "orglogos/orgIcon106",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1912,17 +1295,11 @@
    "path": "orglogos/orgIcon107",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -1930,17 +1307,12 @@
    "path": "orglogos/orgIcon108",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Criminal",
       "Influence",
       "InformationTechnology",
-      "NGO",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -1948,17 +1320,9 @@
    "path": "orglogos/orgIcon109",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -1972,11 +1336,7 @@
       "BusinessManagement",
       "Commercial",
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -1984,17 +1344,12 @@
    "path": "orglogos/orgIcon111",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
       "Investigations",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2002,7 +1357,6 @@
    "path": "orglogos/orgIcon112",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Criminal",
@@ -2010,9 +1364,7 @@
       "InformationTechnology",
       "Investigations",
       "Sect",
-      "Security",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -2020,17 +1372,11 @@
    "path": "orglogos/orgIcon113",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Commercial",
       "NGO",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -2038,17 +1384,11 @@
    "path": "orglogos/orgIcon114",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Aerospace",
       "Influence",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -2056,17 +1396,12 @@
    "path": "orglogos/orgIcon115",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "InformationTechnology",
-      "Influence",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -2074,17 +1409,12 @@
    "path": "orglogos/orgIcon116",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Aerospace",
       "BusinessManagement",
       "Engineering",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -2096,13 +1426,7 @@
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "Resource",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -2110,7 +1434,6 @@
    "path": "orglogos/orgIcon118",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
@@ -2118,9 +1441,7 @@
       "Engineering",
       "Influence",
       "InformationTechnology",
-      "Research",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2128,17 +1449,10 @@
    "path": "orglogos/orgIcon119",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2146,17 +1460,11 @@
    "path": "orglogos/orgIcon120",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -2164,17 +1472,9 @@
    "path": "orglogos/orgIcon121",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -2182,17 +1482,13 @@
    "path": "orglogos/orgIcon122",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Influence",
       "InformationTechnology",
-      "Resource",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2200,17 +1496,12 @@
    "path": "orglogos/orgIcon123",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
       "BusinessManagement",
       "Research",
-      "Security",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -2218,17 +1509,12 @@
    "path": "orglogos/orgIcon124",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
       "BusinessManagement",
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2236,17 +1522,11 @@
    "path": "orglogos/orgIcon125",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Influence",
       "Investigations",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2254,17 +1534,13 @@
    "path": "orglogos/orgIcon126",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Aerospace",
       "BusinessManagement",
       "Influence",
       "InformationTechnology",
-      "Research",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2272,17 +1548,13 @@
    "path": "orglogos/orgIcon127",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
       "Influence",
       "Investigations",
-      "Research",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2290,17 +1562,10 @@
    "path": "orglogos/orgIcon128",
    "minTier": 2,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Aerospace",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -2308,17 +1573,13 @@
    "path": "orglogos/orgIcon129",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Aerospace",
       "Influence",
       "Investigations",
       "NGO",
-      "Resource",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2326,17 +1587,11 @@
    "path": "orglogos/orgIcon130",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Aerospace",
       "Engineering",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -2344,17 +1599,9 @@
    "path": "orglogos/orgIcon131",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2362,17 +1609,11 @@
    "path": "orglogos/orgIcon132",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "NGO",
       "Influence",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -2381,34 +1622,18 @@
    "minTier": 1,
    "maxTier": 2,
    "firstLetters": "B",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon134",
    "path": "orglogos/orgIcon134",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2416,17 +1641,10 @@
    "path": "orglogos/orgIcon135",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Resource",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -2434,17 +1652,9 @@
    "path": "orglogos/orgIcon136",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -2452,17 +1662,11 @@
    "path": "orglogos/orgIcon137",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2470,17 +1674,12 @@
    "path": "orglogos/orgIcon138",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
       "InformationTechnology",
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2488,17 +1687,12 @@
    "path": "orglogos/orgIcon139",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
       "NGO",
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2506,17 +1700,13 @@
    "path": "orglogos/orgIcon140",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Influence",
       "NGO",
-      "Research",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2524,17 +1714,11 @@
    "path": "orglogos/orgIcon141",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2542,17 +1726,11 @@
    "path": "orglogos/orgIcon142",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Commercial",
       "Investigations",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -2560,17 +1738,11 @@
    "path": "orglogos/orgIcon143",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -2578,17 +1750,9 @@
    "path": "orglogos/orgIcon144",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -2596,17 +1760,10 @@
    "path": "orglogos/orgIcon145",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2614,17 +1771,9 @@
    "path": "orglogos/orgIcon146",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2632,17 +1781,9 @@
    "path": "orglogos/orgIcon147",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -2650,17 +1791,10 @@
    "path": "orglogos/orgIcon148",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2668,17 +1802,10 @@
    "path": "orglogos/orgIcon149",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -2686,17 +1813,11 @@
    "path": "orglogos/orgIcon150",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
       "Engineering",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2704,17 +1825,9 @@
    "path": "orglogos/orgIcon151",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -2722,17 +1835,9 @@
    "path": "orglogos/orgIcon152",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -2740,17 +1845,10 @@
    "path": "orglogos/orgIcon153",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "Engineering",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -2758,17 +1856,11 @@
    "path": "orglogos/orgIcon154",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Commercial",
       "Investigations",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -2776,17 +1868,10 @@
    "path": "orglogos/orgIcon155",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -2794,17 +1879,10 @@
    "path": "orglogos/orgIcon156",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -2812,17 +1890,10 @@
    "path": "orglogos/orgIcon157",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2830,17 +1901,10 @@
    "path": "orglogos/orgIcon158",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2848,17 +1912,10 @@
    "path": "orglogos/orgIcon159",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -2866,17 +1923,9 @@
    "path": "orglogos/orgIcon160",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -2884,17 +1933,11 @@
    "path": "orglogos/orgIcon161",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Influence",
       "InformationTechnology",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -2902,17 +1945,9 @@
    "path": "orglogos/orgIcon162",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -2920,17 +1955,10 @@
    "path": "orglogos/orgIcon163",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -2938,17 +1966,10 @@
    "path": "orglogos/orgIcon164",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "InformationTechnology",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -2956,17 +1977,10 @@
    "path": "orglogos/orgIcon165",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Security",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -2974,17 +1988,11 @@
    "path": "orglogos/orgIcon166",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Engineering",
       "Resource",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -2992,17 +2000,10 @@
    "path": "orglogos/orgIcon167",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -3010,17 +2011,10 @@
    "path": "orglogos/orgIcon168",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3028,17 +2022,12 @@
    "path": "orglogos/orgIcon169",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Commercial",
       "Research",
-      "Sect",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3046,17 +2035,10 @@
    "path": "orglogos/orgIcon170",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3064,17 +2046,10 @@
    "path": "orglogos/orgIcon171",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3086,13 +2061,7 @@
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3100,17 +2069,10 @@
    "path": "orglogos/orgIcon173",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Research",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3118,17 +2080,10 @@
    "path": "orglogos/orgIcon174",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -3136,17 +2091,10 @@
    "path": "orglogos/orgIcon175",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3154,17 +2102,10 @@
    "path": "orglogos/orgIcon176",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3176,13 +2117,7 @@
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3194,13 +2129,7 @@
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -3208,17 +2137,11 @@
    "path": "orglogos/orgIcon179",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Influence",
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3226,17 +2149,9 @@
    "path": "orglogos/orgIcon180",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -3244,17 +2159,10 @@
    "path": "orglogos/orgIcon181",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Engineering",
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -3262,17 +2170,9 @@
    "path": "orglogos/orgIcon182",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -3280,17 +2180,10 @@
    "path": "orglogos/orgIcon183",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -3298,17 +2191,9 @@
    "path": "orglogos/orgIcon184",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -3316,17 +2201,11 @@
    "path": "orglogos/orgIcon185",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Engineering",
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3334,17 +2213,9 @@
    "path": "orglogos/orgIcon186",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -3356,13 +2227,7 @@
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -3370,17 +2235,10 @@
    "path": "orglogos/orgIcon188",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -3388,17 +2246,11 @@
    "path": "orglogos/orgIcon189",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3406,17 +2258,11 @@
    "path": "orglogos/orgIcon190",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Influence",
       "NGO",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3424,17 +2270,9 @@
    "path": "orglogos/orgIcon191",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -3442,17 +2280,9 @@
    "path": "orglogos/orgIcon192",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -3460,17 +2290,10 @@
    "path": "orglogos/orgIcon193",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "InformationTechnology",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -3478,17 +2301,9 @@
    "path": "orglogos/orgIcon194",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3496,17 +2311,9 @@
    "path": "orglogos/orgIcon195",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3514,17 +2321,9 @@
    "path": "orglogos/orgIcon196",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3532,17 +2331,9 @@
    "path": "orglogos/orgIcon197",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3550,17 +2341,9 @@
    "path": "orglogos/orgIcon198",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3568,35 +2351,16 @@
    "path": "orglogos/orgIcon199",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon200",
    "path": "orglogos/orgIcon200",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3604,35 +2368,16 @@
    "path": "orglogos/orgIcon201",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon202",
    "path": "orglogos/orgIcon202",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3640,17 +2385,9 @@
    "path": "orglogos/orgIcon203",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3658,17 +2395,9 @@
    "path": "orglogos/orgIcon204",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3676,17 +2405,10 @@
    "path": "orglogos/orgIcon205",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -3694,17 +2416,9 @@
    "path": "orglogos/orgIcon206",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -3712,17 +2426,9 @@
    "path": "orglogos/orgIcon207",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -3730,17 +2436,10 @@
    "path": "orglogos/orgIcon208",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3748,17 +2447,10 @@
    "path": "orglogos/orgIcon209",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Engineering",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -3766,17 +2458,9 @@
    "path": "orglogos/orgIcon210",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -3784,17 +2468,10 @@
    "path": "orglogos/orgIcon211",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Engineering",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -3802,17 +2479,10 @@
    "path": "orglogos/orgIcon212",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Resource",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -3820,17 +2490,9 @@
    "path": "orglogos/orgIcon213",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -3838,17 +2500,10 @@
    "path": "orglogos/orgIcon214",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Resource",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -3856,17 +2511,9 @@
    "path": "orglogos/orgIcon215",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -3874,35 +2521,18 @@
    "path": "orglogos/orgIcon216",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon217",
    "path": "orglogos/orgIcon217",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -3910,17 +2540,10 @@
    "path": "orglogos/orgIcon218",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Commercial",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -3928,17 +2551,10 @@
    "path": "orglogos/orgIcon219",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Commercial",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -3946,17 +2562,9 @@
    "path": "orglogos/orgIcon220",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -3964,17 +2572,10 @@
    "path": "orglogos/orgIcon221",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -3982,17 +2583,9 @@
    "path": "orglogos/orgIcon222",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -4000,17 +2593,11 @@
    "path": "orglogos/orgIcon223",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Engineering",
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4018,17 +2605,11 @@
    "path": "orglogos/orgIcon224",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Engineering",
       "Influence",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4036,17 +2617,10 @@
    "path": "orglogos/orgIcon225",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4054,17 +2628,9 @@
    "path": "orglogos/orgIcon226",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -4072,17 +2638,9 @@
    "path": "orglogos/orgIcon227",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -4090,17 +2648,10 @@
    "path": "orglogos/orgIcon228",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -4108,17 +2659,9 @@
    "path": "orglogos/orgIcon229",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4126,17 +2669,10 @@
    "path": "orglogos/orgIcon230",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Influence",
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -4144,17 +2680,10 @@
    "path": "orglogos/orgIcon231",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4162,17 +2691,9 @@
    "path": "orglogos/orgIcon232",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -4180,17 +2701,11 @@
    "path": "orglogos/orgIcon233",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Influence",
       "Research",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4198,17 +2713,10 @@
    "path": "orglogos/orgIcon234",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4216,17 +2724,9 @@
    "path": "orglogos/orgIcon235",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -4234,17 +2734,9 @@
    "path": "orglogos/orgIcon236",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -4252,17 +2744,10 @@
    "path": "orglogos/orgIcon237",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4270,17 +2755,9 @@
    "path": "orglogos/orgIcon238",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4288,17 +2765,10 @@
    "path": "orglogos/orgIcon239",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -4306,17 +2776,9 @@
    "path": "orglogos/orgIcon240",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4324,17 +2786,9 @@
    "path": "orglogos/orgIcon241",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -4342,35 +2796,16 @@
    "path": "orglogos/orgIcon242",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Resource",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Resource"
 },
  {
    "dataName": "orgIcon243",
    "path": "orglogos/orgIcon243",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4378,17 +2813,10 @@
    "path": "orglogos/orgIcon244",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Aerospace",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -4396,17 +2824,9 @@
    "path": "orglogos/orgIcon245",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4414,17 +2834,9 @@
    "path": "orglogos/orgIcon246",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -4432,17 +2844,10 @@
    "path": "orglogos/orgIcon247",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "Engineering",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4450,17 +2855,9 @@
    "path": "orglogos/orgIcon248",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -4468,17 +2865,9 @@
    "path": "orglogos/orgIcon249",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4486,17 +2875,9 @@
    "path": "orglogos/orgIcon250",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4504,35 +2885,18 @@
    "path": "orglogos/orgIcon251",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon252",
    "path": "orglogos/orgIcon252",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
       "InformationTechnology",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4540,17 +2904,9 @@
    "path": "orglogos/orgIcon253",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4558,17 +2914,9 @@
    "path": "orglogos/orgIcon254",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -4576,17 +2924,9 @@
    "path": "orglogos/orgIcon255",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4594,17 +2934,10 @@
    "path": "orglogos/orgIcon256",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Influence",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4612,17 +2945,10 @@
    "path": "orglogos/orgIcon257",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "InformationTechnology",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4630,17 +2956,10 @@
    "path": "orglogos/orgIcon258",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Commercial",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4648,17 +2967,10 @@
    "path": "orglogos/orgIcon259",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Commercial",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4666,17 +2978,10 @@
    "path": "orglogos/orgIcon260",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4684,17 +2989,10 @@
    "path": "orglogos/orgIcon261",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4702,17 +3000,10 @@
    "path": "orglogos/orgIcon262",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "InformationTechnology",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4720,17 +3011,9 @@
    "path": "orglogos/orgIcon263",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4738,17 +3021,9 @@
    "path": "orglogos/orgIcon264",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4756,17 +3031,10 @@
    "path": "orglogos/orgIcon265",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "NGO",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4774,17 +3042,9 @@
    "path": "orglogos/orgIcon266",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4792,17 +3052,10 @@
    "path": "orglogos/orgIcon267",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -4810,17 +3063,9 @@
    "path": "orglogos/orgIcon268",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -4828,17 +3073,10 @@
    "path": "orglogos/orgIcon269",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -4846,17 +3084,9 @@
    "path": "orglogos/orgIcon270",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -4864,17 +3094,10 @@
    "path": "orglogos/orgIcon271",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -4882,17 +3105,9 @@
    "path": "orglogos/orgIcon272",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -4900,17 +3115,9 @@
    "path": "orglogos/orgIcon273",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -4918,17 +3125,10 @@
    "path": "orglogos/orgIcon274",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Resource",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -4936,53 +3136,23 @@
    "path": "orglogos/orgIcon275",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon276",
    "path": "orglogos/orgIcon276",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon277",
    "path": "orglogos/orgIcon277",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -4990,35 +3160,16 @@
    "path": "orglogos/orgIcon278",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon279",
    "path": "orglogos/orgIcon279",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5026,17 +3177,9 @@
    "path": "orglogos/orgIcon280",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -5044,17 +3187,9 @@
    "path": "orglogos/orgIcon281",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5062,17 +3197,10 @@
    "path": "orglogos/orgIcon282",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Engineering",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5080,17 +3208,9 @@
    "path": "orglogos/orgIcon283",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -5098,17 +3218,9 @@
    "path": "orglogos/orgIcon284",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -5116,17 +3228,9 @@
    "path": "orglogos/orgIcon285",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -5134,17 +3238,9 @@
    "path": "orglogos/orgIcon286",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5152,17 +3248,11 @@
    "path": "orglogos/orgIcon287",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Commercial",
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5170,17 +3260,10 @@
    "path": "orglogos/orgIcon288",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "NGO",
-      "Researcj",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Researcj"
    ]
 },
  {
@@ -5188,35 +3271,16 @@
    "path": "orglogos/orgIcon289",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon290",
    "path": "orglogos/orgIcon290",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5224,17 +3288,10 @@
    "path": "orglogos/orgIcon291",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5242,17 +3299,10 @@
    "path": "orglogos/orgIcon292",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Criminal",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5260,17 +3310,10 @@
    "path": "orglogos/orgIcon293",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5278,17 +3321,9 @@
    "path": "orglogos/orgIcon294",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5296,17 +3331,9 @@
    "path": "orglogos/orgIcon295",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5314,17 +3341,9 @@
    "path": "orglogos/orgIcon296",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5332,17 +3351,10 @@
    "path": "orglogos/orgIcon297",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -5350,35 +3362,17 @@
    "path": "orglogos/orgIcon298",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon299",
    "path": "orglogos/orgIcon299",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5386,17 +3380,11 @@
    "path": "orglogos/orgIcon300",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
       "Security",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5404,17 +3392,9 @@
    "path": "orglogos/orgIcon301",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5422,17 +3402,9 @@
    "path": "orglogos/orgIcon302",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5440,17 +3412,10 @@
    "path": "orglogos/orgIcon303",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5458,17 +3423,9 @@
    "path": "orglogos/orgIcon304",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5476,17 +3433,10 @@
    "path": "orglogos/orgIcon305",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5494,17 +3444,9 @@
    "path": "orglogos/orgIcon306",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -5512,17 +3454,9 @@
    "path": "orglogos/orgIcon307",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -5530,17 +3464,10 @@
    "path": "orglogos/orgIcon308",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5548,17 +3475,10 @@
    "path": "orglogos/orgIcon309",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Aerospace",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5566,17 +3486,10 @@
    "path": "orglogos/orgIcon310",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -5584,17 +3497,10 @@
    "path": "orglogos/orgIcon311",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5602,17 +3508,10 @@
    "path": "orglogos/orgIcon312",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5620,17 +3519,10 @@
    "path": "orglogos/orgIcon313",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5638,17 +3530,9 @@
    "path": "orglogos/orgIcon314",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -5656,17 +3540,10 @@
    "path": "orglogos/orgIcon315",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Investigations",
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -5674,17 +3551,10 @@
    "path": "orglogos/orgIcon316",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -5692,17 +3562,9 @@
    "path": "orglogos/orgIcon317",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -5710,17 +3572,10 @@
    "path": "orglogos/orgIcon318",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5728,17 +3583,10 @@
    "path": "orglogos/orgIcon319",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5746,17 +3594,10 @@
    "path": "orglogos/orgIcon320",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5764,17 +3605,10 @@
    "path": "orglogos/orgIcon321",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -5782,17 +3616,10 @@
    "path": "orglogos/orgIcon322",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Security",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5800,17 +3627,10 @@
    "path": "orglogos/orgIcon323",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Resource",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5818,17 +3638,10 @@
    "path": "orglogos/orgIcon324",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -5836,35 +3649,16 @@
    "path": "orglogos/orgIcon325",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon326",
    "path": "orglogos/orgIcon326",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -5872,17 +3666,10 @@
    "path": "orglogos/orgIcon327",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5890,17 +3677,9 @@
    "path": "orglogos/orgIcon328",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5908,17 +3687,9 @@
    "path": "orglogos/orgIcon329",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5926,17 +3697,9 @@
    "path": "orglogos/orgIcon330",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -5944,17 +3707,10 @@
    "path": "orglogos/orgIcon331",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5962,35 +3718,16 @@
    "path": "orglogos/orgIcon332",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon333",
    "path": "orglogos/orgIcon333",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -5998,17 +3735,9 @@
    "path": "orglogos/orgIcon334",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6016,17 +3745,10 @@
    "path": "orglogos/orgIcon335",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -6034,17 +3756,10 @@
    "path": "orglogos/orgIcon336",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6052,17 +3767,10 @@
    "path": "orglogos/orgIcon337",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Criminal",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -6070,17 +3778,10 @@
    "path": "orglogos/orgIcon338",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -6088,17 +3789,9 @@
    "path": "orglogos/orgIcon339",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -6106,17 +3799,10 @@
    "path": "orglogos/orgIcon340",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "Engineering",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6124,17 +3810,9 @@
    "path": "orglogos/orgIcon341",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Aerospace",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Aerospace"
    ]
 },
  {
@@ -6142,17 +3820,9 @@
    "path": "orglogos/orgIcon342",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -6160,35 +3830,18 @@
    "path": "orglogos/orgIcon343",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon344",
    "path": "orglogos/orgIcon344",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Aerospace",
       "Commercial",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -6196,17 +3849,9 @@
    "path": "orglogos/orgIcon345",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6214,17 +3859,9 @@
    "path": "orglogos/orgIcon346",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -6232,17 +3869,10 @@
    "path": "orglogos/orgIcon347",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Influence",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -6250,17 +3880,10 @@
    "path": "orglogos/orgIcon348",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -6268,17 +3891,10 @@
    "path": "orglogos/orgIcon349",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "Sect",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -6286,17 +3902,10 @@
    "path": "orglogos/orgIcon350",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "Security",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -6304,17 +3913,11 @@
    "path": "orglogos/orgIcon351",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "InformationTechnology",
       "Engineering",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -6322,17 +3925,10 @@
    "path": "orglogos/orgIcon352",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Investigations",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -6340,17 +3936,10 @@
    "path": "orglogos/orgIcon353",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "NGO",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -6358,17 +3947,10 @@
    "path": "orglogos/orgIcon354",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "Engineering",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6376,17 +3958,9 @@
    "path": "orglogos/orgIcon355",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -6394,17 +3968,10 @@
    "path": "orglogos/orgIcon356",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "BusinessManagement",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -6412,17 +3979,10 @@
    "path": "orglogos/orgIcon357",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Research",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -6430,17 +3990,11 @@
    "path": "orglogos/orgIcon358",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "BusinessManagment",
       "Research",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6448,17 +4002,10 @@
    "path": "orglogos/orgIcon359",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Resource",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -6466,17 +4013,10 @@
    "path": "orglogos/orgIcon360",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Research",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -6484,35 +4024,17 @@
    "path": "orglogos/orgIcon361",
    "minTier": 1,
    "maxTier": 2,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon362",
    "path": "orglogos/orgIcon362",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Influence",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6520,17 +4042,10 @@
    "path": "orglogos/orgIcon363",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Influence",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -6538,17 +4053,10 @@
    "path": "orglogos/orgIcon364",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -6556,17 +4064,10 @@
    "path": "orglogos/orgIcon365",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Criminal",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -6574,17 +4075,10 @@
    "path": "orglogos/orgIcon366",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -6592,17 +4086,10 @@
    "path": "orglogos/orgIcon367",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Engineering",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -6610,17 +4097,12 @@
    "path": "orglogos/orgIcon368",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "NGO",
       "Engineering",
       "Influence",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -6628,7 +4110,6 @@
    "path": "orglogos/orgIcon369",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Research",
@@ -6637,8 +4118,7 @@
       "Security",
       "NGO",
       "InformationTechnology",
-      "Aerospace",
-      ""
+      "Aerospace"
    ]
 },
  {
@@ -6646,17 +4126,12 @@
    "path": "orglogos/orgIcon370",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "NGO",
       "BusinessManagement",
       "Engineering",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -6664,17 +4139,12 @@
    "path": "orglogos/orgIcon371",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "NGO",
       "BusinessManagement",
       "Engineering",
-      "Resource",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -6682,17 +4152,11 @@
    "path": "orglogos/orgIcon372",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "Security",
       "Sect",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -6700,17 +4164,12 @@
    "path": "orglogos/orgIcon373",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Engineering",
       "Influence",
       "Criminal",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -6718,17 +4177,11 @@
    "path": "orglogos/orgIcon374",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Engineering",
       "Influence",
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -6736,17 +4189,12 @@
    "path": "orglogos/orgIcon375",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Aerospace",
       "Resource",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -6754,17 +4202,9 @@
    "path": "orglogos/orgIcon376",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -6772,7 +4212,6 @@
    "path": "orglogos/orgIcon377",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -6781,8 +4220,7 @@
       "Resource",
       "InformationTechnology",
       "NGO",
-      "Influence",
-      ""
+      "Influence"
    ]
 },
  {
@@ -6790,17 +4228,11 @@
    "path": "orglogos/orgIcon378",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "Commercial",
       "NGO",
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -6808,17 +4240,10 @@
    "path": "orglogos/orgIcon379",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "Investigations",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -6826,17 +4251,11 @@
    "path": "orglogos/orgIcon380",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Investigations",
       "Engineering",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6844,17 +4263,9 @@
    "path": "orglogos/orgIcon381",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -6862,35 +4273,16 @@
    "path": "orglogos/orgIcon382",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Research",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Research"
 },
  {
    "dataName": "orgIcon383",
    "path": "orglogos/orgIcon383",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Research",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -6898,17 +4290,9 @@
    "path": "orglogos/orgIcon384",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -6916,17 +4300,11 @@
    "path": "orglogos/orgIcon385",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Engineering",
       "Sect",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -6934,17 +4312,10 @@
    "path": "orglogos/orgIcon386",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "Sect",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -6952,17 +4323,10 @@
    "path": "orglogos/orgIcon387",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "Security",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -6970,7 +4334,6 @@
    "path": "orglogos/orgIcon388",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "NGO",
@@ -6978,9 +4341,7 @@
       "Sect",
       "Influence",
       "Commercial",
-      "InformationTechnology",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -6988,17 +4349,11 @@
    "path": "orglogos/orgIcon389",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "NGO",
       "Commercial",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -7006,17 +4361,11 @@
    "path": "orglogos/orgIcon390",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "NGO",
       "Resource",
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -7024,17 +4373,11 @@
    "path": "orglogos/orgIcon391",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Resource",
    "allowedOrgTypes": [
       "NGO",
       "BusinessManagement",
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -7042,7 +4385,6 @@
    "path": "orglogos/orgIcon392",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "Criminal",
@@ -7051,8 +4393,7 @@
       "BusinessManagement",
       "Commercial",
       "Investigations",
-      "Security",
-      ""
+      "Security"
    ]
 },
  {
@@ -7060,17 +4401,10 @@
    "path": "orglogos/orgIcon393",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Criminal",
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -7078,7 +4412,6 @@
    "path": "orglogos/orgIcon394",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Aerospace",
@@ -7086,9 +4419,7 @@
       "Sect",
       "Security",
       "InformationTechnology",
-      "Influence",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -7096,17 +4427,10 @@
    "path": "orglogos/orgIcon395",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Sect",
    "allowedOrgTypes": [
       "Criminal",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -7114,17 +4438,13 @@
    "path": "orglogos/orgIcon396",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
       "Security",
       "Investigations",
       "Research",
-      "Engineering",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -7132,7 +4452,6 @@
    "path": "orglogos/orgIcon397",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -7141,8 +4460,7 @@
       "Investigations",
       "Engineering",
       "InformationTechnology",
-      "Influence",
-      ""
+      "Influence"
    ]
 },
  {
@@ -7150,17 +4468,11 @@
    "path": "orglogos/orgIcon398",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Investigations",
    "allowedOrgTypes": [
       "Security",
       "Sect",
-      "InformationTechnology",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -7168,17 +4480,10 @@
    "path": "orglogos/orgIcon399",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
       "Sect",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -7186,7 +4491,6 @@
    "path": "orglogos/orgIcon400",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Security",
    "allowedOrgTypes": [
       "Investigations",
@@ -7194,9 +4498,7 @@
       "Research",
       "Engineering",
       "Aerospace",
-      "InformationTechnology",
-      "",
-      ""
+      "InformationTechnology"
    ]
 },
  {
@@ -7204,7 +4506,6 @@
    "path": "orglogos/orgIcon401",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -7212,9 +4513,7 @@
       "Research",
       "Engineering",
       "InformationTechnology",
-      "Security",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -7222,17 +4521,10 @@
    "path": "orglogos/orgIcon402",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Research",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -7240,17 +4532,9 @@
    "path": "orglogos/orgIcon403",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -7258,17 +4542,13 @@
    "path": "orglogos/orgIcon404",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Research",
       "Criminal",
       "NGO",
       "Influence",
-      "Sect",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -7276,35 +4556,20 @@
    "path": "orglogos/orgIcon405",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon406",
    "path": "orglogos/orgIcon406",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Research",
       "Criminal",
       "NGO",
       "Influence",
-      "Sect",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -7312,17 +4577,10 @@
    "path": "orglogos/orgIcon407",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Research",
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -7330,25 +4588,13 @@
    "path": "orglogos/orgIcon408",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon409",
    "path": "orglogos/orgIcon409",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Research",
@@ -7357,8 +4603,7 @@
       "Influence",
       "Sect",
       "Security",
-      "informationTechnology",
-      ""
+      "informationTechnology"
    ]
 },
  {
@@ -7366,17 +4611,12 @@
    "path": "orglogos/orgIcon410",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
       "Research",
       "Engineering",
       "Criminal",
-      "Sect",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -7384,35 +4624,16 @@
    "path": "orglogos/orgIcon411",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Aerospace",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Aerospace"
 },
  {
    "dataName": "orgIcon412",
    "path": "orglogos/orgIcon412",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -7420,17 +4641,9 @@
    "path": "orglogos/orgIcon413",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Aerospace",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -7438,7 +4651,6 @@
    "path": "orglogos/orgIcon414",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Research",
@@ -7446,9 +4658,7 @@
       "Criminal",
       "Sect",
       "Aerospace",
-      "Security",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -7456,17 +4666,10 @@
    "path": "orglogos/orgIcon415",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -7474,17 +4677,11 @@
    "path": "orglogos/orgIcon416",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Investigations",
       "Security",
-      "Criminal",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Criminal"
    ]
 },
  {
@@ -7492,17 +4689,9 @@
    "path": "orglogos/orgIcon417",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Commercial",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Commercial"
    ]
 },
  {
@@ -7510,17 +4699,9 @@
    "path": "orglogos/orgIcon418",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
-      "Investigations",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Investigations"
    ]
 },
  {
@@ -7528,17 +4709,13 @@
    "path": "orglogos/orgIcon419",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Research",
       "Engineering",
       "Criminal",
       "Sect",
-      "Aerospace",
-      "",
-      "",
-      ""
+      "Aerospace"
    ]
 },
  {
@@ -7546,17 +4723,10 @@
    "path": "orglogos/orgIcon420",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -7564,17 +4734,10 @@
    "path": "orglogos/orgIcon421",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -7582,17 +4745,10 @@
    "path": "orglogos/orgIcon422",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -7600,17 +4756,13 @@
    "path": "orglogos/orgIcon423",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Research",
       "Engineering",
       "NGO",
       "Sect",
-      "Aerospace",
-      "",
-      "",
-      ""
+      "Aerospace"
    ]
 },
  {
@@ -7618,17 +4770,13 @@
    "path": "orglogos/orgIcon424",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "BusinessManagement",
    "allowedOrgTypes": [
       "Commercial",
       "Research",
       "Engineering",
       "Influence",
-      "Resource",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -7636,17 +4784,12 @@
    "path": "orglogos/orgIcon425",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Research",
       "Engineering",
-      "NGO",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -7654,25 +4797,13 @@
    "path": "orglogos/orgIcon426",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon427",
    "path": "orglogos/orgIcon427",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "BusinessManagement",
@@ -7680,9 +4811,7 @@
       "Engineering",
       "Influence",
       "Resource",
-      "NGO",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -7690,17 +4819,9 @@
    "path": "orglogos/orgIcon428",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "BusinessManagement",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "BusinessManagement"
    ]
 },
  {
@@ -7708,35 +4829,16 @@
    "path": "orglogos/orgIcon429",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon430",
    "path": "orglogos/orgIcon430",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -7744,17 +4846,9 @@
    "path": "orglogos/orgIcon431",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Aerospace",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Aerospace"
    ]
 },
  {
@@ -7762,17 +4856,9 @@
    "path": "orglogos/orgIcon432",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -7780,35 +4866,18 @@
    "path": "orglogos/orgIcon433",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon434",
    "path": "orglogos/orgIcon434",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "NGO",
    "allowedOrgTypes": [
       "Commercial",
       "Resource",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -7816,17 +4885,9 @@
    "path": "orglogos/orgIcon435",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Resource",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Resource"
    ]
 },
  {
@@ -7834,17 +4895,9 @@
    "path": "orglogos/orgIcon436",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -7852,17 +4905,9 @@
    "path": "orglogos/orgIcon437",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -7870,35 +4915,19 @@
    "path": "orglogos/orgIcon438",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Commercial",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Commercial"
 },
  {
    "dataName": "orgIcon439",
    "path": "orglogos/orgIcon439",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Commercial",
    "allowedOrgTypes": [
       "BusinessManagement",
       "Engineering",
       "Resource",
-      "Influence",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -7906,89 +4935,37 @@
    "path": "orglogos/orgIcon440",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon441",
    "path": "orglogos/orgIcon441",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon442",
    "path": "orglogos/orgIcon442",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon443",
    "path": "orglogos/orgIcon443",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon444",
    "path": "orglogos/orgIcon444",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Sect",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
 },
  {
@@ -7996,17 +4973,9 @@
    "path": "orglogos/orgIcon445",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Criminal",
    "allowedOrgTypes": [
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -8014,179 +4983,73 @@
    "path": "orglogos/orgIcon446",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon447",
    "path": "orglogos/orgIcon447",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon448",
    "path": "orglogos/orgIcon448",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon449",
    "path": "orglogos/orgIcon449",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon450",
    "path": "orglogos/orgIcon450",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon451",
    "path": "orglogos/orgIcon451",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon452",
    "path": "orglogos/orgIcon452",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Criminal",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Criminal"
 },
  {
    "dataName": "orgIcon453",
    "path": "orglogos/orgIcon453",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Engineering",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Engineering"
 },
  {
    "dataName": "orgIcon454",
    "path": "orglogos/orgIcon454",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Engineering",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Engineering"
 },
  {
    "dataName": "orgIcon455",
    "path": "orglogos/orgIcon455",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Criminal",
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -8194,35 +5057,16 @@
    "path": "orglogos/orgIcon456",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Engineering",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Engineering"
 },
  {
    "dataName": "orgIcon457",
    "path": "orglogos/orgIcon457",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -8230,35 +5074,16 @@
    "path": "orglogos/orgIcon458",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Engineering",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Engineering"
 },
  {
    "dataName": "orgIcon459",
    "path": "orglogos/orgIcon459",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Security",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Security"
    ]
 },
  {
@@ -8266,17 +5091,9 @@
    "path": "orglogos/orgIcon460",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
-      "Research",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Research"
    ]
 },
  {
@@ -8284,17 +5101,10 @@
    "path": "orglogos/orgIcon461",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "Influence",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Influence"
    ]
 },
  {
@@ -8302,35 +5112,17 @@
    "path": "orglogos/orgIcon462",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Engineering",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Engineering"
 },
  {
    "dataName": "orgIcon463",
    "path": "orglogos/orgIcon463",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Engineering",
    "allowedOrgTypes": [
       "Research",
-      "NGO",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "NGO"
    ]
 },
  {
@@ -8338,53 +5130,23 @@
    "path": "orglogos/orgIcon464",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Engineering",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Engineering"
 },
  {
    "dataName": "orgIcon465",
    "path": "orglogos/orgIcon465",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Engineering",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Engineering"
 },
  {
    "dataName": "orgIcon466",
    "path": "orglogos/orgIcon466",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
    "primaryOrgType": "Influence",
    "allowedOrgTypes": [
-      "Engineering",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Engineering"
    ]
 },
  {
@@ -8392,125 +5154,605 @@
    "path": "orglogos/orgIcon467",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon468",
    "path": "orglogos/orgIcon468",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon469",
    "path": "orglogos/orgIcon469",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon470",
    "path": "orglogos/orgIcon470",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon471",
    "path": "orglogos/orgIcon471",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon472",
    "path": "orglogos/orgIcon472",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
-   "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "primaryOrgType": "Influence"
 },
  {
    "dataName": "orgIcon473",
    "path": "orglogos/orgIcon473",
    "minTier": 1,
    "maxTier": 3,
-   "firstLetters": "",
-   "primaryOrgType": "Influence",
+   "primaryOrgType": "Influence"
+},
+ {
+   "dataName": "orgIcon474",
+   "path": "orglogos/orgIcon474",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology"
+},
+ {
+   "dataName": "orgIcon475",
+   "path": "orglogos/orgIcon475",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology",
    "allowedOrgTypes": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Sect"
    ]
+},
+ {
+   "dataName": "orgIcon476",
+   "path": "orglogos/orgIcon476",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology"
+},
+ {
+   "dataName": "orgIcon477",
+   "path": "orglogos/orgIcon477",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology",
+   "allowedOrgTypes": [
+      "Aerospace"
+   ]
+},
+ {
+   "dataName": "orgIcon478",
+   "path": "orglogos/orgIcon478",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology"
+},
+ {
+   "dataName": "orgIcon479",
+   "path": "orglogos/orgIcon479",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology"
+},
+ {
+   "dataName": "orgIcon480",
+   "path": "orglogos/orgIcon480",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology"
+},
+ {
+   "dataName": "orgIcon481",
+   "path": "orglogos/orgIcon481",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology",
+   "allowedOrgTypes": [
+      "Research"
+   ]
+},
+ {
+   "dataName": "orgIcon482",
+   "path": "orglogos/orgIcon482",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology",
+   "allowedOrgTypes": [
+      "Resource"
+   ]
+},
+ {
+   "dataName": "orgIcon483",
+   "path": "orglogos/orgIcon483",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "InformationTechnology"
+},
+ {
+   "dataName": "orgIcon484",
+   "path": "orglogos/orgIcon484",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon485",
+   "path": "orglogos/orgIcon485",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon486",
+   "path": "orglogos/orgIcon486",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations",
+   "allowedOrgTypes": [
+      "InformationTechnology"
+   ]
+},
+ {
+   "dataName": "orgIcon487",
+   "path": "orglogos/orgIcon487",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon488",
+   "path": "orglogos/orgIcon488",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon489",
+   "path": "orglogos/orgIcon489",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon490",
+   "path": "orglogos/orgIcon490",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon491",
+   "path": "orglogos/orgIcon491",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon492",
+   "path": "orglogos/orgIcon492",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon493",
+   "path": "orglogos/orgIcon493",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon494",
+   "path": "orglogos/orgIcon494",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Investigations"
+},
+ {
+   "dataName": "orgIcon495",
+   "path": "orglogos/orgIcon495",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon496",
+   "path": "orglogos/orgIcon496",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon497",
+   "path": "orglogos/orgIcon497",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon498",
+   "path": "orglogos/orgIcon498",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon499",
+   "path": "orglogos/orgIcon499",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon500",
+   "path": "orglogos/orgIcon500",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO",
+   "allowedOrgTypes": [
+      "Resource"
+   ]
+},
+ {
+   "dataName": "orgIcon501",
+   "path": "orglogos/orgIcon501",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon502",
+   "path": "orglogos/orgIcon502",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon503",
+   "path": "orglogos/orgIcon503",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon504",
+   "path": "orglogos/orgIcon504",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon505",
+   "path": "orglogos/orgIcon505",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon506",
+   "path": "orglogos/orgIcon506",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "NGO"
+},
+ {
+   "dataName": "orgIcon507",
+   "path": "orglogos/orgIcon507",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon508",
+   "path": "orglogos/orgIcon508",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon509",
+   "path": "orglogos/orgIcon509",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon510",
+   "path": "orglogos/orgIcon510",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon511",
+   "path": "orglogos/orgIcon511",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon512",
+   "path": "orglogos/orgIcon512",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon513",
+   "path": "orglogos/orgIcon513",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon514",
+   "path": "orglogos/orgIcon514",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon515",
+   "path": "orglogos/orgIcon515",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon516",
+   "path": "orglogos/orgIcon516",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon517",
+   "path": "orglogos/orgIcon517",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon518",
+   "path": "orglogos/orgIcon518",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Research"
+},
+ {
+   "dataName": "orgIcon519",
+   "path": "orglogos/orgIcon519",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon520",
+   "path": "orglogos/orgIcon520",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon521",
+   "path": "orglogos/orgIcon521",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon522",
+   "path": "orglogos/orgIcon522",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon523",
+   "path": "orglogos/orgIcon523",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon524",
+   "path": "orglogos/orgIcon524",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon525",
+   "path": "orglogos/orgIcon525",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon526",
+   "path": "orglogos/orgIcon526",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon527",
+   "path": "orglogos/orgIcon527",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon528",
+   "path": "orglogos/orgIcon528",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Resource"
+},
+ {
+   "dataName": "orgIcon529",
+   "path": "orglogos/orgIcon529",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon530",
+   "path": "orglogos/orgIcon530",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon531",
+   "path": "orglogos/orgIcon531",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon532",
+   "path": "orglogos/orgIcon532",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon533",
+   "path": "orglogos/orgIcon533",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon534",
+   "path": "orglogos/orgIcon534",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon535",
+   "path": "orglogos/orgIcon535",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon536",
+   "path": "orglogos/orgIcon536",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon537",
+   "path": "orglogos/orgIcon537",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon538",
+   "path": "orglogos/orgIcon538",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon539",
+   "path": "orglogos/orgIcon539",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Security"
+},
+ {
+   "dataName": "orgIcon540",
+   "path": "orglogos/orgIcon540",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon541",
+   "path": "orglogos/orgIcon541",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon542",
+   "path": "orglogos/orgIcon542",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon543",
+   "path": "orglogos/orgIcon543",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon544",
+   "path": "orglogos/orgIcon544",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon545",
+   "path": "orglogos/orgIcon545",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon546",
+   "path": "orglogos/orgIcon546",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon547",
+   "path": "orglogos/orgIcon547",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon548",
+   "path": "orglogos/orgIcon548",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon549",
+   "path": "orglogos/orgIcon549",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
+},
+ {
+   "dataName": "orgIcon550",
+   "path": "orglogos/orgIcon550",
+   "minTier": 1,
+   "maxTier": 3,
+   "primaryOrgType": "Sect"
 }
 ]
