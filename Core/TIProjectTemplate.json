@@ -15513,5 +15513,106 @@
    "deltaUnlockChance": 10,
    "maxUnlockChance": 50,
    "resourcesGranted": []
+},
+ {
+   "friendlyName": "Maglev Trains",
+   "dataName": "Project_MaglevTrains",
+   "techCategory": "Materials",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "DevelopNation",
+   "researchCost": 20000,
+   "prereqs": [
+      "SuperconductingMagnets"
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "Effect_EconomyPriorityBonus05",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 40,
+   "factionAlways": "",
+   "initialUnlockChance": 5,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 80,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Self-driving vehicles",
+   "dataName": "Project_SelfDrivingVehicles",
+   "techCategory": "InformationScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "DevelopNation",
+   "researchCost": 8000,
+   "prereqs": [
+      "AdvancedNeuralNetworks"
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "Effect_EconomyPriorityBonus05",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 50,
+   "factionAlways": "",
+   "initialUnlockChance": 5,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 80,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
 }
 ]

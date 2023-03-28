@@ -680,7 +680,7 @@ TIProjectTemplate.displayName.Project_BoronInertialTorch=Boron Inertial Torch
 TIProjectTemplate.summary.Project_BoronInertialTorch=<shipmodule>
 TIProjectTemplate.displayName.Project_BoronInertialDrive=Boron Inertial Drive
 TIProjectTemplate.summary.Project_BoronInertialDrive=<shipmodule>
-TIProjectTemplate.displayName.Project_DaedelusTorch=Daedelus Torch
+TIProjectTemplate.displayName.Project_DaedelusTorch=Daedalus Torch
 TIProjectTemplate.summary.Project_DaedelusTorch=<shipmodule>
 TIProjectTemplate.displayName.Project_HelionInertialDrive=Helion Inertial Drive
 TIProjectTemplate.summary.Project_HelionInertialDrive=<shipmodule>
@@ -1361,7 +1361,7 @@ TIProjectTemplate.summary.Project_RapidStabilizationOperations=Eliminating poten
 TIProjectTemplate.displayName.Project_AutonomousResearchGroups=Autonomous Research Groups
 TIProjectTemplate.summary.Project_AutonomousResearchGroups=Modeled on aerospace "skunk works" operations, these teams are afforded considerable freedom to develop new ideas.
 TIProjectTemplate.displayName.Project_NuclearHardening=Army Nuclear Hardening
-TIProjectTemplate.summary.Project_NuclearHardening=We upgrade our armies with exotic-based armor technology that reduces damage from nearby nuclear strikes
+TIProjectTemplate.summary.Project_NuclearHardening=We upgrade our armies with exotic-based armor technology that reduces damage from nearby nuclear strikes.
 TIProjectTemplate.displayName.Project_DNARepairs=DNA Repairs
 TIProjectTemplate.summary.Project_DNARepairs=Molecular manipulation technologies allow nanorobots to repair damage to human DNA strands.
 TIProjectTemplate.displayName.Project_MethuselahTherapies=Methuselah Therapies
@@ -1450,7 +1450,7 @@ TIProjectTemplate.summary.Project_WaterPurificationTechniques=Improved filtering
 TIProjectTemplate.displayName.Project_RapidDistillationTechniques=Rapid Distillation Techniques
 TIProjectTemplate.summary.Project_RapidDistillationTechniques=Genetically engineered microbes assist in refining volatiles from our mines.
 TIProjectTemplate.displayName.Project_DeepSpaceMetallurgy=Deep Space Metallurgy
-TIProjectTemplate.summary.Project_DeepSpaceMetallurgy=Low-gravity refining techniques help us extract more marterial from mineral ore.
+TIProjectTemplate.summary.Project_DeepSpaceMetallurgy=Low-gravity refining techniques help us extract more material from mineral ore.
 TIProjectTemplate.displayName.Project_MolecularBenefication=Molecular Benefication
 TIProjectTemplate.summary.Project_MolecularBenefication=We squeeze more rare metals out of space rocks.
 TIProjectTemplate.displayName.Project_RapidFissileEnrichment=Rapid Fissile Enrichment
@@ -1534,7 +1534,7 @@ TIProjectTemplate.summary.Project_PherocyteScanners=We develop mobile scanning u
 TIProjectTemplate.displayName.Project_PherocyteDeconOperations=Pherocyte Decon Operations
 TIProjectTemplate.summary.Project_PherocyteDeconOperations=Controlled releases of bioengineered lifeforms reduce the localized spread of pherocytes.
 TIProjectTemplate.displayName.Project_PherocyteInoculations=Pherocyte Inoculations
-TIProjectTemplate.summary.Project_PherocyteInoculations=From our studies of alien thralls we develop a stopgap 
+TIProjectTemplate.summary.Project_PherocyteInoculations=From our studies of alien thralls we develop a stopgap.
 TIProjectTemplate.displayName.Project_BattlefieldPherocyteDecontamination=Battlefield Pherocyte Decontamination
 TIProjectTemplate.summary.Project_BattlefieldPherocyteDecontamination=We protect our soldiers against the mass spread of pherocytes in war zones, improving our effectiveness against alien armies.
 TIProjectTemplate.displayName.Project_BattlefieldPherocyteDeployment=Battlefield Pherocyte Deployment
@@ -1591,9 +1591,10 @@ TIProjectTemplate.displayName.Project_PatagoniaIndependenceMovement=Reconquest o
 TIProjectTemplate.summary.Project_PatagoniaIndependenceMovement=Peoples of Patagonia seek to redraw the map.
 TIProjectTemplate.displayName.Project_NetworkIntrusionProtocols=Network Intrusion Protocols
 TIProjectTemplate.summary.Project_NetworkIntrusionProtocols=We develop a variety of weapons to penetrate enemy faction networks.
-
-
-
+TIProjectTemplate.displayName.Project_MaglevTrains=Maglev Trains
+TIProjectTemplate.summary.Project_MaglevTrains=While Maglev trains are nothing new, recent breakthroughs in superconducting magnets have made it practical for nations to convert their entire public transportation network to Magnetic Levitation trains, ushering in a new era of high speed rail.
+TIProjectTemplate.displayName.Project_SelfDrivingVehicles=Self-Driving Vehicles
+TIProjectTemplate.summary.Project_SelfDrivingVehicles=After many failed attempts, self-driving vehicles are now a reality. Not only cars, but trucks, trains, and airplanes can now pilot themselves autonomously.
 
 
 
