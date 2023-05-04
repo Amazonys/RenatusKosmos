@@ -43,6 +43,7 @@
    "shipMaterialBundlePath": "shipmaterials_resistfaction",
    "cursorPath": "cursors/Cursor_ResistCouncil",
    "cinematicsPath": "cinematics/_resist",
+   "winMissionPath": "councilor_missions/ICO_mission_resist",
    "smallShipNameListIdx": "Heroes",
    "mediumShipNameListIdx": "Qualities",
    "largeShipNameListIdx": "Battles",
@@ -152,10 +153,6 @@
       {
          "resource": "Projects",
          "value": 1
-      },
-      {
-         "resource": "",
-         "value": null
       }
    ],
    "startingResources": [
@@ -186,7 +183,18 @@
       "InfraredCombatLasers",
       "ArcLasers",
       "Coilguns"
-   ]
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1.25,
+      "Operations": 1.25,
+      "Research": 1,
+      "Boost": 1,
+      "MissionControl": 1.25,
+      "SpaceResources": 1,
+      "Shipbuilding": 1.25,
+      "Defense": 1.5
+   }
 },
  {
    "dataName": "DestroyCouncil",
@@ -232,6 +240,7 @@
    "shipMaterialBundlePath": "shipmaterials_destroyfaction",
    "cursorPath": "cursors/Cursor_DestroyCouncil",
    "cinematicsPath": "cinematics/_destroy",
+   "winMissionPath": "councilor_missions/ICO_mission_destroy",
    "smallShipNameListIdx": "Weapons",
    "mediumShipNameListIdx": "Fighters",
    "largeShipNameListIdx": "Scary",
@@ -341,10 +350,6 @@
       {
          "resource": "Projects",
          "value": 1
-      },
-      {
-         "resource": "",
-         "value": null
       }
    ],
    "startingResources": [
@@ -375,7 +380,18 @@
       "InfraredCombatLasers",
       "VisibleCombatLasers",
       "Coilguns"
-   ]
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1,
+      "Operations": 1.5,
+      "Research": 1,
+      "Boost": 1,
+      "MissionControl": 1,
+      "SpaceResources": 1,
+      "Shipbuilding": 1.5,
+      "Defense": 1.75
+   }
 },
  {
    "dataName": "ExploitCouncil",
@@ -421,6 +437,7 @@
    "shipMaterialBundlePath": "shipmaterials_exploitfaction",
    "cursorPath": "cursors/Cursor_ExploitCouncil",
    "cinematicsPath": "cinematics/_exploit",
+   "winMissionPath": "councilor_missions/ICO_mission_exploit",
    "smallShipNameListIdx": "WaterAnimals",
    "mediumShipNameListIdx": "Rivers",
    "largeShipNameListIdx": "WaterBodies",
@@ -530,10 +547,6 @@
       {
          "resource": "Projects",
          "value": 1
-      },
-      {
-         "resource": "",
-         "value": null
       }
    ],
    "startingResources": [
@@ -559,12 +572,22 @@
       "MissiontotheAsteroids",
       "AdvancedSuperconductors",
       "SpaceMiningandRefining",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+      "CarbonNanotubes",
+      "MissiontoJupiter",
+      "MissiontoSaturn",
+      "MissiontotheOuterPlanets"
+   ],
+   "habPreferences": {
+      "Money": 2,
+      "Influence": 1,
+      "Operations": 1,
+      "Research": 1,
+      "Boost": 1,
+      "MissionControl": 1,
+      "SpaceResources": 1,
+      "Shipbuilding": 1,
+      "Defense": 1
+   }
 },
  {
    "dataName": "SubmitCouncil",
@@ -610,6 +633,7 @@
    "shipMaterialBundlePath": "shipmaterials_submitfaction",
    "cursorPath": "cursors/Cursor_AlienCouncil",
    "cinematicsPath": "cinematics/_submit",
+   "winMissionPath": "councilor_missions/ICO_mission_submit",
    "smallShipNameListIdx": "MythicalBeasts",
    "mediumShipNameListIdx": "Phenomena",
    "largeShipNameListIdx": "Mythology",
@@ -719,10 +743,6 @@
       {
          "resource": "Projects",
          "value": 1
-      },
-      {
-         "resource": "",
-         "value": null
       }
    ],
    "startingResources": [
@@ -747,13 +767,19 @@
       "ArrivalCulture",
       "IndependenceMovements",
       "FallofEmpires",
-      "DeepSystemSkywatch",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+      "DeepSystemSkywatch"
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1.75,
+      "Operations": 1.25,
+      "Research": 1,
+      "Boost": 1,
+      "MissionControl": 1,
+      "SpaceResources": 1,
+      "Shipbuilding": 1,
+      "Defense": 1
+   }
 },
  {
    "dataName": "AppeaseCouncil",
@@ -799,6 +825,7 @@
    "shipMaterialBundlePath": "shipmaterials_appeasefaction",
    "cursorPath": "cursors/Cursor_AppeaseCouncil",
    "cinematicsPath": "cinematics/_appease",
+   "winMissionPath": "councilor_missions/ICO_mission_appease",
    "smallShipNameListIdx": "Cities",
    "mediumShipNameListIdx": "Regions",
    "largeShipNameListIdx": "Landmasses",
@@ -908,10 +935,6 @@
       {
          "resource": "Projects",
          "value": 1
-      },
-      {
-         "resource": "",
-         "value": null
       }
    ],
    "startingResources": [
@@ -935,14 +958,20 @@
       "UnityMovements",
       "GreatNations",
       "ArrivalPsychology",
-      "DirectedSpaceResearch",
       "ExtendedSpaceSurvival",
-      "OrbitalTorusHabs",
-      "",
-      "",
-      "",
-      ""
-   ]
+      "OrbitalTorusHabs"
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1.5,
+      "Operations": 1.25,
+      "Research": 1,
+      "Boost": 1,
+      "MissionControl": 1,
+      "SpaceResources": 1,
+      "Shipbuilding": 1,
+      "Defense": 1
+   }
 },
  {
    "dataName": "CooperateCouncil",
@@ -988,6 +1017,7 @@
    "shipMaterialBundlePath": "shipmaterials_cooperatefaction",
    "cursorPath": "cursors/Cursor_CooperateCouncil",
    "cinematicsPath": "cinematics/_cooperate",
+   "winMissionPath": "councilor_missions/ICO_mission_cooperate",
    "smallShipNameListIdx": "LandAnimals",
    "mediumShipNameListIdx": "Scientists",
    "largeShipNameListIdx": "Exploration",
@@ -1119,19 +1149,28 @@
    ],
    "firstTechNames": [
       "PhotonicComputing",
-      "SpaceResearch",
-      "DirectedSpaceResearch",
       "AdvancedMagnetics",
       "OutpostHabs",
       "AdvancedNeuralNetworks",
       "MissiontotheMoon",
       "MissiontoMars",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+      "CarbonNanotubes",
+      "MissiontoJupiter",
+      "MissiontoSaturn",
+      "MissiontotheOuterPlanets",
+      "MissiontotheAsteroids"
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1,
+      "Operations": 1,
+      "Research": 1.75,
+      "Boost": 1,
+      "MissionControl": 1,
+      "SpaceResources": 1,
+      "Shipbuilding": 1,
+      "Defense": 1
+   }
 },
  {
    "dataName": "EscapeCouncil",
@@ -1177,6 +1216,7 @@
    "shipMaterialBundlePath": "shipmaterials_escapefaction",
    "cursorPath": "cursors/Cursor_EscapeCouncil",
    "cinematicsPath": "cinematics/_escape",
+   "winMissionPath": "councilor_missions/ICO_mission_escape",
    "smallShipNameListIdx": "AirAnimals",
    "mediumShipNameListIdx": "Astronomy",
    "largeShipNameListIdx": "FamousShips",
@@ -1319,8 +1359,19 @@
       "InfraredCombatLasers",
       "ArcLasers",
       "PhasedArrayLasers",
-      ""
-   ]
+      "CarbonNanotubes"
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1,
+      "Operations": 1,
+      "Research": 1,
+      "Boost": 1.5,
+      "MissionControl": 1.75,
+      "SpaceResources": 1.5,
+      "Shipbuilding": 1.25,
+      "Defense": 1
+   }
 },
  {
    "dataName": "AlienCouncil",
@@ -1335,9 +1386,6 @@
    "playerMood": 7,
    "encMood": 16,
    "ideologyName": "alien",
-   "victoryTemplateName": "",
-   "winningOrg": "",
-   "spaceOrg": "",
    "isAlien": true,
    "activePlayerAllowed": false,
    "difficulty": 0,
@@ -1366,20 +1414,12 @@
    "shipMaterialBundlePath": "shipmaterials_submitfaction",
    "cursorPath": "cursors/Cursor_AlienCouncil",
    "cinematicsPath": "cinematics/_submit",
+   "winMissionPath": "councilor_missions/ICO_mission_submit",
    "smallShipNameListIdx": "Alien1",
    "mediumShipNameListIdx": "Alien1",
    "largeShipNameListIdx": "Alien1",
    "habNameListIdx": "Alien1",
-   "guaranteedMissions": [
-      [
-         "",
-         ""
-      ],
-      [
-         "",
-         ""
-      ]
-   ],
+   "guaranteedMissions": [],
    "AIValues": [
       {
          "proAlien": 1,
@@ -1467,48 +1507,8 @@
       {
          "resource": "MissionControl",
          "value": 50
-      },
-      {
-         "resource": "",
-         "value": null
-      },
-      {
-         "resource": "",
-         "value": null
-      },
-      {
-         "resource": "",
-         "value": null
       }
    ],
-   "startingResources": [
-      {
-         "resource": "",
-         "value": null
-      },
-      {
-         "resource": "",
-         "value": null
-      },
-      {
-         "resource": "",
-         "value": null
-      }
-   ],
-   "firstTechNames": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
+   "startingResources": []
 }
 ]

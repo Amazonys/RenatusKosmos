@@ -325,6 +325,8 @@ TIMissionEffect_StealProject.Special=I have been arrested and expect to be turne
 TIMissionEffect_StealProject.Steal=I have also acquired {0} from their archives.
 TIMissionEffect_SabotageProject.Special=I have been arrested and expect to be turned over to {0} shortly. Please secure my release!									// faction name
 TIMissionEffect_Propaganda.Special=Our public support here has changed by {0}. It now stands at {1}.
+TIMissionEffect_Assassinate.Special1=Our assassination attempt has gained widespread attention, and I am now wanted by authorities around the globe.									// faction name
+TIMissionEffect_Assassinate.Special2=I have been arrested and expect to be turned over to {0} shortly. Please secure my release!									// faction name
 
 TIMissionResult_Responsibility=We have identified {0} as behind the operation.
 
@@ -414,6 +416,7 @@ TIMissionModifier_NationSizeEnthrallDifficulty.displayName=Nation Size
 TIMissionModifier_ConditionalEnthrallDefendedPoint.displayName=Defend Interests
 TIMissionModifier_AttackerMissionControlShortage.displayName=Mission Control Shortage
 TIMissionModifier_DefenderMissionControlShortage.displayName=Mission Control Shortage
+TIMissionModifier_HabStability=Stability-Granting Modules
 
 TIMissionCondition_GenericFail=Invalid target for this mission
 TIMissionCondition_AvailableControlPoint=Nation has no open control points

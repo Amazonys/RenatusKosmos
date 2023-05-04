@@ -7560,6 +7560,27 @@
    ]
 },
  {
+   "dataName": "Effect_LifeExtension05",
+   "instantEffect": "",
+   "operation": "Additive",
+   "value": 0.5,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "AllHumanFactions",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "HumanLifespan",
+      ""
+   ]
+},
+ {
    "dataName": "Effect_LifeExtension10",
    "instantEffect": "",
    "operation": "Additive",
@@ -11651,6 +11672,48 @@
    ],
    "contexts": [
       "",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_GainTraitLoyaltyMonitor",
+   "instantEffect": "CouncilorGainsTrait",
+   "operation": "",
+   "value": null,
+   "instantRnd": null,
+   "strValue": "LoyaltyMonitor",
+   "effectTarget": "InputState",
+   "effectSecondaryTarget": "",
+   "effectDuration": "instant",
+   "stackable": null,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "Effect_HabNuclearFreighters",
+   "instantEffect": "",
+   "operation": "SetToFixedValue",
+   "value": 1,
+   "instantRnd": null,
+   "strValue": "",
+   "effectTarget": "SourceFaction",
+   "effectSecondaryTarget": "",
+   "effectDuration": "permanent",
+   "stackable": false,
+   "duration_months": -1,
+   "initialFactionsStr": [
+      "",
+      ""
+   ],
+   "contexts": [
+      "HabNuclearFreighters",
       ""
    ]
 }

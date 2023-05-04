@@ -64,7 +64,7 @@
    "dataName": "AdvancedCarbonManipulation",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 1000
 },
@@ -133,7 +133,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 20000,
+   "researchCost": 30000,
    "prereqs": [
       "MissileWarfareDoctrine",
       "AdvancedChemicalRocketry",
@@ -187,7 +187,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 95000,
+   "researchCost": 100000,
    "prereqs": [
       "AntimatterContainment",
       "OurSpaceFuture"
@@ -200,7 +200,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 60000,
+   "researchCost": 100000,
    "prereqs": [
       "AntimatterMassProduction",
       "DeepSpacePropulsionConcepts"
@@ -562,7 +562,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 50000,
+   "researchCost": 75000,
    "prereqs": [
       "DeuteriumTritiumFusion"
    ],
@@ -577,7 +577,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 50000,
+   "researchCost": 75000,
    "prereqs": [
       "DeuteriumTritiumFusion"
    ],
@@ -594,7 +594,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 30000,
+   "researchCost": 50000,
    "prereqs": [
       "NuclearFusioninSpace"
    ],
@@ -637,7 +637,7 @@
    "dataName": "DirectedSpaceResearch",
    "techCategory": "SocialScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
@@ -776,7 +776,10 @@
    "AI_techRole": "Efficiency",
    "AI_criticalTech": false,
    "endGameTech": true,
-   "researchCost": 100000
+   "researchCost": 100000,
+   "effects": [
+      "Effect_LifeExtension05"
+   ]
 },
  {
    "friendlyName": "Future Tech: Materials",
@@ -878,7 +881,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 35000,
+   "researchCost": 40000,
    "prereqs": [
       "AdvancedSuperconductors",
       "AdvancedAtomicManipulation",
@@ -938,7 +941,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 30000,
+   "researchCost": 75000,
    "prereqs": [
       "NuclearFusioninSpace"
    ],
@@ -1069,7 +1072,7 @@
    "dataName": "KineticsWarfareDoctrine",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
@@ -1095,7 +1098,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 25000,
+   "researchCost": 50000,
    "prereqs": [
       "DeepSpacePropulsionConcepts",
       "MagneticPlasmaConfinementTechniques",
@@ -1109,7 +1112,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 30000,
+   "researchCost": 35000,
    "prereqs": [
       "HighTemperatureSuperconductors",
       "MagneticForceManipulation"
@@ -1158,7 +1161,7 @@
    "dataName": "MissileWarfareDoctrine",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
@@ -1350,7 +1353,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 25000,
+   "researchCost": 50000,
    "prereqs": [
       "AdvancedAtomicManipulation",
       "Diamondoids"
@@ -1395,7 +1398,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
    "endGameTech": false,
-   "researchCost": 25000,
+   "researchCost": 50000,
    "prereqs": [
       "HighTemperatureSuperconductors",
       "NuclearFissioninSpace"
@@ -1551,7 +1554,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 40000,
+   "researchCost": 75000,
    "prereqs": [
       "DeuteriumHelium3Fusion",
       "AdvancedHydrogenContainment"
@@ -1567,7 +1570,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 95000,
+   "researchCost": 100000,
    "prereqs": [
       "ProtonBoronFusion"
    ],
@@ -1669,7 +1672,7 @@
    "dataName": "SpaceAgriculture",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
@@ -1735,7 +1738,7 @@
    "dataName": "SpaceResearch",
    "techCategory": "SocialScience",
    "AI_techRole": "Efficiency",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
@@ -1801,7 +1804,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 95000,
+   "researchCost": 100000,
    "prereqs": [
       "NuclearFusioninSpace",
       "Ultracapacitors",
@@ -1970,7 +1973,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 15000,
+   "researchCost": 25000,
    "prereqs": [
       "MagneticPlasmaConfinementTechniques"
    ]

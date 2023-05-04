@@ -51,20 +51,20 @@
  {
    "dataName": "AISkirmishFleet",
    "friendlyName": "Sierra",
-   "factionName": "AlienCouncil",
+   "factionName": "SubmitCouncil",
    "formationSpacing": "Tight",
    "formationName": "Line",
    "formationFocus": "Ranged",  
    "formationConcentration": "Flanks",
    "shipsInFleet": [
       {
-         "shipTemplateName": "Ship14"
+         "shipTemplateName": "Ship3"
       },
       {
-         "shipTemplateName": "Ship16"
+         "shipTemplateName": "Ship4"
       },
       {
-         "shipTemplateName": "Ship14"
+         "shipTemplateName": "Ship3"
       },
       {
          "shipTemplateName": ""
@@ -350,7 +350,7 @@
          "shipTemplateName": "Ship7"
       }
    ],
-   "orbitTemplateName": "LowJupiterOrbit",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 355
 },
  {
@@ -430,7 +430,7 @@
          "shipTemplateName": "Ship31"
       }
    ],
-   "orbitTemplateName": "LowMarsOrbit",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 0
 },
  {
@@ -461,7 +461,7 @@
          "shipTemplateName": "Ship29"
       }
    ],
-   "orbitTemplateName": "LowEarthOrbit2",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 351
 },
 {
@@ -492,7 +492,7 @@
          "shipTemplateName": "Ship29"
       }
    ],
-   "orbitTemplateName": "LowEarthOrbit2",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 352
 },
  {
@@ -544,7 +544,7 @@
          "shipTemplateName": "Ship1"
       }
    ],
-   "orbitTemplateName": "LowEarthOrbit2",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 350
 },
 {
@@ -563,7 +563,7 @@
          "shipTemplateName": "Ship17"
       }
    ],
-   "orbitTemplateName": "LowEarthOrbit2",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 348
 }
  {
@@ -594,7 +594,7 @@
          "shipTemplateName": "Ship9"
       }
    ],
-   "orbitTemplateName": "LowMarsOrbit",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 351
 },
  {
@@ -610,16 +610,16 @@
          "shipTemplateName": "Ship7"
       },
       {
-         "shipTemplateName": "Ship7"
+         "shipTemplateName": "Ship6"
       },
       {
-         "shipTemplateName": "Ship7"
+         "shipTemplateName": "Ship14"
       },
       {
-         "shipTemplateName": "Ship7"
+         "shipTemplateName": "Ship12"
       }
    ],
-   "orbitTemplateName": "LowJupiterOrbit",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 351
 }
  {
@@ -632,7 +632,7 @@
    "formationConcentration": "Heavy",
    "shipsInFleet": [
       {
-         "shipTemplateName": "Ship24"
+         "shipTemplateName": "Ship10"
       },
       {
          "shipTemplateName": "Ship24"
@@ -647,7 +647,7 @@
          "shipTemplateName": "Ship24"
       },
    ],
-   "orbitTemplateName": "LowEarthOrbit2",
+   "orbitTemplateName": "LowEarthOrbit1",
    "meanAnomalyAtEpoch_Deg": 350
 },
 ]

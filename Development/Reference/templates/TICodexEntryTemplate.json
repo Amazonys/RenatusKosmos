@@ -7,8 +7,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_factions",
    "index": 1,
@@ -17,8 +22,13 @@
    "imgPath": "faction_logos/FAC_ResistCouncil_256",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_objectives",
    "index": 1.1,
@@ -27,8 +37,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_diplomacy",
    "index": 1.2,
@@ -37,8 +52,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_resources",
    "index": 2,
@@ -47,8 +67,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_money",
    "index": 2.1,
@@ -57,8 +82,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_influence",
    "index": 2.11,
@@ -67,8 +97,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_ops",
    "index": 2.12,
@@ -77,8 +112,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_boost",
    "index": 2.13,
@@ -87,8 +127,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_missionControl",
    "index": 2.14,
@@ -97,8 +142,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_researchIncome",
    "index": 2.15,
@@ -107,8 +157,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_projectsIncome",
    "index": 2.16,
@@ -117,8 +172,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_water",
    "index": 2.2,
@@ -127,8 +187,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_volatiles",
    "index": 2.21,
@@ -137,8 +202,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_metals",
    "index": 2.22,
@@ -147,8 +217,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_nobleMetals",
    "index": 2.23,
@@ -157,8 +232,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_fissiles",
    "index": 2.24,
@@ -167,8 +247,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_antimatter",
    "index": 2.25,
@@ -177,8 +262,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "AntimatterContainment",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_exotics",
    "index": 2.26,
@@ -187,8 +277,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "Project_Exotics",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_councilors",
    "index": 3,
@@ -197,8 +292,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_professions",
    "index": 3.1,
@@ -207,8 +307,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": "TICouncilorTypeTemplate"
- },
+   "templateToPull": "TICouncilorTypeTemplate",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_recruiting",
    "index": 3.2,
@@ -217,8 +322,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_attributes",
    "index": 3.3,
@@ -227,8 +337,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_traits",
    "index": 3.4,
@@ -237,8 +352,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": "TITraitTemplate"
- },
+   "templateToPull": "TITraitTemplate",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_augmentations",
    "index": 3.5,
@@ -247,8 +367,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "Project_CyberneticImplants",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_XP",
    "index": 3.6,
@@ -257,8 +382,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_orgs",
    "index": 4,
@@ -267,8 +397,13 @@
    "imgPath": "orglogos/CIA",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_missions",
    "index": 5,
@@ -277,8 +412,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_detection",
    "index": 5.1,
@@ -287,8 +427,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_missionList",
    "index": 5.2,
@@ -297,8 +442,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": "TIMissionTemplate"
- },
+   "templateToPull": "TIMissionTemplate",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_alienMissionList",
    "index": 5.3,
@@ -307,8 +457,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "Project_TheirMethods",
-   "templateToPull": "TMissionTemplate_Alien"
- },
+   "templateToPull": "TMissionTemplate_Alien",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_nations",
    "index": 6,
@@ -317,8 +472,13 @@
    "imgPath": "nationflags/France",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_regions",
    "index": 6.1,
@@ -327,68 +487,88 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_claims",
-   "index": 6.15,
+   "index": 6.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_claims",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_controlPoints",
-   "index": 6.2,
+   "index": 6.3,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_controlPoints",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_incomes",
-   "index": 6.3,
+   "index": 6.4,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_incomes",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_nationStats",
-   "index": 6.4,
+   "index": 6.5,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_nationStats",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_publicOpinion",
-   "index": 6.5,
+   "index": 6.6,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_publicOpinion",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
- {
-   "dataName": "codex_priorities",
-   "index": 6.6,
-   "mainTopic": false,
-   "locPath": "UI.Codex.codex_priorities",
-   "imgPath": "",
-   "illustrationPath": "",
-   "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_relations",
    "index": 6.7,
@@ -397,8 +577,13 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_federations",
    "index": 6.8,
@@ -407,8 +592,13 @@
    "imgPath": "nationflags/European_Union",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_policies",
    "index": 6.9,
@@ -417,416 +607,851 @@
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": "TIPolicyTemplate"
- },
+   "templateToPull": "TIPolicyTemplate",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priorities",
+   "index": 7,
+   "mainTopic": true,
+   "locPath": "UI.Codex.codex_priorities",
+   "imgPath": "icons_2d/ICO_investments",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_economy",
+   "index": 7.1,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_economy",
+   "imgPath": "icons_2d/ICO_economy_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_welfare",
+   "index": 7.15,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_welfare",
+   "imgPath": "icons_2d/ICO_welfare_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_knowledge",
+   "index": 7.2,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_knowledge",
+   "imgPath": "icons_2d/ICO_knowledge_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_unity",
+   "index": 7.25,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_unity",
+   "imgPath": "icons_2d/ICO_unity_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_military",
+   "index": 7.3,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_military",
+   "imgPath": "icons_2d/ICO_military_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_spoils",
+   "index": 7.35,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_spoils",
+   "imgPath": "icons_2d/ICO_spoils_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_spaceDevelopment",
+   "index": 7.4,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_spaceDevelopment",
+   "imgPath": "icons_2d/ICO_funding_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_spaceflight",
+   "index": 7.45,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_spaceflight",
+   "imgPath": "icons_2d/ICO_spaceflightProgram_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_launchFacilities",
+   "index": 7.5,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_launchFacilities",
+   "imgPath": "icons_2d/ICO_launchFacilities_Priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_missionControl",
+   "index": 7.52,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_missionControl",
+   "imgPath": "icons_2d/ICO_missionControl_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_buildArmy",
+   "index": 7.55,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_buildArmy",
+   "imgPath": "icons_2d/ICO_buildArmy_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "minPopulationForFirstArmy_millions",
+      "minPopulationForAdditionalArmiesPer_millions",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_buildNavy",
+   "index": 7.6,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_buildNavy",
+   "imgPath": "icons_2d/ICO_buildNavy_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "minControlPointsForNavy",
+      "minControlPointsForNavyException",
+      "PCGDPForNavyException"
+   ]
+},
+ {
+   "dataName": "codex_priority_nuclearWeapons",
+   "index": 7.65,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_nuclearWeapons",
+   "imgPath": "icons_2d/ICO_buildNuclearWeapons_priority",
+   "illustrationPath": "",
+   "unlockTech": "",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "dataName": "codex_priority_spaceDefenses",
+   "index": 7.7,
+   "mainTopic": false,
+   "locPath": "UI.Codex.codex_priority_spaceDefenses",
+   "imgPath": "icons_2d/ICO_buildSpaceDefenses_priority",
+   "illustrationPath": "",
+   "unlockTech": "TransInterfaceWarfare",
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_terrestrialWarfare",
-   "index": 7,
+   "index": 8,
    "mainTopic": true,
    "locPath": "UI.Codex.codex_terrestrialWarfare",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_armies",
-   "index": 7.1,
+   "index": 8.1,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_armies",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_armyOperations",
-   "index": 7.2,
+   "index": 8.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_armyOperations",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": "TIArmyOperationTemplate"
- },
+   "templateToPull": "TIArmyOperationTemplate",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_armyBattles",
-   "index": 7.3,
+   "index": 8.3,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_armyBattles",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_navalSuperiority",
-   "index": 7.4,
+   "index": 8.4,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_navalSuperiority",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_nuclearWarfare",
-   "index": 7.5,
+   "index": 8.5,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_nuclearWarfare",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_solarSystem",
-   "index": 8,
+   "index": 9,
    "mainTopic": true,
    "locPath": "UI.Codex.codex_solarSystem",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_orbits",
-   "index": 8.1,
+   "index": 9.1,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_orbits",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_habSites",
-   "index": 8.2,
+   "index": 9.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_habSites",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_probes",
-   "index": 8.3,
+   "index": 9.3,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_probes",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_research",
-   "index": 9,
+   "index": 10,
    "mainTopic": true,
    "locPath": "UI.Codex.codex_research",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_projects",
-   "index": 9.1,
+   "index": 10.1,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_projects",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_techCategories",
-   "index": 9.2,
+   "index": 10.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_techCategories",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": "TechCategory"
- },
+   "templateToPull": "TechCategory",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_habitats",
-   "index": 10,
+   "index": 11,
    "mainTopic": true,
    "locPath": "UI.Codex.codex_habitats",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_foundingHabs",
-   "index": 10.1,
+   "index": 11.1,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_foundingHabs",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_automatedHabs",
-   "index": 10.15,
+   "index": 11.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_automatedHabs",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "AppliedArtificialIntelligence",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_buildingHabs",
-   "index": 10.2,
+   "index": 11.3,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_buildingHabs",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_assaultingHabs",
-   "index": 10.3,
+   "index": 11.4,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_assaultingHabs",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_shipDesign",
-   "index": 11,
+   "index": 12,
    "mainTopic": true,
    "locPath": "UI.Codex.codex_shipDesign",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_hull",
-   "index": 11.1,
+   "index": 12.1,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_hull",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_drive",
-   "index": 11.2,
+   "index": 12.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_drive",
    "imgPath": "shipbuildericons/empty_Drive",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_powerPlant",
-   "index": 11.3,
+   "index": 12.3,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_powerPlant",
    "imgPath": "shipbuildericons/empty_Power_Plant",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_radiators",
-   "index": 11.4,
+   "index": 12.4,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_radiators",
    "imgPath": "shipbuildericons/empty_Radiators",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_batteries",
-   "index": 11.5,
+   "index": 12.5,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_batteries",
    "imgPath": "shipbuildericons/empty_Battery",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_weapons",
-   "index": 11.6,
+   "index": 12.6,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_weapons",
    "imgPath": "shipbuildericons/empty_Nose_Hard_Point",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_armor",
-   "index": 11.7,
+   "index": 12.7,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_armor",
    "imgPath": "shipbuildericons/empty_Armor",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_propellantTanks",
-   "index": 11.8,
+   "index": 12.8,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_propellantTanks",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_fleets",
-   "index": 12,
+   "index": 13,
    "mainTopic": true,
    "locPath": "UI.Codex.codex_fleets",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_shipConstruction",
-   "index": 12.1,
+   "index": 13.1,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_shipConstruction",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_shipRefits",
-   "index": 12.15,
+   "index": 13.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_shipRefits",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_propellant",
-   "index": 12.2,
+   "index": 13.3,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_propellant",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_transfers",
-   "index": 12.3,
+   "index": 13.4,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_transfers",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_fleetOperations",
-   "index": 12.4,
+   "index": 13.5,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_fleetOperations",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": "TIFleetOperationTemplate"
- },
+   "templateToPull": "TIFleetOperationTemplate",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_orbitalBombardment",
-   "index": 12.5,
+   "index": 13.6,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_orbitalBombardment",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_spaceCombat",
-   "index": 13,
+   "index": 14,
    "mainTopic": true,
    "locPath": "UI.Codex.codex_spaceCombat",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_maneuvers",
-   "index": 13.1,
+   "index": 14.1,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_maneuvers",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_specialManeuvers",
-   "index": 13.2,
+   "index": 14.2,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_specialManeuvers",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_fireControl",
-   "index": 13.3,
+   "index": 14.3,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_fireControl",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_heatManagement",
-   "index": 13.4,
+   "index": 14.4,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_heatManagement",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_batteryManagement",
-   "index": 13.5,
+   "index": 14.5,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_batteryManagement",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- },
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+},
  {
    "dataName": "codex_damage",
-   "index": 13.6,
+   "index": 14.6,
    "mainTopic": false,
    "locPath": "UI.Codex.codex_damage",
    "imgPath": "",
    "illustrationPath": "",
    "unlockTech": "",
-   "templateToPull": ""
- }
+   "templateToPull": "",
+   "textParams": [
+      "",
+      "",
+      ""
+   ]
+}
 ]

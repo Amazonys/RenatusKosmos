@@ -64,7 +64,8 @@
    "Hill radius pass-fail": "",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Mercury",
@@ -131,7 +132,8 @@
    "Hill radius pass-fail": "175297.93",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Venus",
@@ -198,7 +200,8 @@
    "Hill radius pass-fail": "1004274.22",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 15.9,
-   "atmosphereSurfaceDensity_kgpm3": 65
+   "atmosphereSurfaceDensity_kgpm3": 65,
+   "maxHabSize": 4
 },
  {
    "dataName": "Earth",
@@ -265,7 +268,8 @@
    "Hill radius pass-fail": "1471527.18",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 8.5,
-   "atmosphereSurfaceDensity_kgpm3": 1.217
+   "atmosphereSurfaceDensity_kgpm3": 1.217,
+   "maxHabSize": 4
 },
  {
    "dataName": "Luna",
@@ -332,7 +336,8 @@
    "Hill radius pass-fail": "55654.42",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Mars",
@@ -399,7 +404,8 @@
    "Hill radius pass-fail": "982793.00",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 11.1,
-   "atmosphereSurfaceDensity_kgpm3": 0.02
+   "atmosphereSurfaceDensity_kgpm3": 0.02,
+   "maxHabSize": 4
 },
  {
    "dataName": "Phobos",
@@ -466,7 +472,8 @@
    "Hill radius pass-fail": "16.31",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Deimos",
@@ -533,7 +540,8 @@
    "Hill radius pass-fail": "25.24",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Jupiter",
@@ -600,7 +608,8 @@
    "Hill radius pass-fail": "50570282.38",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 27,
-   "atmosphereSurfaceDensity_kgpm3": 0.16
+   "atmosphereSurfaceDensity_kgpm3": 0.16,
+   "maxHabSize": 4
 },
  {
    "dataName": "Metis",
@@ -667,7 +676,8 @@
    "Hill radius pass-fail": "NO ORBITS",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Adraseta",
@@ -734,7 +744,8 @@
    "Hill radius pass-fail": "NO ORBITS",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Amalthea",
@@ -801,7 +812,8 @@
    "Hill radius pass-fail": "129.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Thebe",
@@ -868,7 +880,8 @@
    "Hill radius pass-fail": "92.09",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Io",
@@ -935,7 +948,8 @@
    "Hill radius pass-fail": "10511.93",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Europa",
@@ -1002,7 +1016,8 @@
    "Hill radius pass-fail": "13527.11",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ganymede",
@@ -1069,7 +1084,8 @@
    "Hill radius pass-fail": "31676.76",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Callisto",
@@ -1136,7 +1152,8 @@
    "Hill radius pass-fail": "49769.49",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Leda",
@@ -1203,7 +1220,8 @@
    "Hill radius pass-fail": "1161.85",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Himalia",
@@ -1270,7 +1288,8 @@
    "Hill radius pass-fail": "10137.60",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Lysithea",
@@ -1337,7 +1356,8 @@
    "Hill radius pass-fail": "2318.83",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Elara",
@@ -1404,7 +1424,8 @@
    "Hill radius pass-fail": "4913.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ananke",
@@ -1471,7 +1492,8 @@
    "Hill radius pass-fail": "2799.08",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Carme",
@@ -1538,7 +1560,8 @@
    "Hill radius pass-fail": "4958.30",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Pasiphae",
@@ -1605,7 +1628,8 @@
    "Hill radius pass-fail": "5232.66",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Sinope",
@@ -1672,7 +1696,8 @@
    "Hill radius pass-fail": "4239.89",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Saturn",
@@ -1739,7 +1764,8 @@
    "Hill radius pass-fail": "61648578.80",
    "angularDiameterMultiplier": 2.269,
    "atmosphereScaleHeight_km": 59.5,
-   "atmosphereSurfaceDensity_kgpm3": 0.19
+   "atmosphereSurfaceDensity_kgpm3": 0.19,
+   "maxHabSize": 4
 },
  {
    "dataName": "Pan",
@@ -1806,7 +1832,8 @@
    "Hill radius pass-fail": "19.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Atlas",
@@ -1873,7 +1900,8 @@
    "Hill radius pass-fail": "21.59",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Prometheus",
@@ -1940,7 +1968,8 @@
    "Hill radius pass-fail": "NO ORBITS",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Pandora",
@@ -2007,7 +2036,8 @@
    "Hill radius pass-fail": "60.91",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Epimetheus",
@@ -2074,7 +2104,8 @@
    "Hill radius pass-fail": "101.32",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Janus",
@@ -2141,7 +2172,8 @@
    "Hill radius pass-fail": "155.91",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Mimas",
@@ -2208,7 +2240,8 @@
    "Hill radius pass-fail": "509.26",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Enceladus",
@@ -2275,7 +2308,8 @@
    "Hill radius pass-fail": "944.09",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Tethys",
@@ -2342,7 +2376,8 @@
    "Hill radius pass-fail": "2100.20",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Telesto",
@@ -2409,7 +2444,8 @@
    "Hill radius pass-fail": "52.07",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Calypso",
@@ -2476,7 +2512,8 @@
    "Hill radius pass-fail": "45.54",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Dione",
@@ -2543,7 +2580,8 @@
    "Hill radius pass-fail": "3249.45",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Helene",
@@ -2610,7 +2648,8 @@
    "Hill radius pass-fail": "91.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Rhea",
@@ -2677,7 +2716,8 @@
    "Hill radius pass-fail": "5823.20",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Titan",
@@ -2744,7 +2784,8 @@
    "Hill radius pass-fail": "50899.98",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 21,
-   "atmosphereSurfaceDensity_kgpm3": 5.4
+   "atmosphereSurfaceDensity_kgpm3": 5.4,
+   "maxHabSize": 4
 },
  {
    "dataName": "Hyperion",
@@ -2811,7 +2852,8 @@
    "Hill radius pass-fail": "2153.11",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Iapetus",
@@ -2878,7 +2920,8 @@
    "Hill radius pass-fail": "35228.53",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Kiviuq",
@@ -2945,7 +2988,8 @@
    "Hill radius pass-fail": "1094.25",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Ijiraq",
@@ -3012,7 +3056,8 @@
    "Hill radius pass-fail": "533.13",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Phoebe",
@@ -3079,7 +3124,8 @@
    "Hill radius pass-fail": "18242.03",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Paaliaq",
@@ -3146,7 +3192,8 @@
    "Hill radius pass-fail": "1132.29",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Albiorix",
@@ -3213,7 +3260,76 @@
    "Hill radius pass-fail": "1967.88",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
+},
+ {
+   "dataName": "Erriapus",
+   "friendlyName": "Erriapus",
+   "designation": "Saturn XXVIII",
+   "notes": "Gallic Group",
+   "modelResource": "",
+   "modelScale": 10,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Saturn",
+   "objectType": "AsteroidalMoon",
+   "effectToExplore": "Effect_ExploreSaturn",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": null,
+   "semiMajorAxis_km": 17507200,
+   "eccentricity": 0.462,
+   "inclination_Deg": 34.692,
+   "longAscendingNode_Deg": 253.7,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": 122.5,
+   "meanAnomalyAtEpoch_Deg": 14.1,
+   "apsidalPrecession_Years": 223.849,
+   "nodalPrecession_Years": 349.477,
+   "epoch_floatJYears": 2000,
+   "meanRadius_km": null,
+   "equatorialRadius_km": null,
+   "dimensionX_km": 12,
+   "dimensionY_km": null,
+   "dimensionZ_km": null,
+   "oblateness": 0.5,
+   "mass_kg": 2080990000000000,
+   "density_gcm3": 2.3,
+   "rotationPeriod_strHours": "28.15",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": 0,
+   "tiltskew_Deg": null,
+   "fabricatedData": "Tilt, Oblateness",
+   "Hill Radius in km": 1006.6,
+   "Hill radius pass-fail": "1006.60",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Siarnaq",
@@ -3280,7 +3396,8 @@
    "Hill radius pass-fail": "2984.97",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Tarvos",
@@ -3347,7 +3464,8 @@
    "Hill radius pass-fail": "931.96",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Ymir",
@@ -3386,14 +3504,14 @@
    "irradiatedMultiplier": 1,
    "atmosphere": "None",
    "semiMajorAxis_AU": null,
-   "semiMajorAxis_km": 23040000,
+   "semiMajorAxis_km": 22957100,
    "eccentricity": 0.3337,
-   "inclination_Deg": 171.661,
-   "longAscendingNode_Deg": 210.828,
+   "inclination_Deg": 173.1,
+   "longAscendingNode_Deg": 61.5,
    "longPeriapsis_Deg": null,
    "meanLongitude_Deg": null,
-   "argPeriapsis_Deg": 39.505,
-   "meanAnomalyAtEpoch_Deg": 230.935,
+   "argPeriapsis_Deg": 90.8,
+   "meanAnomalyAtEpoch_Deg": 344.3,
    "apsidalPrecession_Years": 251.21,
    "nodalPrecession_Years": 333.46,
    "epoch_floatJYears": 2000,
@@ -3410,11 +3528,12 @@
    "tilt_Deg": 0,
    "tiltskew_Deg": null,
    "fabricatedData": "Tilt",
-   "Hill Radius in km": 2211.95,
-   "Hill radius pass-fail": "2211.95",
+   "Hill Radius in km": 2203.99,
+   "Hill radius pass-fail": "2203.99",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Uranus",
@@ -3481,7 +3600,8 @@
    "Hill radius pass-fail": "66936198.82",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 27.7,
-   "atmosphereSurfaceDensity_kgpm3": 0.42
+   "atmosphereSurfaceDensity_kgpm3": 0.42,
+   "maxHabSize": 4
 },
  {
    "dataName": "Cordelia",
@@ -3548,7 +3668,8 @@
    "Hill radius pass-fail": "27.51",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ophelia",
@@ -3615,7 +3736,8 @@
    "Hill radius pass-fail": "31.33",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Bianca",
@@ -3682,7 +3804,8 @@
    "Hill radius pass-fail": "41.79",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Cressida",
@@ -3749,7 +3872,8 @@
    "Hill radius pass-fail": "60.92",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Desdemona",
@@ -3816,7 +3940,8 @@
    "Hill radius pass-fail": "55.41",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Juliet",
@@ -3883,7 +4008,8 @@
    "Hill radius pass-fail": "83.00",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Portia",
@@ -3950,7 +4076,8 @@
    "Hill radius pass-fail": "123.50",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Rosalind",
@@ -4017,7 +4144,8 @@
    "Hill radius pass-fail": "68.99",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Cupid",
@@ -4084,7 +4212,8 @@
    "Hill radius pass-fail": "18.25",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Belinda",
@@ -4151,7 +4280,8 @@
    "Hill radius pass-fail": "92.90",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Perdita",
@@ -4218,7 +4348,8 @@
    "Hill radius pass-fail": "30.99",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Puck",
@@ -4285,7 +4416,8 @@
    "Hill radius pass-fail": "192.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Mab",
@@ -4352,7 +4484,8 @@
    "Hill radius pass-fail": "15.26",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Miranda",
@@ -4419,7 +4552,8 @@
    "Hill radius pass-fail": "817.34",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ariel",
@@ -4486,7 +4620,8 @@
    "Hill radius pass-fail": "3304.40",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Umbriel",
@@ -4553,7 +4688,8 @@
    "Hill radius pass-fail": "4379.45",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Titania",
@@ -4620,7 +4756,8 @@
    "Hill radius pass-fail": "10379.04",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Oberon",
@@ -4687,7 +4824,8 @@
    "Hill radius pass-fail": "13180.48",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Francisco",
@@ -4754,7 +4892,8 @@
    "Hill radius pass-fail": "1121.77",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Caliban",
@@ -4821,7 +4960,8 @@
    "Hill radius pass-fail": "5839.82",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Stephano",
@@ -4888,7 +5028,8 @@
    "Hill radius pass-fail": "2721.80",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Trinculo",
@@ -4955,7 +5096,8 @@
    "Hill radius pass-fail": "1649.12",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Sycorax",
@@ -5022,7 +5164,8 @@
    "Hill radius pass-fail": "12035.83",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Margaret",
@@ -5089,7 +5232,8 @@
    "Hill radius pass-fail": "1272.14",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Prospero",
@@ -5156,7 +5300,8 @@
    "Hill radius pass-fail": "6279.33",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Setebos",
@@ -5223,7 +5368,8 @@
    "Hill radius pass-fail": "4717.86",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ferdinand",
@@ -5290,7 +5436,8 @@
    "Hill radius pass-fail": "3449.09",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Neptune",
@@ -5357,7 +5504,8 @@
    "Hill radius pass-fail": "115109589.06",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 19.7,
-   "atmosphereSurfaceDensity_kgpm3": 0.45
+   "atmosphereSurfaceDensity_kgpm3": 0.45,
+   "maxHabSize": 4
 },
  {
    "dataName": "Naiad",
@@ -5424,7 +5572,8 @@
    "Hill radius pass-fail": "NO ORBITS",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Thalassa",
@@ -5491,7 +5640,8 @@
    "Hill radius pass-fail": "NO ORBITS",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Despina",
@@ -5558,7 +5708,8 @@
    "Hill radius pass-fail": "99.66",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Galatea",
@@ -5625,7 +5776,8 @@
    "Hill radius pass-fail": "142.62",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Larissa",
@@ -5692,7 +5844,8 @@
    "Hill radius pass-fail": "185.49",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Hippocamp",
@@ -5759,7 +5912,8 @@
    "Hill radius pass-fail": "26.68",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Proteus",
@@ -5826,7 +5980,8 @@
    "Hill radius pass-fail": "643.44",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Triton",
@@ -5893,7 +6048,8 @@
    "Hill radius pass-fail": "14597.42",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Nereid",
@@ -5960,7 +6116,8 @@
    "Hill radius pass-fail": "6111.01",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Halimede",
@@ -6027,7 +6184,8 @@
    "Hill radius pass-fail": "9827.50",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Sao",
@@ -6094,7 +6252,8 @@
    "Hill radius pass-fail": "11135.17",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Laomedeia",
@@ -6161,7 +6320,8 @@
    "Hill radius pass-fail": "7759.51",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Psamathe",
@@ -6228,7 +6388,8 @@
    "Hill radius pass-fail": "15090.62",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Neso",
@@ -6295,7 +6456,8 @@
    "Hill radius pass-fail": "16632.13",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ceres",
@@ -6362,7 +6524,8 @@
    "Hill radius pass-fail": "206612.49",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "2Pallas",
@@ -6429,7 +6592,8 @@
    "Hill radius pass-fail": "103634.25",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "3Juno",
@@ -6496,7 +6660,8 @@
    "Hill radius pass-fail": "50678.66",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "4Vesta",
@@ -6563,7 +6728,8 @@
    "Hill radius pass-fail": "113171.82",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "5Astraea",
@@ -6623,14 +6789,15 @@
    "density_gcm3": 3.25,
    "rotationPeriod_strHours": "16.8",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 33,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 24548.43,
    "Hill radius pass-fail": "24548.43",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "6Hebe",
@@ -6690,14 +6857,15 @@
    "density_gcm3": 3.75,
    "rotationPeriod_strHours": "7.274496",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 42,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 37300.61,
    "Hill radius pass-fail": "37300.61",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "7Iris",
@@ -6757,14 +6925,15 @@
    "density_gcm3": 2.68,
    "rotationPeriod_strHours": "7.138992",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 79.97,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 36125.34,
    "Hill radius pass-fail": "36125.34",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "8Flora",
@@ -6824,14 +6993,15 @@
    "density_gcm3": 3.08,
    "rotationPeriod_strHours": "12.792",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 78,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 14508.53,
    "Hill radius pass-fail": "14508.53",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "9Metis",
@@ -6891,14 +7061,15 @@
    "density_gcm3": 4.05,
    "rotationPeriod_strHours": "5.0784",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 72,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 38778.1,
    "Hill radius pass-fail": "38778.10",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "10Hygiea",
@@ -6936,36 +7107,37 @@
    "effectToExplore": "Effect_ExploreAsteroids",
    "irradiatedMultiplier": 1,
    "atmosphere": "None",
-   "semiMajorAxis_AU": 3.139,
+   "semiMajorAxis_AU": 3.1415,
    "semiMajorAxis_km": null,
-   "eccentricity": 0.117,
-   "inclination_Deg": 3.842,
-   "longAscendingNode_Deg": 283.45,
+   "eccentricity": 0.1125,
+   "inclination_Deg": 3.8316,
+   "longAscendingNode_Deg": 283.2,
    "longPeriapsis_Deg": null,
    "meanLongitude_Deg": null,
-   "argPeriapsis_Deg": 313.19,
-   "meanAnomalyAtEpoch_Deg": 197.96,
+   "argPeriapsis_Deg": 312.32,
+   "meanAnomalyAtEpoch_Deg": 152.18,
    "apsidalPrecession_Years": null,
    "nodalPrecession_Years": null,
-   "epoch_floatJYears": 2008.915,
+   "epoch_floatJYears": 2019.321,
    "meanRadius_km": null,
    "equatorialRadius_km": null,
-   "dimensionX_km": 530,
-   "dimensionY_km": 407,
-   "dimensionZ_km": 370,
+   "dimensionX_km": 450,
+   "dimensionY_km": 430,
+   "dimensionZ_km": 424,
    "oblateness": null,
-   "mass_kg": 88385600000000000000,
-   "density_gcm3": 2.09,
+   "mass_kg": 87400000000000000000,
+   "density_gcm3": 2.06,
    "rotationPeriod_strHours": "27.622992",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 60,
    "tiltskew_Deg": null,
    "fabricatedData": "",
-   "Hill Radius in km": 101841.52,
-   "Hill radius pass-fail": "101841.52",
+   "Hill Radius in km": 102059.85,
+   "Hill radius pass-fail": "102059.85",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "11Parthenope",
@@ -7025,14 +7197,15 @@
    "density_gcm3": 3.23,
    "rotationPeriod_strHours": "9.4296",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 74.54,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 33366.05,
    "Hill radius pass-fail": "33366.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "12Victoria",
@@ -7092,14 +7265,15 @@
    "density_gcm3": 1.97,
    "rotationPeriod_strHours": "8.6592",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 99.61,
    "tiltskew_Deg": null,
    "fabricatedData": "oblatness (est)",
    "Hill Radius in km": 17163.87,
    "Hill radius pass-fail": "17163.87",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "13Egeria",
@@ -7159,14 +7333,15 @@
    "density_gcm3": 3.4,
    "rotationPeriod_strHours": "7.044",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 70.1,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 53420.97,
    "Hill radius pass-fail": "53420.97",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "14Irene",
@@ -7226,14 +7401,15 @@
    "density_gcm3": 4.35,
    "rotationPeriod_strHours": "15.06",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 90,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 35747.28,
    "Hill radius pass-fail": "35747.28",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "15Eunomia",
@@ -7293,14 +7469,15 @@
    "density_gcm3": 3.04,
    "rotationPeriod_strHours": "6.084",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 165,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 55817.95,
    "Hill radius pass-fail": "55817.95",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "16Psyche",
@@ -7352,22 +7529,23 @@
    "epoch_floatJYears": 2004.809,
    "meanRadius_km": null,
    "equatorialRadius_km": null,
-   "dimensionX_km": 240,
-   "dimensionY_km": 185,
-   "dimensionZ_km": 145,
+   "dimensionX_km": 279,
+   "dimensionY_km": 238,
+   "dimensionZ_km": 171,
    "oblateness": null,
-   "mass_kg": 32572000000000000000,
-   "density_gcm3": 4.5,
+   "mass_kg": 22925200000000000000,
+   "density_gcm3": 4.82,
    "rotationPeriod_strHours": "4.1952",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 98,
    "tiltskew_Deg": null,
    "fabricatedData": "",
-   "Hill Radius in km": 66174.49,
-   "Hill radius pass-fail": "66174.49",
+   "Hill Radius in km": 58863.56,
+   "Hill radius pass-fail": "58863.56",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "17Thetis",
@@ -7424,17 +7602,18 @@
    "dimensionZ_km": null,
    "oblateness": null,
    "mass_kg": 1200370000000000000,
-   "density_gcm3": 3.16,
+   "density_gcm3": 3.21,
    "rotationPeriod_strHours": "12.2712",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 76.25,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 18751.35,
    "Hill radius pass-fail": "18751.35",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "18Melpomene",
@@ -7494,14 +7673,15 @@
    "density_gcm3": 1.66,
    "rotationPeriod_strHours": "11.57304",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 69.58,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 21369.13,
    "Hill radius pass-fail": "21369.13",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "19Fortuna",
@@ -7561,14 +7741,15 @@
    "density_gcm3": 2.66,
    "rotationPeriod_strHours": "7.4424",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 31.56,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 39528.4,
    "Hill radius pass-fail": "39528.40",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "20Massalia",
@@ -7628,14 +7809,15 @@
    "density_gcm3": 3.48,
    "rotationPeriod_strHours": "8.0976",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 45,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 30359.7,
    "Hill radius pass-fail": "30359.70",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "21Lutetia",
@@ -7695,14 +7877,15 @@
    "density_gcm3": 3.34,
    "rotationPeriod_strHours": "8.1648",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 96,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 20048.07,
    "Hill radius pass-fail": "20048.07",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "22Kalliope",
@@ -7769,7 +7952,8 @@
    "Hill radius pass-fail": "43445.48",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Linus",
@@ -7836,7 +8020,8 @@
    "Hill radius pass-fail": "122.26",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "23Thalia",
@@ -7896,14 +8081,15 @@
    "density_gcm3": 1.97,
    "rotationPeriod_strHours": "12.3072",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 145.14,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 18154.81,
    "Hill radius pass-fail": "18154.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "24Themis",
@@ -7963,14 +8149,15 @@
    "density_gcm3": 2.73,
    "rotationPeriod_strHours": "8.37408",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 31.75,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 50311.22,
    "Hill radius pass-fail": "50311.22",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "25Phocaea",
@@ -8030,14 +8217,15 @@
    "density_gcm3": 1.97,
    "rotationPeriod_strHours": "9.9456",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 96,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 11218.69,
    "Hill radius pass-fail": "11218.69",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "26Prosperina",
@@ -8097,14 +8285,15 @@
    "density_gcm3": 1.98,
    "rotationPeriod_strHours": "13.11",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 144.31,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 18079.97,
    "Hill radius pass-fail": "18079.97",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "27Eurterpe",
@@ -8164,14 +8353,15 @@
    "density_gcm3": 2.69,
    "rotationPeriod_strHours": "10.41",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 132.44,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 19025.95,
    "Hill radius pass-fail": "19025.95",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "28Bellona",
@@ -8231,14 +8421,15 @@
    "density_gcm3": 3.95,
    "rotationPeriod_strHours": "15.706",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 91.6,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 26819.89,
    "Hill radius pass-fail": "26819.89",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "29Amphritrite",
@@ -8298,14 +8489,15 @@
    "density_gcm3": 2.36,
    "rotationPeriod_strHours": "5.39",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 114.44,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 44460.43,
    "Hill radius pass-fail": "44460.43",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "30Urania",
@@ -8365,14 +8557,15 @@
    "density_gcm3": 3.92,
    "rotationPeriod_strHours": "13.676",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 67.76,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 23187.48,
    "Hill radius pass-fail": "23187.48",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "31Euphrosyne",
@@ -8432,14 +8625,15 @@
    "density_gcm3": 6.61,
    "rotationPeriod_strHours": "5.531",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 48.08,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 77891.35,
    "Hill radius pass-fail": "77891.35",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "34Circe",
@@ -8499,14 +8693,15 @@
    "density_gcm3": 4.83,
    "rotationPeriod_strHours": "12.15",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 49.5,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 30586.99,
    "Hill radius pass-fail": "30586.99",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "35Leukothea",
@@ -8566,14 +8761,15 @@
    "density_gcm3": 3.45,
    "rotationPeriod_strHours": "31.9",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 87.01,
    "tiltskew_Deg": null,
    "fabricatedData": "Density, Mass",
    "Hill Radius in km": 23907.38,
    "Hill radius pass-fail": "23907.38",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "36Atalante",
@@ -8633,14 +8829,15 @@
    "density_gcm3": 6.17,
    "rotationPeriod_strHours": "9.93",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 137.81,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 25721.62,
    "Hill radius pass-fail": "25721.62",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "37Fides",
@@ -8700,14 +8897,15 @@
    "density_gcm3": 2,
    "rotationPeriod_strHours": "7.334",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 67.95,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 19641.28,
    "Hill radius pass-fail": "19641.28",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "38Leda",
@@ -8767,14 +8965,15 @@
    "density_gcm3": 7.09,
    "rotationPeriod_strHours": "12.84",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 100.02,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 34293.57,
    "Hill radius pass-fail": "34293.57",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "39Laetitia",
@@ -8834,14 +9033,15 @@
    "density_gcm3": 2.47,
    "rotationPeriod_strHours": "5.138",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 61.06,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 33945.56,
    "Hill radius pass-fail": "33945.56",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "40Harmonia",
@@ -8901,14 +9101,15 @@
    "density_gcm3": 2,
    "rotationPeriod_strHours": "8.909",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 54.96,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 19478.32,
    "Hill radius pass-fail": "19478.32",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "41Daphne",
@@ -8968,14 +9169,15 @@
    "density_gcm3": 1.95,
    "rotationPeriod_strHours": "5.9",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 126.03,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 31456.36,
    "Hill radius pass-fail": "31456.36",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "42Isis",
@@ -9035,14 +9237,15 @@
    "density_gcm3": 2.78,
    "rotationPeriod_strHours": "13.59701",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 53.57,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblatness",
    "Hill Radius in km": 18229.08,
    "Hill radius pass-fail": "18229.08",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "43Ariadne",
@@ -9099,17 +9302,18 @@
    "dimensionZ_km": 50,
    "oblateness": null,
    "mass_kg": 1210000000000000000,
-   "density_gcm3": 8.99,
+   "density_gcm3": 2.7,
    "rotationPeriod_strHours": "5.7624",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 105,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 16117.92,
    "Hill radius pass-fail": "16117.92",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "44Nysa",
@@ -9163,20 +9367,21 @@
    "equatorialRadius_km": null,
    "dimensionX_km": 113,
    "dimensionY_km": 67,
-   "dimensionZ_km": 67,
+   "dimensionZ_km": 65,
    "oblateness": null,
    "mass_kg": 370000000000000000,
    "density_gcm3": 2,
    "rotationPeriod_strHours": "6.421417",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 37.23,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 12226.51,
    "Hill radius pass-fail": "12226.51",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "45Eugenia",
@@ -9243,7 +9448,8 @@
    "Hill radius pass-fail": "36770.09",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "46Hestia",
@@ -9303,14 +9509,15 @@
    "density_gcm3": 5.81,
    "rotationPeriod_strHours": "21.04",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 80.2,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 26193.81,
    "Hill radius pass-fail": "26193.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "47Aglaja",
@@ -9370,14 +9577,15 @@
    "density_gcm3": 2.17,
    "rotationPeriod_strHours": "13.175",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 75.78,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 30416.81,
    "Hill radius pass-fail": "30416.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "48Doris",
@@ -9437,14 +9645,15 @@
    "density_gcm3": 2.12,
    "rotationPeriod_strHours": "11.89",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 35.11,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 61014.18,
    "Hill radius pass-fail": "61014.18",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "49Pales",
@@ -9511,7 +9720,8 @@
    "Hill radius pass-fail": "27317.90",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "51Nemausa",
@@ -9569,16 +9779,17 @@
    "oblateness": null,
    "mass_kg": 2460000000000000000,
    "density_gcm3": 1.43,
-   "rotationPeriod_strHours": "7.7",
+   "rotationPeriod_strHours": "7.7848",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 149.26,
    "tiltskew_Deg": null,
-   "fabricatedData": "Rotation",
+   "fabricatedData": "",
    "Hill Radius in km": 24596.24,
    "Hill radius pass-fail": "24596.24",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "52Europa",
@@ -9638,14 +9849,15 @@
    "density_gcm3": 1.5,
    "rotationPeriod_strHours": "5.6328",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 14,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 73452.46,
    "Hill radius pass-fail": "73452.46",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "54Alexandra",
@@ -9705,14 +9917,15 @@
    "density_gcm3": 3.5,
    "rotationPeriod_strHours": "18.14",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 81.14,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 35656.03,
    "Hill radius pass-fail": "35656.03",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "55Pandora",
@@ -9772,14 +9985,15 @@
    "density_gcm3": 0.25,
    "rotationPeriod_strHours": "4.804",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 68.25,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblatness",
    "Hill Radius in km": 13219.93,
    "Hill radius pass-fail": "13219.93",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "56Melete",
@@ -9839,14 +10053,15 @@
    "density_gcm3": 6,
    "rotationPeriod_strHours": "18.1",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 108.93,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblatness",
    "Hill Radius in km": 27145.95,
    "Hill radius pass-fail": "27145.95",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "57Mnemosyne",
@@ -9904,16 +10119,17 @@
    "oblateness": null,
    "mass_kg": 4320000000000000000,
    "density_gcm3": 4.32,
-   "rotationPeriod_strHours": "22.9",
+   "rotationPeriod_strHours": "25.324",
    "rotationOffset_Deg": null,
    "tilt_Deg": null,
    "tiltskew_Deg": null,
-   "fabricatedData": "Rotation",
+   "fabricatedData": "",
    "Hill Radius in km": 37311.97,
    "Hill radius pass-fail": "37311.97",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "59Elpis",
@@ -9973,14 +10189,15 @@
    "density_gcm3": 1.3,
    "rotationPeriod_strHours": "13.69",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 151.17,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 28520.03,
    "Hill radius pass-fail": "28520.03",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "62Erato",
@@ -10040,14 +10257,15 @@
    "density_gcm3": 2.5,
    "rotationPeriod_strHours": "5.675",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 66.62,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 44194.09,
    "Hill radius pass-fail": "44194.09",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "63Ausonia",
@@ -10107,14 +10325,15 @@
    "density_gcm3": 3.46,
    "rotationPeriod_strHours": "9.29",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 108.48,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 19873.79,
    "Hill radius pass-fail": "19873.79",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "65Cybele",
@@ -10174,14 +10393,15 @@
    "density_gcm3": 0.99,
    "rotationPeriod_strHours": "6.0814",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 99.8,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 66173.26,
    "Hill radius pass-fail": "66173.26",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "68Leto",
@@ -10241,14 +10461,15 @@
    "density_gcm3": 3.21,
    "rotationPeriod_strHours": "14.848",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 53.94,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 27797.63,
    "Hill radius pass-fail": "27797.63",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "69Hesperia",
@@ -10308,14 +10529,15 @@
    "density_gcm3": 4.38,
    "rotationPeriod_strHours": "5.655",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 80.82,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 36755.34,
    "Hill radius pass-fail": "36755.34",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "76Freia",
@@ -10373,16 +10595,17 @@
    "oblateness": 0.2,
    "mass_kg": 1970000000000000000,
    "density_gcm3": 0.79,
-   "rotationPeriod_strHours": "12.14",
+   "rotationPeriod_strHours": "9.9731",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 74.09,
    "tiltskew_Deg": null,
    "fabricatedData": "Rotation, est. Oblateness",
    "Hill Radius in km": 29582.3,
    "Hill radius pass-fail": "29582.30",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "85Io",
@@ -10442,14 +10665,15 @@
    "density_gcm3": 1.4,
    "rotationPeriod_strHours": "6.875",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 143.46,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 26545.18,
    "Hill radius pass-fail": "26545.18",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "87Sylvia",
@@ -10509,14 +10733,15 @@
    "density_gcm3": 1.2,
    "rotationPeriod_strHours": "5.1836",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 25.8,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 64995.57,
    "Hill radius pass-fail": "64995.57",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "88Thisbe",
@@ -10576,14 +10801,15 @@
    "density_gcm3": 3.06,
    "rotationPeriod_strHours": "6.04",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 32.5,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 50239.88,
    "Hill radius pass-fail": "50239.88",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "89Julia",
@@ -10643,14 +10869,15 @@
    "density_gcm3": 3.98,
    "rotationPeriod_strHours": "11.387",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 116.21,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 32363.17,
    "Hill radius pass-fail": "32363.17",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "92Undina",
@@ -10717,7 +10944,8 @@
    "Hill radius pass-fail": "38697.93",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "93Minerva",
@@ -10777,14 +11005,15 @@
    "density_gcm3": 1.9,
    "rotationPeriod_strHours": "5.982",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 71.42,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 30249.97,
    "Hill radius pass-fail": "30249.97",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "94Aurora",
@@ -10844,14 +11073,15 @@
    "density_gcm3": 1.83,
    "rotationPeriod_strHours": "7.22",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 80.59,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 43789.12,
    "Hill radius pass-fail": "43789.12",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "95Aerthusa",
@@ -10911,14 +11141,15 @@
    "density_gcm3": 0.25,
    "rotationPeriod_strHours": "8.705",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 44.04,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 29460.38,
    "Hill radius pass-fail": "29460.38",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "96Aegle",
@@ -10985,7 +11216,76 @@
    "Hill radius pass-fail": "40805.54",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
+},
+ {
+   "dataName": "97Klotho",
+   "friendlyName": "97 Klotho",
+   "designation": "M",
+   "notes": "",
+   "modelResource": "",
+   "modelScale": 10,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Sol",
+   "objectType": "Asteroid",
+   "effectToExplore": "Effect_ExploreAsteroids",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": 2.667322,
+   "semiMajorAxis_km": null,
+   "eccentricity": 0.2579554,
+   "inclination_Deg": 11.779623,
+   "longAscendingNode_Deg": 159.62,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": 268.542,
+   "meanAnomalyAtEpoch_Deg": 267.7697,
+   "apsidalPrecession_Years": null,
+   "nodalPrecession_Years": null,
+   "epoch_floatJYears": 2023.1534,
+   "meanRadius_km": null,
+   "equatorialRadius_km": null,
+   "dimensionX_km": 100.717,
+   "dimensionY_km": 84.79,
+   "dimensionZ_km": 82.83,
+   "oblateness": null,
+   "mass_kg": 2225360000000000000,
+   "density_gcm3": 4.16,
+   "rotationPeriod_strHours": "35.15",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": 56.76,
+   "tiltskew_Deg": null,
+   "fabricatedData": "",
+   "Hill Radius in km": 21314.96,
+   "Hill radius pass-fail": "21314.96",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "104Klymene",
@@ -11045,14 +11345,15 @@
    "density_gcm3": 0.25,
    "rotationPeriod_strHours": "8.984",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 90.63,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 27594.77,
    "Hill radius pass-fail": "27594.77",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "106Dione",
@@ -11112,14 +11413,15 @@
    "density_gcm3": 1.83,
    "rotationPeriod_strHours": "16.26",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 89.42,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 31684.93,
    "Hill radius pass-fail": "31684.93",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "107Camilla",
@@ -11179,14 +11481,15 @@
    "density_gcm3": 1.4,
    "rotationPeriod_strHours": "4.8",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 26.16,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 59163.51,
    "Hill radius pass-fail": "59163.51",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "110Lydia",
@@ -11246,14 +11549,15 @@
    "density_gcm3": 0.25,
    "rotationPeriod_strHours": "10.927",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 150.96,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblatness",
    "Hill Radius in km": 18124.65,
    "Hill radius pass-fail": "18124.65",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "114Kassandra",
@@ -11313,14 +11617,15 @@
    "density_gcm3": 0.24,
    "rotationPeriod_strHours": "10.7431",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 147.36,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 19102.07,
    "Hill radius pass-fail": "19102.07",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "117Lomia",
@@ -11380,14 +11685,15 @@
    "density_gcm3": 3.67,
    "rotationPeriod_strHours": "9.127",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 120.38,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 43466.27,
    "Hill radius pass-fail": "43466.27",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "120Lachesis",
@@ -11447,14 +11753,15 @@
    "density_gcm3": 0.25,
    "rotationPeriod_strHours": "46.551",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 44.06,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 43009.37,
    "Hill radius pass-fail": "43009.37",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "121Hermione",
@@ -11514,14 +11821,15 @@
    "density_gcm3": 1.13,
    "rotationPeriod_strHours": "5.551",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 74.69,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 43107.86,
    "Hill radius pass-fail": "43107.86",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "127Johanna",
@@ -11581,14 +11889,15 @@
    "density_gcm3": 3.75,
    "rotationPeriod_strHours": "12.7988",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 157.37,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 30859.91,
    "Hill radius pass-fail": "30859.91",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "128Nemesis",
@@ -11655,7 +11964,8 @@
    "Hill radius pass-fail": "35923.06",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "129Antigone",
@@ -11715,14 +12025,15 @@
    "density_gcm3": 2.96,
    "rotationPeriod_strHours": "4.9572",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 43.77,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 25836.26,
    "Hill radius pass-fail": "25836.26",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "130Elektra",
@@ -11789,7 +12100,8 @@
    "Hill radius pass-fail": "38342.94",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "132Aethra",
@@ -11849,14 +12161,15 @@
    "density_gcm3": 1.24,
    "rotationPeriod_strHours": "5.1684",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 47.03,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 9740.28,
    "Hill radius pass-fail": "9740.28",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "135Hertha",
@@ -11916,14 +12229,15 @@
    "density_gcm3": 5.23,
    "rotationPeriod_strHours": "8.4",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 35.82,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 16960.42,
    "Hill radius pass-fail": "16960.42",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "137Meliboea",
@@ -11983,14 +12297,15 @@
    "density_gcm3": 4.46,
    "rotationPeriod_strHours": "25.676",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 90.34,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 39204.34,
    "Hill radius pass-fail": "39204.34",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "139Juewa",
@@ -12050,14 +12365,15 @@
    "density_gcm3": 2.51,
    "rotationPeriod_strHours": "20.991",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 104.09,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 33461.8,
    "Hill radius pass-fail": "33461.80",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "146Lucina",
@@ -12117,14 +12433,15 @@
    "density_gcm3": 2,
    "rotationPeriod_strHours": "18.557",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 121.79,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 28011.45,
    "Hill radius pass-fail": "28011.45",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "153Hilda",
@@ -12191,7 +12508,8 @@
    "Hill radius pass-fail": "48892.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "154Bertha",
@@ -12251,14 +12569,15 @@
    "density_gcm3": 2.69,
    "rotationPeriod_strHours": "25.224",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 54.21,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 50967.99,
    "Hill radius pass-fail": "50967.99",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "165Loreley",
@@ -12318,14 +12637,15 @@
    "density_gcm3": 5.81,
    "rotationPeriod_strHours": "7.226",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 52.5,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 57522.84,
    "Hill radius pass-fail": "57522.84",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "168Sibylla",
@@ -12385,14 +12705,15 @@
    "density_gcm3": 2.26,
    "rotationPeriod_strHours": "23.82",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 147.38,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 40860.68,
    "Hill radius pass-fail": "40860.68",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "185Eunike",
@@ -12459,7 +12780,8 @@
    "Hill radius pass-fail": "30029.30",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "187Lamberta",
@@ -12519,14 +12841,15 @@
    "density_gcm3": 1.51,
    "rotationPeriod_strHours": "10.67",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 153.14,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 20765.55,
    "Hill radius pass-fail": "20765.55",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "190Ismene",
@@ -12593,7 +12916,8 @@
    "Hill radius pass-fail": "53999.98",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "192Nausikaa",
@@ -12653,14 +12977,15 @@
    "density_gcm3": 4.64,
    "rotationPeriod_strHours": "13.625",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 137.44,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 18149.14,
    "Hill radius pass-fail": "18149.14",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "194Prokne",
@@ -12727,7 +13052,8 @@
    "Hill radius pass-fail": "22834.58",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "196Philomea",
@@ -12787,14 +13113,15 @@
    "density_gcm3": 2.48,
    "rotationPeriod_strHours": "8.334",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 135.26,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 40106.92,
    "Hill radius pass-fail": "40106.92",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "209Dido",
@@ -12854,14 +13181,15 @@
    "density_gcm3": 0.27,
    "rotationPeriod_strHours": "5.7366",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 124.53,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 40692.03,
    "Hill radius pass-fail": "40692.03",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "216Kleopatra",
@@ -12913,22 +13241,23 @@
    "epoch_floatJYears": 2017.126,
    "meanRadius_km": null,
    "equatorialRadius_km": null,
-   "dimensionX_km": 217,
+   "dimensionX_km": 276,
    "dimensionY_km": 94,
    "dimensionZ_km": 81,
    "oblateness": null,
-   "mass_kg": 4640000000000000000,
-   "density_gcm3": 4.27,
+   "mass_kg": 3000000000000000000,
+   "density_gcm3": 3.45,
    "rotationPeriod_strHours": "5.394",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 62.21,
    "tiltskew_Deg": null,
    "fabricatedData": "",
-   "Hill Radius in km": 28795.52,
-   "Hill radius pass-fail": "28795.52",
+   "Hill Radius in km": 24899.62,
+   "Hill radius pass-fail": "24899.62",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "221Eos",
@@ -12988,14 +13317,15 @@
    "density_gcm3": 6.71,
    "rotationPeriod_strHours": "10.443",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 118.55,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 35446.56,
    "Hill radius pass-fail": "35446.56",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "230Athamantis",
@@ -13055,14 +13385,15 @@
    "density_gcm3": 2.69,
    "rotationPeriod_strHours": "24.0055",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 61.09,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 22807.78,
    "Hill radius pass-fail": "22807.78",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "233Asterope",
@@ -13122,14 +13453,15 @@
    "density_gcm3": 1.2,
    "rotationPeriod_strHours": "19.7",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 38.59,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 17297.91,
    "Hill radius pass-fail": "17297.91",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "238Hypatia",
@@ -13189,14 +13521,15 @@
    "density_gcm3": 2.99,
    "rotationPeriod_strHours": "8.87",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 57.15,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 37078.89,
    "Hill radius pass-fail": "37078.89",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "241Germania",
@@ -13263,7 +13596,8 @@
    "Hill radius pass-fail": "21471.12",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "246Asperina",
@@ -13323,14 +13657,83 @@
    "density_gcm3": 2.7,
    "rotationPeriod_strHours": "16.222",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 114.86,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 13340.36,
    "Hill radius pass-fail": "13340.36",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
+},
+ {
+   "dataName": "250Bettina",
+   "friendlyName": "250 Bettina",
+   "designation": "M",
+   "notes": "",
+   "modelResource": "",
+   "modelScale": 10,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Sol",
+   "objectType": "Asteroid",
+   "effectToExplore": "Effect_ExploreAsteroids",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": 3.14445,
+   "semiMajorAxis_km": null,
+   "eccentricity": 0.136081,
+   "inclination_Deg": 12.8199,
+   "longAscendingNode_Deg": 23.8087844,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": 75.77394,
+   "meanAnomalyAtEpoch_Deg": 121.9044,
+   "apsidalPrecession_Years": null,
+   "nodalPrecession_Years": null,
+   "epoch_floatJYears": 2023.1534,
+   "meanRadius_km": null,
+   "equatorialRadius_km": null,
+   "dimensionX_km": 120.995,
+   "dimensionY_km": null,
+   "dimensionZ_km": null,
+   "oblateness": 0.22,
+   "mass_kg": 4173620000000000000,
+   "density_gcm3": 4.5,
+   "rotationPeriod_strHours": "5.055",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": 85.47,
+   "tiltskew_Deg": null,
+   "fabricatedData": "Density, Oblateness",
+   "Hill Radius in km": 36077.34,
+   "Hill radius pass-fail": "36077.34",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "253Mathilde",
@@ -13390,14 +13793,15 @@
    "density_gcm3": 1.3,
    "rotationPeriod_strHours": "417.7",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 157.14,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 7527.3,
    "Hill radius pass-fail": "7527.30",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "259Aletheia",
@@ -13464,7 +13868,8 @@
    "Hill radius pass-fail": "44720.98",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "279Thule",
@@ -13531,7 +13936,8 @@
    "Hill radius pass-fail": "38912.16",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "308Polyxo",
@@ -13598,7 +14004,8 @@
    "Hill radius pass-fail": "26940.20",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "323Brucia",
@@ -13665,7 +14072,8 @@
    "Hill radius pass-fail": "4508.32",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "324Bamberga",
@@ -13732,7 +14140,8 @@
    "Hill radius pass-fail": "32470.30",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "325Heidelberga",
@@ -13799,7 +14208,8 @@
    "Hill radius pass-fail": "10016.26",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "328Gudrun",
@@ -13859,14 +14269,15 @@
    "density_gcm3": 3.27,
    "rotationPeriod_strHours": "10.992",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 89.25,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 33665.43,
    "Hill radius pass-fail": "33665.43",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "334Chicago",
@@ -13926,14 +14337,83 @@
    "density_gcm3": 0.31,
    "rotationPeriod_strHours": "7.361",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 65.62,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 53927.25,
    "Hill radius pass-fail": "53927.25",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
+},
+ {
+   "dataName": "336Lacadiera",
+   "friendlyName": "336 Lacadiera",
+   "designation": "D",
+   "notes": "Main Belt",
+   "modelResource": "",
+   "modelScale": 10,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Sol",
+   "objectType": "Asteroid",
+   "effectToExplore": "Effect_ExploreAsteroids",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": 2.2517,
+   "semiMajorAxis_km": null,
+   "eccentricity": 0.095224,
+   "inclination_Deg": 5.65173,
+   "longAscendingNode_Deg": 234.98639,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": 30.949,
+   "meanAnomalyAtEpoch_Deg": 304.475,
+   "apsidalPrecession_Years": null,
+   "nodalPrecession_Years": null,
+   "epoch_floatJYears": 2023.1534,
+   "meanRadius_km": null,
+   "equatorialRadius_km": null,
+   "dimensionX_km": 69,
+   "dimensionY_km": 63,
+   "dimensionZ_km": 63,
+   "oblateness": null,
+   "mass_kg": 280371000000000000,
+   "density_gcm3": 1.63,
+   "rotationPeriod_strHours": "13.7",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": 47.43,
+   "tiltskew_Deg": null,
+   "fabricatedData": "Density",
+   "Hill Radius in km": 10998.71,
+   "Hill radius pass-fail": "10998.71",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "349Dembowska",
@@ -13993,14 +14473,15 @@
    "density_gcm3": 2.23,
    "rotationPeriod_strHours": "4.701",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 64.26,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 33518.97,
    "Hill radius pass-fail": "33518.97",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "354Eleonora",
@@ -14060,14 +14541,15 @@
    "density_gcm3": 3.73,
    "rotationPeriod_strHours": "4.277",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 40.9,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 84912.18,
    "Hill radius pass-fail": "84912.18",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "356Liguria",
@@ -14127,14 +14609,15 @@
    "density_gcm3": 6.1,
    "rotationPeriod_strHours": "31.82",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 130.18,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 34459.45,
    "Hill radius pass-fail": "34459.45",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "361Bononia",
@@ -14194,14 +14677,15 @@
    "density_gcm3": 1.25,
    "rotationPeriod_strHours": "13.83",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 57.57,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 31593.46,
    "Hill radius pass-fail": "31593.46",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "372Palma",
@@ -14261,14 +14745,15 @@
    "density_gcm3": 1.4,
    "rotationPeriod_strHours": "8.567",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 113.87,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 33236.03,
    "Hill radius pass-fail": "33236.03",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "375Ursula",
@@ -14335,7 +14820,8 @@
    "Hill radius pass-fail": "46922.19",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "386Siegena",
@@ -14395,14 +14881,15 @@
    "density_gcm3": 3.14,
    "rotationPeriod_strHours": "9.763",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 82.49,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 39849.11,
    "Hill radius pass-fail": "39849.11",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "391Ingeborg",
@@ -14462,14 +14949,15 @@
    "density_gcm3": 2.61,
    "rotationPeriod_strHours": "26.4145",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 159.64,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 3764.29,
    "Hill radius pass-fail": "3764.29",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "409Aspasia",
@@ -14529,14 +15017,15 @@
    "density_gcm3": 4.1,
    "rotationPeriod_strHours": "9.022",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 69.81,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 44777.21,
    "Hill radius pass-fail": "44777.21",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "419Aurelia",
@@ -14596,14 +15085,15 @@
    "density_gcm3": 1.7,
    "rotationPeriod_strHours": "16.784",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 44.82,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 19921.47,
    "Hill radius pass-fail": "19921.47",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "423Diotima",
@@ -14663,14 +15153,15 @@
    "density_gcm3": 1.39,
    "rotationPeriod_strHours": "4.775",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 75,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 37781.9,
    "Hill radius pass-fail": "37781.90",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "433Eros",
@@ -14730,14 +15221,15 @@
    "density_gcm3": 2.67,
    "rotationPeriod_strHours": "5.267",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 89.35,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 1965.23,
    "Hill radius pass-fail": "1965.23",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "434Hungaria",
@@ -14797,14 +15289,15 @@
    "density_gcm3": 2,
    "rotationPeriod_strHours": "26.521",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 9.11,
    "tiltskew_Deg": null,
    "fabricatedData": "density",
    "Hill Radius in km": 1659.49,
    "Hill radius pass-fail": "1659.49",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "444Gyptis",
@@ -14864,14 +15357,15 @@
    "density_gcm3": 5.53,
    "rotationPeriod_strHours": "6.214",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 68.25,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 40983.53,
    "Hill radius pass-fail": "40983.53",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "451Patientia",
@@ -14938,7 +15432,8 @@
    "Hill radius pass-fail": "50203.82",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "475Ocllo",
@@ -14998,14 +15493,15 @@
    "density_gcm3": 2,
    "rotationPeriod_strHours": "7.3151",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 61.28,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 2413.38,
    "Hill radius pass-fail": "2413.38",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "488Kreusa",
@@ -15072,7 +15568,8 @@
    "Hill radius pass-fail": "28227.86",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "490Veritas",
@@ -15132,14 +15629,15 @@
    "density_gcm3": 8.37,
    "rotationPeriod_strHours": "7.93",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 48.33,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 43021.83,
    "Hill radius pass-fail": "43021.83",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "511Davida",
@@ -15199,14 +15697,15 @@
    "density_gcm3": 2.97,
    "rotationPeriod_strHours": "5.13",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 62.52,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 72518.76,
    "Hill radius pass-fail": "72518.76",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "512Taurinensis",
@@ -15266,14 +15765,15 @@
    "density_gcm3": 2.55,
    "rotationPeriod_strHours": "5.584",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 40.22,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 3096.61,
    "Hill radius pass-fail": "3096.61",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "532Herculina",
@@ -15333,14 +15833,15 @@
    "density_gcm3": 4,
    "rotationPeriod_strHours": "9.405",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 79.32,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 49536.41,
    "Hill radius pass-fail": "49536.41",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "536Merapi",
@@ -15400,14 +15901,15 @@
    "density_gcm3": 5.62,
    "rotationPeriod_strHours": "8.78",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 43.49,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 57966.75,
    "Hill radius pass-fail": "57966.75",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "566Streoskopia",
@@ -15474,7 +15976,8 @@
    "Hill radius pass-fail": "35497.53",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "588Achilles",
@@ -15534,14 +16037,15 @@
    "density_gcm3": 1.2,
    "rotationPeriod_strHours": "7.306",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 88.98,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 42370.65,
    "Hill radius pass-fail": "42370.65",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "596Scheila",
@@ -15601,14 +16105,15 @@
    "density_gcm3": 2,
    "rotationPeriod_strHours": "15.848",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 104.07,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 29286.53,
    "Hill radius pass-fail": "29286.53",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "617Patroclus",
@@ -15675,7 +16180,8 @@
    "Hill radius pass-fail": "34602.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Menoetius",
@@ -15742,7 +16248,8 @@
    "Hill radius pass-fail": "403.64",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "624Hektor",
@@ -15802,14 +16309,15 @@
    "density_gcm3": 1.63,
    "rotationPeriod_strHours": "6.92",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 116.34,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 106207.04,
    "Hill radius pass-fail": "106207.04",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "654Zelinda",
@@ -15876,7 +16384,8 @@
    "Hill radius pass-fail": "16092.68",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "699Hela",
@@ -15936,14 +16445,15 @@
    "density_gcm3": 2.67,
    "rotationPeriod_strHours": "3.3962",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 52.21,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 2748.53,
    "Hill radius pass-fail": "2748.53",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "702Alauda",
@@ -16010,7 +16520,8 @@
    "Hill radius pass-fail": "47136.15",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "704Interamnia",
@@ -16070,14 +16581,15 @@
    "density_gcm3": 2.29,
    "rotationPeriod_strHours": "8.727",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 34.96,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 72768.83,
    "Hill radius pass-fail": "72768.83",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "747Winchester",
@@ -16137,14 +16649,15 @@
    "density_gcm3": 1.47,
    "rotationPeriod_strHours": "9.4146",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 147.07,
    "tiltskew_Deg": null,
    "fabricatedData": "est. Oblateness",
    "Hill Radius in km": 25510.56,
    "Hill radius pass-fail": "25510.56",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "762Pulcova",
@@ -16204,14 +16717,15 @@
    "density_gcm3": 0.9,
    "rotationPeriod_strHours": "5.839",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 116.34,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 26105.56,
    "Hill radius pass-fail": "26105.56",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "776Berbericia",
@@ -16271,14 +16785,15 @@
    "density_gcm3": 1.18,
    "rotationPeriod_strHours": "7.668",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 59.79,
    "tiltskew_Deg": null,
    "fabricatedData": "",
    "Hill Radius in km": 26259.36,
    "Hill radius pass-fail": "26259.36",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "790Praetoria",
@@ -16345,7 +16860,8 @@
    "Hill radius pass-fail": "39663.64",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "911Agnamemnon",
@@ -16405,14 +16921,15 @@
    "density_gcm3": 1.5,
    "rotationPeriod_strHours": "6.592",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 101.34,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 62497.87,
    "Hill radius pass-fail": "62497.87",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "944Hidalgo",
@@ -16472,14 +16989,15 @@
    "density_gcm3": 1.2,
    "rotationPeriod_strHours": "10.063",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 33.65,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 5243.95,
    "Hill radius pass-fail": "5243.95",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "1036Ganymed",
@@ -16539,14 +17057,15 @@
    "density_gcm3": 2.5,
    "rotationPeriod_strHours": "10.297",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 146.5,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 3813.6,
    "Hill radius pass-fail": "3813.60",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "1143Odysseus",
@@ -16613,7 +17132,8 @@
    "Hill radius pass-fail": "45815.19",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "1172Aneas",
@@ -16680,7 +17200,8 @@
    "Hill radius pass-fail": "50612.93",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "1173Anchises",
@@ -16740,14 +17261,15 @@
    "density_gcm3": 1.5,
    "rotationPeriod_strHours": "11.6",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 99.12,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 43947.55,
    "Hill radius pass-fail": "43947.55",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "1437Diomedes",
@@ -16807,14 +17329,15 @@
    "density_gcm3": 1.5,
    "rotationPeriod_strHours": "24.49",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 80.37,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 59832.95,
    "Hill radius pass-fail": "59832.95",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "1627Ivar",
@@ -16874,14 +17397,15 @@
    "density_gcm3": 2.71,
    "rotationPeriod_strHours": "13.82",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 48.46,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 961.63,
    "Hill radius pass-fail": "961.63",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "1866Sisyphus",
@@ -16948,7 +17472,8 @@
    "Hill radius pass-fail": "607.24",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 2
 },
  {
    "dataName": "1870Glaukos",
@@ -17015,7 +17540,8 @@
    "Hill radius pass-fail": "18814.71",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "1951Lick",
@@ -17082,7 +17608,8 @@
    "Hill radius pass-fail": "734.72",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 2
 },
  {
    "dataName": "1911Schubart",
@@ -17149,7 +17676,8 @@
    "Hill radius pass-fail": "14810.32",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "2060Chiron",
@@ -17216,7 +17744,8 @@
    "Hill radius pass-fail": "131084.36",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "2064Thomsen",
@@ -17276,14 +17805,15 @@
    "density_gcm3": 1.3,
    "rotationPeriod_strHours": "4.244",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 161.55,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 1246.08,
    "Hill radius pass-fail": "1246.08",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "2204Lyyli",
@@ -17343,14 +17873,15 @@
    "density_gcm3": 1.7,
    "rotationPeriod_strHours": "11.06",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 135.51,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 3148.98,
    "Hill radius pass-fail": "3148.98",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "3200Phaethon",
@@ -17410,14 +17941,83 @@
    "density_gcm3": 3,
    "rotationPeriod_strHours": "3.604",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 151.95,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 72.48,
    "Hill radius pass-fail": "72.48",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 2
+},
+ {
+   "dataName": "3317Paris",
+   "friendlyName": "3317 Paris",
+   "designation": "D or T",
+   "notes": "Jupiter Trailing Trojan",
+   "modelResource": "",
+   "modelScale": 10,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Sol",
+   "objectType": "Asteroid",
+   "effectToExplore": "Effect_ExploreJupiter",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": 5.22758,
+   "semiMajorAxis_km": null,
+   "eccentricity": 0.12896,
+   "inclination_Deg": 27.862484,
+   "longAscendingNode_Deg": 135.9017,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": 150.7980502,
+   "meanAnomalyAtEpoch_Deg": 33.62648,
+   "apsidalPrecession_Years": null,
+   "nodalPrecession_Years": null,
+   "epoch_floatJYears": 2023.1534,
+   "meanRadius_km": null,
+   "equatorialRadius_km": null,
+   "dimensionX_km": 118.79,
+   "dimensionY_km": null,
+   "dimensionZ_km": null,
+   "oblateness": 0.01,
+   "mass_kg": 58512300000000000,
+   "density_gcm3": 1.8,
+   "rotationPeriod_strHours": "7.0812",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": null,
+   "tiltskew_Deg": null,
+   "fabricatedData": "Density, Oblateness",
+   "Hill Radius in km": 14581.43,
+   "Hill radius pass-fail": "14581.43",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "3353Jarvis",
@@ -17477,14 +18077,83 @@
    "density_gcm3": 1.7,
    "rotationPeriod_strHours": "202",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 151.22,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 1366.75,
    "Hill radius pass-fail": "1366.75",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
+},
+ {
+   "dataName": "3451Mentor",
+   "friendlyName": "3451 Mentor",
+   "designation": "X/P",
+   "notes": "Jupiter Trailing Trojan",
+   "modelResource": "",
+   "modelScale": 10,
+   "numAltModels": 0,
+   "altModels": [
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "modelResource": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "symbolTexture": "",
+   "mapResource": "",
+   "mapScale": null,
+   "barycenterName": "Sol",
+   "objectType": "Asteroid",
+   "effectToExplore": "Effect_ExploreJupiter",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": 5.172865,
+   "semiMajorAxis_km": null,
+   "eccentricity": 0.07489217,
+   "inclination_Deg": 24.638619,
+   "longAscendingNode_Deg": 179.5581412,
+   "longPeriapsis_Deg": null,
+   "meanLongitude_Deg": null,
+   "argPeriapsis_Deg": 131.435,
+   "meanAnomalyAtEpoch_Deg": 28.6756,
+   "apsidalPrecession_Years": null,
+   "nodalPrecession_Years": null,
+   "epoch_floatJYears": 2023.1534,
+   "meanRadius_km": null,
+   "equatorialRadius_km": null,
+   "dimensionX_km": 126.288,
+   "dimensionY_km": null,
+   "dimensionZ_km": null,
+   "oblateness": 0.15,
+   "mass_kg": 66400300000000000,
+   "density_gcm3": 1.7,
+   "rotationPeriod_strHours": "7.702",
+   "rotationOffset_Deg": null,
+   "tilt_Deg": 55.18,
+   "tiltskew_Deg": null,
+   "fabricatedData": "Density, Oblateness",
+   "Hill Radius in km": 15984.26,
+   "Hill radius pass-fail": "15984.26",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": null,
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "3552DonQuixote",
@@ -17551,7 +18220,8 @@
    "Hill radius pass-fail": "1603.22",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "3753Cruithne",
@@ -17618,7 +18288,8 @@
    "Hill radius pass-fail": "202.73",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 1
 },
  {
    "dataName": "4954Eric",
@@ -17678,14 +18349,15 @@
    "density_gcm3": 1.4,
    "rotationPeriod_strHours": "12.052",
    "rotationOffset_Deg": null,
-   "tilt_Deg": null,
+   "tilt_Deg": 161.42,
    "tiltskew_Deg": null,
    "fabricatedData": "Density",
    "Hill Radius in km": 886.71,
    "Hill radius pass-fail": "886.71",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "5145Pholus",
@@ -17752,7 +18424,8 @@
    "Hill radius pass-fail": "117020.40",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "7066Nessus",
@@ -17819,7 +18492,8 @@
    "Hill radius pass-fail": "49869.57",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "8405Asbolus",
@@ -17886,7 +18560,8 @@
    "Hill radius pass-fail": "36537.40",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "10199Chariklo",
@@ -17953,7 +18628,8 @@
    "Hill radius pass-fail": "230934.89",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "10370Hylonome",
@@ -18020,7 +18696,8 @@
    "Hill radius pass-fail": "95839.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "15760Albion",
@@ -18087,7 +18764,8 @@
    "Hill radius pass-fail": "360038.15",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "15789Anguta",
@@ -18154,7 +18832,8 @@
    "Hill radius pass-fail": "765424.25",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Chaos",
@@ -18184,7 +18863,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Chaos",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -18221,7 +18900,8 @@
    "Hill radius pass-fail": "1686498.80",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Varuna",
@@ -18288,7 +18968,8 @@
    "Hill radius pass-fail": "2424748.20",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ixion",
@@ -18318,7 +18999,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Ixion",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -18355,7 +19036,8 @@
    "Hill radius pass-fail": "1253835.12",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "31824Elatus",
@@ -18422,7 +19104,8 @@
    "Hill radius pass-fail": "30315.76",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "32532Thereus",
@@ -18489,7 +19172,8 @@
    "Hill radius pass-fail": "53618.36",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Tawa",
@@ -18519,7 +19203,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Tawa",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -18556,7 +19240,8 @@
    "Hill radius pass-fail": "1072065.83",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Huya",
@@ -18586,7 +19271,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Huya",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -18623,7 +19308,8 @@
    "Hill radius pass-fail": "770177.20",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "49036Pelion",
@@ -18690,7 +19376,8 @@
    "Hill radius pass-fail": "137105.11",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Quaoar",
@@ -18720,7 +19407,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Quaoar",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -18757,7 +19444,8 @@
    "Hill radius pass-fail": "3865747.12",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Weywot",
@@ -18824,7 +19512,8 @@
    "Hill radius pass-fail": "626.92",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "52872Okyrhoe",
@@ -18891,7 +19580,8 @@
    "Hill radius pass-fail": "16058.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "52975Cyllarus",
@@ -18958,7 +19648,8 @@
    "Hill radius pass-fail": "78091.47",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "53311Deucalion",
@@ -19025,7 +19716,8 @@
    "Hill radius pass-fail": "601329.87",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "54598Bienor",
@@ -19092,7 +19784,8 @@
    "Hill radius pass-fail": "150525.57",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Jasagnan",
@@ -19122,7 +19815,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Jasagnan",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -19159,7 +19852,8 @@
    "Hill radius pass-fail": "2175838.96",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "55576Amycus",
@@ -19226,7 +19920,8 @@
    "Hill radius pass-fail": "85064.29",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ranginui",
@@ -19256,7 +19951,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Ranginui",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -19293,7 +19988,8 @@
    "Hill radius pass-fail": "1408406.57",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Papatuanuku",
@@ -19360,7 +20056,8 @@
    "Hill radius pass-fail": "1655.93",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "60558Echeclus",
@@ -19427,7 +20124,8 @@
    "Hill radius pass-fail": "20137.16",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Chimera",
@@ -19457,7 +20155,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Chimera",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -19494,7 +20192,8 @@
    "Hill radius pass-fail": "1055039.63",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "83982Crantor",
@@ -19561,7 +20260,8 @@
    "Hill radius pass-fail": "55140.28",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Ankou",
@@ -19591,7 +20291,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Rock",
+   "symbolTexture": "icons_2d/ICO_Ankou",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -19599,7 +20299,7 @@
    "effectToExplore": "Effect_ExploreOuterPlanets",
    "irradiatedMultiplier": 1,
    "atmosphere": "None",
-   "semiMajorAxis_AU": 28.999,
+   "semiMajorAxis_AU": 39.325,
    "semiMajorAxis_km": null,
    "eccentricity": 0.26257,
    "inclination_Deg": 14.04,
@@ -19624,11 +20324,12 @@
    "tilt_Deg": null,
    "tiltskew_Deg": null,
    "fabricatedData": "Name, Density, Rotation",
-   "Hill Radius in km": 637643.81,
-   "Hill radius pass-fail": "637643.81",
+   "Hill Radius in km": 864696.81,
+   "Hill radius pass-fail": "864696.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Veles",
@@ -19658,7 +20359,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Veles",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -19695,7 +20396,8 @@
    "Hill radius pass-fail": "1597766.08",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Orcus",
@@ -19725,7 +20427,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Orcus",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -19762,7 +20464,8 @@
    "Hill radius pass-fail": "1987969.86",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Vanth",
@@ -19829,7 +20532,8 @@
    "Hill radius pass-fail": "2330.42",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Amma",
@@ -19859,7 +20563,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Rock",
+   "symbolTexture": "icons_2d/ICO_Amma",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -19896,7 +20600,8 @@
    "Hill radius pass-fail": "1886045.62",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "95626Demeleon",
@@ -19963,7 +20668,8 @@
    "Hill radius pass-fail": "284958.15",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Nuwa",
@@ -19993,7 +20699,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Nuwa",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -20030,7 +20736,8 @@
    "Hill radius pass-fail": "1197213.02",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "120061Lykas",
@@ -20097,7 +20804,8 @@
    "Hill radius pass-fail": "59213.43",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Salacia",
@@ -20127,7 +20835,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Salacia",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -20164,7 +20872,8 @@
    "Hill radius pass-fail": "2301292.00",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Actaea",
@@ -20231,7 +20940,8 @@
    "Hill radius pass-fail": "1367.47",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Xolas",
@@ -20261,7 +20971,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Xolas",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -20298,7 +21008,8 @@
    "Hill radius pass-fail": "1290145.61",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Pluto",
@@ -20365,7 +21076,8 @@
    "Hill radius pass-fail": "5756517.98",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": 50,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Charon",
@@ -20432,7 +21144,8 @@
    "Hill radius pass-fail": "6718.78",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Styx",
@@ -20499,7 +21212,8 @@
    "Hill radius pass-fail": "243.19",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Nix",
@@ -20566,7 +21280,8 @@
    "Hill radius pass-fail": "508.76",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Kerberos",
@@ -20633,7 +21348,8 @@
    "Hill radius pass-fail": "431.78",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "Hydra",
@@ -20700,7 +21416,8 @@
    "Hill radius pass-fail": "689.51",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Haumea",
@@ -20767,7 +21484,8 @@
    "Hill radius pass-fail": "4580371.64",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Namaka",
@@ -20834,7 +21552,8 @@
    "Hill radius pass-fail": "1021.04",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Hiʻiaka",
@@ -20901,7 +21620,8 @@
    "Hill radius pass-fail": "5402.37",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "136204Rhaecus",
@@ -20968,7 +21688,8 @@
    "Hill radius pass-fail": "121171.59",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Makemake",
@@ -20998,7 +21719,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Makemake",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -21035,7 +21756,8 @@
    "Hill radius pass-fail": "4639000.71",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "144897Erlik",
@@ -21102,7 +21824,8 @@
    "Hill radius pass-fail": "955278.57",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Kamuy",
@@ -21132,7 +21855,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Kamuy",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -21169,7 +21892,8 @@
    "Hill radius pass-fail": "1946227.61",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "145453Viracocha",
@@ -21236,7 +21960,8 @@
    "Hill radius pass-fail": "757972.91",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Varda",
@@ -21266,7 +21991,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Varda",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -21303,7 +22028,8 @@
    "Hill radius pass-fail": "2091088.64",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Illmare",
@@ -21370,7 +22096,8 @@
    "Hill radius pass-fail": "1688.89",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Shingon",
@@ -21400,7 +22127,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Shingon",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -21437,7 +22164,8 @@
    "Hill radius pass-fail": "1005835.81",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Unkulunkulu",
@@ -21467,7 +22195,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Unkulunkulu",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -21504,7 +22232,8 @@
    "Hill radius pass-fail": "1291682.32",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Nergal",
@@ -21571,7 +22300,8 @@
    "Hill radius pass-fail": "1443013.04",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "248835Helops",
@@ -21638,7 +22368,8 @@
    "Hill radius pass-fail": "124256.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "281371Pyretos",
@@ -21705,7 +22436,8 @@
    "Hill radius pass-fail": "39228.70",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Pangu",
@@ -21735,7 +22467,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Pangu",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -21772,7 +22504,8 @@
    "Hill radius pass-fail": "2355273.92",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "309239Ripheus",
@@ -21839,7 +22572,8 @@
    "Hill radius pass-fail": "346751.90",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "315898Latreus",
@@ -21906,7 +22640,8 @@
    "Hill radius pass-fail": "11238.78",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 3
 },
  {
    "dataName": "316179Sanape",
@@ -21973,7 +22708,8 @@
    "Hill radius pass-fail": "281161.09",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "342842Lykidas",
@@ -22040,7 +22776,8 @@
    "Hill radius pass-fail": "28998.04",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "385571Otrera",
@@ -22107,7 +22844,8 @@
    "Hill radius pass-fail": "200771.39",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Kuterastan",
@@ -22137,7 +22875,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Kuterastan",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22174,7 +22912,8 @@
    "Hill radius pass-fail": "1273004.18",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Luison",
@@ -22204,7 +22943,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Rock",
+   "symbolTexture": "icons_2d/ICO_Luison",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22241,7 +22980,8 @@
    "Hill radius pass-fail": "1768523.95",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Coatlicue",
@@ -22271,7 +23011,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Coatlicue",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22308,7 +23048,8 @@
    "Hill radius pass-fail": "1162913.32",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "469372Maximon",
@@ -22375,7 +23116,8 @@
    "Hill radius pass-fail": "1079726.05",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Volturnus",
@@ -22405,7 +23147,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Volturnus",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22442,7 +23184,8 @@
    "Hill radius pass-fail": "1443025.66",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Cagn",
@@ -22472,7 +23215,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Cagn",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22509,7 +23252,8 @@
    "Hill radius pass-fail": "1304847.57",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Voluspa",
@@ -22539,7 +23283,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Voluspa",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22576,7 +23320,8 @@
    "Hill radius pass-fail": "1186292.63",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "472651Dryalos",
@@ -22643,7 +23388,8 @@
    "Hill radius pass-fail": "84812.43",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Whiro",
@@ -22673,7 +23419,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Whiro",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22710,7 +23456,8 @@
    "Hill radius pass-fail": "1380397.48",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "QR322Penthesilea",
@@ -22777,7 +23524,8 @@
    "Hill radius pass-fail": "239685.98",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Arawn",
@@ -22807,7 +23555,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Arwan",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -22844,7 +23592,8 @@
    "Hill radius pass-fail": "1572114.21",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "RJ103Myrina",
@@ -22911,7 +23660,8 @@
    "Hill radius pass-fail": "335870.21",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "LC18Aegea",
@@ -22978,7 +23728,8 @@
    "Hill radius pass-fail": "194145.92",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "THAntimakhos",
@@ -23045,7 +23796,8 @@
    "Hill radius pass-fail": "61894.37",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Izanagi",
@@ -23075,7 +23827,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Volatile_Rich",
+   "symbolTexture": "icons_2d/ICO_Izanagi",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -23112,7 +23864,8 @@
    "Hill radius pass-fail": "2076452.24",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Eledumare",
@@ -23142,7 +23895,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Eledumare",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -23179,12 +23932,13 @@
    "Hill radius pass-fail": "3181159.88",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "Mbombo",
    "friendlyName": "Mbombo",
-   "designation": "2010 VK01",
+   "designation": "523645 2010 VK01",
    "notes": "",
    "modelResource": "planets/Mbombo",
    "modelScale": 0.5,
@@ -23209,7 +23963,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_Mbombo",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -23246,7 +24000,8 @@
    "Hill radius pass-fail": "1444434.94",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "MengPo",
@@ -23276,7 +24031,7 @@
          }
       }
    ],
-   "symbolTexture": "icons_2d/ICO_Generic_Ice",
+   "symbolTexture": "icons_2d/ICO_MengPo",
    "mapResource": "",
    "mapScale": null,
    "barycenterName": "Sol",
@@ -23313,7 +24068,8 @@
    "Hill radius pass-fail": "1366768.63",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "HM102Myrleia",
@@ -23380,7 +24136,8 @@
    "Hill radius pass-fail": "275074.29",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "MM4Bromos",
@@ -23447,7 +24204,8 @@
    "Hill radius pass-fail": "48663.29",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "QF99Autolycus",
@@ -23514,7 +24272,8 @@
    "Hill radius pass-fail": "64549.15",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "KY18Ephesos",
@@ -23581,7 +24340,8 @@
    "Hill radius pass-fail": "365644.50",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 },
  {
    "dataName": "YX49Meleager",
@@ -23648,6 +24408,7 @@
    "Hill radius pass-fail": "75989.39",
    "angularDiameterMultiplier": 1,
    "atmosphereScaleHeight_km": null,
-   "atmosphereSurfaceDensity_kgpm3": null
+   "atmosphereSurfaceDensity_kgpm3": null,
+   "maxHabSize": 4
 }
 ]

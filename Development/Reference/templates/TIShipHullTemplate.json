@@ -12,6 +12,7 @@
    "volume": 1963,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 3,
+   "altSI": 3,
    "mass_tons": 200,
    "crew": 3,
    "alien": false,
@@ -43,8 +44,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -96,116 +96,6 @@
          "moduleSlotType": "Propellant",
          "x": 2,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -221,8 +111,9 @@
    "width_m": 10,
    "volume": 1963,
    "thrusterMultiplier": 1,
-   "structuralIntegrity": 6,
-   "mass_tons": 350,
+   "structuralIntegrity": 5,
+   "altSI": 3,
+   "mass_tons": 200,
    "crew": 4,
    "alien": false,
    "monthlyIncome_Money": -2,
@@ -253,8 +144,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -316,106 +206,6 @@
          "moduleSlotType": "Propellant",
          "x": 2,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -432,6 +222,7 @@
    "volume": 7069,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 6,
+   "altSI": 5,
    "mass_tons": 350,
    "crew": 8,
    "alien": false,
@@ -463,8 +254,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -526,106 +316,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -642,6 +332,7 @@
    "volume": 23562,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 9,
+   "altSI": 9,
    "mass_tons": 600,
    "crew": 20,
    "alien": false,
@@ -673,8 +364,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -751,91 +441,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -851,7 +456,8 @@
    "width_m": 20,
    "volume": 31416,
    "thrusterMultiplier": 1,
-   "structuralIntegrity": 9,
+   "structuralIntegrity": 12,
+   "altSI": 13,
    "mass_tons": 900,
    "crew": 35,
    "alien": false,
@@ -883,8 +489,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -961,91 +566,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -1062,6 +582,7 @@
    "volume": 31416,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 12,
+   "altSI": 13,
    "mass_tons": 900,
    "crew": 40,
    "alien": false,
@@ -1093,8 +614,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -1171,91 +691,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -1272,6 +707,7 @@
    "volume": 47124,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 15,
+   "altSI": 18,
    "mass_tons": 1200,
    "crew": 60,
    "alien": false,
@@ -1303,8 +739,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -1401,71 +836,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -1482,6 +852,7 @@
    "volume": 47124,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 15,
+   "altSI": 18,
    "mass_tons": 1200,
    "crew": 70,
    "alien": false,
@@ -1513,8 +884,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -1601,81 +971,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -1692,6 +987,7 @@
    "volume": 85903,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 24,
+   "altSI": 22,
    "mass_tons": 1500,
    "crew": 80,
    "alien": false,
@@ -1723,8 +1019,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -1831,61 +1126,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -1901,7 +1141,8 @@
    "width_m": 32,
    "volume": 180956,
    "thrusterMultiplier": 1,
-   "structuralIntegrity": 24,
+   "structuralIntegrity": 30,
+   "altSI": 30,
    "mass_tons": 2000,
    "crew": 100,
    "alien": false,
@@ -1933,8 +1174,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -2041,61 +1281,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -2112,6 +1297,7 @@
    "volume": 240528,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 36,
+   "altSI": 37,
    "mass_tons": 2500,
    "crew": 120,
    "alien": false,
@@ -2143,8 +1329,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -2271,41 +1456,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -2322,6 +1472,7 @@
    "volume": 264581,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 48,
+   "altSI": 45,
    "mass_tons": 3000,
    "crew": 120,
    "alien": false,
@@ -2353,8 +1504,7 @@
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.7,
-      "nobleMetals": 0.2,
-      "exotics": null
+      "nobleMetals": 0.2
    },
    "shipModuleSlots": [
       {
@@ -2486,36 +1636,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -2532,6 +1652,7 @@
    "volume": 1963,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 6,
+   "altSI": 6,
    "mass_tons": 192,
    "crew": 1,
    "alien": true,
@@ -2544,27 +1665,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienGunship",
-      ""
+      "ships/AlienGunship"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_GS",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_GS"
    ],
    "path1": [
-      "hydra_GS/",
-      ""
+      "hydra_GS/"
    ],
    "path2": [
-      "OBJ_battle_hydra_GS",
-      ""
+      "OBJ_battle_hydra_GS"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -2621,111 +1737,6 @@
          "moduleSlotType": "Propellant",
          "x": 2,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -2742,6 +1753,7 @@
    "volume": 3927,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 9,
+   "altSI": 9,
    "mass_tons": 288,
    "crew": 3,
    "alien": true,
@@ -2754,27 +1766,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienCorvette",
-      ""
+      "ships/AlienCorvette"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_CO",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_CO"
    ],
    "path1": [
-      "hydra_CO/",
-      ""
+      "hydra_CO/"
    ],
    "path2": [
-      "OBJ_battle_hydra_CO",
-      ""
+      "OBJ_battle_hydra_CO"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -2841,101 +1848,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -2952,6 +1864,7 @@
    "volume": 17671,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 12,
+   "altSI": 17,
    "mass_tons": 576,
    "crew": 10,
    "alien": true,
@@ -2964,27 +1877,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienFrigate",
-      ""
+      "ships/AlienFrigate"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_FRI",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_FRI"
    ],
    "path1": [
-      "hydra_FRI/",
-      ""
+      "hydra_FRI/"
    ],
    "path2": [
-      "OBJ_battle_hydra_FRI",
-      ""
+      "OBJ_battle_hydra_FRI"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -3066,86 +1974,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -3162,6 +1990,7 @@
    "volume": 22089,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 24,
+   "altSI": 20,
    "mass_tons": 672,
    "crew": 20,
    "alien": true,
@@ -3174,27 +2003,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienDestroyer",
-      ""
+      "ships/AlienDestroyer"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_DES",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_DES"
    ],
    "path1": [
-      "hydra_DES/",
-      ""
+      "hydra_DES/"
    ],
    "path2": [
-      "OBJ_battle_hydra_DES",
-      ""
+      "OBJ_battle_hydra_DES"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -3276,86 +2100,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -3372,6 +2116,7 @@
    "volume": 110447,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 32,
+   "altSI": 47,
    "mass_tons": 1536,
    "crew": 35,
    "alien": true,
@@ -3384,27 +2129,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienBattlecruiser",
-      ""
+      "ships/AlienBattlecruiser"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_BC",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_BC"
    ],
    "path1": [
-      "hydra_BC/",
-      ""
+      "hydra_BC/"
    ],
    "path2": [
-      "OBJ_battle_hydra_BC",
-      ""
+      "OBJ_battle_hydra_BC"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -3501,71 +2241,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -3582,6 +2257,7 @@
    "volume": 110447,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 48,
+   "altSI": 47,
    "mass_tons": 1536,
    "crew": 40,
    "alien": true,
@@ -3594,27 +2270,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienBattleship",
-      ""
+      "ships/AlienBattleship"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_BS",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_BS"
    ],
    "path1": [
-      "hydra_BS/",
-      ""
+      "hydra_BS/"
    ],
    "path2": [
-      "OBJ_battle_hydra_BS",
-      ""
+      "OBJ_battle_hydra_BS"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -3726,56 +2397,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -3792,6 +2413,7 @@
    "volume": 194386,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 64,
+   "altSI": 61,
    "mass_tons": 2016,
    "crew": 50,
    "alien": true,
@@ -3804,27 +2426,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienDreadnought",
-      ""
+      "ships/AlienDreadnought"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_DN",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_DN"
    ],
    "path1": [
-      "hydra_DN/",
-      ""
+      "hydra_DN/"
    ],
    "path2": [
-      "OBJ_battle_hydra_DN",
-      ""
+      "OBJ_battle_hydra_DN"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -3966,26 +2583,6 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -4002,6 +2599,7 @@
    "volume": 194386,
    "thrusterMultiplier": 1,
    "structuralIntegrity": 96,
+   "altSI": 81,
    "mass_tons": 2688,
    "crew": 80,
    "alien": true,
@@ -4014,27 +2612,22 @@
       0
    ],
    "modelResource": [
-      "ships/AlienAssaultCarrier",
-      ""
+      "ships/AlienAssaultCarrier"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_AC",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_AC"
    ],
    "path1": [
-      "hydra_AC/",
-      ""
+      "hydra_AC/"
    ],
    "path2": [
-      "OBJ_battle_hydra_AC",
-      ""
+      "OBJ_battle_hydra_AC"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
       "volatiles": 0.1,
       "metals": 0.6,
-      "nobleMetals": 0.3,
-      "exotics": null
+      "nobleMetals": 0.3
    },
    "shipModuleSlots": [
       {
@@ -4131,71 +2724,6 @@
          "moduleSlotType": "Propellant",
          "x": 1,
          "y": 0
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
-      },
-      {
-         "moduleSlotType": "",
-         "x": null,
-         "y": null
       }
    ]
 },
@@ -4204,7 +2732,7 @@
    "friendlyName": "Alien Mothership",
    "noseHardpoints": 4,
    "hullHardpoints": 16,
-   "internalModules": 4,
+   "internalModules": 6,
    "consTier": 3,
    "length_m": 600,
    "toylength_cm": 24.5,
@@ -4212,6 +2740,7 @@
    "volume": 1625774,
    "thrusterMultiplier": 3,
    "structuralIntegrity": 128,
+   "altSI": 233,
    "mass_tons": 7680,
    "crew": 100,
    "alien": true,
@@ -4224,20 +2753,16 @@
       0
    ],
    "modelResource": [
-      "ships/AlienMothership",
-      ""
+      "ships/AlienMothership"
    ],
    "combatUIpath": [
-      "ui_spacecombat/OBJ_battle_hydra_MS",
-      ""
+      "ui_spacecombat/OBJ_battle_hydra_MS"
    ],
    "path1": [
-      "hydra_MS/",
-      ""
+      "hydra_MS/"
    ],
    "path2": [
-      "OBJ_battle_hydra_MS",
-      ""
+      "OBJ_battle_hydra_MS"
    ],
    "requiredProjectName": "Project_AlienMasterProject",
    "weightedBuildMaterials": {
@@ -4406,6 +2931,16 @@
          "moduleSlotType": "Propellant",
          "x": 0,
          "y": 0
+      },
+      {
+         "moduleSlotType": "Utility",
+         "x": 0,
+         "y": 4
+      },
+      {
+         "moduleSlotType": "Utility",
+         "x": 0,
+         "y": 6
       }
    ]
 }

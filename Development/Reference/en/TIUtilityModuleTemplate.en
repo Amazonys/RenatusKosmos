@@ -18,6 +18,12 @@ TIUtilityModuleTemplate.displayName.AdvancedMarineAssaultUnit=Advanced Marine As
 TIUtilityModuleTemplate.description.AdvancedMarineAssaultUnit=Allows ship to launch assaults on habs. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
 TIUtilityModuleTemplate.displayName.EliteMarineAssaultUnit=Elite Marine Assault Unit
 TIUtilityModuleTemplate.description.EliteMarineAssaultUnit=Allows ship to launch assaults on habs. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
+TIUtilityModuleTemplate.displayName.Spartans=Spartans
+TIUtilityModuleTemplate.description.Spartans=Fanatic and elite Marine unit for our ships. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
+TIUtilityModuleTemplate.displayName.Rangers=Rangers
+TIUtilityModuleTemplate.description.Spartans=Veteran space Marine unit for our ships. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
+TIUtilityModuleTemplate.displayName.Immortals=Immortals
+TIUtilityModuleTemplate.description.Immortals=Our most devoted and expert space Marines. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
 TIUtilityModuleTemplate.displayName.LaserEngine=Laser Engine
 TIUtilityModuleTemplate.description.LaserEngine=Increases all laser weapon power by {0} MJ, meaning this ship's laser weapons do more damage at longer ranges. Bonus stacks with additional laser engine modules.
 TIUtilityModuleTemplate.displayName.AdvancedLaserEngine=Advanced Laser Engine

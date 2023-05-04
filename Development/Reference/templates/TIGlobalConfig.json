@@ -94,6 +94,8 @@
 		"debug_suppressSkirmishRotatePlanet" : false,
 		"debug_skirmishSpaceBodyZoomMult" : 0.667,
 		"debug_noMissionFail" : false,
+		"debug_AINeverFleesPrecombat" : false,
+		"debug_AIAlwaysFleesPrecombat": false,
 		"smoothAIMissionPlanning": true,
 		"smoothingMSPerFrame": 18,
 		"targetFrameRate": 90,

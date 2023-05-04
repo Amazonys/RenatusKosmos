@@ -3065,7 +3065,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3119,7 +3119,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3173,7 +3173,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3227,7 +3227,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3281,7 +3281,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3335,7 +3335,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3389,7 +3389,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3443,7 +3443,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3497,7 +3497,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3551,7 +3551,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3605,7 +3605,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3624,7 +3624,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 30000,
+   "researchCost": 35000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -3659,7 +3659,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3713,7 +3713,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3767,7 +3767,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3821,7 +3821,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3875,7 +3875,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3929,7 +3929,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -3983,7 +3983,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4037,7 +4037,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4056,7 +4056,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4091,7 +4091,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4145,7 +4145,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4199,7 +4199,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4253,7 +4253,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4272,7 +4272,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 30000,
+   "researchCost": 50000,
    "prereqs": [
       "GreatNations",
       "Project_GreaterIndonesia",
@@ -4307,7 +4307,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4326,7 +4326,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 15000,
+   "researchCost": 20000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4361,7 +4361,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4380,7 +4380,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 25000,
+   "researchCost": 50000,
    "prereqs": [
       "GreatNations",
       "Project_TheGreaterCaliphate",
@@ -4415,7 +4415,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4434,7 +4434,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 30000,
+   "researchCost": 50000,
    "prereqs": [
       "GreatNations",
       "Project_TheCaliphate",
@@ -4469,7 +4469,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4523,7 +4523,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4577,7 +4577,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4631,7 +4631,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4685,7 +4685,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4739,7 +4739,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4793,7 +4793,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4920,7 +4920,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 20000,
+   "researchCost": 25000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -4955,7 +4955,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -4974,7 +4974,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 30000,
+   "researchCost": 50000,
    "prereqs": [
       "GreatNations",
       "Project_EuropeAscendant",
@@ -5009,7 +5009,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5082,7 +5082,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 30000,
+   "researchCost": 40000,
    "prereqs": [
       "GreatNations",
       "Project_RestoredWarsawPact",
@@ -5117,7 +5117,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5279,7 +5279,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5298,7 +5298,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 10000,
+   "researchCost": 15000,
    "prereqs": [
       "UnityMovements",
       "",
@@ -5333,7 +5333,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5352,7 +5352,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 25000,
+   "researchCost": 40000,
    "prereqs": [
       "GreatNations",
       "",
@@ -5387,7 +5387,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5441,7 +5441,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5495,7 +5495,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5549,7 +5549,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5603,7 +5603,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5657,7 +5657,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5711,7 +5711,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5765,7 +5765,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5819,7 +5819,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5873,7 +5873,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5927,7 +5927,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -5981,7 +5981,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -6106,7 +6106,7 @@
    "dataName": "Project_AdamantaneArmor",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Armor",
    "researchCost": 10000,
    "prereqs": [
@@ -6862,7 +6862,7 @@
    "dataName": "Project_TinDropletRadiator",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Radiators",
    "researchCost": 10000,
    "prereqs": [
@@ -7115,7 +7115,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7223,7 +7223,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7277,7 +7277,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7331,7 +7331,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7348,7 +7348,7 @@
    "dataName": "Project_AdvancedProspectingSurveys",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Exploration",
    "researchCost": 1500,
    "prereqs": [
@@ -7402,7 +7402,7 @@
    "dataName": "Project_MuonSpiker",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
    "researchCost": 1500,
    "prereqs": [
@@ -7439,7 +7439,7 @@
    "factionAvailableChance": 75,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7493,7 +7493,7 @@
    "factionAvailableChance": 30,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7547,7 +7547,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7601,7 +7601,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7655,7 +7655,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7672,7 +7672,7 @@
    "dataName": "Project_MarineAssaultUnit",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Marines",
    "researchCost": 500,
    "prereqs": [
@@ -7709,7 +7709,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7726,7 +7726,7 @@
    "dataName": "Project_AdvancedMarineAssaultUnit",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Marines",
    "researchCost": 1000,
    "prereqs": [
@@ -7763,7 +7763,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7780,7 +7780,7 @@
    "dataName": "Project_EliteMarineAssaultUnit",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Marines",
    "researchCost": 2500,
    "prereqs": [
@@ -7817,7 +7817,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7871,7 +7871,7 @@
    "factionAvailableChance": 70,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7925,7 +7925,7 @@
    "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -7942,7 +7942,7 @@
    "dataName": "Project_LiquidHydrogenContainment",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
    "researchCost": 250,
    "prereqs": [
@@ -7979,7 +7979,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -8033,7 +8033,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -8087,7 +8087,7 @@
    "factionAvailableChance": 50,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -8106,7 +8106,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Missiles",
-   "researchCost": 200,
+   "researchCost": 500,
    "prereqs": [
       "Project_Warships",
       "",
@@ -8141,7 +8141,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -8195,7 +8195,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -8212,7 +8212,7 @@
    "dataName": "Project_SolarPlatformKit",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": true,
+   "AI_criticalTech": null,
    "AI_projectRole": "HabInfrastructure",
    "researchCost": 350,
    "prereqs": [
@@ -8266,7 +8266,7 @@
    "dataName": "Project_SolarOutpostKit",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": true,
+   "AI_criticalTech": null,
    "AI_projectRole": "HabInfrastructure",
    "researchCost": 350,
    "prereqs": [
@@ -9238,7 +9238,7 @@
    "dataName": "Project_BroadcastOutlet",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": true,
+   "AI_criticalTech": null,
    "AI_projectRole": "Influence",
    "researchCost": 500,
    "prereqs": [
@@ -9329,7 +9329,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 6,
+   "deltaUnlockChance": 10,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -9456,7 +9456,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
    "AI_projectRole": "HabInfrastructure",
-   "researchCost": 1000,
+   "researchCost": 2500,
    "prereqs": [
       "Project_PlatformCore",
       "NuclearFusioninSpace",
@@ -10044,6 +10044,60 @@
    "completedIllustrationPath": ""
 },
  {
+   "friendlyName": "Quarters",
+   "dataName": "Project_Quarters",
+   "techCategory": "LifeScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": null,
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 200,
+   "prereqs": [
+      "Project_PlatformCore",
+      "MissionToSpace",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "Project_OutpostCore",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 25,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
    "friendlyName": "Social Science Lab",
    "dataName": "Project_SocialScienceLab",
    "techCategory": "SocialScience",
@@ -10422,6 +10476,60 @@
    "completedIllustrationPath": ""
 },
  {
+   "friendlyName": "Administration Tower",
+   "dataName": "Project_AdministrationTower",
+   "techCategory": "SocialScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ControlPointCap",
+   "researchCost": 2000,
+   "prereqs": [
+      "Project_OrbitalCore",
+      "AdministrationAlgorithms",
+      "ExtendedSpaceSurvival",
+      "",
+      ""
+   ],
+   "altPrereq0": "Project_SettlementCore",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
    "friendlyName": "Atomsmasher",
    "dataName": "Project_Atomsmasher",
    "techCategory": "Energy",
@@ -10480,7 +10588,7 @@
    "dataName": "Project_CommunicationsHub",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": true,
+   "AI_criticalTech": null,
    "AI_projectRole": "Influence",
    "researchCost": 1000,
    "prereqs": [
@@ -10752,7 +10860,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
    "AI_projectRole": "HabInfrastructure",
-   "researchCost": 1500,
+   "researchCost": 5000,
    "prereqs": [
       "Project_OrbitalCore",
       "Project_FusionPile",
@@ -10966,7 +11074,7 @@
    "dataName": "Project_MarineCompanyBarracks",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "HabDefense",
    "researchCost": 1000,
    "prereqs": [
@@ -11128,7 +11236,7 @@
    "dataName": "Project_Nanofactory",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "HabInfrastructure",
    "researchCost": 1000,
    "prereqs": [
@@ -11290,7 +11398,7 @@
    "dataName": "Project_ResearchCampus",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Research",
    "researchCost": 1500,
    "prereqs": [
@@ -11328,6 +11436,60 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Residential Module",
+   "dataName": "Project_ResidentialModule",
+   "techCategory": "LifeScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": null,
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 1000,
+   "prereqs": [
+      "Project_OrbitalCore",
+      "Project_Quarters",
+      "ExtendedSpaceSurvival",
+      "SpaceCommerce",
+      ""
+   ],
+   "altPrereq0": "Project_SettlementCore",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 10,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -11880,11 +12042,65 @@
    "completedIllustrationPath": ""
 },
  {
+   "friendlyName": "Administration Complex",
+   "dataName": "Project_AdministrationComplex",
+   "techCategory": "SocialScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ControlPointCap",
+   "researchCost": 5000,
+   "prereqs": [
+      "Project_RingCore",
+      "Project_AdministrationTower",
+      "WhiteCollarAutomation",
+      "ArrivalGovernance",
+      ""
+   ],
+   "altPrereq0": "Project_ColonyCore",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
    "friendlyName": "Agriculture Complex",
    "dataName": "Project_AgricultureComplex",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "HabInfrastructure",
    "researchCost": 3000,
    "prereqs": [
@@ -11945,6 +12161,60 @@
       "Project_RingCore",
       "Project_LayeredDefenseArray",
       "VisibleCombatLasers",
+      "",
+      ""
+   ],
+   "altPrereq0": "Project_ColonyCore",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Civilian Complex",
+   "dataName": "Project_CivilianComplex",
+   "techCategory": "LifeScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": null,
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 3000,
+   "prereqs": [
+      "Project_RingCore",
+      "Project_ResidentialModule",
+      "InterplanetaryPolities",
       "",
       ""
    ],
@@ -12262,7 +12532,7 @@
    "dataName": "Project_Foundry",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Research",
    "researchCost": 3000,
    "prereqs": [
@@ -12318,7 +12588,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": true,
    "AI_projectRole": "HabInfrastructure",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "Project_RingCore",
       "Project_FusionReactorArray",
@@ -12424,9 +12694,9 @@
    "dataName": "Project_HeavyFusionReactorFarm",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "HabInfrastructure",
-   "researchCost": 5000,
+   "researchCost": 15000,
    "prereqs": [
       "Project_FusionReactorFarm",
       "TerawattFusionReactors",
@@ -12640,7 +12910,7 @@
    "dataName": "Project_MarineBattalionBarracks",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "HabDefense",
    "researchCost": 3000,
    "prereqs": [
@@ -12748,7 +13018,7 @@
    "dataName": "Project_MediaCenter",
    "techCategory": "SocialScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": true,
+   "AI_criticalTech": null,
    "AI_projectRole": "Influence",
    "researchCost": 3000,
    "prereqs": [
@@ -13234,7 +13504,7 @@
    "dataName": "Project_Spaceworks",
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "HabInfrastructure",
    "researchCost": 3000,
    "prereqs": [
@@ -13487,8 +13757,8 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 3,
-   "maxUnlockChance": 3,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13542,7 +13812,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13560,7 +13830,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "Propulsion",
-   "researchCost": 30000,
+   "researchCost": 50000,
    "prereqs": [
       "AntimatterPropulsion",
       "Project_AntimatterPlasmaCoreReactorII",
@@ -13596,7 +13866,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13614,7 +13884,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "Propulsion",
-   "researchCost": 30000,
+   "researchCost": 50000,
    "prereqs": [
       "AntimatterPropulsion",
       "MagneticNozzles",
@@ -13650,7 +13920,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13704,7 +13974,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13758,7 +14028,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13812,7 +14082,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13882,9 +14152,9 @@
    "dataName": "Project_DaedelusTorch",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
-   "researchCost": 45000,
+   "researchCost": 75000,
    "prereqs": [
       "Project_HelionInertialDrive",
       "Project_InertialConfinementFusionReactorV",
@@ -13920,7 +14190,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -13974,7 +14244,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14152,9 +14422,9 @@
    "dataName": "Project_ZetaBoronFusionDrive",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
-   "researchCost": 30000,
+   "researchCost": 35000,
    "prereqs": [
       "Project_ZPinchFusionReactorII",
       "ProtonBoronFusion",
@@ -14208,7 +14478,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "Propulsion",
-   "researchCost": 25000,
+   "researchCost": 50000,
    "prereqs": [
       "Project_ZPinchFusionReactorIII",
       "DeuteriumHelium3Fusion",
@@ -14244,7 +14514,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14298,7 +14568,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 3,
-   "maxUnlockChance": 3,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14352,7 +14622,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14406,7 +14676,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 3,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14460,7 +14730,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14514,7 +14784,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14568,7 +14838,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14621,8 +14891,8 @@
    "factionAvailableChance": 25,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 1,
-   "maxUnlockChance": 1,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14675,8 +14945,8 @@
    "factionAvailableChance": 100,
    "factionAlways": "`",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 1,
-   "maxUnlockChance": 5,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 30,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14730,7 +15000,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14784,7 +15054,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14802,7 +15072,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "Propulsion",
-   "researchCost": 60000,
+   "researchCost": 75000,
    "prereqs": [
       "Project_TritonPulseDrive",
       "Project_FlowStabilizedZPinchFusionReactor",
@@ -14838,7 +15108,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -14892,7 +15162,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15288,7 +15558,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "Propulsion",
-   "researchCost": 60000,
+   "researchCost": 75000,
    "prereqs": [
       "Project_SaltWaterCoreReactorII",
       "Project_NeutronFluxDrive",
@@ -15323,8 +15593,8 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 1,
-   "maxUnlockChance": 3,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15377,8 +15647,8 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 1,
-   "maxUnlockChance": 5,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15432,7 +15702,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15486,7 +15756,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15540,7 +15810,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15594,7 +15864,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15648,7 +15918,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15702,7 +15972,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 5,
+   "maxUnlockChance": 15,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -15918,7 +16188,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -16134,7 +16404,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -16150,7 +16420,7 @@
    "dataName": "Project_FissionSpinnerDrive",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
    "researchCost": 5000,
    "prereqs": [
@@ -16188,7 +16458,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -16366,7 +16636,7 @@
    "dataName": "Project_AdvancedPulsarDrive",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
    "researchCost": 8000,
    "prereqs": [
@@ -16404,7 +16674,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -17226,7 +17496,7 @@
    "completedIllustrationPath": ""
 },
  {
-   "friendlyName": "Ponderomotive VASIMR",
+   "friendlyName": "Advanced VASIMR",
    "dataName": "Project_PonderomotiveVASIMR",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
@@ -17376,7 +17646,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -17392,7 +17662,7 @@
    "dataName": "Project_GridDrive",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
    "researchCost": 2500,
    "prereqs": [
@@ -17430,7 +17700,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -17446,7 +17716,7 @@
    "dataName": "Project_IonDrive",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Propulsion",
    "researchCost": 500,
    "prereqs": [
@@ -17484,7 +17754,7 @@
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 50,
+   "maxUnlockChance": 20,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -18509,7 +18779,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18563,7 +18833,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18617,7 +18887,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18671,7 +18941,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18725,7 +18995,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18779,7 +19049,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18833,7 +19103,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18941,7 +19211,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -18995,7 +19265,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19103,7 +19373,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19157,7 +19427,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19174,7 +19444,7 @@
    "dataName": "Project_GasCoreFissionReactorI",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "PowerPlant",
    "researchCost": 1000,
    "prereqs": [
@@ -19373,7 +19643,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19427,7 +19697,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19481,7 +19751,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19535,7 +19805,7 @@
    "factionAvailableChance": 20,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19589,7 +19859,7 @@
    "factionAvailableChance": 10,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -19608,7 +19878,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "HydrogenLithium6Fusion",
       "ElectrostaticPlasmaConfinement",
@@ -19662,7 +19932,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "Project_ElectrostaticConfinementFusionReactorI",
       "",
@@ -19716,7 +19986,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "Project_ElectrostaticConfinementFusionReactorII",
       "",
@@ -19768,9 +20038,9 @@
    "dataName": "Project_ZPinchFusionReactorI",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "DeuteriumTritiumFusion",
       "ZPinchTechniques",
@@ -19824,7 +20094,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 20000,
    "prereqs": [
       "Project_ZPinchFusionReactorI",
       "",
@@ -19878,7 +20148,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 20000,
+   "researchCost": 50000,
    "prereqs": [
       "TerawattFusionReactors",
       "AppliedArtificialIntelligence",
@@ -19932,7 +20202,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "DeuteriumDeuteriumFusion",
       "MagneticPlasmaConfinementTechniques",
@@ -19986,7 +20256,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "TerawattFusionReactors",
       "Project_HybridConfinementFusionReactorI",
@@ -20040,7 +20310,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 20000,
+   "researchCost": 50000,
    "prereqs": [
       "Project_HybridConfinementFusionReactorII",
       "AppliedArtificialIntelligence",
@@ -20364,7 +20634,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 20000,
+   "researchCost": 50000,
    "prereqs": [
       "DeuteriumHelium3Fusion",
       "Project_ZPinchFusionReactorIII",
@@ -20578,7 +20848,7 @@
    "dataName": "Project_InertialConfinementFusionReactorI",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "PowerPlant",
    "researchCost": 5000,
    "prereqs": [
@@ -20634,7 +20904,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "Project_InertialConfinementFusionReactorI",
       "Supercapacitors",
@@ -20688,7 +20958,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 5000,
+   "researchCost": 15000,
    "prereqs": [
       "Project_InertialConfinementFusionReactorII",
       "DeuteriumHelium3Fusion",
@@ -20742,7 +21012,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "Project_InertialConfinementFusionReactorI",
       "Supercapacitors",
@@ -20796,7 +21066,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 20000,
+   "researchCost": 25000,
    "prereqs": [
       "Project_InertialConfinementFusionReactorIV",
       "TerawattFusionReactors",
@@ -20958,7 +21228,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 10000,
+   "researchCost": 25000,
    "prereqs": [
       "AntimatterContainment",
       "GasCoreFissionSystems",
@@ -21012,7 +21282,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 20000,
+   "researchCost": 50000,
    "prereqs": [
       "AntimatterMassProduction",
       "MagneticPlasmaConfinementTechniques",
@@ -21066,7 +21336,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": null,
    "AI_projectRole": "PowerPlant",
-   "researchCost": 30000,
+   "researchCost": 75000,
    "prereqs": [
       "AntimatterMassProduction",
       "Diamondoids",
@@ -21336,7 +21606,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Missiles",
-   "researchCost": 1200,
+   "researchCost": 1500,
    "prereqs": [
       "AdvancedMissileWarfareDoctrine",
       "Project_Liquid-FuelRockets",
@@ -21390,7 +21660,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Missiles",
-   "researchCost": 1200,
+   "researchCost": 1500,
    "prereqs": [
       "AdvancedMissileWarfareDoctrine",
       "Project_Liquid-FuelRockets",
@@ -21444,7 +21714,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Missiles",
-   "researchCost": 1200,
+   "researchCost": 1500,
    "prereqs": [
       "AdvancedMissileWarfareDoctrine",
       "Project_CryogenicLiquid-FuelRockets",
@@ -22360,7 +22630,7 @@
    "dataName": "Project_LithiumHeatSink",
    "techCategory": "Materials",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "HeatSinks",
    "researchCost": 2500,
    "prereqs": [
@@ -22524,7 +22794,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "PlasmaWeapons",
       "Project_PatrolVessels",
@@ -22578,7 +22848,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "PlasmaWeapons",
       "Project_FleetCombatants",
@@ -22632,7 +22902,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "PlasmaWeapons",
       "Project_FleetCombatants",
@@ -22686,7 +22956,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 5000,
+   "researchCost": 10000,
    "prereqs": [
       "PlasmaWeapons",
       "Project_ShipsoftheLine",
@@ -22740,7 +23010,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "Project_PlasmaBatteryMk1",
       "Project_Exotics",
@@ -22794,7 +23064,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "Project_HeavyPlasmaBatteryMk1",
       "Project_Exotics",
@@ -22848,7 +23118,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "Project_PlasmaCannonMk1",
       "Project_Exotics",
@@ -22902,7 +23172,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "Project_HeavyPlasmaCannonMk1",
       "Project_Exotics",
@@ -22956,7 +23226,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 20000,
+   "researchCost": 30000,
    "prereqs": [
       "Project_PlasmaBatteryMk2",
       "Project_ExoticHybridSystems",
@@ -23010,7 +23280,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 20000,
+   "researchCost": 30000,
    "prereqs": [
       "Project_HeavyPlasmaBatteryMk2",
       "Project_ExoticHybridSystems",
@@ -23064,7 +23334,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 20000,
+   "researchCost": 30000,
    "prereqs": [
       "Project_PlasmaCannonMk2",
       "Project_ExoticHybridSystems",
@@ -23118,7 +23388,7 @@
    "AI_techRole": "SpaceWar",
    "AI_criticalTech": null,
    "AI_projectRole": "Kinetics",
-   "researchCost": 20000,
+   "researchCost": 30000,
    "prereqs": [
       "Project_HeavyPlasmaCannonMk2",
       "Project_ExoticHybridSystems",
@@ -23710,7 +23980,7 @@
    "dataName": "Project_LightRailgunBatteryMk1",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 1000,
    "prereqs": [
@@ -23872,7 +24142,7 @@
    "dataName": "Project_RailCannonMk1",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 1200,
    "prereqs": [
@@ -23980,7 +24250,7 @@
    "dataName": "Project_LightRailgunBatteryMk2",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 2000,
    "prereqs": [
@@ -24142,7 +24412,7 @@
    "dataName": "Project_RailCannonMk2",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 2500,
    "prereqs": [
@@ -24250,7 +24520,7 @@
    "dataName": "Project_LightRailgunBatteryMk3",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 3000,
    "prereqs": [
@@ -24412,7 +24682,7 @@
    "dataName": "Project_RailCannonMk3",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 3500,
    "prereqs": [
@@ -24520,7 +24790,7 @@
    "dataName": "Project_LightCoilgunBatteryMk1",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 3000,
    "prereqs": [
@@ -24682,7 +24952,7 @@
    "dataName": "Project_CoilCannonMk1",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 3500,
    "prereqs": [
@@ -24790,7 +25060,7 @@
    "dataName": "Project_LightCoilgunBatteryMk2",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 4000,
    "prereqs": [
@@ -24952,7 +25222,7 @@
    "dataName": "Project_CoilCannonMk2",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 4500,
    "prereqs": [
@@ -25060,7 +25330,7 @@
    "dataName": "Project_LightCoilgunBatteryMk3",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 5000,
    "prereqs": [
@@ -25222,7 +25492,7 @@
    "dataName": "Project_CoilCannonMk3",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 5500,
    "prereqs": [
@@ -25330,7 +25600,7 @@
    "dataName": "Project_LightRailCannonMk1",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 1200,
    "prereqs": [
@@ -25384,7 +25654,7 @@
    "dataName": "Project_LightRailCannonMk2",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 1800,
    "prereqs": [
@@ -25438,7 +25708,7 @@
    "dataName": "Project_LightRailCannonMk3",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 2400,
    "prereqs": [
@@ -25492,7 +25762,7 @@
    "dataName": "Project_LightCoilCannonMk1",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 2500,
    "prereqs": [
@@ -25546,7 +25816,7 @@
    "dataName": "Project_LightCoilCannonMk2",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 3500,
    "prereqs": [
@@ -25600,7 +25870,7 @@
    "dataName": "Project_LightCoilCannonMk3",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Kinetics",
    "researchCost": 4500,
    "prereqs": [
@@ -25654,7 +25924,7 @@
    "dataName": "Project_PointDefenseLaserTurret",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 250,
    "prereqs": [
@@ -25708,7 +25978,7 @@
    "dataName": "Project_60cmIRLaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 500,
    "prereqs": [
@@ -25762,7 +26032,7 @@
    "dataName": "Project_120cmIRLaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 600,
    "prereqs": [
@@ -25870,7 +26140,7 @@
    "dataName": "Project_240cmIRLaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 400,
    "prereqs": [
@@ -25924,7 +26194,7 @@
    "dataName": "Project_480cmIRLaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 600,
    "prereqs": [
@@ -25978,7 +26248,7 @@
    "dataName": "Project_720cmIRLaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 800,
    "prereqs": [
@@ -27328,7 +27598,7 @@
    "dataName": "Project_60cmGreenArcLaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 7500,
    "prereqs": [
@@ -27382,7 +27652,7 @@
    "dataName": "Project_120cmGreenArcLaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 9000,
    "prereqs": [
@@ -27436,7 +27706,7 @@
    "dataName": "Project_360cmGreenArcLaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 10500,
    "prereqs": [
@@ -27490,7 +27760,7 @@
    "dataName": "Project_240cmGreenArcLaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 7500,
    "prereqs": [
@@ -27544,7 +27814,7 @@
    "dataName": "Project_480cmGreenArcLaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 9000,
    "prereqs": [
@@ -27598,7 +27868,7 @@
    "dataName": "Project_720cmGreenArcLaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 10500,
    "prereqs": [
@@ -28840,7 +29110,7 @@
    "dataName": "Project_60cmUVPhaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 22500,
    "prereqs": [
@@ -28894,7 +29164,7 @@
    "dataName": "Project_120cmUVPhaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 33750,
    "prereqs": [
@@ -28948,7 +29218,7 @@
    "dataName": "Project_360cmUVPhaserBattery",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 45000,
    "prereqs": [
@@ -29002,7 +29272,7 @@
    "dataName": "Project_240cmUVPhaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 22500,
    "prereqs": [
@@ -29056,7 +29326,7 @@
    "dataName": "Project_480cmUVPhaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 33750,
    "prereqs": [
@@ -29110,7 +29380,7 @@
    "dataName": "Project_720cmUVPhaserCannon",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "EnergyWeapons",
    "researchCost": 45000,
    "prereqs": [
@@ -29273,7 +29543,7 @@
    "techCategory": "InformationScience",
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
-   "AI_projectRole": "",
+   "AI_projectRole": "PoliticalMissions",
    "researchCost": 1000,
    "prereqs": [
       "PhotonicComputing",
@@ -29326,7 +29596,7 @@
    "dataName": "Project_SpaceTugs",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Exploration",
    "researchCost": 750,
    "prereqs": [
@@ -29380,7 +29650,7 @@
    "dataName": "Project_SolarSteamers",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Exploration",
    "researchCost": 1000,
    "prereqs": [
@@ -29434,7 +29704,7 @@
    "dataName": "Project_NuclearFreighters",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Exploration",
    "researchCost": 2000,
    "prereqs": [
@@ -29451,7 +29721,7 @@
    "effects": [
       "Effect_NuclearFreighters",
       "Effect_NuclearRockets",
-      ""
+      "Effect_HabNuclearFreighters"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -29488,7 +29758,7 @@
    "dataName": "Project_HighThrustProbes",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Exploration",
    "researchCost": 600,
    "prereqs": [
@@ -30676,7 +30946,7 @@
    "dataName": "Project_MaximumEffort",
    "techCategory": "SocialScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Councilors",
    "researchCost": 2000,
    "prereqs": [
@@ -30730,12 +31000,66 @@
    "dataName": "Project_DirectedFocus",
    "techCategory": "InformationScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Councilors",
-   "researchCost": 2500,
+   "researchCost": 3000,
    "prereqs": [
       "WhiteCollarAutomation",
       "AdAstra",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "Effect_IncreaseMaxMissionSliderSteps",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 60,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Induced Inflection Points",
+   "dataName": "Project_InducedInflectionPoints",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": true,
+   "AI_projectRole": "Councilors",
+   "researchCost": 5000,
+   "prereqs": [
+      "Accelerando",
+      "",
       "",
       "",
       ""
@@ -30784,7 +31108,7 @@
    "dataName": "Project_RapidShipbuilding",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": null,
+   "AI_criticalTech": true,
    "AI_projectRole": "Fleet",
    "researchCost": 1500,
    "prereqs": [
@@ -30818,7 +31142,7 @@
       "",
       ""
    ],
-   "factionAvailableChance": 20,
+   "factionAvailableChance": 80,
    "factionAlways": "",
    "initialUnlockChance": 0,
    "deltaUnlockChance": 10,
@@ -31200,7 +31524,7 @@
    "factionAlways": "",
    "initialUnlockChance": 25,
    "deltaUnlockChance": 10,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 25,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -31254,7 +31578,7 @@
    "factionAlways": "",
    "initialUnlockChance": 25,
    "deltaUnlockChance": 10,
-   "maxUnlockChance": 10,
+   "maxUnlockChance": 25,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -32117,7 +32441,7 @@
    "factionAvailableChance": 40,
    "factionAlways": "EscapeCouncil",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -32171,7 +32495,7 @@
    "factionAvailableChance": 40,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -36265,11 +36589,11 @@
       ""
    ],
    "factionPrereq": [
-      "",
-      "",
-      "",
-      "",
-      "",
+      "DestroyCouncil",
+      "ResistCouncil",
+      "ExploitCouncil",
+      "CooperateCouncil",
+      "EscapeCouncil",
       ""
    ],
    "factionAvailableChance": 100,
@@ -37517,7 +37841,7 @@
    "factionAvailableChance": 90,
    "factionAlways": "DestroyCouncil",
    "initialUnlockChance": 20,
-   "deltaUnlockChance": 0,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
@@ -37572,7 +37896,7 @@
    "factionAlways": "",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -37626,7 +37950,7 @@
    "factionAlways": "",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -37644,7 +37968,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Xenology",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "AdministrationAlgorithms",
       "Project_MegafaunaNecropsy",
@@ -37680,7 +38004,7 @@
    "factionAlways": "CooperateCouncil",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -37698,7 +38022,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Xenology",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "WhiteCollarAutomation",
       "Project_HydraInterrogation",
@@ -37734,7 +38058,7 @@
    "factionAlways": "",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -37752,7 +38076,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Xenology",
-   "researchCost": 15000,
+   "researchCost": 20000,
    "prereqs": [
       "NetworkedGlobalDefense",
       "Project_SalamanderInterrogation",
@@ -37788,7 +38112,7 @@
    "factionAlways": "DestroyCouncil",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -37806,7 +38130,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Xenology",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "WhiteCollarAutomation",
       "Project_Pherocytes",
@@ -37842,7 +38166,7 @@
    "factionAlways": "",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -37860,7 +38184,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Xenology",
-   "researchCost": 10000,
+   "researchCost": 15000,
    "prereqs": [
       "MindandMachine",
       "Project_HydraInterrogation",
@@ -37896,7 +38220,7 @@
    "factionAlways": "ResistCouncil",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -37914,7 +38238,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Xenology",
-   "researchCost": 10000,
+   "researchCost": 30000,
    "prereqs": [
       "ArrivalCulture",
       "Cybernetics",
@@ -37950,7 +38274,7 @@
    "factionAlways": "ExploitCouncil",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -38004,7 +38328,7 @@
    "factionAlways": "",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -38058,7 +38382,7 @@
    "factionAlways": "",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -38076,7 +38400,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "Xenology",
-   "researchCost": 10000,
+   "researchCost": 15000,
    "prereqs": [
       "ArrivalSecurity",
       "Project_PherocyteScanners",
@@ -38112,7 +38436,7 @@
    "factionAlways": "DestroyCouncil",
    "initialUnlockChance": 20,
    "deltaUnlockChance": 5,
-   "maxUnlockChance": 70,
+   "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -38165,8 +38489,8 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
-   "maxUnlockChance": 50,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 10,
    "orgGranted": "",
    "resourcesGranted": [
       {
@@ -38273,7 +38597,7 @@
    "factionAvailableChance": 100,
    "factionAlways": "",
    "initialUnlockChance": 0,
-   "deltaUnlockChance": 2,
+   "deltaUnlockChance": 5,
    "maxUnlockChance": 50,
    "orgGranted": "",
    "resourcesGranted": [
@@ -38491,6 +38815,168 @@
    "initialUnlockChance": 5,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 80,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Spartans",
+   "dataName": "Project_Spartans",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Marines",
+   "researchCost": 10000,
+   "prereqs": [
+      "Project_EliteMarineAssaultUnit",
+      "Project_DestroyVictory",
+      "Project_CadreDevelopmentPrograms",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "DestroyCouncil",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 20,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Rangers",
+   "dataName": "Project_Rangers",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Marines",
+   "researchCost": 10000,
+   "prereqs": [
+      "Project_EliteMarineAssaultUnit",
+      "Project_ResistVictory",
+      "Project_GuerrillaWarfare",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "ResistCouncil",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 20,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Immortals",
+   "dataName": "Project_Immortals",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": null,
+   "AI_projectRole": "Marines",
+   "researchCost": 10000,
+   "prereqs": [
+      "Project_EliteMarineAssaultUnit",
+      "Project_SubmitVictory",
+      "Project_LoyaltyTraining",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "requiresNation": "",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "SubmitCouncil",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 20,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
    "orgGranted": "",
    "resourcesGranted": [
       {

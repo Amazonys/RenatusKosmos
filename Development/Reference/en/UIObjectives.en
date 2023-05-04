@@ -13,6 +13,9 @@ UI.Objectives.Summary=We have completed the {0} objective.
 UI.Objectives.VictoryConditions1=To launch the councilor mission to win the game, we must first fulfill the following goal to ensure our victory:
 UI.Objectives.VictoryConditionsMult=To launch the councilor mission to win the game, we must first fulfill the following goals to ensure our victory:
 
+UI.Objectives.TechProjectPrereqs=We need to complete these prerequisite techs and projects to be able to complete the research needed to fulfill this objective:
+UI.Objectives.TechProjectPrereq_or=<sp>or {0}
+
 UI.Objectives.HelpPanel=Help Panel
 UI.Objectives.TipConfirm=Next Tip
 UI.Objectives.TipBack=Previous Tip

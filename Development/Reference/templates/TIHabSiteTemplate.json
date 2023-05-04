@@ -21,7 +21,7 @@
    "longitude": 212.19,
    "miningProfileName": "MercuryPolarMine",
    "backgroundPath": "habmodules/surface_05",
-   "fabricatedData": "50"
+   "fabricatedData": "51"
  },
  {
    "friendlyName": "Tung Yuan Crater",
@@ -33,7 +33,7 @@
    "longitude": 297.17,
    "miningProfileName": "MercuryPolarMine",
    "backgroundPath": "habmodules/surface_05",
-   "fabricatedData": "46"
+   "fabricatedData": "56"
  },
  {
    "friendlyName": "Prokofiev Crater",
@@ -45,7 +45,7 @@
    "longitude": 62.92,
    "miningProfileName": "MercuryPolarMine",
    "backgroundPath": "habmodules/surface_05",
-   "fabricatedData": "32"
+   "fabricatedData": "36"
  },
  {
    "friendlyName": "Adventure Rupes",
@@ -69,7 +69,7 @@
    "longitude": 89.85,
    "miningProfileName": "MercuryPolarMine",
    "backgroundPath": "habmodules/surface_05",
-   "fabricatedData": "51"
+   "fabricatedData": "55"
  },
  {
    "friendlyName": "Alver Crater",
@@ -105,7 +105,7 @@
    "longitude": -15.6,
    "miningProfileName": "LunarMine",
    "backgroundPath": "habmodules/surface_09",
-   "fabricatedData": "14"
+   "fabricatedData": "15"
  },
  {
    "friendlyName": "Peary Crater",
@@ -117,7 +117,7 @@
    "longitude": 24.4,
    "miningProfileName": "LunarNorthPolarMine",
    "backgroundPath": "habmodules/surface_09",
-   "fabricatedData": "16"
+   "fabricatedData": "18"
  },
  {
    "friendlyName": "D'Alembert Crater",
@@ -129,7 +129,7 @@
    "longitude": 163.9,
    "miningProfileName": "LunarMine",
    "backgroundPath": "habmodules/surface_09",
-   "fabricatedData": "15"
+   "fabricatedData": "16"
  },
  {
    "friendlyName": "Copernicus Crater",
@@ -165,7 +165,7 @@
    "longitude": -157.4,
    "miningProfileName": "LunarMine",
    "backgroundPath": "habmodules/surface_09",
-   "fabricatedData": "1"
+   "fabricatedData": "2"
  },
  {
    "friendlyName": "Tycho Crater",
@@ -201,7 +201,7 @@
    "longitude": 129.1,
    "miningProfileName": "LunarMine",
    "backgroundPath": "habmodules/surface_09",
-   "fabricatedData": "48"
+   "fabricatedData": "49"
  },
  {
    "friendlyName": "Arcadia Planitia",
@@ -213,7 +213,7 @@
    "longitude": 184.3,
    "miningProfileName": "MartianNorthPolarMine",
    "backgroundPath": "habmodules/surface_mars",
-   "fabricatedData": "24"
+   "fabricatedData": "26"
  },
  {
    "friendlyName": "Tempe Terra",
@@ -2436,6 +2436,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Makran Sulci",
+   "dataName": "EnceladusSite10",
+   "parentBodyName": "Enceladus",
+   "X": 1,
+   "Y": 0,
+   "latitude": -54.4,
+   "longitude": 135.8,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_14",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "Telesto site",
    "dataName": "TelestoSite00",
    "parentBodyName": "Telesto",
@@ -2535,6 +2547,18 @@
    "friendlyName": "Albiorix site",
    "dataName": "AlbiorixSite00",
    "parentBodyName": "Albiorix",
+   "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "WetCarbonaceusMine",
+   "backgroundPath": "habmodules/surface_04",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Erriapus site",
+   "dataName": "ErriapusSite00",
+   "parentBodyName": "Erriapus",
    "X": 0,
    "Y": 0,
    "latitude": null,
@@ -3018,10 +3042,22 @@
    "X": 0,
    "Y": 0,
    "latitude": -45,
-   "longitude": 45,
+   "longitude": -45,
    "miningProfileName": "DryCarbonaceousMine",
    "backgroundPath": "habmodules/surface_18",
-   "fabricatedData": ""
+   "fabricatedData": "latitude and longitude"
+ },
+ {
+   "friendlyName": "Falcata Crater",
+   "dataName": "2PallasSite10",
+   "parentBodyName": "2Pallas",
+   "X": 1,
+   "Y": 0,
+   "latitude": 120,
+   "longitude": 30,
+   "miningProfileName": "DryCarbonaceousMine",
+   "backgroundPath": "habmodules/surface_18",
+   "fabricatedData": "latitude and longitude"
  },
  {
    "friendlyName": "3 Juno site",
@@ -3043,6 +3079,18 @@
    "Y": 0,
    "latitude": 16.72,
    "longitude": 349.1,
+   "miningProfileName": "VestoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Feralia Planitia",
+   "dataName": "4VestaSite10",
+   "parentBodyName": "4Vesta",
+   "X": 1,
+   "Y": 0,
+   "latitude": 3,
+   "longitude": 101,
    "miningProfileName": "VestoidMine",
    "backgroundPath": "habmodules/surface_03",
    "fabricatedData": ""
@@ -3108,7 +3156,7 @@
    "fabricatedData": ""
  },
  {
-   "friendlyName": "10 Hygiea site",
+   "friendlyName": "Calix Crater",
    "dataName": "10HygieaSite00",
    "parentBodyName": "10Hygiea",
    "X": 0,
@@ -3151,7 +3199,7 @@
    "Y": 0,
    "latitude": null,
    "longitude": null,
-   "miningProfileName": "CarbonaceousMine",
+   "miningProfileName": "WetCarbonaceusMine",
    "backgroundPath": "habmodules/surface_16",
    "fabricatedData": ""
  },
@@ -3840,6 +3888,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "97 Klotho site",
+   "dataName": "97KlothoSite00",
+   "parentBodyName": "97Klotho",
+   "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "MixedCMMine",
+   "backgroundPath": "habmodules/surface_02",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "104 Klymene site",
    "dataName": "104KlymeneSite00",
    "parentBodyName": "104Klymene",
@@ -4260,6 +4320,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "250 Bettina Site",
+   "dataName": "250BettinaSite00",
+   "parentBodyName": "250Bettina",
+   "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "MetallicMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "Karoo Crater",
    "dataName": "253MathildeSite00",
    "parentBodyName": "253Mathilde",
@@ -4365,6 +4437,18 @@
    "longitude": null,
    "miningProfileName": "CarbonaceousMine",
    "backgroundPath": "habmodules/surface_05",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "336 Lacadiera Site",
+   "dataName": "336LacadieraSite00",
+   "parentBodyName": "336Lacadiera",
+   "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "WetCarbonaceusMine",
+   "backgroundPath": "habmodules/surface_04",
    "fabricatedData": ""
  },
  {
@@ -4992,6 +5076,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "3317 Paris Site",
+   "dataName": "3317ParisSite00",
+   "parentBodyName": "3317Paris",
+   "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "DryCarbonaceousMine",
+   "backgroundPath": "habmodules/surface_17",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "3353 Jarvis Site",
    "dataName": "3353JarvisSite00",
    "parentBodyName": "3353Jarvis",
@@ -5001,6 +5097,18 @@
    "longitude": null,
    "miningProfileName": "CarbonaceousMine",
    "backgroundPath": "habmodules/surface_05",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "3451 Mentor Site",
+   "dataName": "3451MentorSite00",
+   "parentBodyName": "3451Mentor",
+   "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "WetCarbonaceusMine",
+   "backgroundPath": "habmodules/surface_18",
    "fabricatedData": ""
  },
  {
@@ -5132,7 +5240,19 @@
    "latitude": null,
    "longitude": null,
    "miningProfileName": "VolatileRichPlanetoidMine",
-   "backgroundPath": "habmodules/surface_03",
+   "backgroundPath": "habmodules/surface_04",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Chaos site",
+   "dataName": "ChaosSite10",
+   "parentBodyName": "Chaos",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_04",
    "fabricatedData": ""
  },
  {
@@ -5148,10 +5268,34 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Varuna site",
+   "dataName": "VarunaSite10",
+   "parentBodyName": "Varuna",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "Ixion site",
    "dataName": "IxionSite00",
    "parentBodyName": "Ixion",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Ixion site",
+   "dataName": "IxionSite10",
+   "parentBodyName": "Ixion",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -5292,6 +5436,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Jasagnan site 1",
+   "dataName": "JasagnanSite10",
+   "parentBodyName": "Jasagnan",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "55576 Amycus site",
    "dataName": "55576AmycusSite00",
    "parentBodyName": "55576Amycus",
@@ -5308,6 +5464,18 @@
    "dataName": "RanginuiSite00",
    "parentBodyName": "Ranginui",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Ranginui site",
+   "dataName": "RanginuiSite10",
+   "parentBodyName": "Ranginui",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -5352,6 +5520,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Chimera site 1",
+   "dataName": "ChimeraSite10",
+   "parentBodyName": "Chimera",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "IcyPlanetoidMine",
+   "backgroundPath": "habmodules/surface_06",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "83982 Crantor site",
    "dataName": "83982CrantorSite00",
    "parentBodyName": "83982Crantor",
@@ -5388,6 +5568,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Veles site",
+   "dataName": "VelesSite10",
+   "parentBodyName": "Veles",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "Vanth site",
    "dataName": "VanthSite00",
    "parentBodyName": "Vanth",
@@ -5404,6 +5596,18 @@
    "dataName": "AmmaSite00",
    "parentBodyName": "Amma",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "RockyPlanetoidMine",
+   "backgroundPath": "habmodules/surface_10",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Amma site",
+   "dataName": "AmmaSite10",
+   "parentBodyName": "Amma",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -5464,6 +5668,18 @@
    "dataName": "XolasSite00",
    "parentBodyName": "Xolas",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "IcyPlanetoidMine",
+   "backgroundPath": "habmodules/surface_06",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Xolas site",
+   "dataName": "XolasSite10",
+   "parentBodyName": "Xolas",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -5580,6 +5796,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Kamuy site",
+   "dataName": "KamuySite10",
+   "parentBodyName": "Kamuy",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_11",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "145453 Viracocha site",
    "dataName": "145453ViracochaSite00",
    "parentBodyName": "145453Viracocha",
@@ -5596,6 +5824,18 @@
    "dataName": "VardaSite00",
    "parentBodyName": "Varda",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Varda site 1",
+   "dataName": "VardaSite10",
+   "parentBodyName": "Varda",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -5796,6 +6036,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Luison site",
+   "dataName": "LuisonSite10",
+   "parentBodyName": "Luison",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "RockyPlanetoidMine",
+   "backgroundPath": "habmodules/surface_10",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "Coatlicue site",
    "dataName": "CoatlicueSite00",
    "parentBodyName": "Coatlicue",
@@ -5824,6 +6076,18 @@
    "dataName": "VolturnusSite00",
    "parentBodyName": "Volturnus",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "IcyPlanetoidMine",
+   "backgroundPath": "habmodules/surface_06",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Volturnus site",
+   "dataName": "VolturnusSite10",
+   "parentBodyName": "Volturnus",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -5880,6 +6144,18 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Whiro site",
+   "dataName": "WhiroSite10",
+   "parentBodyName": "Whiro",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "QR322 Penthesilea site",
    "dataName": "QR322PenthesileaSite00",
    "parentBodyName": "QR322Penthesilea",
@@ -5896,6 +6172,18 @@
    "dataName": "ArawnSite00",
    "parentBodyName": "Arawn",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Arawn site",
+   "dataName": "ArawnSite10",
+   "parentBodyName": "Arawn",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -5944,6 +6232,18 @@
    "dataName": "IzanagiSite00",
    "parentBodyName": "Izanagi",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "VolatileRichPlanetoidMine",
+   "backgroundPath": "habmodules/surface_03",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Izanagi site",
+   "dataName": "IzanagiSite10",
+   "parentBodyName": "Izanagi",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,
@@ -6012,10 +6312,34 @@
    "fabricatedData": ""
  },
  {
+   "friendlyName": "Mbombo site",
+   "dataName": "MbomboSite10",
+   "parentBodyName": "Mbombo",
+   "X": 1,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "IcyPlanetoidMine",
+   "backgroundPath": "habmodules/surface_06",
+   "fabricatedData": ""
+ },
+ {
    "friendlyName": "Meng Po site",
    "dataName": "MengPoSite00",
    "parentBodyName": "MengPo",
    "X": 0,
+   "Y": 0,
+   "latitude": null,
+   "longitude": null,
+   "miningProfileName": "IcyPlanetoidMine",
+   "backgroundPath": "habmodules/surface_09",
+   "fabricatedData": ""
+ },
+ {
+   "friendlyName": "Meng Po site",
+   "dataName": "MengPoSite10",
+   "parentBodyName": "MengPo",
+   "X": 1,
    "Y": 0,
    "latitude": null,
    "longitude": null,

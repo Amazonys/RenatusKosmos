@@ -11,7 +11,7 @@
         "dataName": "ArmyMapGroup",
         "mapGroupLabel": "Army",
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.ArmyMarkerController",
-        "groupScale": 0.002,
+        "groupScale": 0.00175,
 		"highPriorityScaleAppearanceThreshold": 0.25,
 		"lowPriorityScaleAppearanceThreshold": 0.25
 	},
@@ -43,7 +43,7 @@
 		"dataName": "SeaMapGroup",
 		"mapGroupLabel": "Sea",
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.SeaMarkerController",
-        "groupScale": 0.002,
+        "groupScale": 0.00175,
 		"highPriorityScaleAppearanceThreshold": 0.25,
 		"lowPriorityScaleAppearanceThreshold": 0.25
 	}

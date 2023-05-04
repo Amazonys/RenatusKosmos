@@ -4336,7 +4336,7 @@
       ""
    ],
    "assignedIllustrationResource": "",
-   "completedIllustrationResource": "",
+   "completedIllustrationResource": "illustrations/Objective_ResearchAppeaseVictory",
    "completedVoicePathAppease": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Appease_18",
    "completedVoicePathCooperate": "",
    "completedVoicePathDestroy": "",
@@ -4389,7 +4389,7 @@
       ""
    ],
    "assignedIllustrationResource": "",
-   "completedIllustrationResource": "",
+   "completedIllustrationResource": "illustrations/Objective_ResearchCooperateVictory",
    "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Cooperate_10",
    "completedVoicePathDestroy": "",
@@ -4442,7 +4442,7 @@
       ""
    ],
    "assignedIllustrationResource": "",
-   "completedIllustrationResource": "",
+   "completedIllustrationResource": "illustrations/Objective_ResearchDestroyVictory",
    "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "",
    "completedVoicePathDestroy": "event:/VO/ENG/Faction/Faction_ObjectiveQuote_Destroy_27",
@@ -4495,7 +4495,7 @@
       ""
    ],
    "assignedIllustrationResource": "",
-   "completedIllustrationResource": "",
+   "completedIllustrationResource": "illustrations/Objective_ResearchEscapeVictory",
    "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "",
    "completedVoicePathDestroy": "",
@@ -4548,7 +4548,7 @@
       ""
    ],
    "assignedIllustrationResource": "",
-   "completedIllustrationResource": "",
+   "completedIllustrationResource": "illustrations/Objective_ResearchExploitVictory",
    "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "",
    "completedVoicePathDestroy": "",
@@ -4601,7 +4601,7 @@
       ""
    ],
    "assignedIllustrationResource": "",
-   "completedIllustrationResource": "",
+   "completedIllustrationResource": "illustrations/Objective_ResearchResistVictory",
    "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "",
    "completedVoicePathDestroy": "",
@@ -4654,7 +4654,7 @@
       ""
    ],
    "assignedIllustrationResource": "",
-   "completedIllustrationResource": "",
+   "completedIllustrationResource": "illustrations/Objective_ResearchSubmitVictory",
    "completedVoicePathAppease": "",
    "completedVoicePathCooperate": "",
    "completedVoicePathDestroy": "",

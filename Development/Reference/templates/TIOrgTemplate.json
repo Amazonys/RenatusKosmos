@@ -1,3 +1,4 @@
+
 [
  {
    "dataName": "CentralIntelligenceAgency",
@@ -120,6 +121,7 @@
       "Coup",
       "Purge"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/CIA"
 },
@@ -244,6 +246,7 @@
       "Detain",
       "Crackdown"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/FBI"
 },
@@ -368,6 +371,7 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/USSS"
 },
@@ -492,6 +496,7 @@
       "Detain",
       "Crackdown"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/DGSE"
 },
@@ -616,6 +621,7 @@
       "Detain",
       "Crackdown"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/MI5"
 },
@@ -740,6 +746,7 @@
       "Stabilize",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/MI6"
 },
@@ -864,6 +871,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/UKSAS"
 },
@@ -988,6 +996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/GCHQ"
 },
@@ -1112,6 +1121,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Bundesnachrichtendienst"
 },
@@ -1236,6 +1246,7 @@
       "Protect",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/GSG9"
 },
@@ -1360,6 +1371,7 @@
       "SabotageProject",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/NSA"
 },
@@ -1484,6 +1496,7 @@
       "Detain",
       "Crackdown"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/FSS"
 },
@@ -1608,6 +1621,7 @@
       "Propaganda",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/FIS"
 },
@@ -1732,6 +1746,7 @@
       "Coup",
       "Purge"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/MID"
 },
@@ -1856,6 +1871,7 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/FPS"
 },
@@ -1980,6 +1996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/NRO"
 },
@@ -2104,6 +2121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/NGIA"
 },
@@ -2228,6 +2246,7 @@
       "DetectCouncilActivity",
       "Crackdown"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/MinistryofStateSecurity"
 },
@@ -2352,6 +2371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/lanl"
 },
@@ -2476,6 +2496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/LLNL"
 },
@@ -2600,6 +2621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SandiaNationalLaboratories"
 },
@@ -2724,6 +2746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/BrookhavenNationalLaboratory"
 },
@@ -2848,6 +2871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/CERN"
 },
@@ -2972,6 +2996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AirForceResearchLaboratory"
 },
@@ -3096,6 +3121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AFSOC"
 },
@@ -3220,6 +3246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/VOA"
 },
@@ -3344,6 +3371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/USIA"
 },
@@ -3468,6 +3496,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/1SFG"
 },
@@ -3592,6 +3621,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/3SFG"
 },
@@ -3716,6 +3746,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/5SFG"
 },
@@ -3840,6 +3871,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/7SFG"
 },
@@ -3964,6 +3996,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/10SFG"
 },
@@ -4088,6 +4121,7 @@
       "Detain",
       "AssaultAlienAsset"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/DeltaForce"
 },
@@ -4212,6 +4246,7 @@
       "Detain",
       "AssaultAlienAsset"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/SealTeam6"
 },
@@ -4336,6 +4371,7 @@
       "Coup",
       "Crackdown"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/Mossad"
 },
@@ -4460,6 +4496,7 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/IndianResearchAnalysisWing"
 },
@@ -4584,6 +4621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Koanchosacho"
 },
@@ -4708,6 +4746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/PakistanInter-ServicesIntelligence"
 },
@@ -4832,6 +4871,7 @@
       "Extract",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/ASIS"
 },
@@ -4956,6 +4996,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AustralianSAS"
 },
@@ -5080,6 +5121,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SaudiIntelligence"
 },
@@ -5204,6 +5246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/EgyptianIntelligence"
 },
@@ -5328,6 +5371,7 @@
       "Unrest",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/TurkishIntelligence"
 },
@@ -5452,6 +5496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/CSIS"
 },
@@ -5576,6 +5621,7 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/NationalIntelligenceService"
 },
@@ -5700,6 +5746,7 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/ROCNSB"
 },
@@ -5824,6 +5871,7 @@
       "Crackdown",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Interpol"
 },
@@ -5948,6 +5996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Carabinieri"
 },
@@ -6072,6 +6121,7 @@
       "SabotageFacilities",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/alQaida"
 },
@@ -6196,6 +6246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/JemaahIslamiyah"
 },
@@ -6320,6 +6371,7 @@
       "SabotageFacilities",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/isil"
 },
@@ -6444,6 +6496,7 @@
       "SabotageFacilities",
       "AssaultAlienAsset"
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/Hezbollah"
 },
@@ -6568,6 +6621,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/QudsForce"
 },
@@ -6692,6 +6746,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/CosaNostra"
 },
@@ -6816,6 +6871,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/Nedrangheta"
 },
@@ -6940,6 +6996,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/Camorra"
 },
@@ -7064,6 +7121,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/AmericanMafia"
 },
@@ -7188,6 +7246,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/GulfCartel"
 },
@@ -7312,6 +7371,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/SinaloaCartel"
 },
@@ -7436,6 +7496,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/LosZetas"
 },
@@ -7560,6 +7621,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/ComandoVermhelho"
 },
@@ -7684,6 +7746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SumiyoshiKai"
 },
@@ -7808,6 +7871,7 @@
       "Stabilize",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/Yamagachi-gumi"
 },
@@ -7932,6 +7996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/InagawaKai"
 },
@@ -8056,6 +8121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Aizukotetsu-kai"
 },
@@ -8180,6 +8246,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/HongKongTriad"
 },
@@ -8304,6 +8371,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/GoldenTriangleCartel"
 },
@@ -8428,6 +8496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/GoldenCrescentCartel"
 },
@@ -8552,6 +8621,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/SolntsevskayaBratva"
 },
@@ -8676,6 +8746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/BratskiKrug"
 },
@@ -8800,6 +8871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AzeriMafia"
 },
@@ -8924,6 +8996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SerbianMafia"
 },
@@ -9048,6 +9121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Office39"
 },
@@ -9172,6 +9246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/JPL"
 },
@@ -9296,6 +9371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/DARPA"
 },
@@ -9420,6 +9496,7 @@
       "Stabilize",
       "AssaultAlienAsset"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SiberianTigers"
 },
@@ -9544,6 +9621,7 @@
       "Stabilize",
       "AssaultAlienAsset"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SouthernSword"
 },
@@ -9668,6 +9746,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SeaDragon"
 },
@@ -9792,6 +9871,7 @@
       "Detain",
       "AssaultAlienAsset"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SnowLeopardCommandoGroup"
 },
@@ -9916,6 +9996,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/FuerzadeGuerraNavalEspecial"
 },
@@ -10040,6 +10121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SayeretMatkal"
 },
@@ -10164,6 +10246,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Shayetet13"
 },
@@ -10288,6 +10371,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/GIGN"
 },
@@ -10412,6 +10496,7 @@
       "Unrest",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/PakistanSSG"
 },
@@ -10536,6 +10621,7 @@
       "AssaultAlienAsset",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/GROM"
 },
@@ -10660,6 +10746,7 @@
       "Protect",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/UKSpecialBoatService"
 },
@@ -10784,6 +10871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/WHO"
 },
@@ -10908,6 +10996,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": "orglogos/IMF"
 },
@@ -11032,6 +11121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/UNESCO"
 },
@@ -11156,6 +11246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/DEA"
 },
@@ -11280,6 +11371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/UNOOSA"
 },
@@ -11404,6 +11496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/CSEC"
 },
@@ -11528,6 +11621,7 @@
       "Extract",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/CanadaJTF2"
 },
@@ -11652,6 +11746,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/DGSI"
 },
@@ -11776,6 +11871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/ASIO"
 },
@@ -11900,6 +11996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AusSD"
 },
@@ -12024,6 +12121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AgaziCommandos"
 },
@@ -12148,6 +12246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/601CommandoCompany"
 },
@@ -12272,6 +12371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Jagdkommando"
 },
@@ -12396,6 +12496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/BrazilianPathfinders"
 },
@@ -12520,6 +12621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/JaegerCorps"
 },
@@ -12644,6 +12746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Sa'ka_Forces"
 },
@@ -12768,6 +12871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/9PARA"
 },
@@ -12892,6 +12996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/KopassusIndonesia"
 },
@@ -13016,6 +13121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/DenjakaIndonesia"
 },
@@ -13140,6 +13246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/JapanSpecialForcesGroup"
 },
@@ -13264,6 +13371,7 @@
       "Extract",
       "Detain"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SerbianCobras"
 },
@@ -13388,6 +13496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SpecialOperationsTaskGroup"
 },
@@ -13512,6 +13621,7 @@
       "Extract",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/LifeRegimentHussars"
 },
@@ -13636,6 +13746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AirborneSpecialServiceCompany"
 },
@@ -13760,6 +13871,7 @@
       "Extract",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/KingsGuard"
 },
@@ -13884,6 +13996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SpecialForcesCommand_MaroonBerets"
 },
@@ -14008,6 +14121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_hydra_mid"
 },
@@ -14132,6 +14246,7 @@
       "Stabilize",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_resist_mid"
 },
@@ -14256,6 +14371,7 @@
       "Assassinate",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_destroy_mid"
 },
@@ -14380,6 +14496,7 @@
       "Propaganda",
       "ControlSpaceAsset"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_exploit_mid"
 },
@@ -14504,6 +14621,7 @@
       "Advise",
       "ControlSpaceAsset"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_cooperate_mid"
 },
@@ -14628,6 +14746,7 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_submit_mid"
 },
@@ -14752,6 +14871,7 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_appease_mid"
 },
@@ -14876,6 +14996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_escape_mid"
 },
@@ -15000,6 +15121,7 @@
       "Xenoform",
       "Abductions"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_submit_mid"
 },
@@ -15124,6 +15246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_resist_win"
 },
@@ -15248,6 +15371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_destroy_win"
 },
@@ -15372,6 +15496,7 @@
       "Purge",
       "Propaganda"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_exploit_win"
 },
@@ -15496,6 +15621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_cooperate_win"
 },
@@ -15620,6 +15746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_submit_win"
 },
@@ -15744,6 +15871,7 @@
       "DominateNation",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_appease_win"
 },
@@ -15868,6 +15996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/org_escape_win"
 },
@@ -15992,6 +16121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/resist_space_org"
 },
@@ -16116,6 +16246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/destroy_space_org"
 },
@@ -16240,6 +16371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/exploit_space_org"
 },
@@ -16364,6 +16496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/cooperate_space_org"
 },
@@ -16488,6 +16621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/submit_space_org"
 },
@@ -16612,6 +16746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/appease_space_org"
 },
@@ -16736,6 +16871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/escape_space_org"
 },
@@ -16860,6 +16996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -16984,6 +17121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17108,6 +17246,7 @@
       "",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17232,6 +17371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17356,6 +17496,7 @@
       "Stabilize",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17480,6 +17621,7 @@
       "Stabilize",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17604,6 +17746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17728,6 +17871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17852,6 +17996,7 @@
       "SabotageFacilities",
       ""
    ],
+   "grantsMarked": true,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -17976,6 +18121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18100,6 +18246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18224,6 +18371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18348,6 +18496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18472,6 +18621,7 @@
       "Extract",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18596,6 +18746,7 @@
       "Extract",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18720,6 +18871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18844,6 +18996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -18968,6 +19121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19092,6 +19246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19216,6 +19371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19340,6 +19496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19464,6 +19621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19588,6 +19746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19712,6 +19871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19836,6 +19996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -19960,6 +20121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20084,6 +20246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20208,6 +20371,7 @@
       "Detain",
       "DetectCouncilActivity"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20332,6 +20496,7 @@
       "Detain",
       "DetectCouncilActivity"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20456,6 +20621,7 @@
       "Detain",
       "DetectCouncilActivity"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20580,6 +20746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20704,6 +20871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20828,6 +20996,7 @@
       "Detain",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -20952,6 +21121,7 @@
       "InvestigateAlienActivity",
       "Advise"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21076,6 +21246,7 @@
       "InvestigateAlienActivity",
       "Advise"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21200,6 +21371,7 @@
       "InvestigateAlienActivity",
       "Advise"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21324,6 +21496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21448,6 +21621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21572,6 +21746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21696,6 +21871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21820,6 +21996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -21944,6 +22121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22068,6 +22246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22192,6 +22371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22316,6 +22496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22440,6 +22621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22564,6 +22746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22688,6 +22871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22812,6 +22996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -22936,6 +23121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23060,6 +23246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23184,6 +23371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23308,6 +23496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23432,6 +23621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23556,6 +23746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23680,6 +23871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23804,6 +23996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -23928,6 +24121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24052,6 +24246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24176,6 +24371,7 @@
       "Advise",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24300,6 +24496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24424,6 +24621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24446,7 +24644,7 @@
       ""
    ],
    "requiredNationName": "",
-   "requiredTechName": "Networked Propaganda",
+   "requiredTechName": "NetworkedPropaganda",
    "affinities": [
       "Exploit",
       "Escape",
@@ -24548,6 +24746,7 @@
       "GainInfluence",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24672,6 +24871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24796,6 +24996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -24920,6 +25121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25044,6 +25246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25168,6 +25371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25292,6 +25496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25416,6 +25621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25540,6 +25746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25664,6 +25871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25788,6 +25996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -25912,6 +26121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26036,6 +26246,7 @@
       "SabotageProject",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26160,6 +26371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26284,6 +26496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26408,6 +26621,7 @@
       "DetectCouncilActivity",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26532,6 +26746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26656,6 +26871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26780,6 +26996,7 @@
       "Coup",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -26904,6 +27121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27028,6 +27246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27152,6 +27371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27276,6 +27496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27400,6 +27621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27524,6 +27746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27648,6 +27871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27772,6 +27996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -27896,6 +28121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -28020,6 +28246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -28144,6 +28371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -28268,6 +28496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -28392,6 +28621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -28516,6 +28746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": ""
 },
@@ -28640,6 +28871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Lightstar_Orbital"
 },
@@ -28764,6 +28996,7 @@
       "SetNationalPolicy",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Madisonian_Society"
 },
@@ -28888,6 +29121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Kaiser_Securities"
 },
@@ -29012,6 +29246,7 @@
       "GainInfluence",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Fondation_Hyde_Et_Hildr"
 },
@@ -29136,6 +29371,7 @@
       "SabotageFacilities",
       "StealProject"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Anarchy_Inc"
 },
@@ -29260,6 +29496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Crossing_Rivers_For_Humanity"
 },
@@ -29384,6 +29621,7 @@
       "InvestigateAlienActivity",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Oliver_Project"
 },
@@ -29508,6 +29746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Templin_Institute"
 },
@@ -29632,6 +29871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SGI"
 },
@@ -29756,6 +29996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/MMS"
 },
@@ -29880,6 +30121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Wolfhound_Forge_Corp"
 },
@@ -30004,6 +30246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Schinhofen_Books"
 },
@@ -30128,6 +30371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/CE_Heavy_Industries"
 },
@@ -30252,6 +30496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Intrepid_Consulting"
 },
@@ -30376,6 +30621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Truculent_Logistics"
 },
@@ -30500,6 +30746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Free_Federation_Of_Industrial_Workers"
 },
@@ -30624,6 +30871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Filfla_Aeronautics"
 },
@@ -30748,6 +30996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Pelican_Nanomedecine"
 },
@@ -30872,6 +31121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/HPP"
 },
@@ -30996,6 +31246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/East_Garden_Genetics"
 },
@@ -31120,6 +31371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Steak4all"
 },
@@ -31244,6 +31496,7 @@
       "Stabilize",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/HM"
 },
@@ -31368,6 +31621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Espero"
 },
@@ -31492,6 +31746,7 @@
       "Coup",
       "Stabilize"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Pax_Robotica"
 },
@@ -31616,6 +31871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Sex_Change_Company"
 },
@@ -31740,6 +31996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/EPU"
 },
@@ -31864,6 +32121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Formosa_Industries"
 },
@@ -31988,6 +32246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Fifth_Column"
 },
@@ -32112,6 +32371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Ughxalt"
 },
@@ -32236,6 +32496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Solaris_Automated_Industries"
 },
@@ -32360,6 +32621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/SpaceTech"
 },
@@ -32484,6 +32746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/DeSeer_Foundation"
 },
@@ -32608,6 +32871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Aegis_Defense_Division"
 },
@@ -32732,6 +32996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Whitefang_Industries"
 },
@@ -32856,6 +33121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Apiary_Development_Science"
 },
@@ -32980,6 +33246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Babylon_Tower"
 },
@@ -33104,6 +33371,7 @@
       "Propaganda",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/HAAL"
 },
@@ -33228,6 +33496,7 @@
       "Coup",
       "Detain"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Second_Chance"
 },
@@ -33352,6 +33621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Wynford_Media_Group"
 },
@@ -33476,6 +33746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Libertatem_Terrae"
 },
@@ -33600,6 +33871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Reddington_Agency"
 },
@@ -33724,6 +33996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Iron_Rose_Media"
 },
@@ -33848,6 +34121,7 @@
       "Propaganda",
       "Turn"
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Laguna_Foundation"
 },
@@ -33972,6 +34246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Kinetic_Pressure_Control_Limited"
 },
@@ -34096,6 +34371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Ryan_Co"
 },
@@ -34220,6 +34496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Perun"
 },
@@ -34344,6 +34621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/OrbitalResourceExtractionInc"
 },
@@ -34468,6 +34746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/KazKo_Industries"
 },
@@ -34592,6 +34871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Croslea_Biotech"
 },
@@ -34716,6 +34996,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Jolt_Games"
 },
@@ -34840,6 +35121,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Door_Inc"
 },
@@ -34964,6 +35246,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Mogul_Intelligence_Broker"
 },
@@ -35088,6 +35371,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Arcturus_Heavy_Industries"
 },
@@ -35212,6 +35496,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/Energy Independence Initiative "
 },
@@ -35336,6 +35621,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/AdAstraGames"
 },
@@ -35460,6 +35746,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/DragonTechITServices"
 },
@@ -35584,6 +35871,7 @@
       "",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/ShimuraSuzumiyaConglomerate"
 },
@@ -35708,7 +35996,133 @@
       "DefendInterests",
       ""
    ],
+   "grantsMarked": null,
    "projectGrantedName": "",
    "iconResource": "orglogos/ShieldInitative"
+},
+ {
+   "dataName": "Org_KS4509",
+   "friendlyName": "Children of the Cog",
+   "randomized": false,
+   "orgType": "InformationTechnology",
+   "tier": 3,
+   "allowedOnMarket": true,
+   "homeRegionNames": [
+      "England",
+      ""
+   ],
+   "requiresNationality": false,
+   "requiredOwnerTraits": [
+      ""
+   ],
+   "prohibitedOwnerTraits": [
+      ""
+   ],
+   "requiredNationName": "",
+   "requiredTechName": "Cybernetics",
+   "affinities": [
+      "Resist",
+      "Destroy",
+      "Exploit"
+   ],
+   "restricted": [
+      "Appease",
+      "Submit",
+      "Cooperate",
+      "Alien",
+      "",
+      "",
+      ""
+   ],
+   "costMoney": 500,
+   "randCostMoney": 500,
+   "costInfluence": 100,
+   "randCostInfluence": 100,
+   "costOps": null,
+   "randCostOps": null,
+   "costBoost": null,
+   "randCostBoost": null,
+   "chanceIncomeMoney": null,
+   "incomeMoney": null,
+   "randIncomeMoney": null,
+   "chanceIncomeInfluence": 100,
+   "incomeInfluence": 2,
+   "randIncomeInfluence": 3,
+   "chanceIncomeOps": null,
+   "incomeOps": null,
+   "randIncomeOps": null,
+   "chanceIncomeBoost": 100,
+   "incomeBoost": 0.25,
+   "randIncomeBoost": 0.25,
+   "chanceIncomeMissionControl": null,
+   "incomeMissionControl": null,
+   "randIncomeMissionControl": null,
+   "chanceIncomeResearch": 50,
+   "incomeResearch": 5,
+   "randIncomeResearch": 5,
+   "projectsGranted": 1,
+   "chancePersuasion": 50,
+   "persuasion": 1,
+   "randPersuasion": 1,
+   "chanceCommand": null,
+   "command": null,
+   "randCommand": null,
+   "chanceInvestigation": 100,
+   "investigation": 2,
+   "randInvestigation": 1,
+   "chanceEspionage": null,
+   "espionage": null,
+   "randEspionage": null,
+   "chanceAdministration": null,
+   "administration": null,
+   "randAdministration": null,
+   "chanceScience": 100,
+   "science": 1,
+   "randScience": null,
+   "chanceSecurity": null,
+   "security": null,
+   "randSecurity": null,
+   "chanceEconomyBonus": 100,
+   "economyBonus": 0.01,
+   "randEconomyBonus": null,
+   "chanceWelfareBonus": null,
+   "welfareBonus": null,
+   "randWelfareBonus": null,
+   "chanceKnowledgeBonus": null,
+   "knowledgeBonus": null,
+   "randKnowledgeBonus": null,
+   "chanceUnityBonus": null,
+   "unityBonus": null,
+   "randUnityBonus": null,
+   "chanceMilitaryBonus": null,
+   "militaryBonus": null,
+   "randMilitaryBonus": null,
+   "chanceSpoilsBonus": null,
+   "spoilsBonus": null,
+   "randSpoilsBonus": null,
+   "chanceSpaceDevBonus": null,
+   "spaceDevBonus": null,
+   "randSpaceDevBonus": null,
+   "chanceSpaceflightBonus": 100,
+   "spaceflightBonus": 0.01,
+   "randSpaceflightBonus": 0.01,
+   "miningBonus": null,
+   "randMiningBonus": null,
+   "XPModifier": "",
+   "techBonuses": [
+      {
+         "category": "Energy",
+         "bonus": 0.01
+      }
+   ],
+   "missionsGrantedNames": [
+      "InvestigateCouncilor",
+      "InvestigateAlienActivity",
+      "DetectCouncilActivity",
+      ""
+   ],
+   "grantsMarked": null,
+   "projectGrantedName": "",
+   "iconResource": "orglogos/children_of_the_cog"
 }
 ]

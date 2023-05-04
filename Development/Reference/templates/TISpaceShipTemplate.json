@@ -281,7 +281,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "60cmGreenPhaserBattery",
+         "moduleName": "60cmGreenArcLaserBattery",
          "slot": 8
       },
       {
@@ -392,7 +392,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "60cmIRLaserBattery",
+         "moduleName": "60cmIRArcLaserBattery",
          "slot": 8
       },
       {
@@ -426,7 +426,7 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "240cmIRLaserCannon",
+         "moduleName": "240cmIRArcLaserCannon",
          "slot": 7
       },
       {
@@ -451,9 +451,9 @@
    "role": "SL_DefenseBomber",
    "hullName": "Monitor",
    "driveName": "FissionLanternx2",
-   "powerPlantName": "GasCoreFissionReactorIV",
+   "powerPlantName": "GasCoreFissionReactorV",
    "batteryName": "SuperconductingCoilBattery",
-   "radiatorName": "TinDroplet",
+   "radiatorName": "NanotubeFilament",
    "propellantTanks": 50,
    "noseArmor": {
       "materialName": "CompositeArmor",
@@ -618,7 +618,7 @@
          "slot": 9
       },
       {
-         "moduleName": "60cmGreenPhaserBattery",
+         "moduleName": "60cmGreenArcLaserBattery",
          "slot": 11
       },
       {
@@ -648,7 +648,7 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "480cmGreenPhaserCannon",
+         "moduleName": "480cmGreenArcLaserCannon",
          "slot": 7
       },
       {
@@ -729,7 +729,7 @@
          "slot": 13
       },
       {
-         "moduleName": "RattlerMissileBay",
+         "moduleName": "HeraTorpedoBay",
          "slot": 15
       },
       {
@@ -759,7 +759,7 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "480cmGreenPhaserCannon",
+         "moduleName": "480cmGreenArcLaserCannon",
          "slot": 7
       },
       {
@@ -836,11 +836,11 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "PointDefenseLaserTurret",
+         "moduleName": "PointDefenseArcLaserTurret",
          "slot": 11
       },
       {
-         "moduleName": "LightRailgunBatteryMk1",
+         "moduleName": "LightRailgunBatteryMk2",
          "slot": 14
       },
       {
@@ -892,7 +892,7 @@
    "friendlyName": "EarlyBattleship",
    "factionName": "ResistCouncil",
    "hullAppearanceIndex": 0,
-   "role": "SL_DefenseBomber",
+   "role": "SM_Patrol",
    "hullName": "Battleship",
    "driveName": "LightbulbDrivex6",
    "powerPlantName": "GasCoreFissionReactorV",
@@ -981,11 +981,11 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "LightRailCannonMk3",
+         "moduleName": "LightRailCannonMk2",
          "slot": 7
       },
       {
-         "moduleName": "LightRailCannonMk3",
+         "moduleName": "LightRailCannonMk2",
          "slot": 8
       },
       {
@@ -1058,7 +1058,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "PointDefenseLaserTurret",
+         "moduleName": "PointDefenseArcLaserTurret",
          "slot": 11
       },
       {
@@ -1203,15 +1203,15 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "240cmGreenLaserCannon",
+         "moduleName": "240cmGreenArcLaserCannon",
          "slot": 7
       },
       {
-         "moduleName": "240cmGreenLaserCannon",
+         "moduleName": "240cmGreenArcLaserCannon",
          "slot": 8
       },
       {
-         "moduleName": "240cmGreenLaserCannon",
+         "moduleName": "240cmGreenArcLaserCannon",
          "slot": 9
       },
       {
@@ -2612,7 +2612,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "PointDefensePhaserTurret",
+         "moduleName": "60cmUVPhaserBattery",
          "slot": 8
       },
       {
@@ -2723,7 +2723,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "PointDefenseLaserTurret",
+         "moduleName": "PointDefensePhaserTurret",
          "slot": 8
       },
       {
@@ -2804,7 +2804,7 @@
          "slot": 8
       },
       {
-         "moduleName": "MobileSpaceScienceLab",
+         "moduleName": "Magazine",
          "slot": 11
       },
       {
@@ -2834,19 +2834,19 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "30mmAutocannon",
+         "moduleName": "PointDefensePhaserTurret",
          "slot": 10
       },
       {
-         "moduleName": "AnacondaMissileBay",
+         "moduleName": "LanceheadMissileBay",
          "slot": 7
       },
       {
-         "moduleName": "AnacondaMissileBay",
+         "moduleName": "LanceheadMissileBay",
          "slot": 12
       },
       {
-         "moduleName": "AnacondaMissileBay",
+         "moduleName": "LanceheadMissileBay",
          "slot": 9
       },
       {
@@ -2893,7 +2893,7 @@
    "role": "MM_SpaceSuperiority",
    "hullName": "Destroyer",
    "driveName": "ZetaBoronFusionDrivex2",
-   "powerPlantName": "ZPinchFusionReactorII",
+   "powerPlantName": "ZPinchFusionReactorIII",
    "batteryName": "SuperconductingCoilBattery",
    "radiatorName": "TinDroplet",
    "propellantTanks": 50,
@@ -2945,7 +2945,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "30mmAutocannon",
+         "moduleName": "PointDefensePhaserTurret",
          "slot": 9
       },
       {
@@ -3056,7 +3056,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "RailgunBatteryMk2",
+         "moduleName": "CoilgunBatteryMk2",
          "slot": 13
       },
       {
@@ -3141,7 +3141,7 @@
          "slot": 12
       },
       {
-         "moduleName": "HeavySodiumHeatSink",
+         "moduleName": "AdvancedLaserEngine",
          "slot": 13
       },
       {
@@ -3167,11 +3167,11 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "PointDefenseLaserTurret",
+         "moduleName": "PointDefensePhaserTurret",
          "slot": 11
       },
       {
-         "moduleName": "LightRailgunBatteryMk1",
+         "moduleName": "LightCoilgunBatteryMk2",
          "slot": 14
       },
       {
@@ -3201,7 +3201,7 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "720cmGreenArcLaserCannon",
+         "moduleName": "720cmGreenPhaserCannon",
          "slot": 8
       },
       {
@@ -3279,6 +3279,10 @@
    "hullWeaponTemplateEntries": [
       {
          "moduleName": "PointDefensePhaserTurret",
+         "slot": 9
+      },
+      {
+         "moduleName": "PointDefensePhaserTurret",
          "slot": 10
       },
       {
@@ -3290,16 +3294,12 @@
          "slot": 13
       },
       {
-         "moduleName": "PointDefensePhaserTurret",
+         "moduleName": "60cmIRPhaserBattery",
          "slot": 16
       },
       {
-         "moduleName": "PointDefensePhaserTurret",
+         "moduleName": "60cmIRPhaserBattery",
          "slot": 17
-      },
-      {
-         "moduleName": "Empty",
-         "slot": null
       },
       {
          "moduleName": "Empty",
@@ -3312,11 +3312,11 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "LightRailCannonMk3",
+         "moduleName": "LightCoilCannonMk2",
          "slot": 7
       },
       {
-         "moduleName": "LightRailCannonMk3",
+         "moduleName": "LightCoilCannonMk2",
          "slot": 8
       },
       {
@@ -3389,7 +3389,7 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "PointDefenseLaserTurret",
+         "moduleName": "PointDefensePhaserTurret",
          "slot": 11
       },
       {
@@ -3423,20 +3423,20 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "240cmUVPhaserCannon",
-         "slot": 7
-      },
-      {
-         "moduleName": "240cmUVPhaserCannon",
+         "moduleName": "960cmUVPhaserCannon",
          "slot": 8
       },
       {
-         "moduleName": "240cmUVPhaserCannon",
-         "slot": 9
+         "moduleName": "Empty",
+         "slot": null
       },
       {
-         "moduleName": "240cmUVPhaserCannon",
-         "slot": 10
+         "moduleName": "Empty",
+         "slot": null
+      },
+      {
+         "moduleName": "Empty",
+         "slot": ""
       }
    ]
 },
@@ -3500,11 +3500,11 @@
    ],
    "hullWeaponTemplateEntries": [
       {
-         "moduleName": "HeavyCoilgunBatteryMk2",
+         "moduleName": "HeavyCoilgunBatteryMk3",
          "slot": 16
       },
       {
-         "moduleName": "HeavyCoilgunBatteryMk2",
+         "moduleName": "HeavyCoilgunBatteryMk3",
          "slot": 20
       },
       {
@@ -3534,15 +3534,15 @@
    ],
    "noseWeaponTemplateEntries": [
       {
-         "moduleName": "240cmGreenLaserCannon",
+         "moduleName": "240cmGreenPhaserCannon",
          "slot": 7
       },
       {
-         "moduleName": "240cmGreenLaserCannon",
+         "moduleName": "240cmGreenPhaserCannon",
          "slot": 8
       },
       {
-         "moduleName": "240cmGreenLaserCannon",
+         "moduleName": "240cmGreenPhaserCannon",
          "slot": 9
       },
       {

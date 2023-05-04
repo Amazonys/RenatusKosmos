@@ -43,6 +43,7 @@ UI.Global.DollarValue=${0}						// some values in the game are calculated using 
 UI.Global.PositiveDollarValueWithSign=+${0}
 UI.Global.NegativeDollarValueWithSign=-${0}
 UI.Global.2IC={0}, {1}
+UI.Global.2ItemsSpaced={0} {1}
 UI.Global.Thousands={0}K
 UI.Global.Millions={0}M
 UI.Global.Billions={0}B

@@ -1721,7 +1721,7 @@
    "familyName": "Simental",
    "strGender": "Male",
    "strAncestry": "Hispanic",
-   "appearanceTemplateName": "",
+   "appearanceTemplateName": "CharImage229",
    "randomized": false,
    "alien": false,
    "type": "Fixer",

@@ -3,6 +3,10 @@
    "dataName": "dummy",
    "friendlyName": "dummy",
    "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -19,6 +23,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -84,6 +90,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -188,6 +195,10 @@
    "dataName": "Affluent",
    "friendlyName": "Affluent",
    "grouping": 1,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": 10,
    "moneyCost": null,
    "influenceCost": null,
@@ -204,6 +215,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -269,6 +282,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 15,
    "classChance": [
       {
@@ -373,6 +387,10 @@
    "dataName": "Prosperous",
    "friendlyName": "Prosperous",
    "grouping": 1,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -389,6 +407,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -454,6 +474,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -558,6 +579,10 @@
    "dataName": "Wealthy",
    "friendlyName": "Wealthy",
    "grouping": 1,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -574,6 +599,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -639,6 +666,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -743,6 +771,10 @@
    "dataName": "Rich",
    "friendlyName": "Rich",
    "grouping": 1,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": 80,
    "moneyCost": null,
    "influenceCost": null,
@@ -759,6 +791,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Demanding",
+   "rerollTraitBonus": 10,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -824,6 +858,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -928,6 +963,10 @@
    "dataName": "Billionaire",
    "friendlyName": "Billionaire",
    "grouping": 1,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": 160,
    "moneyCost": null,
    "influenceCost": null,
@@ -944,6 +983,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -1,
    "XPModifier": null,
+   "rerollTrait": "Demanding",
+   "rerollTraitBonus": 20,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -1009,6 +1050,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -1113,6 +1155,10 @@
    "dataName": "Physicist",
    "friendlyName": "Physicist",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -1129,6 +1175,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -1194,6 +1242,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -1298,6 +1347,10 @@
    "dataName": "Chemist",
    "friendlyName": "Chemist",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -1314,6 +1367,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -1379,6 +1434,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -1483,6 +1539,10 @@
    "dataName": "Astronomer",
    "friendlyName": "Astronomer",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -1499,6 +1559,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -1564,6 +1626,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -1668,6 +1731,10 @@
    "dataName": "Doctor",
    "friendlyName": "Doctor",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -1684,6 +1751,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -1749,6 +1818,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -1853,6 +1923,10 @@
    "dataName": "SocialScientist",
    "friendlyName": "Social Scientist",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -1869,6 +1943,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -1934,6 +2010,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -2038,6 +2115,10 @@
    "dataName": "MilitaryScientist",
    "friendlyName": "Military Scientist",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -2054,6 +2135,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -2119,6 +2202,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -2223,6 +2307,10 @@
    "dataName": "ComputerScientist",
    "friendlyName": "Computer Scientist",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -2239,6 +2327,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -2304,6 +2394,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -2408,6 +2499,10 @@
    "dataName": "PhysicistII",
    "friendlyName": "Physicist II",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -2424,6 +2519,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -2489,6 +2586,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -2593,6 +2691,10 @@
    "dataName": "ChemistII",
    "friendlyName": "Chemist II",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -2609,6 +2711,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -2674,6 +2778,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -2778,6 +2883,10 @@
    "dataName": "AstronomerII",
    "friendlyName": "Astronomer II",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -2794,6 +2903,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -2859,6 +2970,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -2963,6 +3075,10 @@
    "dataName": "DoctorII",
    "friendlyName": "Doctor II",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -2979,6 +3095,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -3044,6 +3162,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -3148,6 +3267,10 @@
    "dataName": "SocialScientistII",
    "friendlyName": "Social Scientist II",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -3164,6 +3287,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -3229,6 +3354,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -3333,6 +3459,10 @@
    "dataName": "MilitaryScientistII",
    "friendlyName": "Military Scientist II",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -3349,6 +3479,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -3414,6 +3546,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -3518,6 +3651,10 @@
    "dataName": "ComputerScientistII",
    "friendlyName": "Computer Scientist II",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -3534,6 +3671,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -3599,6 +3738,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -3703,6 +3843,10 @@
    "dataName": "PhysicistIII",
    "friendlyName": "Physicist III",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -3719,6 +3863,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -3784,6 +3930,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -3888,6 +4035,10 @@
    "dataName": "ChemistIII",
    "friendlyName": "Chemist III",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -3904,6 +4055,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -3969,6 +4122,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -4073,6 +4227,10 @@
    "dataName": "AstronomerIII",
    "friendlyName": "Astronomer III",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -4089,6 +4247,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -4154,6 +4314,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -4258,6 +4419,10 @@
    "dataName": "DoctorIII",
    "friendlyName": "Doctor III",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -4274,6 +4439,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -4339,6 +4506,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -4443,6 +4611,10 @@
    "dataName": "SocialScientistIII",
    "friendlyName": "Social Scientist III",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -4459,6 +4631,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -4524,6 +4698,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -4628,6 +4803,10 @@
    "dataName": "MilitaryScientistIII",
    "friendlyName": "Military Scientist III",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -4644,6 +4823,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -4709,6 +4890,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -4813,6 +4995,10 @@
    "dataName": "ComputerScientistIII",
    "friendlyName": "Computer Scientist III",
    "grouping": 2,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -4829,6 +5015,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -4894,6 +5082,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -4998,6 +5187,10 @@
    "dataName": "LowProfile",
    "friendlyName": "Low Profile",
    "grouping": 3,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -5014,6 +5207,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 2,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": -20,
    "statMods": [
       {
          "stat": "",
@@ -5079,6 +5274,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -5183,6 +5379,10 @@
    "dataName": "Connected",
    "friendlyName": "Connected",
    "grouping": 3,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -5199,6 +5399,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -5264,6 +5466,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -5368,6 +5571,10 @@
    "dataName": "PuppetMaster",
    "friendlyName": "Puppet Master",
    "grouping": 3,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -5384,6 +5591,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "Untouchable",
+   "rerollTraitBonus": 5,
    "statMods": [
       {
          "stat": "",
@@ -5449,6 +5658,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 2,
    "classChance": [
       {
@@ -5553,6 +5763,10 @@
    "dataName": "Eminent",
    "friendlyName": "Eminent",
    "grouping": 3,
+   "tags": [
+      "Popular ",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -5569,6 +5783,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -2,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -5634,6 +5850,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -5738,6 +5955,10 @@
    "dataName": "Famous",
    "friendlyName": "Famous",
    "grouping": 3,
+   "tags": [
+      "Popular ",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -5754,6 +5975,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -4,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": 20,
    "statMods": [
       {
          "stat": "",
@@ -5819,6 +6042,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -5923,6 +6147,10 @@
    "dataName": "Megastar",
    "friendlyName": "Megastar",
    "grouping": 3,
+   "tags": [
+      "Popular ",
+      ""
+   ],
    "XPCost": 60,
    "moneyCost": null,
    "influenceCost": null,
@@ -5939,6 +6167,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -8,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": 80,
    "statMods": [
       {
          "stat": "",
@@ -6004,6 +6234,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -6108,6 +6339,10 @@
    "dataName": "OpinionLeader",
    "friendlyName": "Opinion Leader",
    "grouping": 3,
+   "tags": [
+      "Popular ",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -6124,6 +6359,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -2,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -6189,6 +6426,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -6293,6 +6531,10 @@
    "dataName": "MediaDarling",
    "friendlyName": "Media Darling",
    "grouping": 3,
+   "tags": [
+      "Popular ",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -6309,6 +6551,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -4,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": 10,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -6374,6 +6618,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -6478,6 +6723,10 @@
    "dataName": "ElderStatesman",
    "friendlyName": "Elder Statesman",
    "grouping": 3,
+   "tags": [
+      "Popular ",
+      ""
+   ],
    "XPCost": 60,
    "moneyCost": null,
    "influenceCost": null,
@@ -6494,6 +6743,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -4,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": 10,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -6559,6 +6810,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -6663,6 +6915,10 @@
    "dataName": "Counselor",
    "friendlyName": "Counselor",
    "grouping": 3,
+   "tags": [
+      "Goodguy",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -6679,6 +6935,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -6744,6 +7002,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -6848,6 +7107,10 @@
    "dataName": "Unifier",
    "friendlyName": "Unifier",
    "grouping": 3,
+   "tags": [
+      "Goodguy",
+      ""
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -6864,6 +7127,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": 10,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -6929,6 +7194,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -7033,6 +7299,10 @@
    "dataName": "Agitator",
    "friendlyName": "Agitator",
    "grouping": 3,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -7049,6 +7319,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -7114,6 +7386,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -7218,6 +7491,10 @@
    "dataName": "Firebrand",
    "friendlyName": "Firebrand",
    "grouping": 3,
+   "tags": [
+      "Badguy",
+      "Popular "
+   ],
    "XPCost": 40,
    "moneyCost": null,
    "influenceCost": null,
@@ -7234,6 +7511,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -3,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -7299,6 +7578,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -7403,6 +7683,10 @@
    "dataName": "Demagogue",
    "friendlyName": "Demagogue",
    "grouping": 3,
+   "tags": [
+      "Badguy",
+      "Popular "
+   ],
    "XPCost": 60,
    "moneyCost": null,
    "influenceCost": null,
@@ -7419,6 +7703,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -6,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -7484,6 +7770,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -7588,6 +7875,10 @@
    "dataName": "Government",
    "friendlyName": "Government",
    "grouping": 4,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": 100,
@@ -7604,6 +7895,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -7669,6 +7962,7 @@
       }
    ],
    "specialTraitRule": "Government",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -7773,6 +8067,10 @@
    "dataName": "EnemyoftheState",
    "friendlyName": "Enemy of the State",
    "grouping": 4,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": -20,
    "moneyCost": null,
    "influenceCost": -20,
@@ -7789,6 +8087,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Untouchable",
+   "rerollTraitBonus": -10,
    "statMods": [
       {
          "stat": "",
@@ -7854,6 +8154,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -7958,6 +8259,10 @@
    "dataName": "Criminal",
    "friendlyName": "Criminal",
    "grouping": 4,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": 200,
    "influenceCost": 50,
@@ -7974,6 +8279,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -8039,6 +8346,7 @@
       }
    ],
    "specialTraitRule": "Criminal",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -8143,6 +8451,10 @@
    "dataName": "Pariah",
    "friendlyName": "Pariah",
    "grouping": 4,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -8159,6 +8471,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Untouchable",
+   "rerollTraitBonus": -10,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -8224,6 +8538,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -8328,6 +8643,10 @@
    "dataName": "NationalHero",
    "friendlyName": "National Hero",
    "grouping": 4,
+   "tags": [
+      "",
+      "Popular "
+   ],
    "XPCost": 30,
    "moneyCost": null,
    "influenceCost": 50,
@@ -8344,6 +8663,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "FamilyTies",
+   "rerollTraitBonus": 50,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -8409,6 +8730,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 2,
    "classChance": [
       {
@@ -8513,6 +8835,10 @@
    "dataName": "Brazen",
    "friendlyName": "Brazen",
    "grouping": 5,
+   "tags": [
+      "Open",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -8529,6 +8855,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -8594,6 +8922,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -8698,6 +9027,10 @@
    "dataName": "Furtive",
    "friendlyName": "Furtive",
    "grouping": 5,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -8714,11 +9047,13 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": -50,
    "statMods": [
       {
          "stat": "Espionage",
          "operation": "Additive",
-         "strValue": "2",
+         "strValue": "3",
          "condition": {
             "$type": "",
             "strIdx": "",
@@ -8779,6 +9114,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -8883,6 +9219,10 @@
    "dataName": "Pollyanna",
    "friendlyName": "Pollyanna",
    "grouping": 5,
+   "tags": [
+      "Goodguy",
+      "Open"
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -8899,6 +9239,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "ApparentLoyalty",
@@ -8964,6 +9306,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -9068,6 +9411,10 @@
    "dataName": "Inscrutable",
    "friendlyName": "Inscrutable",
    "grouping": 5,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -9084,6 +9431,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "ApparentLoyalty",
@@ -9149,6 +9498,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -9253,6 +9603,10 @@
    "dataName": "Transparent",
    "friendlyName": "Transparent",
    "grouping": 5,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -9269,6 +9623,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "ApparentLoyalty",
@@ -9334,6 +9690,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -9438,6 +9795,10 @@
    "dataName": "Extremist",
    "friendlyName": "Extremist",
    "grouping": 5,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -9454,6 +9815,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -9519,6 +9882,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -9623,6 +9987,10 @@
    "dataName": "Fanatic",
    "friendlyName": "Fanatic",
    "grouping": 5,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -9639,6 +10007,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Insecure",
+   "rerollTraitBonus": -50,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -9704,6 +10074,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -9808,6 +10179,10 @@
    "dataName": "Ethical",
    "friendlyName": "Ethical",
    "grouping": 5,
+   "tags": [
+      "Goodguy",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -9824,6 +10199,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -9837,9 +10214,9 @@
          }
       },
       {
-         "stat": "Loyalty",
-         "operation": "SubtractivePer",
-         "strValue": "MyFactionAtrocities",
+         "stat": "",
+         "operation": "",
+         "strValue": "",
          "condition": {
             "$type": "",
             "strIdx": "",
@@ -9848,9 +10225,9 @@
          }
       },
       {
-         "stat": "ApparentLoyalty",
-         "operation": "SubtractivePer",
-         "strValue": "MyFactionAtrocities",
+         "stat": "",
+         "operation": "",
+         "strValue": "",
          "condition": {
             "$type": "",
             "strIdx": "",
@@ -9888,7 +10265,8 @@
          "bonus": null
       }
    ],
-   "specialTraitRule": "",
+   "specialTraitRule": "LoyaltyLossOnFactionAtrocity",
+   "specialTraitRuleValue": -1,
    "baseChance": 10,
    "classChance": [
       {
@@ -9993,6 +10371,10 @@
    "dataName": "Sociopath",
    "friendlyName": "Sociopath",
    "grouping": 5,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -10009,6 +10391,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Insecure",
+   "rerollTraitBonus": -100,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -10074,6 +10458,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 2,
    "classChance": [
       {
@@ -10178,6 +10563,10 @@
    "dataName": "Pacifist",
    "friendlyName": "Pacifist",
    "grouping": 5,
+   "tags": [
+      "Goodguy",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -10194,6 +10583,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -10259,6 +10650,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -10363,6 +10755,10 @@
    "dataName": "Undercover",
    "friendlyName": "Undercover",
    "grouping": 7,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -10379,6 +10775,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -10444,6 +10842,7 @@
       }
    ],
    "specialTraitRule": "Undercover",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -10548,6 +10947,10 @@
    "dataName": "Earthbound",
    "friendlyName": "Earthbound",
    "grouping": 7,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": -20,
    "moneyCost": null,
    "influenceCost": null,
@@ -10564,6 +10967,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -10629,6 +11034,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -10733,6 +11139,10 @@
    "dataName": "Streetwise",
    "friendlyName": "Streetwise",
    "grouping": 9,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -10749,6 +11159,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -10814,6 +11226,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -10918,6 +11331,10 @@
    "dataName": "Averse",
    "friendlyName": "Averse",
    "grouping": 9,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": -20,
    "moneyCost": null,
    "influenceCost": null,
@@ -10934,6 +11351,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -10999,6 +11418,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -11103,6 +11523,10 @@
    "dataName": "Careless",
    "friendlyName": "Careless",
    "grouping": 9,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": -20,
    "moneyCost": null,
    "influenceCost": null,
@@ -11119,6 +11543,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -2,
    "XPModifier": null,
+   "rerollTrait": "Demanding",
+   "rerollTraitBonus": -50,
    "statMods": [
       {
          "stat": "Security",
@@ -11184,6 +11610,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -11288,6 +11715,10 @@
    "dataName": "HardTarget",
    "friendlyName": "Hard Target",
    "grouping": 5,
+   "tags": [
+      "Tough",
+      "Dangerous"
+   ],
    "XPCost": 20,
    "moneyCost": null,
    "influenceCost": null,
@@ -11304,6 +11735,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -11369,6 +11802,7 @@
       }
    ],
    "specialTraitRule": "HardTarget",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -11473,6 +11907,10 @@
    "dataName": "LoneWolf",
    "friendlyName": "Lone Wolf",
    "grouping": 8,
+   "tags": [
+      "Tough",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -11489,6 +11927,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Administration",
@@ -11554,6 +11994,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -11658,6 +12099,10 @@
    "dataName": "AwkwardGenius",
    "friendlyName": "Awkward Genius",
    "grouping": 8,
+   "tags": [
+      "Nerd",
+      "Open"
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -11674,6 +12119,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Insecure",
+   "rerollTraitBonus": 20,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -11739,6 +12186,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -11843,6 +12291,10 @@
    "dataName": "Crew",
    "friendlyName": "Crew",
    "grouping": 8,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -11859,6 +12311,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -11924,6 +12378,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -12028,6 +12483,10 @@
    "dataName": "Expert",
    "friendlyName": "Expert",
    "grouping": 6,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -12044,6 +12503,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -12109,6 +12570,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -12213,6 +12675,10 @@
    "dataName": "Academic",
    "friendlyName": "Academic",
    "grouping": 6,
+   "tags": [
+      "Nerd",
+      "Goodguy"
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -12229,6 +12695,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Command",
@@ -12294,6 +12762,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -12398,6 +12867,10 @@
    "dataName": "Technocrat",
    "friendlyName": "Technocrat",
    "grouping": 6,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -12414,6 +12887,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -12479,6 +12954,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -12583,6 +13059,10 @@
    "dataName": "NonGrata",
    "friendlyName": "Non Grata",
    "grouping": null,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": -20,
    "moneyCost": -100,
    "influenceCost": -20,
@@ -12599,6 +13079,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Untouchable",
+   "rerollTraitBonus": -10,
    "statMods": [
       {
          "stat": "",
@@ -12664,6 +13146,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -12768,6 +13251,10 @@
    "dataName": "Oligarch",
    "friendlyName": "Oligarch",
    "grouping": 6,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -12784,6 +13271,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -12849,6 +13338,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -12953,6 +13443,10 @@
    "dataName": "Apocalyptic",
    "friendlyName": "Apocalyptic",
    "grouping": 5,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -12969,6 +13463,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "Beloved",
+   "rerollTraitBonus": -50,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -13034,6 +13530,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -13138,6 +13635,10 @@
    "dataName": "Awareness",
    "friendlyName": "Awareness",
    "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -13154,6 +13655,8 @@
    "detectionInvBonus": 1,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -13219,6 +13722,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 10,
    "classChance": [
       {
@@ -13323,6 +13827,10 @@
    "dataName": "Addict",
    "friendlyName": "Addict",
    "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": -40,
    "moneyCost": null,
    "influenceCost": null,
@@ -13339,6 +13847,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -13404,6 +13914,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -13508,6 +14019,10 @@
    "dataName": "Veteran",
    "friendlyName": "Veteran",
    "grouping": null,
+   "tags": [
+      "Tough",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -13524,6 +14039,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Command",
@@ -13589,6 +14106,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -13693,6 +14211,10 @@
    "dataName": "Indulgent",
    "friendlyName": "Indulgent",
    "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": -20,
    "moneyCost": null,
    "influenceCost": null,
@@ -13709,6 +14231,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Loyalty",
@@ -13774,6 +14298,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -13878,6 +14403,10 @@
    "dataName": "Cynic",
    "friendlyName": "Cynic",
    "grouping": 5,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -13894,6 +14423,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -13959,6 +14490,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -14063,6 +14595,10 @@
    "dataName": "Suspicious",
    "friendlyName": "Suspicious",
    "grouping": 9,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -14079,6 +14615,8 @@
    "detectionInvBonus": 1,
    "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -14144,6 +14682,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -14248,6 +14787,10 @@
    "dataName": "ConspiracyTheorist",
    "friendlyName": "Conspiracy Theorist",
    "grouping": 9,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -14264,6 +14807,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -14329,6 +14874,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 1,
    "classChance": [
       {
@@ -14433,6 +14979,10 @@
    "dataName": "Paranoid",
    "friendlyName": "Paranoid",
    "grouping": 9,
+   "tags": [
+      "Sneaky",
+      ""
+   ],
    "XPCost": -40,
    "moneyCost": null,
    "influenceCost": null,
@@ -14449,6 +14999,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 2,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -14514,6 +15066,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -14618,6 +15171,10 @@
    "dataName": "Corrupt",
    "friendlyName": "Corrupt",
    "grouping": 5,
+   "tags": [
+      "Badguy",
+      ""
+   ],
    "XPCost": -40,
    "moneyCost": null,
    "influenceCost": null,
@@ -14634,6 +15191,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Espionage",
@@ -14699,6 +15258,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -14803,6 +15363,10 @@
    "dataName": "QuickLearner",
    "friendlyName": "Quick Learner",
    "grouping": 10,
+   "tags": [
+      "Nerd",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -14819,6 +15383,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": -0.2,
+   "rerollTrait": "Demanding",
+   "rerollTraitBonus": 10,
    "statMods": [
       {
          "stat": "",
@@ -14884,6 +15450,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 5,
    "classChance": [
       {
@@ -14988,6 +15555,10 @@
    "dataName": "Striver",
    "friendlyName": "Striver",
    "grouping": 10,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -15004,6 +15575,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": -0.3,
+   "rerollTrait": "Demanding",
+   "rerollTraitBonus": 50,
    "statMods": [
       {
          "stat": "",
@@ -15069,6 +15642,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 2,
    "classChance": [
       {
@@ -15173,6 +15747,10 @@
    "dataName": "Inflexible",
    "friendlyName": "Inflexible",
    "grouping": 10,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": -40,
    "moneyCost": null,
    "influenceCost": null,
@@ -15189,6 +15767,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": 0.1,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "",
@@ -15254,6 +15834,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 2,
    "classChance": [
       {
@@ -15358,6 +15939,10 @@
    "dataName": "Survivor",
    "friendlyName": "Survivor",
    "grouping": null,
+   "tags": [
+      "Tough",
+      ""
+   ],
    "XPCost": 10,
    "moneyCost": null,
    "influenceCost": null,
@@ -15374,6 +15959,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -15439,6 +16026,7 @@
       }
    ],
    "specialTraitRule": "Survivor",
+   "specialTraitRuleValue": null,
    "baseChance": 2,
    "classChance": [
       {
@@ -15543,6 +16131,10 @@
    "dataName": "Vengeful",
    "friendlyName": "Vengeful",
    "grouping": null,
+   "tags": [
+      "Tough",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -15559,6 +16151,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Espionage",
@@ -15624,6 +16218,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -15728,6 +16323,10 @@
    "dataName": "Declining",
    "friendlyName": "Declining",
    "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -15744,6 +16343,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": 1,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -15809,6 +16410,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -15913,6 +16515,10 @@
    "dataName": "SecondWave",
    "friendlyName": "Second Wave",
    "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": null,
    "influenceCost": null,
@@ -15929,6 +16535,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Espionage",
@@ -15994,6 +16602,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -16098,6 +16707,10 @@
    "dataName": "LoyaltyMonitor",
    "friendlyName": "Loyalty Monitor",
    "grouping": null,
+   "tags": [
+      "Augmented",
+      "NerveStapled"
+   ],
    "XPCost": null,
    "moneyCost": 500,
    "influenceCost": null,
@@ -16114,6 +16727,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Loyalty",
@@ -16179,6 +16794,7 @@
       }
    ],
    "specialTraitRule": "LoyaltyMonitor",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -16283,6 +16899,10 @@
    "dataName": "ForceTracker",
    "friendlyName": "Force Tracker",
    "grouping": 11,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 500,
    "influenceCost": null,
@@ -16299,6 +16919,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Command",
@@ -16364,6 +16986,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -16468,6 +17091,10 @@
    "dataName": "Datajack",
    "friendlyName": "Datajack",
    "grouping": 12,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 500,
    "influenceCost": null,
@@ -16484,6 +17111,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -16549,6 +17178,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -16653,6 +17283,10 @@
    "dataName": "PersonalProtectionMonitor",
    "friendlyName": "Personal Protection Monitor",
    "grouping": 13,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 500,
    "influenceCost": null,
@@ -16669,6 +17303,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -16734,6 +17370,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -16838,6 +17475,10 @@
    "dataName": "EmbeddedSensorPackage",
    "friendlyName": "Embedded Sensor Package",
    "grouping": 14,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 500,
    "influenceCost": null,
@@ -16854,6 +17495,8 @@
    "detectionInvBonus": 1,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -16919,6 +17562,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -17023,6 +17667,10 @@
    "dataName": "IntelligentAssistant",
    "friendlyName": "Intelligent Assistant",
    "grouping": 15,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 500,
    "influenceCost": null,
@@ -17039,6 +17687,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Administration",
@@ -17104,6 +17754,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -17208,6 +17859,10 @@
    "dataName": "Scrambler",
    "friendlyName": "Scrambler",
    "grouping": 16,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 500,
    "influenceCost": null,
@@ -17224,6 +17879,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Espionage",
@@ -17289,6 +17946,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -17393,6 +18051,10 @@
    "dataName": "BattleComputer",
    "friendlyName": "Battle Computer",
    "grouping": 11,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 1000,
    "influenceCost": null,
@@ -17409,6 +18071,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Command",
@@ -17474,6 +18138,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -17578,6 +18243,10 @@
    "dataName": "NeuralInterlink",
    "friendlyName": "Neural Interlink",
    "grouping": 12,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 1000,
    "influenceCost": null,
@@ -17594,6 +18263,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -17659,6 +18330,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -17763,6 +18435,10 @@
    "dataName": "PersonalDefenseSystem",
    "friendlyName": "Personal Defense System",
    "grouping": 13,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 1000,
    "influenceCost": null,
@@ -17777,8 +18453,10 @@
    "incomeBoost": null,
    "incomeResearch": null,
    "detectionInvBonus": null,
-   "detectionEspBonus": null,
+   "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -17844,6 +18522,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -17948,6 +18627,10 @@
    "dataName": "EnhancedSenses",
    "friendlyName": "Enhanced Senses",
    "grouping": 14,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 1000,
    "influenceCost": null,
@@ -17961,9 +18644,11 @@
    "incomeOps": null,
    "incomeBoost": null,
    "incomeResearch": null,
-   "detectionInvBonus": null,
+   "detectionInvBonus": 1,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -18029,6 +18714,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -18133,6 +18819,10 @@
    "dataName": "ManagementAI",
    "friendlyName": "Management AI",
    "grouping": 15,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 1000,
    "influenceCost": null,
@@ -18149,6 +18839,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Administration",
@@ -18214,6 +18906,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -18318,6 +19011,10 @@
    "dataName": "Countermeasures",
    "friendlyName": "Countermeasures",
    "grouping": 16,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 1000,
    "influenceCost": null,
@@ -18332,8 +19029,10 @@
    "incomeBoost": null,
    "incomeResearch": null,
    "detectionInvBonus": null,
-   "detectionEspBonus": null,
+   "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Espionage",
@@ -18399,6 +19098,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -18503,6 +19203,10 @@
    "dataName": "StrategicAI",
    "friendlyName": "Strategic AI",
    "grouping": 11,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 2000,
    "influenceCost": null,
@@ -18519,6 +19223,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Command",
@@ -18584,6 +19290,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -18688,6 +19395,10 @@
    "dataName": "CognitiveEnhancer",
    "friendlyName": "Cognitive Enhancer",
    "grouping": 12,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 2000,
    "influenceCost": null,
@@ -18704,6 +19415,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Science",
@@ -18769,6 +19482,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -18873,6 +19587,10 @@
    "dataName": "GuardianAngelImplant",
    "friendlyName": "Guardian Angel Implant",
    "grouping": 13,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 2000,
    "influenceCost": null,
@@ -18887,8 +19605,10 @@
    "incomeBoost": null,
    "incomeResearch": null,
    "detectionInvBonus": null,
-   "detectionEspBonus": null,
+   "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Security",
@@ -18954,6 +19674,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -19058,6 +19779,10 @@
    "dataName": "ArgusImplant",
    "friendlyName": "Argus Implant",
    "grouping": 14,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 2000,
    "influenceCost": null,
@@ -19071,9 +19796,11 @@
    "incomeOps": null,
    "incomeBoost": null,
    "incomeResearch": null,
-   "detectionInvBonus": null,
+   "detectionInvBonus": 1,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Investigation",
@@ -19139,6 +19866,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -19243,6 +19971,10 @@
    "dataName": "ExecutiveAI",
    "friendlyName": "Executive AI",
    "grouping": 15,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 2000,
    "influenceCost": null,
@@ -19259,6 +19991,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Administration",
@@ -19324,6 +20058,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -19428,6 +20163,10 @@
    "dataName": "StealthField",
    "friendlyName": "Stealth Field",
    "grouping": 16,
+   "tags": [
+      "Augmented",
+      ""
+   ],
    "XPCost": null,
    "moneyCost": 2000,
    "influenceCost": null,
@@ -19442,8 +20181,10 @@
    "incomeBoost": null,
    "incomeResearch": null,
    "detectionInvBonus": null,
-   "detectionEspBonus": null,
+   "detectionEspBonus": 1,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Espionage",
@@ -19509,6 +20250,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -19613,6 +20355,10 @@
    "dataName": "ForebrainStimulator",
    "friendlyName": "Forebrain Stimulator",
    "grouping": null,
+   "tags": [
+      "Augmented",
+      "NerveStapled"
+   ],
    "XPCost": null,
    "moneyCost": 2000,
    "influenceCost": null,
@@ -19629,6 +20375,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Loyalty",
@@ -19694,6 +20442,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -19798,6 +20547,10 @@
    "dataName": "PherocyteEmitter",
    "friendlyName": "Pherocyte Emitter",
    "grouping": 17,
+   "tags": [
+      "Augmented",
+      "AlienAugment"
+   ],
    "XPCost": null,
    "moneyCost": 5000,
    "influenceCost": null,
@@ -19814,6 +20567,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -19879,6 +20634,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -19983,6 +20739,10 @@
    "dataName": "PherocyteMassEmitter",
    "friendlyName": "Pherocyte Mass Emitter",
    "grouping": 17,
+   "tags": [
+      "Augmented",
+      "AlienAugment"
+   ],
    "XPCost": null,
    "moneyCost": 10000,
    "influenceCost": null,
@@ -19999,6 +20759,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -20064,6 +20826,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -20168,8 +20931,12 @@
    "dataName": "Indebted",
    "friendlyName": "Indebted",
    "grouping": 18,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
-   "moneyCost": -150000,
+   "moneyCost": -15000,
    "influenceCost": null,
    "opsCost": null,
    "boostCost": null,
@@ -20184,6 +20951,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -20249,6 +21018,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -20353,8 +21123,12 @@
    "dataName": "Delinquent",
    "friendlyName": "Delinquent",
    "grouping": 18,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
-   "moneyCost": -300000,
+   "moneyCost": -30000,
    "influenceCost": null,
    "opsCost": null,
    "boostCost": null,
@@ -20369,6 +21143,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": -4,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Persuasion",
@@ -20434,6 +21210,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -20538,8 +21315,12 @@
    "dataName": "Extorted",
    "friendlyName": "Extorted",
    "grouping": 18,
+   "tags": [
+      "",
+      ""
+   ],
    "XPCost": null,
-   "moneyCost": -100000,
+   "moneyCost": -10000,
    "influenceCost": null,
    "opsCost": null,
    "boostCost": null,
@@ -20554,6 +21335,8 @@
    "detectionInvBonus": null,
    "detectionEspBonus": null,
    "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
    "statMods": [
       {
          "stat": "Loyalty",
@@ -20619,6 +21402,7 @@
       }
    ],
    "specialTraitRule": "",
+   "specialTraitRuleValue": null,
    "baseChance": 0,
    "classChance": [
       {
@@ -20716,6 +21500,1734 @@
       {
          "councilorClass": "",
          "chance": null
+      }
+   ]
+},
+ {
+   "dataName": "Marked",
+   "friendlyName": "Marked",
+   "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": -50,
+   "moneyCost": -1000,
+   "influenceCost": -500,
+   "opsCost": -100,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": -4,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "Security",
+         "operation": "Additive",
+         "strValue": "-10",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "Propaganda",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "",
+   "specialTraitRuleValue": null,
+   "baseChance": 0,
+   "classChance": [
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      },
+      {
+         "councilorClass": "",
+         "chance": null
+      }
+   ]
+},
+ {
+   "dataName": "Untouchable",
+   "friendlyName": "Untouchable",
+   "grouping": null,
+   "tags": [
+      "Badguy",
+      "Dangerous"
+   ],
+   "XPCost": 150,
+   "moneyCost": 500,
+   "influenceCost": 500,
+   "opsCost": 100,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "Security",
+         "operation": "Additive",
+         "strValue": "3",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "MarkedToAssassin",
+   "specialTraitRuleValue": null,
+   "baseChance": 0,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": 60
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": 40
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": null
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": null
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": 15
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": null
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": null
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": null
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
+      }
+   ]
+},
+ {
+   "dataName": "Beloved",
+   "friendlyName": "Beloved",
+   "grouping": null,
+   "tags": [
+      "Goodguy",
+      "Dangerous"
+   ],
+   "XPCost": null,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": 3,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "Persuasion",
+         "operation": "Additive",
+         "strValue": "1",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "Inspire",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "AtrocityIfAssassinationAttemptUpon",
+   "specialTraitRuleValue": 1,
+   "baseChance": 0,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 7
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": 80
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": 50
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": null
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": null
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": null
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": 3
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": null
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
+      }
+   ]
+},
+ {
+   "dataName": "Demanding",
+   "friendlyName": "Demanding",
+   "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": null,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "Administration",
+         "operation": "Additive",
+         "strValue": "2",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "Command",
+         "operation": "Additive",
+         "strValue": "1",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "LoyaltyLossOnFactionCriticalFailure",
+   "specialTraitRuleValue": -1,
+   "baseChance": 7,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": null
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": 40
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": null
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": 30
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": 12
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 12
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": 15
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": null
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": null
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": 40
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": 40
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
+      }
+   ]
+},
+ {
+   "dataName": "Insecure",
+   "friendlyName": "Insecure",
+   "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": -20,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "LoyaltyLossOnPersonalCritFailure",
+   "specialTraitRuleValue": -1,
+   "baseChance": 10,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": null
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": null
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": null
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": null
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": null
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": null
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": null
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": 15
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": 5
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": null
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": null
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
+      }
+   ]
+},
+ {
+   "dataName": "Anxious",
+   "friendlyName": "Anxious",
+   "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": -20,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "LoyaltyLossOnFactionCouncilorKilled",
+   "specialTraitRuleValue": -1,
+   "baseChance": 10,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 3
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": null
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": null
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": null
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": null
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": null
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": null
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": 30
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
+      }
+   ]
+},
+ {
+   "dataName": "ExpectsVictory",
+   "friendlyName": "Sensitive to Losses",
+   "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": -20,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "LoyaltyLossOnFactionHabDestroyedPerTier",
+   "specialTraitRuleValue": -1,
+   "baseChance": 20,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": null
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": null
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": null
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": null
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": null
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": null
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": null
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": 25
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": null
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": null
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": null
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": null
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": 35
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 30
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": null
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": null
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": null
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
+      }
+   ]
+},
+ {
+   "dataName": "FamilyTies",
+   "friendlyName": "Family Ties",
+   "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": null,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "Persuasion",
+         "operation": "Additive",
+         "strValue": "1",
+         "condition": {
+            "$type": "TICouncilorCondition_bInHomeNation",
+            "strIdx": "",
+            "sign": "EqualTo",
+            "strValue": "TRUE"
+         }
+      },
+      {
+         "stat": "Security",
+         "operation": "Additive",
+         "strValue": "1",
+         "condition": {
+            "$type": "TICouncilorCondition_bInHomeNation",
+            "strIdx": "",
+            "sign": "EqualTo",
+            "strValue": "TRUE"
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "LoyaltyLossOnHomeRegionNuked",
+   "specialTraitRuleValue": -10,
+   "baseChance": 30,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": 40
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": null
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": null
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": null
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": null
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": null
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": 25
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": null
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": 15
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": null
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": null
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": null
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": 5
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": null
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": null
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
+      }
+   ]
+},
+ {
+   "dataName": "Martyr",
+   "friendlyName": "Martyr",
+   "grouping": null,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": null,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": null,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": null,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "Persuasion",
+         "operation": "Additive",
+         "strValue": "1",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "Security",
+         "operation": "Additive",
+         "strValue": "-1",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "Inspire",
+      ""
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "specialTraitRule": "GlobalPropagandaIfKilled",
+   "specialTraitRuleValue": 35,
+   "baseChance": 0,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 3
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": 40
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": 3
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": 3
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": 2
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": 4
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": 3
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 30
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": 0
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": 1
+      },
+      {
+         "councilorClass": "tycoon",
+         "chance": 0
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": 0
       }
    ]
 }
