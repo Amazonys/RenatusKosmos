@@ -3043,7 +3043,7 @@
    "Y": 0,
    "latitude": -45,
    "longitude": -45,
-   "miningProfileName": "DryCarbonaceousMine",
+   "miningProfileName": "CarbonaceousMine",
    "backgroundPath": "habmodules/surface_18",
    "fabricatedData": "latitude and longitude"
  },
@@ -3055,7 +3055,7 @@
    "Y": 0,
    "latitude": 120,
    "longitude": 30,
-   "miningProfileName": "DryCarbonaceousMine",
+   "miningProfileName": "CarbonaceousMine",
    "backgroundPath": "habmodules/surface_18",
    "fabricatedData": "latitude and longitude"
  },
@@ -4831,7 +4831,7 @@
    "Y": 0,
    "latitude": null,
    "longitude": null,
-   "miningProfileName": "DryCarbonaceousMine",
+   "miningProfileName": "CarbonaceousMine",
    "backgroundPath": "habmodules/surface_07",
    "fabricatedData": ""
  },

@@ -98,7 +98,7 @@
    "dataName": "AdvancedHeatManagementConcepts",
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 2500,
    "prereqs": [
@@ -825,7 +825,7 @@
    "dataName": "GasCoreFissionSystems",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 20000,
    "prereqs": [
@@ -1307,7 +1307,7 @@
    "dataName": "MoltenCoreFissionSystems",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 10000,
    "prereqs": [
@@ -1322,7 +1322,7 @@
    "dataName": "NetworkedGlobalDefense",
    "techCategory": "MilitaryScience",
    "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": true,
+   "AI_criticalTech": false,
    "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [
@@ -1412,7 +1412,7 @@
    "dataName": "OrbitalRingHabs",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
@@ -1436,7 +1436,7 @@
    "dataName": "OrbitalTorusHabs",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 35000,
    "prereqs": [
@@ -1632,7 +1632,7 @@
    "dataName": "SettlementHabs",
    "techCategory": "LifeScience",
    "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 5000,
    "prereqs": [
@@ -1848,7 +1848,7 @@
    "dataName": "TransInterfaceWarfare",
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
-   "AI_criticalTech": false,
+   "AI_criticalTech": true,
    "endGameTech": false,
    "researchCost": 25000,
    "prereqs": [

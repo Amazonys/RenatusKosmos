@@ -153,6 +153,10 @@
       {
          "resource": "Projects",
          "value": 1
+      },
+      {
+         "resource": "",
+         "value": null
       }
    ],
    "startingResources": [
@@ -171,18 +175,25 @@
    ],
    "firstTechNames": [
       "DeepSystemSkywatch",
-      "OrbitalShipbuilding",
-      "OutpostHabs",
-      "MissiontotheMoon",
+      "AdvancedMagnetics",
+      "MassDrivers",
       "SpaceMiningandRefining",
-      "MissiontoMars",
+      "OrbitalShipbuilding",
       "DeepSpacePropulsionConcepts",
-      "PrinciplesofSpaceWarfare",
-      "HighEnergyLasers",
+      "MissiontotheMoon",
+      "MissiontoMars",
+      "OutpostHabs",
+      "OrbitalRingHabs",
       "Railguns",
-      "InfraredCombatLasers",
-      "ArcLasers",
-      "Coilguns"
+      "Coilguns",
+      "ArrivalSecurity",
+      "SpaceAssaultDoctrine"
+   ],
+   "winnerTechNames": [
+      "MissiontoJupiter",
+      "MissiontoSaturn",
+      "MissiontotheOuterPlanets",
+      "NuclearFusionInSpace"
    ],
    "habPreferences": {
       "Money": 1,
@@ -217,7 +228,7 @@
    "difficulty": 0,
    "tutorialAllowed": false,
    "councilorIconBase": "_destroy",
-   "leaderDataname": "DestroyLeader01",
+   "leaderDataname": "ResistLeader01",
    "defaultPresetName": "Destroy",
    "hullIndex_default": 0,
    "hullIndex_chem": 0,
@@ -350,6 +361,10 @@
       {
          "resource": "Projects",
          "value": 1
+      },
+      {
+         "resource": "",
+         "value": null
       }
    ],
    "startingResources": [
@@ -367,19 +382,26 @@
       }
    ],
    "firstTechNames": [
-      "TerrestrialMilitaryScience",
-      "ArrivalSecurity",
-      "NetworkedGlobalDefense",
-      "HighEnergyLasers",
       "PrinciplesofSpaceWarfare",
-      "MilitarizationofSpace",
-      "NextGenerationAerospace",
       "TransInterfaceWarfare",
+      "MissionToMars",
       "HighEnergyLasers",
-      "Railguns",
+      "TerrestrialMilitaryScience",
+      "NetworkedGlobalDefense",
+      "MilitarizationofSpace",
       "InfraredCombatLasers",
       "VisibleCombatLasers",
-      "Coilguns"
+      "ArcLasers",
+      "PhasedArrayLasers",
+      "CarbonNanotubes",
+      "Diamondoids",
+      "MissileWarfareDoctrine"
+   ],
+   "winnerTechNames": [
+      "MissiontoJupiter",
+      "MissiontoSaturn",
+      "MissiontotheOuterPlanets",
+      "NuclearFusionInSpace"
    ],
    "habPreferences": {
       "Money": 1,
@@ -547,6 +569,10 @@
       {
          "resource": "Projects",
          "value": 1
+      },
+      {
+         "resource": "",
+         "value": null
       }
    ],
    "startingResources": [
@@ -564,18 +590,26 @@
       }
    ],
    "firstTechNames": [
-      "ArrivalEconomics",
       "AdvancedCarbonManipulation",
+      "AdvancedMagnetics",
+      "MassDrivers",
+      "SpaceMiningandRefining",
+      "OutpostHabs",
+      "MissiontotheAsteroids",
+      "Biotechnology",
       "AdvancedAtomicManipulation",
+      "ArrivalEconomics",
+      "CarbonNanotubes",
+      "AdvancedSuperconductors",
       "IndustrializationofSpace",
       "SpaceCommerce",
-      "MissiontotheAsteroids",
-      "AdvancedSuperconductors",
-      "SpaceMiningandRefining",
-      "CarbonNanotubes",
+      "QuantumEncryption"
+   ],
+   "winnerTechNames": [
       "MissiontoJupiter",
       "MissiontoSaturn",
-      "MissiontotheOuterPlanets"
+      "MissiontotheOuterPlanets",
+      "NuclearFusionInSpace"
    ],
    "habPreferences": {
       "Money": 2,
@@ -743,6 +777,10 @@
       {
          "resource": "Projects",
          "value": 1
+      },
+      {
+         "resource": "",
+         "value": null
       }
    ],
    "startingResources": [
@@ -760,14 +798,26 @@
       }
    ],
    "firstTechNames": [
-      "ArrivalDomesticPolitics",
+      "ArrivalSociology",
+      "ArrivalInternatonalRelations",
+      "Cybernetics",
       "ArrivalPsychology",
       "ArrivalMassCommunications",
       "NetworkedPropaganda",
       "ArrivalCulture",
       "IndependenceMovements",
       "FallofEmpires",
-      "DeepSystemSkywatch"
+      "UnityMovements",
+      "GreatNations",
+      "ArrivalDomesticPolitics",
+      "ArrivalSecurity",
+      "ArrivalGovernance"
+   ],
+   "winnerTechNames": [
+      "",
+      "",
+      "",
+      ""
    ],
    "habPreferences": {
       "Money": 1,
@@ -935,6 +985,10 @@
       {
          "resource": "Projects",
          "value": 1
+      },
+      {
+         "resource": "",
+         "value": null
       }
    ],
    "startingResources": [
@@ -952,14 +1006,26 @@
       }
    ],
    "firstTechNames": [
-      "ArrivalInternationalRelations",
-      "ArrivalSociology",
-      "ArrivalGovernance",
+      "AdAstra",
+      "OurSpaceFuture",
+      "ArrivalDomesticPolitics",
+      "ArrivalInternatonalRelations",
+      "ArrivalInternationalDevelopment",
       "UnityMovements",
       "GreatNations",
-      "ArrivalPsychology",
+      "ArrivalLaw",
+      "QuantumEncryption",
+      "ArrivalGovernance",
+      "CleanEnergy",
+      "ClimateChangeMitigation",
+      "ArrivalMassCommunications",
+      "Biotechnology"
+   ],
+   "winnerTechNames": [
       "ExtendedSpaceSurvival",
-      "OrbitalTorusHabs"
+      "OrbitalTorusHabs",
+      "",
+      ""
    ],
    "habPreferences": {
       "Money": 1,
@@ -1148,17 +1214,26 @@
       }
    ],
    "firstTechNames": [
-      "PhotonicComputing",
-      "AdvancedMagnetics",
-      "OutpostHabs",
-      "AdvancedNeuralNetworks",
+      "SpaceResearch",
+      "DirectedSpaceResearch",
+      "SpaceAgriculture",
       "MissiontotheMoon",
       "MissiontoMars",
-      "CarbonNanotubes",
+      "MissiontotheAsteroids",
+      "NuclearFissioninSpace",
+      "NuclearFusioninSpace",
+      "AugmentedReality",
+      "PhotonicComputing",
+      "AdvancedNeuralNetworks",
+      "ExtendedSpaceSurvival",
+      "QuantumComputing",
+      "MagneticNozzles"
+   ],
+   "winnerTechNames": [
       "MissiontoJupiter",
       "MissiontoSaturn",
       "MissiontotheOuterPlanets",
-      "MissiontotheAsteroids"
+      "NuclearFusionInSpace"
    ],
    "habPreferences": {
       "Money": 1,
@@ -1348,18 +1423,25 @@
    ],
    "firstTechNames": [
       "AdvancedMagnetics",
+      "MassDrivers",
+      "SpaceMiningandRefining",
+      "OrbitalShipbuilding",
       "DeepSpacePropulsionConcepts",
+      "SpaceResearch",
+      "DirectedSpaceResearch",
+      "NuclearFissioninSpace",
+      "NuclearFusionInSpace",
+      "MissiontotheMoon",
+      "MagneticNozzles",
+      "PhasedArrayLasers",
+      "QuantumComputing",
+      "AdvancedHeatManagementConcepts"
+   ],
+   "winnerTechNames": [
+      "TitanicSpacecraft",
       "TerawattFusionReactors",
       "MissiontotheInnerPlanets",
-      "IndustrializationofSpace",
-      "HighEnergyLasers",
-      "ExtendedSpaceSurvival",
-      "OrbitalTorusHabs",
-      "TitanicSpacecraft",
-      "InfraredCombatLasers",
-      "ArcLasers",
-      "PhasedArrayLasers",
-      "CarbonNanotubes"
+      "OrbitalTorusHabs"
    ],
    "habPreferences": {
       "Money": 1,
@@ -1386,6 +1468,9 @@
    "playerMood": 7,
    "encMood": 16,
    "ideologyName": "alien",
+   "victoryTemplateName": "",
+   "winningOrg": "",
+   "spaceOrg": "",
    "isAlien": true,
    "activePlayerAllowed": false,
    "difficulty": 0,
@@ -1419,7 +1504,16 @@
    "mediumShipNameListIdx": "Alien1",
    "largeShipNameListIdx": "Alien1",
    "habNameListIdx": "Alien1",
-   "guaranteedMissions": [],
+   "guaranteedMissions": [
+      [
+         "",
+         ""
+      ],
+      [
+         "",
+         ""
+      ]
+   ],
    "AIValues": [
       {
          "proAlien": 1,
@@ -1507,8 +1601,66 @@
       {
          "resource": "MissionControl",
          "value": 50
+      },
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
       }
    ],
-   "startingResources": []
+   "startingResources": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "firstTechNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "winnerTechNames": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1,
+      "Operations": 1,
+      "Research": 1,
+      "Boost": 1,
+      "MissionControl": 1,
+      "SpaceResources": 1,
+      "Shipbuilding": 1,
+      "Defense": 1
+   }
 }
 ]

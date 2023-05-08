@@ -140,7 +140,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 1.5,
+   "miningModifier": 1.25,
    "controlPointCapacity": 0,
    "techBonuses": [],
    "specialRules": [
@@ -1688,7 +1688,7 @@
    "destroyed": false,
    "tier": 2,
    "requiredProjectName": "Project_AdministrationTower",
-   "crew": 100,
+   "crew": 200,
    "power": -30,
    "reserved": 0,
    "baseMass_tons": 150,
@@ -1715,6 +1715,7 @@
    "specialRulesValue": 0.05,
    "supportMaterials_month": {
       "money": 20,
+      "boost": 1,
       "volatiles": 0.1,
       "metals": 0.1
    },
@@ -3453,7 +3454,7 @@
    "tier": 3,
    "upgradesFromName": "AdministrationTower",
    "requiredProjectName": "Project_AdministrationComplex",
-   "crew": 500,
+   "crew": 1000,
    "power": -120,
    "reserved": 0,
    "baseMass_tons": 750,
@@ -3471,7 +3472,7 @@
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
    "miningModifier": 0,
-   "controlPointCapacity": 60,
+   "controlPointCapacity": 50,
    "techBonuses": [],
    "specialRules": [
       "LEOControlPointCapacity",
@@ -3479,9 +3480,10 @@
    ],
    "specialRulesValue": 0.1,
    "supportMaterials_month": {
-      "money": 60,
-      "volatiles": 0.3,
-      "metals": 0.3
+      "money": 100,
+      "boost": 3,
+      "volatiles": 1,
+      "metals": 1
    },
    "weightedBuildMaterials": {
       "water": 0.08,
