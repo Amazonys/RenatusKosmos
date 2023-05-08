@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1975728884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 483b80bbd1e98a5f456594bdd67775d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a588362291d7e088babb6d2883bf90ee
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 03aec55a6281382489fcb7f280fa99a4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: PavonisInteractive.TerraInvicta.CurvedPolyPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: PavonisInteractive.TerraInvicta.CurvedPolygon
+- AssemblyName: Assembly-CSharp
+  ClassName: PavonisInteractive.TerraInvicta.LabelPosition
+- AssemblyName: Assembly-CSharp
+  ClassName: PavonisInteractive.TerraInvicta.TIRegionOutline
+- AssemblyName: Assembly-CSharp
+  ClassName: PavonisInteractive.TerraInvicta.Vector3Array
+- AssemblyName: Assembly-CSharp
+  ClassName: PavonisInteractive.TerraInvicta.Vector3List
+Assets:
+- Assets/ArtResources/NationMaterial/EarthRegionOutlines_PVC.asset
+Dependencies: []
