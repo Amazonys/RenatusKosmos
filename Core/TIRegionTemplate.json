@@ -1,2509 +1,7 @@
 [
  {
-   "dataName": "_Guyana-Suriname",
-   "mapRegionName": "map_Guyana-Suriname",
-   "primaryCity": "Paramaribo",
-   "population_Millions": 2.785,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Vulnerable",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": 1,
-   "asi": 1,
-   "eas": null,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "CRIB",
-   "acc_asi": "CRIB",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "English",
-      "Dutch",
-      "English",
-      ""
-   ],
-   "afrFamily": [
-      "English",
-      "Dutch",
-      "Dutch",
-      ""
-   ],
-   "afrWeight": [
-      2,
-      1,
-      1,
-      null
-   ],
-   "asiPersonal": [
-      "English",
-      "Hindi",
-      "English",
-      "English"
-   ],
-   "asiFamily": [
-      "Hindi",
-      "Hindi",
-      "Indonesian",
-      "Bengali"
-   ],
-   "asiWeight": [
-      3,
-      2,
-      1,
-      1
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Guyana, Suriname"
-},
- {
-   "dataName": "_Caucasus",
-   "mapRegionName": "map_Caucasus",
-   "primaryCity": "Baku",
-   "population_Millions": 17.181,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": 2,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "RUSN",
-   "acc_eas": "",
-   "acc_eur": "RUSN",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "Azeri",
-      "Armenian",
-      "Georgian",
-      ""
-   ],
-   "asiFamily": [
-      "Azeri",
-      "Armenian",
-      "Georgian",
-      ""
-   ],
-   "asiWeight": [
-      11,
-      4,
-      1,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Georgian",
-      "Russian",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "Georgian",
-      "Russian",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      10,
-      1,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Azerbaijan, Armenia, Georgia"
-},
- {
-   "dataName": "_CentralAmerica",
-   "mapRegionName": "map_CentralAmerica",
-   "primaryCity": "Guatemala City",
-   "population_Millions": 51.46,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Vulnerable",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": 1,
-   "asi": null,
-   "eas": null,
-   "eur": null,
-   "his": 80,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "CRIB",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "ENGL",
-   "acc_his": "LATN",
-   "acc_oce": "",
-   "afrPersonal": [
-      "English",
-      "English",
-      "Hispanic-American",
-      ""
-   ],
-   "afrFamily": [
-      "English",
-      "Hispanic-American",
-      "Hispanic-American",
-      ""
-   ],
-   "afrWeight": [
-      1,
-      1,
-      1,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "Hispanic-American",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "Hispanic-American",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      1,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama"
-},
- {
-   "dataName": "_Chile",
-   "mapRegionName": "map_Chile",
-   "primaryCity": "Santiago",
-   "population_Millions": 19.212,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": null,
-   "his": 1,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "LATN",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "Hispanic-American",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "Hispanic-American",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      1,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": ""
-},
- {
-   "dataName": "_SouthernBalkans",
-   "mapRegionName": "map_SouthernBalkans",
-   "primaryCity": "Athens",
-   "population_Millions": 16.541,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "EURO",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Greek",
-      "Macedonian",
-      "Albanian",
-      "Turkish"
-   ],
-   "eurFamily": [
-      "Greek",
-      "Macedonian",
-      "Albanian",
-      "Turkish"
-   ],
-   "eurWeight": [
-      66,
-      12,
-      18,
-      1
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Greece, Cyprus, Macedonia, Albania"
-},
- {
-   "dataName": "_CentralEurope",
-   "mapRegionName": "map_CentralEurope",
-   "primaryCity": "Budapest",
-   "population_Millions": 25.819,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "No",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "RUSN",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Czech-Slovak",
-      "Hungarian",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "Czech-Slovak",
-      "Hungarian",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      20,
-      10,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Hungary, Czechia, Slovakia"
-},
- {
-   "dataName": "_EasternBalkans",
-   "mapRegionName": "map_EasternBalkans",
-   "primaryCity": "Bucharest",
-   "population_Millions": 30.049,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "EURO",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Romanian",
-      "Bulgarian",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "Romanian",
-      "Bulgarian",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      20,
-      7,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Romania, Bulgaria, Moldova"
-},
- {
-   "dataName": "_Scandanavia",
-   "mapRegionName": "map_Scandanavia",
-   "primaryCity": "Stockholm",
-   "population_Millions": 10.16,
-   "resource": true,
-   "oilResource": true,
-   "coreEco": null,
-   "environment": "Beneficiary",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": 1,
-   "eas": null,
-   "eur": 19,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "EURO",
-   "acc_eas": "",
-   "acc_eur": "EURO",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "Muslim",
-      "Kurdish",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "Muslim",
-      "Kurdish",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      1,
-      2,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Swedish",
-      "Finnish",
-      "Norwegian",
-      "Danish"
-   ],
-   "eurFamily": [
-      "Swedish",
-      "Finnish",
-      "Norwegian",
-      "Danish"
-   ],
-   "eurWeight": [
-      20,
-      11,
-      10,
-      11
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Denmark, Norway, Sweden, Findland, Svalbard, Faroe Islands"
-},
- {
-   "dataName": "_Israel",
-   "mapRegionName": "map_Israel",
-   "primaryCity": "Tel Aviv",
-   "population_Millions": 8.79,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 1.2,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": 3,
-   "eas": null,
-   "eur": 8,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "AMER",
-   "acc_eas": "",
-   "acc_eur": "AMER",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "Muslim",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "Muslim",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      1,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Israeli",
-      "Russian",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "Israeli",
-      "Russian",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      20,
-      1,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": ""
-},
- {
-   "dataName": "_Gaza",
-   "mapRegionName": "map_Palestine",
-   "primaryCity": "Gaza City",
-   "population_Millions": 5.223,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": 1,
-   "eas": null,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "ARBC",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "Muslim",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "Muslim",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      1,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": ""
-},
- {
-   "dataName": "_LowerGuinea",
-   "mapRegionName": "map_LowerGuinea",
-   "primaryCity": "Yaounde",
-   "population_Millions": 36.833,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": 1,
-   "asi": null,
-   "eas": null,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "AFR",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "Cameroonian",
-      "Congolese",
-      "French",
-      "English"
-   ],
-   "afrFamily": [
-      "Cameroonian",
-      "Congolese",
-      "Cameroonian",
-      "Cameroonian"
-   ],
-   "afrWeight": [
-      4,
-      2,
-      1,
-      1
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Republic of the Congo, Gabon, Equatorial Guinea, Sao Tome and Principe, Cameroon"
-},
-{
-   "dataName": "Benin",
-   "mapRegionName": "map_Benin",
-   "primaryCity": "Lome",
-   "population_Millions": 21.595,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": 1,
-   "asi": null,
-   "eas": null,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "AFR",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "Akan",
-      "English",
-      "French",
-      "English"
-   ],
-   "afrFamily": [
-      "Akan",
-      "Akan",
-      "Akan",
-      "Saharan"
-   ],
-   "afrWeight": [
-      4,
-      2,
-      1,
-      1
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Benin, Togo"
-},
- {
-   "dataName": "_MiddleGuinea",
-   "mapRegionName": "map_MiddleGuinea",
-   "primaryCity": "Accra",
-   "population_Millions": 32.586,
-   "resource": true,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": 1,
-   "asi": null,
-   "eas": null,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "AFR",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "Akan",
-      "English",
-      "French",
-      "English"
-   ],
-   "afrFamily": [
-      "Akan",
-      "Akan",
-      "Akan",
-      "Saharan"
-   ],
-   "afrWeight": [
-      4,
-      2,
-      1,
-      1
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Ghana"
-},
- {
-   "dataName": "_WesternBalkans",
-   "mapRegionName": "map_WesternBalkans",
-   "primaryCity": "Sarajevo",
-   "population_Millions": 18.75,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "RUSN",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Bosnian",
-      "Serbo-Croatian",
-      "Albanian",
-      "Slovene"
-   ],
-   "eurFamily": [
-      "Bosnian",
-      "Serbo-Croatian",
-      "Albanian",
-      "Slovene"
-   ],
-   "eurWeight": [
-      4,
-      11,
-      1,
-      2
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Serbia, Bosnia-Herzegovina, Kosovo, Montenegro, Croatia, Slovenia"
-},
- {
-   "dataName": "_Morocco",
-   "mapRegionName": "map_Morocco",
-   "primaryCity": "Rabat",
-   "population_Millions": 37.906,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Standard",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": 1,
-   "eas": null,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "ARBC",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "Berber",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "Berber",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      1,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Morocco, Western Sahara"
-},
- {
-   "dataName": "_St.Petersburg",
-   "mapRegionName": "map_St.Petersburg",
-   "primaryCity": "St. Petersburg",
-   "population_Millions": 13.552,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": true,
-   "environment": "Beneficiary",
-   "boostPerYear_tons": 75,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": null,
-   "eur": 1,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "RUSN",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "Russian",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "Russian",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      1,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Northwestern Federal District"
-},
- {
-   "dataName": "_Thailand",
-   "mapRegionName": "map_Thailand",
-   "primaryCity": "Bangkok",
-   "population_Millions": 69.951,
-   "resource": null,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Vulnerable",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": null,
-   "asi": null,
-   "eas": 1,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "",
-   "acc_asi": "",
-   "acc_eas": "AMER",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "afrWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "Thai-Lao",
-      "Malay",
-      "Khmer",
-      ""
-   ],
-   "easFamily": [
-      "Thai-Lao",
-      "Malay",
-      "Khmer",
-      ""
-   ],
-   "easWeight": [
-      "35",
-      "1",
-      1,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": ""
-},
- {
-   "dataName": "_UpperGuinea",
-   "mapRegionName": "map_UpperGuinea",
-   "primaryCity": "Dakar",
-   "population_Millions": 49.066,
-   "resource": true,
-   "oilResource": null,
-   "coreEco": null,
-   "environment": "Vulnerable",
-   "boostPerYear_tons": 0,
-   "missionControl": 0,
-   "worldOcean": "Yes",
-   "afr": 1,
-   "asi": null,
-   "eas": null,
-   "eur": null,
-   "his": null,
-   "oce": null,
-   "language": "ENG",
-   "acc_afr": "AFR",
-   "acc_asi": "",
-   "acc_eas": "",
-   "acc_eur": "",
-   "acc_his": "",
-   "acc_oce": "",
-   "afrPersonal": [
-      "Senegalese",
-      "French",
-      "English",
-      ""
-   ],
-   "afrFamily": [
-      "Senegalese",
-      "Senegalese",
-      "Senegalese",
-      ""
-   ],
-   "afrWeight": [
-      5,
-      2,
-      1,
-      null
-   ],
-   "asiPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "asiWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "easPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "easWeight": [
-      "",
-      "",
-      null,
-      null
-   ],
-   "eurPersonal": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurFamily": [
-      "",
-      "",
-      "",
-      ""
-   ],
-   "eurWeight": [
-      null,
-      null,
-      null,
-      null
-   ],
-   "hisPersonal": [
-      "",
-      "",
-      ""
-   ],
-   "hisFamily": [
-      "",
-      "",
-      ""
-   ],
-   "hisWeight": [
-      null,
-      null,
-      null
-   ],
-   "ocePersonal": [
-      "",
-      "",
-      ""
-   ],
-   "oceFamily": [
-      "",
-      "",
-      ""
-   ],
-   "oceWeight": [
-      null,
-      null,
-      null
-   ],
-   "illustrationPathStrs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "occupyingNation": "",
-   "occupationValue": 0,
-   "composedOf": "Senegal, Gambia, Guinea-Bissau, Guinea, Sierra Leone, Liberia"
-},
- {
    "dataName": "Afghanistan",
-   "mapRegionName": "map_Afghanistan",
+   "mapRegionName": "map_AfghanistanAMYZ",
    "primaryCity": "Kabul",
    "population_Millions": 18.229,
    "resource": null,
@@ -2642,7 +140,7 @@
 },
 {
    "dataName": "MazarSharif",
-   "mapRegionName": "map_MazarSharif",
+   "mapRegionName": "map_MazarSharifAMYZ",
    "primaryCity": "Mazar-i-Sharif",
    "population_Millions": 11.207,
    "resource": null,
@@ -2780,8 +278,147 @@
    "composedOf": ""
 },
 {
+   "dataName": "Benin",
+   "mapRegionName": "map_BeninAMYZ",
+   "primaryCity": "Lome",
+   "population_Millions": 21.595,
+   "resource": null,
+   "oilResource": null,
+   "coreEco": null,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": null,
+   "eas": null,
+   "eur": null,
+   "his": null,
+   "oce": null,
+   "language": "ENG",
+   "acc_afr": "AFR",
+   "acc_asi": "",
+   "acc_eas": "",
+   "acc_eur": "",
+   "acc_his": "",
+   "acc_oce": "",
+   "afrPersonal": [
+      "Akan",
+      "English",
+      "French",
+      "English"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan",
+      "Akan",
+      "Saharan"
+   ],
+   "afrWeight": [
+      4,
+      2,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "asiWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "easPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "easWeight": [
+      "",
+      "",
+      null,
+      null
+   ],
+   "eurPersonal": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurFamily": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "eurWeight": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "hisPersonal": [
+      "",
+      "",
+      ""
+   ],
+   "hisFamily": [
+      "",
+      "",
+      ""
+   ],
+   "hisWeight": [
+      null,
+      null,
+      null
+   ],
+   "ocePersonal": [
+      "",
+      "",
+      ""
+   ],
+   "oceFamily": [
+      "",
+      "",
+      ""
+   ],
+   "oceWeight": [
+      null,
+      null,
+      null
+   ],
+   "illustrationPathStrs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "occupyingNation": "",
+   "occupationValue": 0,
+   "composedOf": "Benin, Togo"
+},
+{
    "dataName": "Kandahar",
-   "mapRegionName": "map_Kandahar",
+   "mapRegionName": "map_KandaharAMYZ",
    "primaryCity": "Kandahar",
    "population_Millions": 5.034,
    "resource": null,
@@ -2920,7 +557,7 @@
 },
 {
    "dataName": "Herat",
-   "mapRegionName": "map_Herat",
+   "mapRegionName": "map_HeratAMYZ",
    "primaryCity": "Herat",
    "population_Millions": 6.577,
    "resource": null,
@@ -3059,7 +696,7 @@
 },
  {
    "dataName": "Algeria",
-   "mapRegionName": "map_Algeria",
+   "mapRegionName": "map_AlgeriaAMYZ",
    "primaryCity": "Algiers",
    "population_Millions": 41.923,
    "resource": null,
@@ -3198,7 +835,7 @@
 },
 {
    "dataName": "Ghardaia",
-   "mapRegionName": "map_Ghardaia",
+   "mapRegionName": "map_GhardaiaAMYZ",
    "primaryCity": "Ghardaia",
    "population_Millions": 2.116,
    "resource": true,
@@ -3337,7 +974,7 @@
 },
 {
    "dataName": "Bechar",
-   "mapRegionName": "map_Bechar",
+   "mapRegionName": "map_BecharAMYZ",
    "primaryCity": "Bechar",
    "population_Millions": 1.323,
    "resource": true,
@@ -3476,7 +1113,7 @@
 },
 {
    "dataName": "Tamanrasset",
-   "mapRegionName": "map_Tamanrasset",
+   "mapRegionName": "map_TamanrassetAMYZ",
    "primaryCity": "Tamanrasset",
    "population_Millions": 0.333,
    "resource": true,
@@ -3615,7 +1252,7 @@
 },
  {
    "dataName": "Angola",
-   "mapRegionName": "map_Angola",
+   "mapRegionName": "map_AngolaAMYZ",
    "primaryCity": "Luanda",
    "population_Millions": 18.534,
    "resource": true,
@@ -3754,7 +1391,7 @@
 },
 {
    "dataName": "Benguela",
-   "mapRegionName": "map_Benguela",
+   "mapRegionName": "map_BenguelaAMYZ",
    "primaryCity": "Benguela",
    "population_Millions": 13.394,
    "resource": true,
@@ -3893,7 +1530,7 @@
 },
 {
    "dataName": "Luena",
-   "mapRegionName": "map_Luena",
+   "mapRegionName": "map_LuenaAMYZ",
    "primaryCity": "Luena",
    "population_Millions": 3.722,
    "resource": true,
@@ -4032,7 +1669,7 @@
 },
  {
    "dataName": "Salta",
-   "mapRegionName": "map_Salta",
+   "mapRegionName": "map_SaltaAMYZ",
    "primaryCity": "Salta",
    "population_Millions": 5.553,
    "resource": true,
@@ -4171,7 +1808,7 @@
 },
 {
    "dataName": "GranChaco",
-   "mapRegionName": "map_GranChaco",
+   "mapRegionName": "map_GranChacoAMYZ",
    "primaryCity": "Santiago del Estero",
    "population_Millions": 2.836,
    "resource": null,
@@ -4310,7 +1947,7 @@
 },
 {
    "dataName": "Cordoba",
-   "mapRegionName": "map_Cordoba",
+   "mapRegionName": "map_CordobaAMYZ",
    "primaryCity": "Cordoba",
    "population_Millions": 6.724,
    "resource": null,
@@ -4449,7 +2086,7 @@
 },
  {
    "dataName": "Pampas",
-   "mapRegionName": "map_Pampas",
+   "mapRegionName": "map_PampasAMYZ",
    "primaryCity": "Buenos Aires",
    "population_Millions": 21.025,
    "resource": null,
@@ -4588,7 +2225,7 @@
 },
 {
    "dataName": "Rosario",
-   "mapRegionName": "map_Rosario",
+   "mapRegionName": "map_RosarioAMYZ",
    "primaryCity": "Rosario",
    "population_Millions": 7.445,
    "resource": null,
@@ -4727,7 +2364,7 @@
 },
  {
    "dataName": "Patagonia",
-   "mapRegionName": "map_Patagonia",
+   "mapRegionName": "map_PatagoniaAMYZ",
    "primaryCity": "Neuquen",
    "population_Millions": 2.579,
    "resource": true,
@@ -4866,7 +2503,7 @@
 },
  {
    "dataName": "Brisbane",
-   "mapRegionName": "map_Brisbane",
+   "mapRegionName": "map_BrisbaneAMYZ",
    "primaryCity": "Brisbane",
    "population_Millions": 5.645,
    "resource": null,
@@ -5005,7 +2642,7 @@
 },
  {
    "dataName": "Sydney",
-   "mapRegionName": "map_Sydney",
+   "mapRegionName": "map_SydneyAMYZ",
    "primaryCity": "Sydney",
    "population_Millions": 18.228,
    "resource": null,
@@ -5144,7 +2781,7 @@
 },
  {
    "dataName": "Westralia",
-   "mapRegionName": "map_Westralia",
+   "mapRegionName": "map_WestraliaAMYZ",
    "primaryCity": "Perth",
    "population_Millions": 2.282,
    "resource": true,
@@ -5283,7 +2920,7 @@
 },
  {
    "dataName": "Bangladesh",
-   "mapRegionName": "map_Bangladesh",
+   "mapRegionName": "map_BangladeshAMYZ",
    "primaryCity": "Dhaka",
    "population_Millions": 168.375,
    "resource": null,
@@ -5422,7 +3059,7 @@
 },
  {
    "dataName": "Belarus",
-   "mapRegionName": "map_Belarus",
+   "mapRegionName": "map_BelarusAMYZ",
    "primaryCity": "Minsk",
    "population_Millions": 9.43,
    "resource": null,
@@ -5561,7 +3198,7 @@
 },
  {
    "dataName": "Bolivia",
-   "mapRegionName": "map_Bolivia",
+   "mapRegionName": "map_BoliviaAMYZ",
    "primaryCity": "La Paz",
    "population_Millions": 7.381,
    "resource": true,
@@ -5700,7 +3337,7 @@
 },
 {
    "dataName": "SantaCruz",
-   "mapRegionName": "map_SantaCruz",
+   "mapRegionName": "map_SantaCruzAMYZ",
    "primaryCity": "Santa Cruz de la Sierra",
    "population_Millions": 4.664,
    "resource": null,
@@ -5839,7 +3476,7 @@
 },
  {
    "dataName": "Botswana",
-   "mapRegionName": "map_Botswana",
+   "mapRegionName": "map_BotswanaAMYZ",
    "primaryCity": "Gaborone",
    "population_Millions": 2.455,
    "resource": null,
@@ -5978,7 +3615,7 @@
 },
 {
    "dataName": "Belem",
-   "mapRegionName": "map_Belem",
+   "mapRegionName": "map_BelemAMYZ",
    "primaryCity": "Belem",
    "population_Millions": 9.699,
    "resource": true,
@@ -6117,7 +3754,7 @@
 },
  {
    "dataName": "BoaVista",
-   "mapRegionName": "map_BoaVista",
+   "mapRegionName": "map_BoaVistaAMYZ",
    "primaryCity": "Boa Vista",
    "population_Millions": 0.667,
    "resource": null,
@@ -6256,7 +3893,7 @@
 },
 {
    "dataName": "Amazonia",
-   "mapRegionName": "map_Amazonia",
+   "mapRegionName": "map_AmazoniaAMYZ",
    "primaryCity": "Manaus",
    "population_Millions": 5.171,
    "resource": null,
@@ -6395,7 +4032,7 @@
 },
  {
    "dataName": "CampoGrande",
-   "mapRegionName": "map_CampoGrande",
+   "mapRegionName": "map_CampoGrandeAMYZ",
    "primaryCity": "Campo Grande",
    "population_Millions": 2.884,
    "resource": null,
@@ -6534,7 +4171,7 @@
 },
 {
    "dataName": "Cuiaba",
-   "mapRegionName": "map_Cuiaba",
+   "mapRegionName": "map_CuiabaAMYZ",
    "primaryCity": "Cuiaba",
    "population_Millions": 3.623,
    "resource": null,
@@ -6673,7 +4310,7 @@
 },
 {
    "dataName": "PortoVelho",
-   "mapRegionName": "map_PortoVelho",
+   "mapRegionName": "map_PortoVelhoAMYZ",
    "primaryCity": "Porto Velho",
    "population_Millions": 1.849,
    "resource": true,
@@ -6812,7 +4449,7 @@
 },
 {
    "dataName": "Brasilia",
-   "mapRegionName": "map_Brasilia",
+   "mapRegionName": "map_BrasiliaAMYZ",
    "primaryCity": "Brasilia",
    "population_Millions": 12.145,
    "resource": null,
@@ -6951,7 +4588,7 @@
 },
 {
    "dataName": "Curitiba",
-   "mapRegionName": "map_Curitiba",
+   "mapRegionName": "map_CuritibaAMYZ",
    "primaryCity": "Curitiba",
    "population_Millions": 19.146,
    "resource": null,
@@ -7090,7 +4727,7 @@
 },
  {
    "dataName": "PortoAlegre",
-   "mapRegionName": "map_PortoAlegre",
+   "mapRegionName": "map_PortoAlegreAMYZ",
    "primaryCity": "Porto Alegre",
    "population_Millions": 11.685,
    "resource": null,
@@ -7229,7 +4866,7 @@
 },
  {
    "dataName": "Salvador",
-   "mapRegionName": "map_Salvador",
+   "mapRegionName": "map_SalvadorAMYZ",
    "primaryCity": "Salvador",
    "population_Millions": 17.68,
    "resource": null,
@@ -7368,7 +5005,7 @@
 },
 {
    "dataName": "Fortaleza",
-   "mapRegionName": "map_Fortaleza",
+   "mapRegionName": "map_FortalezaAMYZ",
    "primaryCity": "Fortaleza",
    "population_Millions": 19.767,
    "resource": null,
@@ -7507,7 +5144,7 @@
 },
 {
    "dataName": "Recife",
-   "mapRegionName": "map_Recife",
+   "mapRegionName": "map_RecifeAMYZ",
    "primaryCity": "Recife",
    "population_Millions": 21.101,
    "resource": null,
@@ -7646,7 +5283,7 @@
 },
 {
    "dataName": "Rio",
-   "mapRegionName": "map_Rio",
+   "mapRegionName": "map_RioAMYZ",
    "primaryCity": "Rio de Janeiro",
    "population_Millions": 21.81,
    "resource": null,
@@ -7785,7 +5422,7 @@
 },
 {
    "dataName": "BeloHorizonte",
-   "mapRegionName": "map_BeloHorizonte",
+   "mapRegionName": "map_BeloHorizonteAMYZ",
    "primaryCity": "Belo Horizonte",
    "population_Millions": 21.729,
    "resource": true,
@@ -7924,7 +5561,7 @@
 },
  {
    "dataName": "SaoPaolo",
-   "mapRegionName": "map_SaoPaolo",
+   "mapRegionName": "map_SaoPaoloAMYZ",
    "primaryCity": "Sao Paolo",
    "population_Millions": 47.126,
    "resource": null,
@@ -8063,7 +5700,7 @@
 },
  {
    "dataName": "Cambodia",
-   "mapRegionName": "map_Cambodia",
+   "mapRegionName": "map_CambodiaAMYZ",
    "primaryCity": "Phnom Penh",
    "population_Millions": 17.238,
    "resource": null,
@@ -8202,7 +5839,7 @@
 },
  {
    "dataName": "BritishColumbia",
-   "mapRegionName": "map_BritishColumbia",
+   "mapRegionName": "map_BritishColumbiaAMYZ",
    "primaryCity": "Vancouver",
    "population_Millions": 4.981,
    "resource": null,
@@ -8341,7 +5978,7 @@
 },
  {
    "dataName": "CanadianArctic",
-   "mapRegionName": "map_CanadianArctic",
+   "mapRegionName": "map_CanadianArcticAMYZ",
    "primaryCity": "Whitehorse",
    "population_Millions": 0.128,
    "resource": null,
@@ -8480,7 +6117,7 @@
 },
  {
    "dataName": "Laurentia",
-   "mapRegionName": "map_Laurentia",
+   "mapRegionName": "map_LaurentiaAMYZ",
    "primaryCity": "Montreal",
    "population_Millions": 8.501,
    "resource": null,
@@ -8619,7 +6256,7 @@
 },
 {
    "dataName": "Maritimes",
-   "mapRegionName": "map_Maritimes",
+   "mapRegionName": "map_MaritimesAMYZ",
    "primaryCity": "Halifax",
    "population_Millions": 2.41,
    "resource": null,
@@ -8758,7 +6395,7 @@
 },
  {
    "dataName": "Ontario",
-   "mapRegionName": "map_Ontario",
+   "mapRegionName": "map_OntarioAMYZ",
    "primaryCity": "Toronto",
    "population_Millions": 14.628,
    "resource": null,
@@ -8897,7 +6534,7 @@
 },
  {
    "dataName": "Prairies",
-   "mapRegionName": "map_Prairies",
+   "mapRegionName": "map_PrairiesAMYZ",
    "primaryCity": "Calgary",
    "population_Millions": 7.229,
    "resource": true,
@@ -9036,7 +6673,7 @@
 },
  {
    "dataName": "WestIndies",
-   "mapRegionName": "map_WestIndies",
+   "mapRegionName": "map_WestIndiesAMYZ",
    "primaryCity": "Kingston",
    "population_Millions": 5.998,
    "resource": null,
@@ -9175,7 +6812,7 @@
 },
 {
    "dataName": "Haiti",
-   "mapRegionName": "map_Haiti",
+   "mapRegionName": "map_HaitiAMYZ",
    "primaryCity": "Port-au-Prince",
    "population_Millions": 11.728,
    "resource": null,
@@ -9311,7 +6948,7 @@
 },
 {
    "dataName": "Dominica",
-   "mapRegionName": "map_Dominica",
+   "mapRegionName": "map_DominicaAMYZ",
    "primaryCity": "Santo Domingo",
    "population_Millions": 11.103,
    "resource": null,
@@ -9447,7 +7084,7 @@
 },
  {
    "dataName": "CentralAfricanRepublic",
-   "mapRegionName": "map_CentralAfricanRepublic",
+   "mapRegionName": "map_CentralAfricanRepublicAMYZ",
    "primaryCity": "Bangui",
    "population_Millions": 5.047,
    "resource": null,
@@ -9586,7 +7223,7 @@
 },
  {
    "dataName": "Chad",
-   "mapRegionName": "map_Chad",
+   "mapRegionName": "map_ChadAMYZ",
    "primaryCity": "N'Djamena",
    "population_Millions": 12.528,
    "resource": true,
@@ -9725,7 +7362,7 @@
 },
 {
    "dataName": "Abeche",
-   "mapRegionName": "map_Abeche",
+   "mapRegionName": "map_AbecheAMYZ",
    "primaryCity": "Abeche",
    "population_Millions": 3.898,
    "resource": true,
@@ -9864,7 +7501,7 @@
 },
  {
    "dataName": "Wuhan",
-   "mapRegionName": "map_Wuhan",
+   "mapRegionName": "map_WuhanAMYZ",
    "primaryCity": "Wuhan",
    "population_Millions": 59.71,
    "resource": null,
@@ -10003,7 +7640,7 @@
 },
 {
    "dataName": "Changsha",
-   "mapRegionName": "map_Changsha",
+   "mapRegionName": "map_ChangshaAMYZ",
    "primaryCity": "Changsha",
    "population_Millions": 68.051,
    "resource": null,
@@ -10142,7 +7779,7 @@
 },
  {
    "dataName": "Xian",
-   "mapRegionName": "map_Xian",
+   "mapRegionName": "map_XianAMYZ",
    "primaryCity": "Xian",
    "population_Millions": 76.245,
    "resource": null,
@@ -10281,7 +7918,7 @@
 },
  {
    "dataName": "Zhengzhou",
-   "mapRegionName": "map_Zhengzhou",
+   "mapRegionName": "map_ZhengzhouAMYZ",
    "primaryCity": "Zhengzhou",
    "population_Millions": 101.768,
    "resource": null,
@@ -10420,7 +8057,7 @@
 },
 {
    "dataName": "Lanzhou",
-   "mapRegionName": "map_Lanzhou",
+   "mapRegionName": "map_LanzhouAMYZ",
    "primaryCity": "Lanzhou",
    "population_Millions": 33.002,
    "resource": null,
@@ -10559,7 +8196,7 @@
 },
  {
    "dataName": "Gobi",
-   "mapRegionName": "map_Gobi",
+   "mapRegionName": "map_GobiAMYZ",
    "primaryCity": "Hohhot",
    "population_Millions": 24.631,
    "resource": null,
@@ -10698,7 +8335,7 @@
 },
 {
    "dataName": "Xining",
-   "mapRegionName": "map_Xining",
+   "mapRegionName": "map_XiningAMYZ",
    "primaryCity": "Xining",
    "population_Millions": 6.067,
    "resource": true,
@@ -10837,7 +8474,7 @@
 },
  {
    "dataName": "Beijing",
-   "mapRegionName": "map_Beijing",
+   "mapRegionName": "map_BeijingAMYZ",
    "primaryCity": "Beijing",
    "population_Millions": 113.038,
    "resource": null,
@@ -10976,7 +8613,7 @@
 },
 {
    "dataName": "Qingdao",
-   "mapRegionName": "map_Qingdao",
+   "mapRegionName": "map_QingdaoAMYZ",
    "primaryCity": "Qingdao",
    "population_Millions": 103.982,
    "resource": null,
@@ -11115,7 +8752,7 @@
 },
  {
    "dataName": "Manchuria",
-   "mapRegionName": "map_Manchuria",
+   "mapRegionName": "map_ManchuriaAMYZ",
    "primaryCity": "Harbin",
    "population_Millions": 100.897,
    "resource": true,
@@ -11254,7 +8891,7 @@
 },
  {
    "dataName": "Guangzhou",
-   "mapRegionName": "map_Guangzhou",
+   "mapRegionName": "map_GuangzhouAMYZ",
    "primaryCity": "Guangzhou",
    "population_Millions": 147.739,
    "resource": null,
@@ -11393,7 +9030,7 @@
 },
 {
    "dataName": "Nanning",
-   "mapRegionName": "map_Nanning",
+   "mapRegionName": "map_NanningAMYZ",
    "primaryCity": "Nanning",
    "population_Millions": 51.339,
    "resource": null,
@@ -11532,7 +9169,7 @@
 },
  {
    "dataName": "Guizhou",
-   "mapRegionName": "map_Guizhou",
+   "mapRegionName": "map_GuizhouAMYZ",
    "primaryCity": "Guiyang",
    "population_Millions": 39.495,
    "resource": null,
@@ -11671,7 +9308,7 @@
 },
 {
    "dataName": "Kunming",
-   "mapRegionName": "map_Kunming",
+   "mapRegionName": "map_KunmingAMYZ",
    "primaryCity": "Kunming",
    "population_Millions": 48.351,
    "resource": true,
@@ -11810,7 +9447,7 @@
 },
 {
    "dataName": "Chengdu",
-   "mapRegionName": "map_Chengdu",
+   "mapRegionName": "map_ChengduAMYZ",
    "primaryCity": "Chengdu",
    "population_Millions": 85.698,
    "resource": true,
@@ -11949,7 +9586,7 @@
 },
  {
    "dataName": "Chongqing",
-   "mapRegionName": "map_Chongqing",
+   "mapRegionName": "map_ChongqingAMYZ",
    "primaryCity": "Chongqing",
    "population_Millions": 32.829,
    "resource": null,
@@ -12088,7 +9725,7 @@
 },
  {
    "dataName": "Tibet",
-   "mapRegionName": "map_Tibet",
+   "mapRegionName": "map_TibetAMYZ",
    "primaryCity": "Lhasa",
    "population_Millions": 3.736,
    "resource": null,
@@ -12227,7 +9864,7 @@
 },
  {
    "dataName": "Nanjing",
-   "mapRegionName": "map_Nanjing",
+   "mapRegionName": "map_NanjingAMYZ",
    "primaryCity": "Nanjing",
    "population_Millions": 91.601,
    "resource": null,
@@ -12366,7 +10003,7 @@
 },
 {
    "dataName": "Hefei",
-   "mapRegionName": "map_Hefei",
+   "mapRegionName": "map_HefeiAMYZ",
    "primaryCity": "Hefei",
    "population_Millions": 62.502,
    "resource": null,
@@ -12505,7 +10142,7 @@
 },
  {
    "dataName": "Shanghai",
-   "mapRegionName": "map_Shanghai",
+   "mapRegionName": "map_ShanghaiAMYZ",
    "primaryCity": "Shanghai",
    "population_Millions": 91.601,
    "resource": null,
@@ -12644,7 +10281,7 @@
 },
 {
    "dataName": "Fuzhou",
-   "mapRegionName": "map_Fuzhou",
+   "mapRegionName": "map_FuzhouAMYZ",
    "primaryCity": "Fuzhou",
    "population_Millions": 42.544,
    "resource": null,
@@ -12783,7 +10420,7 @@
 },
 {
    "dataName": "Nanchang",
-   "mapRegionName": "map_Nanchang",
+   "mapRegionName": "map_NanchangAMYZ",
    "primaryCity": "Nanchang",
    "population_Millions": 46.281,
    "resource": null,
@@ -12922,7 +10559,7 @@
 },
  {
    "dataName": "Xinjiang",
-   "mapRegionName": "map_Xinjiang",
+   "mapRegionName": "map_XinjiangAMYZ",
    "primaryCity": "Urumqi",
    "population_Millions": 26.477,
    "resource": true,
@@ -13061,7 +10698,7 @@
 },
  {
    "dataName": "Cali",
-   "mapRegionName": "map_Cali",
+   "mapRegionName": "map_CaliAMYZ",
    "primaryCity": "Cali",
    "population_Millions": 18.365,
    "resource": null,
@@ -13200,7 +10837,7 @@
 },
 {
    "dataName": "Barranquilla",
-   "mapRegionName": "map_Barranquilla",
+   "mapRegionName": "map_BarranquillaAMYZ",
    "primaryCity": "Barranquilla",
    "population_Millions": 11.648,
    "resource": true,
@@ -13339,7 +10976,7 @@
 },
 {
    "dataName": "Villavicencio",
-   "mapRegionName": "map_Villavicencio",
+   "mapRegionName": "map_VillavicencioAMYZ",
    "primaryCity": "Villavicencio",
    "population_Millions": 3.057,
    "resource": null,
@@ -13478,7 +11115,7 @@
 },
 {
    "dataName": "Colombia",
-   "mapRegionName": "map_Colombia",
+   "mapRegionName": "map_ColombiaAMYZ",
    "primaryCity": "Bogota",
    "population_Millions": 19.08,
    "resource": null,
@@ -13617,7 +11254,7 @@
 },
  {
    "dataName": "Kinshasa",
-   "mapRegionName": "map_Kinshasa",
+   "mapRegionName": "map_KinshasaAMYZ",
    "primaryCity": "Kinshasa",
    "population_Millions": 30.269,
    "resource": null,
@@ -13756,7 +11393,7 @@
 },
 {
    "dataName": "Mbandaka",
-   "mapRegionName": "map_Mbandaka",
+   "mapRegionName": "map_MbandakaAMYZ",
    "primaryCity": "Mbandaka",
    "population_Millions": 10.400,
    "resource": null,
@@ -13895,7 +11532,7 @@
 },
 {
    "dataName": "Kisangani",
-   "mapRegionName": "map_Kisangani",
+   "mapRegionName": "map_KisanganiAMYZ",
    "primaryCity": "Kisangani",
    "population_Millions": 11.453,
    "resource": true,
@@ -14034,7 +11671,7 @@
 },
 {
    "dataName": "Kananga",
-   "mapRegionName": "map_Kananga",
+   "mapRegionName": "map_KanangaAMYZ",
    "primaryCity": "Kananga",
    "population_Millions": 14.274,
    "resource": null,
@@ -14173,7 +11810,7 @@
 },
 {
    "dataName": "Bukavu",
-   "mapRegionName": "map_Bukavu",
+   "mapRegionName": "map_BukavuAMYZ",
    "primaryCity": "Bukavu",
    "population_Millions": 17.126,
    "resource": true,
@@ -14312,7 +11949,7 @@
 },
  {
    "dataName": "Lubumbashi",
-   "mapRegionName": "map_Lubumbashi",
+   "mapRegionName": "map_LubumbashiAMYZ",
    "primaryCity": "Lubumbashi",
    "population_Millions": 12.369,
    "resource": true,
@@ -14451,7 +12088,7 @@
 },
  {
    "dataName": "Cuba",
-   "mapRegionName": "map_Cuba",
+   "mapRegionName": "map_CubaAMYZ",
    "primaryCity": "Havana",
    "population_Millions": 11.302,
    "resource": null,
@@ -14590,7 +12227,7 @@
 },
  {
    "dataName": "Ecuador",
-   "mapRegionName": "map_Ecuador",
+   "mapRegionName": "map_EcuadorAMYZ",
    "primaryCity": "Quito",
    "population_Millions": 18.182,
    "resource": null,
@@ -14729,7 +12366,7 @@
 },
  {
    "dataName": "Egypt",
-   "mapRegionName": "map_Egypt",
+   "mapRegionName": "map_EgyptAMYZ",
    "primaryCity": "Cairo",
    "population_Millions": 90.215,
    "resource": null,
@@ -14868,7 +12505,7 @@
 },
  {
    "dataName": "Luxor",
-   "mapRegionName": "map_Luxor",
+   "mapRegionName": "map_LuxorAMYZ",
    "primaryCity": "Luxor",
    "population_Millions": 16.534,
    "resource": true,
@@ -15007,7 +12644,7 @@
 },
  {
    "dataName": "Ethiopia",
-   "mapRegionName": "map_Ethiopia",
+   "mapRegionName": "map_EthiopiaAMYZ",
    "primaryCity": "Addis Ababa",
    "population_Millions": 56.146,
    "resource": null,
@@ -15146,7 +12783,7 @@
 },
  {
    "dataName": "Mekelle",
-   "mapRegionName": "map_Mekelle",
+   "mapRegionName": "map_MekelleAMYZ",
    "primaryCity": "Mekelle",
    "population_Millions": 38.786,
    "resource": null,
@@ -15285,7 +12922,7 @@
 },
 {
    "dataName": "Harar",
-   "mapRegionName": "map_Harar",
+   "mapRegionName": "map_HararAMYZ",
    "primaryCity": "Harar",
    "population_Millions": 26.605,
    "resource": null,
@@ -15424,7 +13061,7 @@
 },
  {
    "dataName": "Eritrea",
-   "mapRegionName": "map_Eritrea",
+   "mapRegionName": "map_EritreaAMYZ",
    "primaryCity": "Asmara",
    "population_Millions": 3.682,
    "resource": null,
@@ -15563,7 +13200,7 @@
 },
  {
    "dataName": "Vienna",
-   "mapRegionName": "map_AlpineStates",
+   "mapRegionName": "map_AlpineStatesAMYZ",
    "primaryCity": "Vienna",
    "population_Millions": 9.126,
    "resource": null,
@@ -15702,7 +13339,7 @@
 },
  {
    "dataName": "Bern",
-   "mapRegionName": "map_Switzerland",
+   "mapRegionName": "map_SwitzerlandAMYZ",
    "primaryCity": "Bern",
    "population_Millions": 8.802,
    "resource": null,
@@ -15841,7 +13478,7 @@
 },
  {
    "dataName": "BalticStates",
-   "mapRegionName": "map_BalticStates",
+   "mapRegionName": "map_BalticStatesAMYZ",
    "primaryCity": "Riga",
    "population_Millions": 1.84,
    "resource": null,
@@ -15980,7 +13617,7 @@
 },
 {
    "dataName": "Estonia",
-   "mapRegionName": "map_Estonia",
+   "mapRegionName": "map_EstoniaAMYZ",
    "primaryCity": "Talinn",
    "population_Millions": 1.329,
    "resource": null,
@@ -16113,7 +13750,7 @@
 },
 {
    "dataName": "Lithuania",
-   "mapRegionName": "map_Lithuania",
+   "mapRegionName": "map_LithuaniaAMYZ",
    "primaryCity": "Vilnius",
    "population_Millions": 2.638,
    "resource": null,
@@ -16249,7 +13886,7 @@
 },
  {
    "dataName": "Benelux",
-   "mapRegionName": "map_Benelux",
+   "mapRegionName": "map_BeneluxAMYZ",
    "primaryCity": "Amsterdam",
    "population_Millions": 17.222,
    "resource": null,
@@ -16388,7 +14025,7 @@
 },
 {
    "dataName": "Belgium",
-   "mapRegionName": "map_Belgium",
+   "mapRegionName": "map_BelgiumAMYZ",
    "primaryCity": "Brussels",
    "population_Millions": 12.356,
    "resource": null,
@@ -16527,7 +14164,7 @@
 },
  {
    "dataName": "EastGermany",
-   "mapRegionName": "map_EastGermany",
+   "mapRegionName": "map_EastGermanyAMYZ",
    "primaryCity": "Berlin",
    "population_Millions": 14.148,
    "resource": null,
@@ -16666,7 +14303,7 @@
 },
  {
    "dataName": "EuropeanPacific",
-   "mapRegionName": "map_EuropeanPacific",
+   "mapRegionName": "map_EuropeanPacificAMYZ",
    "primaryCity": "Noumea",
    "population_Millions": 0.587,
    "resource": true,
@@ -16805,7 +14442,7 @@
 },
  {
    "dataName": "EuropeanRatnakara",
-   "mapRegionName": "map_EuropeanRatnakara",
+   "mapRegionName": "map_EuropeanRatnakaraAMYZ",
    "primaryCity": "Saint-Denis",
    "population_Millions": 1.198,
    "resource": null,
@@ -16944,7 +14581,7 @@
 },
  {
    "dataName": "EuropeanWestIndies",
-   "mapRegionName": "map_EuropeanWestIndies",
+   "mapRegionName": "map_EuropeanWestIndiesAMYZ",
    "primaryCity": "Pointe-a-Pitre",
    "population_Millions": 1.13,
    "resource": null,
@@ -17083,7 +14720,7 @@
 },
  {
    "dataName": "Denmark",
-   "mapRegionName": "map_Denmark",
+   "mapRegionName": "map_DenmarkAMYZ",
    "primaryCity": "Copenhagen",
    "population_Millions": 5.891,
    "resource": null,
@@ -17222,7 +14859,7 @@
 },
  {
    "dataName": "DutchCaribbean",
-   "mapRegionName": "map_DutchCaribbean",
+   "mapRegionName": "map_DutchCaribbeanAMYZ",
    "primaryCity": "Willemstad",
    "population_Millions": 0.344,
    "resource": null,
@@ -17361,7 +14998,7 @@
 },
  {
    "dataName": "France",
-   "mapRegionName": "map_France",
+   "mapRegionName": "map_FranceAMYZ",
    "primaryCity": "Paris",
    "population_Millions": 26.707,
    "resource": null,
@@ -17500,7 +15137,7 @@
 },
 {
    "dataName": "Brittany",
-   "mapRegionName": "map_Brittany",
+   "mapRegionName": "map_BrittanyAMYZ",
    "primaryCity": "Rennes",
    "population_Millions": 4.784,
    "resource": null,
@@ -17639,7 +15276,7 @@
 },
 {
    "dataName": "NordEst",
-   "mapRegionName": "map_NordEst",
+   "mapRegionName": "map_NordEstAMYZ",
    "primaryCity": "Strasbourg",
    "population_Millions": 8.362,
    "resource": null,
@@ -17778,7 +15415,7 @@
 },
  {
    "dataName": "Lyon",
-   "mapRegionName": "map_Lyon",
+   "mapRegionName": "map_LyonAMYZ",
    "primaryCity": "Lyon",
    "population_Millions": 16.349,
    "resource": true,
@@ -17917,7 +15554,7 @@
 },
 {
    "dataName": "Bordeaux",
-   "mapRegionName": "map_Bordeaux",
+   "mapRegionName": "map_BordeauxAMYZ",
    "primaryCity": "Bordeaux",
    "population_Millions": 9.403,
    "resource": null,
@@ -18056,7 +15693,7 @@
 },
  {
    "dataName": "Finland",
-   "mapRegionName": "map_Finland",
+   "mapRegionName": "map_FinlandAMYZ",
    "primaryCity": "Helsinki",
    "population_Millions": 5.557,
    "resource": null,
@@ -18195,7 +15832,7 @@
 },
  {
    "dataName": "Germany",
-   "mapRegionName": "map_Germany",
+   "mapRegionName": "map_GermanyAMYZ",
    "primaryCity": "Cologne",
    "population_Millions": 29.18,
    "resource": null,
@@ -18334,7 +15971,7 @@
 },
  {
    "dataName": "NorthGermany",
-   "mapRegionName": "map_NorthGermany",
+   "mapRegionName": "map_NorthGermanyAMYZ",
    "primaryCity": "Hamburg",
    "population_Millions": 17.12,
    "resource": null,
@@ -18473,7 +16110,7 @@
 },
  {
    "dataName": "SouthGermany",
-   "mapRegionName": "map_SouthGermany",
+   "mapRegionName": "map_SouthGermanyAMYZ",
    "primaryCity": "Munich",
    "population_Millions": 23.42,
    "resource": true,
@@ -18612,7 +16249,7 @@
 },
  {
    "dataName": "Greenland",
-   "mapRegionName": "map_Greenland",
+   "mapRegionName": "map_GreenlandAMYZ",
    "primaryCity": "Nuuk",
    "population_Millions": 0.057,
    "resource": null,
@@ -18751,7 +16388,7 @@
 },
  {
    "dataName": "Iceland",
-   "mapRegionName": "map_Iceland",
+   "mapRegionName": "map_IcelandAMYZ",
    "primaryCity": "Reykjavik",
    "population_Millions": 0.346,
    "resource": null,
@@ -18890,7 +16527,7 @@
 },
  {
    "dataName": "Ireland",
-   "mapRegionName": "map_Ireland",
+   "mapRegionName": "map_IrelandAMYZ",
    "primaryCity": "Dublin",
    "population_Millions": 5.031,
    "resource": null,
@@ -19029,7 +16666,7 @@
 },
  {
    "dataName": "Italy",
-   "mapRegionName": "map_Italy",
+   "mapRegionName": "map_ItalyAMYZ",
    "primaryCity": "Milan",
    "population_Millions": 27.782,
    "resource": null,
@@ -19168,7 +16805,7 @@
 },
 {
    "dataName": "CentralItaly",
-   "mapRegionName": "map_CentralItaly",
+   "mapRegionName": "map_CentralItalyAMYZ",
    "primaryCity": "Rome",
    "population_Millions": 12.018,
    "resource": null,
@@ -19307,7 +16944,7 @@
 },
  {
    "dataName": "Naples",
-   "mapRegionName": "map_Naples",
+   "mapRegionName": "map_NaplesAMYZ",
    "primaryCity": "Naples",
    "population_Millions": 22.91,
    "resource": null,
@@ -19446,7 +17083,7 @@
 },
  {
    "dataName": "Norway",
-   "mapRegionName": "map_Norway",
+   "mapRegionName": "map_NorwayAMYZ",
    "primaryCity": "Oslo",
    "population_Millions": 5.526,
    "resource": true,
@@ -19585,7 +17222,7 @@
 },
  {
    "dataName": "Poland",
-   "mapRegionName": "map_Poland",
+   "mapRegionName": "map_PolandAMYZ",
    "primaryCity": "Warsaw",
    "population_Millions": 19.667,
    "resource": null,
@@ -19724,7 +17361,7 @@
 },
 {
    "dataName": "Wroclaw",
-   "mapRegionName": "map_Wroclaw",
+   "mapRegionName": "map_WroclawAMYZ",
    "primaryCity": "Wroclaw",
    "population_Millions": 8.36,
    "resource": true,
@@ -19863,7 +17500,7 @@
 },
  {
    "dataName": "Gdansk",
-   "mapRegionName": "map_Gdansk",
+   "mapRegionName": "map_GdanskAMYZ",
    "primaryCity": "Gdansk",
    "population_Millions": 12.017,
    "resource": null,
@@ -20002,7 +17639,7 @@
 },
  {
    "dataName": "Portugal",
-   "mapRegionName": "map_Portugal",
+   "mapRegionName": "map_PortugalAMYZ",
    "primaryCity": "Lisbon",
    "population_Millions": 10.132,
    "resource": null,
@@ -20141,7 +17778,7 @@
 },
  {
    "dataName": "Spain",
-   "mapRegionName": "map_Spain",
+   "mapRegionName": "map_SpainAMYZ",
    "primaryCity": "Madrid",
    "population_Millions": 26.505,
    "resource": null,
@@ -20280,7 +17917,7 @@
 },
  {
    "dataName": "Sweden",
-   "mapRegionName": "map_Sweden",
+   "mapRegionName": "map_SwedenAMYZ",
    "primaryCity": "Stockholm",
    "population_Millions": 10.237,
    "resource": null,
@@ -20419,7 +18056,7 @@
 },
  {
    "dataName": "Barcelona",
-   "mapRegionName": "map_Barcelona",
+   "mapRegionName": "map_BarcelonaAMYZ",
    "primaryCity": "Barcelona",
    "population_Millions": 12.322,
    "resource": null,
@@ -20558,7 +18195,7 @@
 },
  {
    "dataName": "CanaryIslands",
-   "mapRegionName": "map_CanaryIslands",
+   "mapRegionName": "map_CanaryIslandsAMYZ",
    "primaryCity": "Santa Cruz de Tenerife",
    "population_Millions": 2.265,
    "resource": null,
@@ -20697,7 +18334,7 @@
 },
  {
    "dataName": "GulfStates",
-   "mapRegionName": "map_GulfStates",
+   "mapRegionName": "map_GulfStatesAMYZ",
    "primaryCity": "Dubai",
    "population_Millions": 19.294,
    "resource": true,
@@ -20836,7 +18473,7 @@
 },
  {
    "dataName": "Himalayas",
-   "mapRegionName": "map_Himalayas",
+   "mapRegionName": "map_HimalayasAMYZ",
    "primaryCity": "Kathmandu",
    "population_Millions": 30.404,
    "resource": null,
@@ -20975,7 +18612,7 @@
 },
 {
    "dataName": "Bhutan",
-   "mapRegionName": "map_Bhutan",
+   "mapRegionName": "map_BhutanAMYZ",
    "primaryCity": "Thimbu",
    "population_Millions": 0.792,
    "resource": null,
@@ -21114,7 +18751,7 @@
 },
  {
    "dataName": "Assam",
-   "mapRegionName": "map_Assam",
+   "mapRegionName": "map_AssamAMYZ",
    "primaryCity": "Gauhati",
    "population_Millions": 53.085,
    "resource": null,
@@ -21253,7 +18890,7 @@
 },
  {
    "dataName": "Hyderabad",
-   "mapRegionName": "map_Hyderabad",
+   "mapRegionName": "map_HyderabadAMYZ",
    "primaryCity": "Hyderabad",
    "population_Millions": 40.851,
    "resource": true,
@@ -21392,7 +19029,7 @@
 },
 {
    "dataName": "Bengaluru",
-   "mapRegionName": "map_Bengaluru",
+   "mapRegionName": "map_BengaluruAMYZ",
    "primaryCity": "Bengaluru",
    "population_Millions": 71.301,
    "resource": null,
@@ -21531,7 +19168,7 @@
 },
 {
    "dataName": "Visakhapatnam",
-   "mapRegionName": "map_Visakhapatnam",
+   "mapRegionName": "map_VisakhapatnamAMYZ",
    "primaryCity": "Visakhapatnam",
    "population_Millions": 57.859,
    "resource": null,
@@ -21670,7 +19307,7 @@
 },
 {
    "dataName": "Chennai",
-   "mapRegionName": "map_Chennai",
+   "mapRegionName": "map_ChennaiAMYZ",
    "primaryCity": "Chennai",
    "population_Millions": 85.656,
    "resource": null,
@@ -21809,7 +19446,7 @@
 },
 {
    "dataName": "Kochi",
-   "mapRegionName": "map_Kochi",
+   "mapRegionName": "map_KochiAMYZ",
    "primaryCity": "Kochi",
    "population_Millions": 39.062,
    "resource": null,
@@ -21948,7 +19585,7 @@
 },
 {
    "dataName": "Goa",
-   "mapRegionName": "map_Goa",
+   "mapRegionName": "map_GoaAMYZ",
    "primaryCity": "Goa",
    "population_Millions": 1.702,
    "resource": null,
@@ -22087,7 +19724,7 @@
 },
  {
    "dataName": "Jaipur",
-   "mapRegionName": "map_Jaipur",
+   "mapRegionName": "map_JaipurAMYZ",
    "primaryCity": "Jaipur",
    "population_Millions": 79.999,
    "resource": null,
@@ -22226,7 +19863,7 @@
 },
  {
    "dataName": "JammuandKashmir",
-   "mapRegionName": "map_JammuandKashmir",
+   "mapRegionName": "map_JammuandKashmirAMYZ",
    "primaryCity": "Srinagar",
    "population_Millions": 14.636,
    "resource": null,
@@ -22365,7 +20002,7 @@
 },
  {
    "dataName": "Kolkata",
-   "mapRegionName": "map_Kolkata",
+   "mapRegionName": "map_KolkataAMYZ",
    "primaryCity": "Kolkata",
    "population_Millions": 266.891,
    "resource": null,
@@ -22504,7 +20141,7 @@
 },
 {
    "dataName": "Cuttack",
-   "mapRegionName": "map_Cuttack",
+   "mapRegionName": "map_CuttackAMYZ",
    "primaryCity": "Cuttack",
    "population_Millions": 48.986,
    "resource": null,
@@ -22643,7 +20280,7 @@
 },
  {
    "dataName": "Mumbai",
-   "mapRegionName": "map_Mumbai",
+   "mapRegionName": "map_MumbaiAMYZ",
    "primaryCity": "Mumbai",
    "population_Millions": 131.146,
    "resource": null,
@@ -22782,7 +20419,7 @@
 },
 {
    "dataName": "Ahmedabad",
-   "mapRegionName": "map_Ahmedabad",
+   "mapRegionName": "map_AhmedabadAMYZ",
    "primaryCity": "Ahmedabad",
    "population_Millions": 71.219,
    "resource": null,
@@ -22921,7 +20558,7 @@
 },
  {
    "dataName": "NewDelhi",
-   "mapRegionName": "map_NewDelhi",
+   "mapRegionName": "map_NewDelhiAMYZ",
    "primaryCity": "New Delhi",
    "population_Millions": 90.799,
    "resource": null,
@@ -23060,7 +20697,7 @@
 },
 {
    "dataName": "Agra",
-   "mapRegionName": "map_Agra",
+   "mapRegionName": "map_AgraAMYZ",
    "primaryCity": "Agra",
    "population_Millions": 244.962,
    "resource": null,
@@ -23199,7 +20836,7 @@
 },
 {
    "dataName": "Indore",
-   "mapRegionName": "map_Indore",
+   "mapRegionName": "map_IndoreAMYZ",
    "primaryCity": "Indore",
    "population_Millions": 84.759,
    "resource": true,
@@ -23338,7 +20975,7 @@
 },
 {
    "dataName": "Raipur",
-   "mapRegionName": "map_Raipur",
+   "mapRegionName": "map_RaipurAMYZ",
    "primaryCity": "Raipur",
    "population_Millions": 29.812,
    "resource": true,
@@ -23477,7 +21114,7 @@
 },
  {
    "dataName": "Borneo",
-   "mapRegionName": "map_Borneo",
+   "mapRegionName": "map_BorneoAMYZ",
    "primaryCity": "Samarinda",
    "population_Millions": 4.642,
    "resource": null,
@@ -23616,7 +21253,7 @@
 },
 {
    "dataName": "Banjar",
-   "mapRegionName": "map_Banjar",
+   "mapRegionName": "map_BanjarAMYZ",
    "primaryCity": "Banjar",
    "population_Millions": 7.007,
    "resource": null,
@@ -23755,7 +21392,7 @@
 },
 {
    "dataName": "Pontianak",
-   "mapRegionName": "map_Pontianak",
+   "mapRegionName": "map_PontianakAMYZ",
    "primaryCity": "Pontianak",
    "population_Millions": 5.616,
    "resource": null,
@@ -23894,7 +21531,7 @@
 },
  {
    "dataName": "Java",
-   "mapRegionName": "map_Java",
+   "mapRegionName": "map_JavaAMYZ",
    "primaryCity": "Jakarta",
    "population_Millions": 156.836,
    "resource": null,
@@ -24033,7 +21670,7 @@
 },
 {
    "dataName": "NusaTenggara",
-   "mapRegionName": "map_NusaTenggara",
+   "mapRegionName": "map_NusaTenggaraAMYZ",
    "primaryCity": "Bali",
    "population_Millions": 16.921,
    "resource": null,
@@ -24172,7 +21809,7 @@
 },
  {
    "dataName": "MoluccasandSulawesi",
-   "mapRegionName": "map_MoluccasandSulawesi",
+   "mapRegionName": "map_MoluccasandSulawesiAMYZ",
    "primaryCity": "Makassar",
    "population_Millions": 20.609,
    "resource": null,
@@ -24311,7 +21948,7 @@
 },
 {
    "dataName": "Maluku",
-   "mapRegionName": "map_Maluku",
+   "mapRegionName": "map_MalukuAMYZ",
    "primaryCity": "Ambon",
    "population_Millions": 3.246,
    "resource": true,
@@ -24450,7 +22087,7 @@
 },
  {
    "dataName": "NewGuinea",
-   "mapRegionName": "map_NewGuinea",
+   "mapRegionName": "map_NewGuineaAMYZ",
    "primaryCity": "Biak",
    "population_Millions": 4.918,
    "resource": null,
@@ -24589,7 +22226,7 @@
 },
  {
    "dataName": "Sumatra",
-   "mapRegionName": "map_Sumatra",
+   "mapRegionName": "map_SumatraAMYZ",
    "primaryCity": "Medan",
    "population_Millions": 29.647,
    "resource": null,
@@ -24728,7 +22365,7 @@
 },
 {
    "dataName": "Palembang",
-   "mapRegionName": "map_Palembang",
+   "mapRegionName": "map_PalembangAMYZ",
    "primaryCity": "Palembang",
    "population_Millions": 31.107,
    "resource": null,
@@ -24867,7 +22504,7 @@
 },
  {
    "dataName": "Khorasan",
-   "mapRegionName": "map_Khorasan",
+   "mapRegionName": "map_KhorasanAMYZ",
    "primaryCity": "Mashhad",
    "population_Millions": 11.140,
    "resource": null,
@@ -25006,7 +22643,7 @@
 },
 {
    "dataName": "Shiraz",
-   "mapRegionName": "map_Shiraz",
+   "mapRegionName": "map_ShirazAMYZ",
    "primaryCity": "Shiraz",
    "population_Millions": 6.514,
    "resource": null,
@@ -25145,7 +22782,7 @@
 },
 {
    "dataName": "Bandar",
-   "mapRegionName": "map_Bandar",
+   "mapRegionName": "map_BandarAMYZ",
    "primaryCity": "Bandar Abbas",
    "population_Millions": 8.357,
    "resource": true,
@@ -25284,7 +22921,7 @@
 },
  {
    "dataName": "Tehran",
-   "mapRegionName": "map_Tehran",
+   "mapRegionName": "map_TehranAMYZ",
    "primaryCity": "Tehran",
    "population_Millions": 27.537,
    "resource": null,
@@ -25423,7 +23060,7 @@
 },
 {
    "dataName": "Isfahan",
-   "mapRegionName": "map_Isfahan",
+   "mapRegionName": "map_IsfahanAMYZ",
    "primaryCity": "Isfahan",
    "population_Millions": 7.553,
    "resource": null,
@@ -25562,7 +23199,7 @@
 },
 {
    "dataName": "Ahwaz",
-   "mapRegionName": "map_Ahwaz",
+   "mapRegionName": "map_AhwazAMYZ",
    "primaryCity": "Ahwaz",
    "population_Millions": 6.9,
    "resource": true,
@@ -25701,7 +23338,7 @@
 },
 {
    "dataName": "Kermanshah",
-   "mapRegionName": "map_Kermanshah",
+   "mapRegionName": "map_KermanshahAMYZ",
    "primaryCity": "Kermanshah",
    "population_Millions": 8.268,
    "resource": true,
@@ -25840,7 +23477,7 @@
 },
 {
    "dataName": "Tabriz",
-   "mapRegionName": "map_Tabriz",
+   "mapRegionName": "map_TabrizAMYZ",
    "primaryCity": "Tabriz",
    "population_Millions": 10.292,
    "resource": null,
@@ -25979,7 +23616,7 @@
 },
  {
    "dataName": "Baghdad",
-   "mapRegionName": "map_Baghdad",
+   "mapRegionName": "map_BaghdadAMYZ",
    "primaryCity": "Baghdad",
    "population_Millions": 11.019,
    "resource": null,
@@ -26118,7 +23755,7 @@
 },
 {
    "dataName": "Basra",
-   "mapRegionName": "map_Basra",
+   "mapRegionName": "map_BasraAMYZ",
    "primaryCity": "Basra",
    "population_Millions": 15.981,
    "resource": true,
@@ -26257,7 +23894,7 @@
 },
  {
    "dataName": "Mosul",
-   "mapRegionName": "map_Mosul",
+   "mapRegionName": "map_MosulAMYZ",
    "primaryCity": "Mosul",
    "population_Millions": 15.44,
    "resource": true,
@@ -26396,7 +24033,7 @@
 },
  {
    "dataName": "CombinedIsrael",
-   "mapRegionName": "map_IsraelPalestine",
+   "mapRegionName": "map_IsraelPalestineAMYZ",
    "primaryCity": "Tel Aviv",
    "population_Millions": 14.349,
    "resource": null,
@@ -26535,7 +24172,7 @@
 },
  {
    "dataName": "Hokkaido",
-   "mapRegionName": "map_Hokkaido",
+   "mapRegionName": "map_HokkaidoAMYZ",
    "primaryCity": "Sapporo",
    "population_Millions": 5.342,
    "resource": true,
@@ -26674,7 +24311,7 @@
 },
  {
    "dataName": "Honshu",
-   "mapRegionName": "map_Honshu",
+   "mapRegionName": "map_HonshuAMYZ",
    "primaryCity": "Tokyo",
    "population_Millions": 72.809,
    "resource": null,
@@ -26813,7 +24450,7 @@
 },
 {
    "dataName": "Osaka",
-   "mapRegionName": "map_Osaka",
+   "mapRegionName": "map_OsakaAMYZ",
    "primaryCity": "Osaka",
    "population_Millions": 29.48,
    "resource": null,
@@ -26952,7 +24589,7 @@
 },
  {
    "dataName": "KyushuandShikoku",
-   "mapRegionName": "map_KyushuandShikoku",
+   "mapRegionName": "map_KyushuandShikokuAMYZ",
    "primaryCity": "Fukuoka",
    "population_Millions": 17.906,
    "resource": null,
@@ -27091,7 +24728,7 @@
 },
  {
    "dataName": "Jordan",
-   "mapRegionName": "map_Jordan",
+   "mapRegionName": "map_JordanAMYZ",
    "primaryCity": "Amman",
    "population_Millions": 10.305,
    "resource": null,
@@ -27230,7 +24867,7 @@
 },
  {
    "dataName": "Almaty",
-   "mapRegionName": "map_Almaty",
+   "mapRegionName": "map_AlmatyAMYZ",
    "primaryCity": "Almaty",
    "population_Millions": 8.429,
    "resource": null,
@@ -27369,7 +25006,7 @@
 },
  {
    "dataName": "Astana",
-   "mapRegionName": "map_Astana",
+   "mapRegionName": "map_AstanaAMYZ",
    "primaryCity": "Nur-Sultan",
    "population_Millions": 7.321,
    "resource": null,
@@ -27508,7 +25145,7 @@
 },
 {
    "dataName": "Aktobe",
-   "mapRegionName": "map_Aktobe",
+   "mapRegionName": "map_AktobeAMYZ",
    "primaryCity": "Aktobe",
    "population_Millions": 3.557,
    "resource": true,
@@ -27647,7 +25284,7 @@
 },
  {
    "dataName": "Kenya",
-   "mapRegionName": "map_Kenya",
+   "mapRegionName": "map_KenyaAMYZ",
    "primaryCity": "Nairobi",
    "population_Millions": 45.105,
    "resource": null,
@@ -27786,7 +25423,7 @@
 },
 {
    "dataName": "Mombasa",
-   "mapRegionName": "map_Mombasa",
+   "mapRegionName": "map_MombasaAMYZ",
    "primaryCity": "Mombasa",
    "population_Millions": 10.954,
    "resource": null,
@@ -27925,7 +25562,7 @@
 },
  {
    "dataName": "Kyrgyzstan",
-   "mapRegionName": "map_Kyrgyzstan",
+   "mapRegionName": "map_KyrgyzstanAMYZ",
    "primaryCity": "Bishkek",
    "population_Millions": 6.759,
    "resource": null,
@@ -28064,7 +25701,7 @@
 },
  {
    "dataName": "Laos",
-   "mapRegionName": "map_Laos",
+   "mapRegionName": "map_LaosAMYZ",
    "primaryCity": "Vientiane",
    "population_Millions": 7.513,
    "resource": null,
@@ -28203,7 +25840,7 @@
 },
  {
    "dataName": "Libya",
-   "mapRegionName": "map_Libya",
+   "mapRegionName": "map_LibyaAMYZ",
    "primaryCity": "Tripoli",
    "population_Millions": 4.594,
    "resource": true,
@@ -28342,7 +25979,7 @@
 },
 {
    "dataName": "Benghazi",
-   "mapRegionName": "map_Benghazi",
+   "mapRegionName": "map_BenghaziAMYZ",
    "primaryCity": "Benghazi",
    "population_Millions": 1.933,
    "resource": true,
@@ -28481,7 +26118,7 @@
 },
 {
    "dataName": "Fezzan",
-   "mapRegionName": "map_Fezzan",
+   "mapRegionName": "map_FezzanAMYZ",
    "primaryCity": "Sabha",
    "population_Millions": 0.612,
    "resource": true,
@@ -28620,7 +26257,7 @@
 },
  {
    "dataName": "Madagascar",
-   "mapRegionName": "map_Madagascar",
+   "mapRegionName": "map_MadagascarAMYZ",
    "primaryCity": "Antananarivo",
    "population_Millions": 29.415,
    "resource": null,
@@ -28759,7 +26396,7 @@
 },
  {
    "dataName": "MalayPeninsula",
-   "mapRegionName": "map_MalayPeninsula",
+   "mapRegionName": "map_MalayPeninsulaAMYZ",
    "primaryCity": "Kuala Lumpur",
    "population_Millions": 26.956,
    "resource": null,
@@ -28898,7 +26535,7 @@
 },
  {
    "dataName": "SarawakandSabah",
-   "mapRegionName": "map_SarawakandSabah",
+   "mapRegionName": "map_SarawakandSabahAMYZ",
    "primaryCity": "Kota Kinabalu",
    "population_Millions": 4.167,
    "resource": null,
@@ -29037,7 +26674,7 @@
 },
 {
    "dataName": "Kuching",
-   "mapRegionName": "map_Kuching",
+   "mapRegionName": "map_KuchingAMYZ",
    "primaryCity": "Kuching",
    "population_Millions": 3.346,
    "resource": null,
@@ -29176,7 +26813,7 @@
 },
 {
    "dataName": "Brunei",
-   "mapRegionName": "map_Brunei",
+   "mapRegionName": "map_BruneiAMYZ",
    "primaryCity": "Brunei",
    "population_Millions": 0.447,
    "resource": true,
@@ -29315,7 +26952,7 @@
 },
  {
    "dataName": "Mali",
-   "mapRegionName": "map_Mali",
+   "mapRegionName": "map_MaliAMYZ",
    "primaryCity": "Bamako",
    "population_Millions": 19.693,
    "resource": null,
@@ -29454,7 +27091,7 @@
 },
 {
    "dataName": "Timbuktu",
-   "mapRegionName": "map_Timbuktu",
+   "mapRegionName": "map_TimbuktuAMYZ",
    "primaryCity": "Timbuktu",
    "population_Millions": 2.019,
    "resource": null,
@@ -29593,7 +27230,7 @@
 },
  {
    "dataName": "Mauritania",
-   "mapRegionName": "map_Mauritania",
+   "mapRegionName": "map_MauritaniaAMYZ",
    "primaryCity": "Nouakchott",
    "population_Millions": 4.934,
    "resource": null,
@@ -29732,7 +27369,7 @@
 },
  {
    "dataName": "MexicoCity",
-   "mapRegionName": "map_MexicoCity",
+   "mapRegionName": "map_MexicoCityAMYZ",
    "primaryCity": "Mexico City",
    "population_Millions": 57.554,
    "resource": null,
@@ -29871,7 +27508,7 @@
 },
  {
    "dataName": "Guadalajara",
-   "mapRegionName": "map_Guadalajara",
+   "mapRegionName": "map_GuadalajaraAMYZ",
    "primaryCity": "Guadalajara",
    "population_Millions": 30.884,
    "resource": null,
@@ -30010,7 +27647,7 @@
 },
  {
    "dataName": "Monterrey",
-   "mapRegionName": "map_Monterrey",
+   "mapRegionName": "map_MonterreyAMYZ",
    "primaryCity": "Monterrey",
    "population_Millions": 13.057,
    "resource": true,
@@ -30149,7 +27786,7 @@
 },
 {
    "dataName": "Juarez",
-   "mapRegionName": "map_Juarez",
+   "mapRegionName": "map_JuarezAMYZ",
    "primaryCity": "Juarez",
    "population_Millions": 12.1,
    "resource": null,
@@ -30288,7 +27925,7 @@
 },
 {
    "dataName": "Tijuana",
-   "mapRegionName": "map_Tijuana",
+   "mapRegionName": "map_TijuanaAMYZ",
    "primaryCity": "Tijuana",
    "population_Millions": 4.787,
    "resource": null,
@@ -30427,7 +28064,7 @@
 },
 {
    "dataName": "Merida",
-   "mapRegionName": "map_Merida",
+   "mapRegionName": "map_MeridaAMYZ",
    "primaryCity": "Merida",
    "population_Millions": 13.68,
    "resource": true,
@@ -30566,7 +28203,7 @@
 },
  {
    "dataName": "Mongolia",
-   "mapRegionName": "map_Mongolia",
+   "mapRegionName": "map_MongoliaAMYZ",
    "primaryCity": "Ulan Bataar",
    "population_Millions": 3.393,
    "resource": null,
@@ -30705,7 +28342,7 @@
 },
 {
    "dataName": "Mozambique",
-   "mapRegionName": "map_Mozambique",
+   "mapRegionName": "map_MozambiqueAMYZ",
    "primaryCity": "Maputo",
    "population_Millions": 7.558,
    "resource": null,
@@ -30844,7 +28481,7 @@
 },
 {
    "dataName": "Beira",
-   "mapRegionName": "map_Beira",
+   "mapRegionName": "map_BeiraAMYZ",
    "primaryCity": "Beira",
    "population_Millions": 7.956,
    "resource": null,
@@ -30983,7 +28620,7 @@
 },
  {
    "dataName": "Nampula",
-   "mapRegionName": "map_Nampula",
+   "mapRegionName": "map_NampulaAMYZ",
    "primaryCity": "Nampula",
    "population_Millions": 17.779,
    "resource": null,
@@ -31122,7 +28759,7 @@
 },
  {
    "dataName": "Myanmar",
-   "mapRegionName": "map_Myanmar",
+   "mapRegionName": "map_MyanmarAMYZ",
    "primaryCity": "Yangon",
    "population_Millions": 28.915,
    "resource": null,
@@ -31261,7 +28898,7 @@
 },
 {
    "dataName": "Mandalay",
-   "mapRegionName": "map_Mandalay",
+   "mapRegionName": "map_MandalayAMYZ",
    "primaryCity": "Mandalay",
    "population_Millions": 20.121,
    "resource": null,
@@ -31400,7 +29037,7 @@
 },
 {
    "dataName": "Shan",
-   "mapRegionName": "map_Shan",
+   "mapRegionName": "map_ShanAMYZ",
    "primaryCity": "Taunggyi",
    "population_Millions": 6.255,
    "resource": true,
@@ -31539,7 +29176,7 @@
 },
  {
    "dataName": "Namibia",
-   "mapRegionName": "map_Namibia",
+   "mapRegionName": "map_NamibiaAMYZ",
    "primaryCity": "Windhoek",
    "population_Millions": 2.648,
    "resource": null,
@@ -31678,7 +29315,7 @@
 },
  {
    "dataName": "NewZealand",
-   "mapRegionName": "map_NewZealand",
+   "mapRegionName": "map_NewZealandAMYZ",
    "primaryCity": "Aukland",
    "population_Millions": 4.911,
    "resource": null,
@@ -31817,7 +29454,7 @@
 },
  {
    "dataName": "Niger",
-   "mapRegionName": "map_Niger",
+   "mapRegionName": "map_NigerAMYZ",
    "primaryCity": "Niamey",
    "population_Millions": 19.335,
    "resource": null,
@@ -31956,7 +29593,7 @@
 },
 {
    "dataName": "Agadez",
-   "mapRegionName": "map_Agadez",
+   "mapRegionName": "map_AgadezAMYZ",
    "primaryCity": "Agadez",
    "population_Millions": 6.916,
    "resource": true,
@@ -32095,7 +29732,7 @@
 },
  {
    "dataName": "Abuja",
-   "mapRegionName": "map_Abuja",
+   "mapRegionName": "map_AbujaAMYZ",
    "primaryCity": "Abuja",
    "population_Millions": 36.605,
    "resource": null,
@@ -32234,7 +29871,7 @@
 },
  {
    "dataName": "Lagos",
-   "mapRegionName": "map_Lagos",
+   "mapRegionName": "map_LagosAMYZ",
    "primaryCity": "Lagos",
    "population_Millions": 50.42,
    "resource": null,
@@ -32373,7 +30010,7 @@
 },
 {
    "dataName": "Harcourt",
-   "mapRegionName": "map_Harcourt",
+   "mapRegionName": "map_HarcourtAMYZ",
    "primaryCity": "Harcourt",
    "population_Millions": 49.548,
    "resource": true,
@@ -32512,7 +30149,7 @@
 },
 {
    "dataName": "Kano",
-   "mapRegionName": "map_Kano",
+   "mapRegionName": "map_KanoAMYZ",
    "primaryCity": "Kano",
    "population_Millions": 81.472,
    "resource": true,
@@ -32651,7 +30288,7 @@
 },
  {
    "dataName": "NorthKorea",
-   "mapRegionName": "map_NorthKorea",
+   "mapRegionName": "map_NorthKoreaAMYZ",
    "primaryCity": "Pyongyang",
    "population_Millions": 26.022,
    "resource": true,
@@ -32790,7 +30427,7 @@
 },
  {
    "dataName": "Oman",
-   "mapRegionName": "map_Oman",
+   "mapRegionName": "map_OmanAMYZ",
    "primaryCity": "Muscat",
    "population_Millions": 5.354,
    "resource": true,
@@ -32929,7 +30566,7 @@
 },
  {
    "dataName": "Melanesia",
-   "mapRegionName": "map_Melanesia",
+   "mapRegionName": "map_MelanesiaAMYZ",
    "primaryCity": "Port Morseby",
    "population_Millions": 11.308,
    "resource": null,
@@ -33068,7 +30705,7 @@
 },
  {
    "dataName": "Micronesia",
-   "mapRegionName": "map_Micronesia",
+   "mapRegionName": "map_MicronesiaAMYZ",
    "primaryCity": "Weno",
    "population_Millions": 0.331,
    "resource": null,
@@ -33207,7 +30844,7 @@
 },
  {
    "dataName": "Polynesia",
-   "mapRegionName": "map_Polynesia",
+   "mapRegionName": "map_PolynesiaAMYZ",
    "primaryCity": "Apia",
    "population_Millions": 0.341,
    "resource": null,
@@ -33346,7 +30983,7 @@
 },
  {
    "dataName": "Baluchistan",
-   "mapRegionName": "map_Baluchistan",
+   "mapRegionName": "map_BaluchistanAMYZ",
    "primaryCity": "Quetta",
    "population_Millions": 15.487,
    "resource": null,
@@ -33485,7 +31122,7 @@
 },
  {
    "dataName": "Peshawar",
-   "mapRegionName": "map_Peshawar",
+   "mapRegionName": "map_PeshawarAMYZ",
    "primaryCity": "Peshawar",
    "population_Millions": 41.465,
    "resource": null,
@@ -33624,7 +31261,7 @@
 },
  {
    "dataName": "Punjab",
-   "mapRegionName": "map_Punjab",
+   "mapRegionName": "map_PunjabAMYZ",
    "primaryCity": "Islamabad",
    "population_Millions": 108.873,
    "resource": null,
@@ -33763,7 +31400,7 @@
 },
  {
    "dataName": "Sindh",
-   "mapRegionName": "map_Sindh",
+   "mapRegionName": "map_SindhAMYZ",
    "primaryCity": "Karachi",
    "population_Millions": 65.002,
    "resource": null,
@@ -33902,7 +31539,7 @@
 },
  {
    "dataName": "Paraguay",
-   "mapRegionName": "map_Paraguay",
+   "mapRegionName": "map_ParaguayAMYZ",
    "primaryCity": "Asuncion",
    "population_Millions": 7.332,
    "resource": null,
@@ -34041,7 +31678,7 @@
 },
  {
    "dataName": "Cusco",
-   "mapRegionName": "map_Cusco",
+   "mapRegionName": "map_CuscoAMYZ",
    "primaryCity": "Cusco",
    "population_Millions": 4.45,
    "resource": true,
@@ -34180,7 +31817,7 @@
 },
 {
    "dataName": "Huancayo",
-   "mapRegionName": "map_Huancayo",
+   "mapRegionName": "map_HuancayoAMYZ",
    "primaryCity": "Huancayo",
    "population_Millions": 3.649,
    "resource": null,
@@ -34319,7 +31956,7 @@
 },
 {
    "dataName": "Iquitos",
-   "mapRegionName": "map_Iquitos",
+   "mapRegionName": "map_IquitosAMYZ",
    "primaryCity": "Iquitos",
    "population_Millions": 1.533,
    "resource": true,
@@ -34458,7 +32095,7 @@
 },
 {
    "dataName": "Peru",
-   "mapRegionName": "map_Peru",
+   "mapRegionName": "map_PeruAMYZ",
    "primaryCity": "Lima",
    "population_Millions": 21.902,
    "resource": null,
@@ -34597,7 +32234,7 @@
 },
 {
    "dataName": "Arequipa",
-   "mapRegionName": "map_Arequipa",
+   "mapRegionName": "map_ArequipaAMYZ",
    "primaryCity": "Arequipa",
    "population_Millions": 2.776,
    "resource": true,
@@ -34736,7 +32373,7 @@
 },
  {
    "dataName": "Luzon",
-   "mapRegionName": "map_Luzon",
+   "mapRegionName": "map_LuzonAMYZ",
    "primaryCity": "Manila",
    "population_Millions": 61.939,
    "resource": null,
@@ -34875,7 +32512,7 @@
 },
  {
    "dataName": "ViasyasyMindanao",
-   "mapRegionName": "map_ViasyasyMindanao",
+   "mapRegionName": "map_ViasyasyMindanaoAMYZ",
    "primaryCity": "Davao",
    "population_Millions": 51.026,
    "resource": null,
@@ -35014,7 +32651,7 @@
 },
  {
    "dataName": "Ratnakara",
-   "mapRegionName": "map_Ratnakara",
+   "mapRegionName": "map_RatnakaraAMYZ",
    "primaryCity": "Port Louis",
    "population_Millions": 2.828,
    "resource": null,
@@ -35153,7 +32790,7 @@
 },
  {
    "dataName": "Crimea",
-   "mapRegionName": "map_Crimea",
+   "mapRegionName": "map_CrimeaAMYZ",
    "primaryCity": "Sevastopol",
    "population_Millions": 2.417,
    "resource": null,
@@ -35292,7 +32929,7 @@
 },
  {
    "dataName": "EasternSiberia",
-   "mapRegionName": "map_EasternSiberia",
+   "mapRegionName": "map_EasternSiberiaAMYZ",
    "primaryCity": "Irkutsk",
    "population_Millions": 2.707,
    "resource": true,
@@ -35431,7 +33068,7 @@
 },
 {
    "dataName": "UlanUde",
-   "mapRegionName": "map_UlanUde",
+   "mapRegionName": "map_UlanUdeAMYZ",
    "primaryCity": "UlanUde",
    "population_Millions": 1.983,
    "resource": null,
@@ -35570,7 +33207,7 @@
 },
 {
    "dataName": "Krasnoyarsk",
-   "mapRegionName": "map_Krasnoyarsk",
+   "mapRegionName": "map_KrasnoyarskAMYZ",
    "primaryCity": "Krasnoyarsk",
    "population_Millions": 2.857,
    "resource": true,
@@ -35709,7 +33346,7 @@
 },
  {
    "dataName": "Moskva",
-   "mapRegionName": "map_Moskva",
+   "mapRegionName": "map_MoskvaAMYZ",
    "primaryCity": "Moscow",
    "population_Millions": 26.163,
    "resource": null,
@@ -35848,7 +33485,7 @@
 },
 {
    "dataName": "Voronezh",
-   "mapRegionName": "map_Voronezh",
+   "mapRegionName": "map_VoronezhAMYZ",
    "primaryCity": "Voronezh",
    "population_Millions": 7.771,
    "resource": null,
@@ -35987,7 +33624,7 @@
 },
 {
    "dataName": "Yaroslavl",
-   "mapRegionName": "map_Yaroslavl",
+   "mapRegionName": "map_YaroslavlAMYZ",
    "primaryCity": "Yaroslavl",
    "population_Millions": 2.934,
    "resource": null,
@@ -36126,7 +33763,7 @@
 },
  {
    "dataName": "Rostovskaya",
-   "mapRegionName": "map_Rostovskaya",
+   "mapRegionName": "map_RostovskayaAMYZ",
    "primaryCity": "Rostov-On-Don",
    "population_Millions": 4.201,
    "resource": null,
@@ -36265,7 +33902,7 @@
 },
 {
    "dataName": "Volgograd",
-   "mapRegionName": "map_Volgograd",
+   "mapRegionName": "map_VolgogradAMYZ",
    "primaryCity": "Volgograd",
    "population_Millions": 2.501,
    "resource": null,
@@ -36404,7 +34041,7 @@
 },
 {
    "dataName": "Astrakhan",
-   "mapRegionName": "map_Astrakhan",
+   "mapRegionName": "map_AstrakhanAMYZ",
    "primaryCity": "Astrakhan",
    "population_Millions": 1.227,
    "resource": null,
@@ -36543,7 +34180,7 @@
 },
 {
    "dataName": "Krasnodar",
-   "mapRegionName": "map_Krasnodar",
+   "mapRegionName": "map_KrasnodarAMYZ",
    "primaryCity": "Krasnodar",
    "population_Millions": 6.335,
    "resource": null,
@@ -36682,7 +34319,7 @@
 },
 {
    "dataName": "Makhachkala",
-   "mapRegionName": "map_Makhachkala",
+   "mapRegionName": "map_MakhachkalaAMYZ",
    "primaryCity": "Makhachkala",
    "population_Millions": 4.693,
    "resource": null,
@@ -36821,7 +34458,7 @@
 },
 {
    "dataName": "Vladikavkaz",
-   "mapRegionName": "map_Vladikavkaz",
+   "mapRegionName": "map_VladikavkazAMYZ",
    "primaryCity": "Vladikavkaz",
    "population_Millions": 5.479,
    "resource": null,
@@ -36960,7 +34597,7 @@
 },
 {
    "dataName": "RussianFarEast",
-   "mapRegionName": "map_RussianFarEast",
+   "mapRegionName": "map_RussianFarEastAMYZ",
    "primaryCity": "Vladivostok",
    "population_Millions": 3.409,
    "resource": null,
@@ -37099,7 +34736,7 @@
 },
 {
    "dataName": "Kamchatka",
-   "mapRegionName": "map_Kamchatka",
+   "mapRegionName": "map_KamchatkaAMYZ",
    "primaryCity": "Petropavlovsk",
    "population_Millions": 0.339,
    "resource": true,
@@ -37238,7 +34875,7 @@
 },
 {
    "dataName": "Sahkalin",
-   "mapRegionName": "map_Sahkalin",
+   "mapRegionName": "map_SahkalinAMYZ",
    "primaryCity": "Sahkalin",
    "population_Millions": 0.467,
    "resource": true,
@@ -37377,7 +35014,7 @@
 },
 {
    "dataName": "Yakutsk",
-   "mapRegionName": "map_Yakutsk",
+   "mapRegionName": "map_YakutskAMYZ",
    "primaryCity": "Yakutsk",
    "population_Millions": 0.996,
    "resource": true,
@@ -37516,7 +35153,7 @@
 },
  {
    "dataName": "Magadan",
-   "mapRegionName": "map_Magadan",
+   "mapRegionName": "map_MagadanAMYZ",
    "primaryCity": "Magadan",
    "population_Millions": 0.783,
    "resource": true,
@@ -37655,7 +35292,7 @@
 },
  {
    "dataName": "Urals",
-   "mapRegionName": "map_Urals",
+   "mapRegionName": "map_UralsAMYZ",
    "primaryCity": "Yekaterinburg",
    "population_Millions": 10.079,
    "resource": true,
@@ -37794,7 +35431,7 @@
 },
 {
    "dataName": "Surgut",
-   "mapRegionName": "map_Surgut",
+   "mapRegionName": "map_SurgutAMYZ",
    "primaryCity": "Surgut",
    "population_Millions": 2.222,
    "resource": true,
@@ -37933,7 +35570,7 @@
 },
  {
    "dataName": "Volga",
-   "mapRegionName": "map_Volga",
+   "mapRegionName": "map_VolgaAMYZ",
    "primaryCity": "Nizhny Novgrod",
    "population_Millions": 7.281,
    "resource": null,
@@ -38072,7 +35709,7 @@
 },
 {
    "dataName": "Kazan",
-   "mapRegionName": "map_Kazan",
+   "mapRegionName": "map_KazanAMYZ",
    "primaryCity": "Kazan",
    "population_Millions": 13.947,
    "resource": true,
@@ -38211,7 +35848,7 @@
 },
 {
    "dataName": "Ufa",
-   "mapRegionName": "map_Ufa",
+   "mapRegionName": "map_UfaAMYZ",
    "primaryCity": "Ufa",
    "population_Millions": 5.954,
    "resource": true,
@@ -38350,7 +35987,7 @@
 },
 {
    "dataName": "Perm",
-   "mapRegionName": "map_Perm",
+   "mapRegionName": "map_PermAMYZ",
    "primaryCity": "Perm",
    "population_Millions": 5.139,
    "resource": true,
@@ -38489,7 +36126,7 @@
 },
 {
    "dataName": "Krasnoyarsk",
-   "mapRegionName": "map_Krasnoyarsk",
+   "mapRegionName": "map_KrasnoyarskAMYZ",
    "primaryCity": "Krasnoyarsk",
    "population_Millions": 2.857,
    "resource": true,
@@ -38628,7 +36265,7 @@
 },
  {
    "dataName": "WesternSiberia",
-   "mapRegionName": "map_WesternSiberia",
+   "mapRegionName": "map_WesternSiberiaAMYZ",
    "primaryCity": "Novosibirsk",
    "population_Millions": 11.229,
    "resource": null,
@@ -38767,7 +36404,7 @@
 },
  {
    "dataName": "Hijaz",
-   "mapRegionName": "map_Hijaz",
+   "mapRegionName": "map_HijazAMYZ",
    "primaryCity": "Jeddah",
    "population_Millions": 11.297,
    "resource": null,
@@ -38906,7 +36543,7 @@
 },
 {
    "dataName": "Medina",
-   "mapRegionName": "map_Medina",
+   "mapRegionName": "map_MedinaAMYZ",
    "primaryCity": "Medina",
    "population_Millions": 2.919,
    "resource": null,
@@ -39045,7 +36682,7 @@
 },
 {
    "dataName": "Abha",
-   "mapRegionName": "map_Abha",
+   "mapRegionName": "map_AbhaAMYZ",
    "primaryCity": "Abha",
    "population_Millions": 5.454,
    "resource": null,
@@ -39184,7 +36821,7 @@
 },
  {
    "dataName": "Najd",
-   "mapRegionName": "map_Najd",
+   "mapRegionName": "map_NajdAMYZ",
    "primaryCity": "Riyadh",
    "population_Millions": 10.274,
    "resource": true,
@@ -39323,7 +36960,7 @@
 },
 {
    "dataName": "Hail",
-   "mapRegionName": "map_Hail",
+   "mapRegionName": "map_HailAMYZ",
    "primaryCity": "Hail",
    "population_Millions": 3.748,
    "resource": null,
@@ -39462,7 +37099,7 @@
 },
 {
    "dataName": "Damman",
-   "mapRegionName": "map_Damman",
+   "mapRegionName": "map_DammanAMYZ",
    "primaryCity": "Damman",
    "population_Millions": 6.128,
    "resource": true,
@@ -39601,7 +37238,7 @@
 },
  {
    "dataName": "Singapore",
-   "mapRegionName": "map_Singapore",
+   "mapRegionName": "map_SingaporeAMYZ",
    "primaryCity": "Singapore (r)",
    "population_Millions": 5.958,
    "resource": null,
@@ -39740,7 +37377,7 @@
 },
  {
    "dataName": "Somalia",
-   "mapRegionName": "map_Somalia",
+   "mapRegionName": "map_SomaliaAMYZ",
    "primaryCity": "Mogadishu",
    "population_Millions": 11.117,
    "resource": null,
@@ -39879,7 +37516,7 @@
 },
 {
    "dataName": "Somaliland",
-   "mapRegionName": "map_Somaliland",
+   "mapRegionName": "map_SomalilandAMYZ",
    "primaryCity": "Hargeisa",
    "population_Millions": 5.741,
    "resource": true,
@@ -40018,7 +37655,7 @@
 },
  {
    "dataName": "CapeTown",
-   "mapRegionName": "map_CapeTown",
+   "mapRegionName": "map_CapeTownAMYZ",
    "primaryCity": "Cape Town",
    "population_Millions": 6.962,
    "resource": null,
@@ -40157,7 +37794,7 @@
 },
  {
    "dataName": "Johannesburg",
-   "mapRegionName": "map_Johannesburg",
+   "mapRegionName": "map_JohannesburgAMYZ",
    "primaryCity": "Johannesburg",
    "population_Millions": 27.97,
    "resource": null,
@@ -40296,7 +37933,7 @@
 },
 {
    "dataName": "Durban",
-   "mapRegionName": "map_Durban",
+   "mapRegionName": "map_DurbanAMYZ",
    "primaryCity": "Durban",
    "population_Millions": 20.209,
    "resource": true,
@@ -40435,7 +38072,7 @@
 },
  {
    "dataName": "SouthKorea",
-   "mapRegionName": "map_SouthKorea",
+   "mapRegionName": "map_SouthKoreaAMYZ",
    "primaryCity": "Seoul",
    "population_Millions": 51.337,
    "resource": null,
@@ -40574,7 +38211,7 @@
 },
  {
    "dataName": "SouthSudan",
-   "mapRegionName": "map_SouthSudan",
+   "mapRegionName": "map_SouthSudanAMYZ",
    "primaryCity": "Juba",
    "population_Millions": 11.696,
    "resource": true,
@@ -40713,7 +38350,7 @@
 },
  {
    "dataName": "SriLanka",
-   "mapRegionName": "map_SriLanka",
+   "mapRegionName": "map_SriLankaAMYZ",
    "primaryCity": "Colombo",
    "population_Millions": 21.6,
    "resource": null,
@@ -40852,7 +38489,7 @@
 },
  {
    "dataName": "Sudan",
-   "mapRegionName": "map_Sudan",
+   "mapRegionName": "map_SudanAMYZ",
    "primaryCity": "Khartoum",
    "population_Millions": 11.923,
    "resource": null,
@@ -40991,7 +38628,7 @@
 },
 {
    "dataName": "Darfur",
-   "mapRegionName": "map_Darfur",
+   "mapRegionName": "map_DarfurAMYZ",
    "primaryCity": "Nyala",
    "population_Millions": 13.052,
    "resource": true,
@@ -41130,7 +38767,7 @@
 },
 {
    "dataName": "Kordofan",
-   "mapRegionName": "map_Kordofan",
+   "mapRegionName": "map_KordofanAMYZ",
    "primaryCity": "El-Obeid",
    "population_Millions": 6.46,
    "resource": null,
@@ -41269,7 +38906,7 @@
 },
 {
    "dataName": "UpperNile",
-   "mapRegionName": "map_UpperNile",
+   "mapRegionName": "map_UpperNileAMYZ",
    "primaryCity": "Kassala",
    "population_Millions": 15.345,
    "resource": null,
@@ -41408,7 +39045,7 @@
 },
  {
    "dataName": "Syria",
-   "mapRegionName": "map_Syria",
+   "mapRegionName": "map_SyriaAMYZ",
    "primaryCity": "Damascus",
    "population_Millions": 10.304,
    "resource": null,
@@ -41547,7 +39184,7 @@
 },
 {
    "dataName": "Lebanon",
-   "mapRegionName": "map_Lebanon",
+   "mapRegionName": "map_LebanonAMYZ",
    "primaryCity": "Beirut",
    "population_Millions": 6.755,
    "resource": null,
@@ -41686,7 +39323,7 @@
 },
 {
    "dataName": "Aleppo",
-   "mapRegionName": "map_Aleppo",
+   "mapRegionName": "map_AleppoAMYZ",
    "primaryCity": "Aleppo",
    "population_Millions": 8.181,
    "resource": true,
@@ -41825,7 +39462,7 @@
 },
  {
    "dataName": "Taiwan",
-   "mapRegionName": "map_Taiwan",
+   "mapRegionName": "map_TaiwanAMYZ",
    "primaryCity": "Taipei",
    "population_Millions": 23.899,
    "resource": null,
@@ -41964,7 +39601,7 @@
 },
  {
    "dataName": "Tajikistan",
-   "mapRegionName": "map_Tajikistan",
+   "mapRegionName": "map_TajikistanAMYZ",
    "primaryCity": "Dushanbe",
    "population_Millions": 10.023,
    "resource": null,
@@ -42103,7 +39740,7 @@
 },
  {
    "dataName": "Tanzania",
-   "mapRegionName": "map_Tanzania",
+   "mapRegionName": "map_TanzaniaAMYZ",
    "primaryCity": "Dar Es Salaam",
    "population_Millions": 16.05,
    "resource": null,
@@ -42242,7 +39879,7 @@
 },
 {
    "dataName": "Mwanza",
-   "mapRegionName": "map_Mwanza",
+   "mapRegionName": "map_MwanzaAMYZ",
    "primaryCity": "Mwanza",
    "population_Millions": 22.283,
    "resource": true,
@@ -42381,7 +40018,7 @@
 },
 {
    "dataName": "Dodoma",
-   "mapRegionName": "map_Dodoma",
+   "mapRegionName": "map_DodomaAMYZ",
    "primaryCity": "Dodoma",
    "population_Millions": 11.204,
    "resource": null,
@@ -42520,7 +40157,7 @@
 },
 {
    "dataName": "Mbeya",
-   "mapRegionName": "map_Mbeya",
+   "mapRegionName": "map_MbeyaAMYZ",
    "primaryCity": "Mbeya",
    "population_Millions": 10.313,
    "resource": null,
@@ -42659,7 +40296,7 @@
 },
 {
    "dataName": "Zanzibar",
-   "mapRegionName": "map_Zanzibar",
+   "mapRegionName": "map_ZanzibarAMYZ",
    "primaryCity": "Zanzibar",
    "population_Millions": 1.89,
    "resource": true,
@@ -42798,7 +40435,7 @@
 },
  {
    "dataName": "Tunisia",
-   "mapRegionName": "map_Tunisia",
+   "mapRegionName": "map_TunisiaAMYZ",
    "primaryCity": "Tunis",
    "population_Millions": 12.081,
    "resource": null,
@@ -42937,7 +40574,7 @@
 },
  {
    "dataName": "Anatolia",
-   "mapRegionName": "map_Anatolia",
+   "mapRegionName": "map_AnatoliaAMYZ",
    "primaryCity": "Ankara",
    "population_Millions": 17.362,
    "resource": true,
@@ -43076,7 +40713,7 @@
 },
 {
    "dataName": "Samsun",
-   "mapRegionName": "map_Samsun",
+   "mapRegionName": "map_SamsunAMYZ",
    "primaryCity": "Samsun",
    "population_Millions": 7.954,
    "resource": null,
@@ -43215,7 +40852,7 @@
 },
  {
    "dataName": "Diyarbakir",
-   "mapRegionName": "map_Diyarbakir",
+   "mapRegionName": "map_DiyarbakirAMYZ",
    "primaryCity": "Diyarbakir",
    "population_Millions": 21.732,
    "resource": true,
@@ -43354,7 +40991,7 @@
 },
  {
    "dataName": "Istanbul",
-   "mapRegionName": "map_Istanbul",
+   "mapRegionName": "map_IstanbulAMYZ",
    "primaryCity": "Istanbul",
    "population_Millions": 25.579,
    "resource": null,
@@ -43493,7 +41130,7 @@
 },
 {
    "dataName": "Izmir",
-   "mapRegionName": "map_Izmir",
+   "mapRegionName": "map_IzmirAMYZ",
    "primaryCity": "Izmir",
    "population_Millions": 13.864,
    "resource": null,
@@ -43632,7 +41269,7 @@
 },
  {
    "dataName": "Turkmenistan",
-   "mapRegionName": "map_Turkmenistan",
+   "mapRegionName": "map_TurkmenistanAMYZ",
    "primaryCity": "Ashgabat",
    "population_Millions": 6.228,
    "resource": true,
@@ -43771,7 +41408,7 @@
 },
  {
    "dataName": "Uganda",
-   "mapRegionName": "map_Uganda",
+   "mapRegionName": "map_UgandaAMYZ",
    "primaryCity": "Kampala",
    "population_Millions": 75.284,
    "resource": true,
@@ -43910,7 +41547,7 @@
 },
  {
    "dataName": "Kharkiv",
-   "mapRegionName": "map_Kharkiv",
+   "mapRegionName": "map_KharkivAMYZ",
    "primaryCity": "Kharkiv",
    "population_Millions": 14.386,
    "resource": null,
@@ -44049,7 +41686,7 @@
 },
 {
    "dataName": "Odessa",
-   "mapRegionName": "map_Odessa",
+   "mapRegionName": "map_OdessaAMYZ",
    "primaryCity": "Odessa",
    "population_Millions": 7.19,
    "resource": null,
@@ -44188,7 +41825,7 @@
 },
  {
    "dataName": "Kiev",
-   "mapRegionName": "map_Kiev",
+   "mapRegionName": "map_KievAMYZ",
    "primaryCity": "Kiev",
    "population_Millions": 10.731,
    "resource": null,
@@ -44327,7 +41964,7 @@
 },
 {
    "dataName": "Lwow",
-   "mapRegionName": "map_Lwow",
+   "mapRegionName": "map_LwowAMYZ",
    "primaryCity": "Lviv",
    "population_Millions": 10.655,
    "resource": null,
@@ -44466,7 +42103,7 @@
 },
  {
    "dataName": "BritishWestIndies",
-   "mapRegionName": "map_BritishWestIndies",
+   "mapRegionName": "map_BritishWestIndiesAMYZ",
    "primaryCity": "George Town",
    "population_Millions": 0.22,
    "resource": null,
@@ -44605,7 +42242,7 @@
 },
  {
    "dataName": "England",
-   "mapRegionName": "map_England",
+   "mapRegionName": "map_EnglandAMYZ",
    "primaryCity": "London",
    "population_Millions": 60.894,
    "resource": null,
@@ -44744,7 +42381,7 @@
 },
  {
    "dataName": "NorthernIreland",
-   "mapRegionName": "map_NorthernIreland",
+   "mapRegionName": "map_NorthernIrelandAMYZ",
    "primaryCity": "Belfast",
    "population_Millions": 1.925,
    "resource": null,
@@ -44883,7 +42520,7 @@
 },
  {
    "dataName": "Scotland",
-   "mapRegionName": "map_Scotland",
+   "mapRegionName": "map_ScotlandAMYZ",
    "primaryCity": "Glasgow",
    "population_Millions": 5.546,
    "resource": null,
@@ -45022,7 +42659,7 @@
 },
  {
    "dataName": "Alaska",
-   "mapRegionName": "map_Alaska",
+   "mapRegionName": "map_AlaskaAMYZ",
    "primaryCity": "Anchorage",
    "population_Millions": 0.733,
    "resource": true,
@@ -45161,7 +42798,7 @@
 },
  {
    "dataName": "AmericanCaribbean",
-   "mapRegionName": "map_AmericanCaribbean",
+   "mapRegionName": "map_AmericanCaribbeanAMYZ",
    "primaryCity": "San Juan",
    "population_Millions": 3.264,
    "resource": null,
@@ -45300,7 +42937,7 @@
 },
  {
    "dataName": "AmericanPacific",
-   "mapRegionName": "map_AmericanPacific",
+   "mapRegionName": "map_AmericanPacificAMYZ",
    "primaryCity": "Honolulu",
    "population_Millions": 1.779,
    "resource": null,
@@ -45439,7 +43076,7 @@
 },
  {
    "dataName": "California",
-   "mapRegionName": "map_California",
+   "mapRegionName": "map_CaliforniaAMYZ",
    "primaryCity": "Los Angeles",
    "population_Millions": 39.238,
    "resource": null,
@@ -45578,7 +43215,7 @@
 },
  {
    "dataName": "Cascadia",
-   "mapRegionName": "map_Cascadia",
+   "mapRegionName": "map_CascadiaAMYZ",
    "primaryCity": "Seattle",
    "population_Millions": 13.886,
    "resource": null,
@@ -45717,7 +43354,7 @@
 },
  {
    "dataName": "Dixie",
-   "mapRegionName": "map_Dixie",
+   "mapRegionName": "map_DixieAMYZ",
    "primaryCity": "Atlanta",
    "population_Millions": 15.839,
    "resource": null,
@@ -45856,7 +43493,7 @@
 },
 {
    "dataName": "Nashville",
-   "mapRegionName": "map_Nashville",
+   "mapRegionName": "map_NashvilleAMYZ",
    "primaryCity": "Nashville",
    "population_Millions": 11.485,
    "resource": null,
@@ -45995,7 +43632,7 @@
 },
 {
    "dataName": "Charlotte",
-   "mapRegionName": "map_Charlotte",
+   "mapRegionName": "map_CharlotteAMYZ",
    "primaryCity": "Charlotte",
    "population_Millions": 15.742,
    "resource": null,
@@ -46134,7 +43771,7 @@
 },
 {
    "dataName": "NewOrleans",
-   "mapRegionName": "map_NewOrleans",
+   "mapRegionName": "map_NewOrleansAMYZ",
    "primaryCity": "NewOrleans",
    "population_Millions": 7.574,
    "resource": null,
@@ -46273,7 +43910,7 @@
 },
 {
    "dataName": "Miami",
-   "mapRegionName": "map_Miami",
+   "mapRegionName": "map_MiamiAMYZ",
    "primaryCity": "Miami",
    "population_Millions": 21.781,
    "resource": null,
@@ -46412,7 +44049,7 @@
 },
 {
    "dataName": "StLouis",
-   "mapRegionName": "map_StLouis",
+   "mapRegionName": "map_StLouisAMYZ",
    "primaryCity": "St. Louis",
    "population_Millions": 16.115,
    "resource": null,
@@ -46551,7 +44188,7 @@
 },
  {
    "dataName": "HighPlains",
-   "mapRegionName": "map_HighPlains",
+   "mapRegionName": "map_HighPlainsAMYZ",
    "primaryCity": "Minneapolis",
    "population_Millions": 12.534,
    "resource": true,
@@ -46690,7 +44327,7 @@
 },
  {
    "dataName": "NewEngland",
-   "mapRegionName": "map_NewEngland",
+   "mapRegionName": "map_NewEnglandAMYZ",
    "primaryCity": "Boston",
    "population_Millions": 15.092,
    "resource": null,
@@ -46829,7 +44466,7 @@
 },
  {
    "dataName": "NewYork",
-   "mapRegionName": "map_NewYork",
+   "mapRegionName": "map_NewYorkAMYZ",
    "primaryCity": "New York City",
    "population_Millions": 19.836,
    "resource": null,
@@ -46968,7 +44605,7 @@
 },
 {
    "dataName": "Philadelphia",
-   "mapRegionName": "map_Philadelphia",
+   "mapRegionName": "map_PhiladelphiaAMYZ",
    "primaryCity": "Philadelphia",
    "population_Millions": 22.231,
    "resource": true,
@@ -47107,7 +44744,7 @@
 },
  {
    "dataName": "RockyMountains",
-   "mapRegionName": "map_RockyMountains",
+   "mapRegionName": "map_RockyMountainsAMYZ",
    "primaryCity": "Denver",
    "population_Millions": 7.495,
    "resource": true,
@@ -47246,7 +44883,7 @@
 },
 {
    "dataName": "Phoenix",
-   "mapRegionName": "map_Phoenix",
+   "mapRegionName": "map_PhoenixAMYZ",
    "primaryCity": "Phoenix",
    "population_Millions": 9.392,
    "resource": null,
@@ -47385,7 +45022,7 @@
 },
 {
    "dataName": "SaltLake",
-   "mapRegionName": "map_SaltLake",
+   "mapRegionName": "map_SaltLakeAMYZ",
    "primaryCity": "Salt Lake City",
    "population_Millions": 6.466,
    "resource": null,
@@ -47524,7 +45161,7 @@
 },
  {
    "dataName": "RustBelt",
-   "mapRegionName": "map_RustBelt",
+   "mapRegionName": "map_RustBeltAMYZ",
    "primaryCity": "Chicago",
    "population_Millions": 47.204,
    "resource": null,
@@ -47663,7 +45300,7 @@
 },
  {
    "dataName": "Shenandoah",
-   "mapRegionName": "map_Shenandoah",
+   "mapRegionName": "map_ShenandoahAMYZ",
    "primaryCity": "Washington",
    "population_Millions": 18.264,
    "resource": null,
@@ -47802,7 +45439,7 @@
 },
  {
    "dataName": "Texas",
-   "mapRegionName": "map_Texas",
+   "mapRegionName": "map_TexasAMYZ",
    "primaryCity": "Houston",
    "population_Millions": 29.528,
    "resource": true,
@@ -47941,7 +45578,7 @@
 },
  {
    "dataName": "Uruguay",
-   "mapRegionName": "map_Uruguay",
+   "mapRegionName": "map_UruguayAMYZ",
    "primaryCity": "Montevideo",
    "population_Millions": 3.499,
    "resource": null,
@@ -48080,7 +45717,7 @@
 },
  {
    "dataName": "Uzbekistan",
-   "mapRegionName": "map_Uzbekistan",
+   "mapRegionName": "map_UzbekistanAMYZ",
    "primaryCity": "Tashkent",
    "population_Millions": 30.743,
    "resource": null,
@@ -48219,7 +45856,7 @@
 },
 {
    "dataName": "Urgench",
-   "mapRegionName": "map_Urgench",
+   "mapRegionName": "map_UrgenchAMYZ",
    "primaryCity": "Urgench",
    "population_Millions": 3.873,
    "resource": true,
@@ -48358,7 +45995,7 @@
 },
  {
    "dataName": "Guayana",
-   "mapRegionName": "map_Guayana",
+   "mapRegionName": "map_GuayanaAMYZ",
    "primaryCity": "Guayana",
    "population_Millions": 1.74,
    "resource": true,
@@ -48497,7 +46134,7 @@
 },
 {
    "dataName": "Venezuela",
-   "mapRegionName": "map_Venezuela",
+   "mapRegionName": "map_VenezuelaAMYZ",
    "primaryCity": "Caracas",
    "population_Millions": 13.303,
    "resource": true,
@@ -48636,7 +46273,7 @@
 },
 {
    "dataName": "Maracaibo",
-   "mapRegionName": "map_Maracaibo",
+   "mapRegionName": "map_MaracaiboAMYZ",
    "primaryCity": "Maracaibo",
    "population_Millions": 13.205,
    "resource": true,
@@ -48775,7 +46412,7 @@
 },
  {
    "dataName": "Hanoi",
-   "mapRegionName": "map_Hanoi",
+   "mapRegionName": "map_HanoiAMYZ",
    "primaryCity": "Hanoi",
    "population_Millions": 46.726,
    "resource": null,
@@ -48914,7 +46551,7 @@
 },
  {
    "dataName": "HoChiMinhCity",
-   "mapRegionName": "map_HoChiMinhCity",
+   "mapRegionName": "map_HoChiMinhCityAMYZ",
    "primaryCity": "Ho Chi Minh City",
    "population_Millions": 52.468,
    "resource": true,
@@ -49053,7 +46690,7 @@
 },
  {
    "dataName": "Yemen",
-   "mapRegionName": "map_Yemen",
+   "mapRegionName": "map_YemenAMYZ",
    "primaryCity": "Sanaa",
    "population_Millions": 26.021,
    "resource": true,
@@ -49192,7 +46829,7 @@
 },
 {
    "dataName": "Aden",
-   "mapRegionName": "map_Aden",
+   "mapRegionName": "map_AdenAMYZ",
    "primaryCity": "Aden",
    "population_Millions": 5.323,
    "resource": true,
@@ -49331,7 +46968,7 @@
 },
 {
    "dataName": "Zambia",
-   "mapRegionName": "map_Zambia",
+   "mapRegionName": "map_ZambiaAMYZ",
    "primaryCity": "Lusaka",
    "population_Millions": 9.476,
    "resource": true,
@@ -49470,7 +47107,7 @@
 },
 {
    "dataName": "Kitwe",
-   "mapRegionName": "map_Kitwe",
+   "mapRegionName": "map_KitweAMYZ",
    "primaryCity": "Kitwe",
    "population_Millions": 10.107,
    "resource": true,
@@ -49609,7 +47246,7 @@
 },
  {
    "dataName": "Malawi",
-   "mapRegionName": "map_Malawi",
+   "mapRegionName": "map_MalawiAMYZ",
    "primaryCity": "Lilongwe",
    "population_Millions": 20.279,
    "resource": null,
@@ -49748,7 +47385,7 @@
 },
  {
    "dataName": "Zimbabwe",
-   "mapRegionName": "map_Zimbabwe",
+   "mapRegionName": "map_ZimbabweAMYZ",
    "primaryCity": "Harare",
    "population_Millions": 15.406,
    "resource": true,
@@ -49887,7 +47524,7 @@
 },
  {
    "dataName": "Antofagasta",
-   "mapRegionName": "map_Atacama",
+   "mapRegionName": "map_AtacamaAMYZ",
    "primaryCity": "Antofagasta",
    "population_Millions": 1.291,
    "resource": true,
@@ -50026,7 +47663,7 @@
 },
 {
    "dataName": "Valparaiso",
-   "mapRegionName": "map_NorthernChile",
+   "mapRegionName": "map_NorthernChileAMYZ",
    "primaryCity": "Valparaíso",
    "population_Millions": 3.172,
    "resource": null,
@@ -50165,7 +47802,7 @@
 },
  {
    "dataName": "Santiago",
-   "mapRegionName": "map_SouthernChile",
+   "mapRegionName": "map_SouthernChileAMYZ",
    "primaryCity": "Santiago",
    "population_Millions": 14.735,
    "resource": null,
@@ -50304,7 +47941,7 @@
 },
 {
    "dataName": "PuntasArenas",
-   "mapRegionName": "map_PuntasArenas",
+   "mapRegionName": "map_PuntasArenasAMYZ",
    "primaryCity": "Puntas Arenas",
    "population_Millions": 0.299,
    "resource": true,
@@ -50443,7 +48080,7 @@
 },
  {
    "dataName": "Guyana",
-   "mapRegionName": "map_Guyana",
+   "mapRegionName": "map_GuyanaAMYZ",
    "primaryCity": "Georgetown",
    "population_Millions": 0.795,
    "resource": true,
@@ -50582,7 +48219,7 @@
 },
  {
    "dataName": "Suriname",
-   "mapRegionName": "map_Suriname",
+   "mapRegionName": "map_SurinameAMYZ",
    "primaryCity": "Paramaribo",
    "population_Millions": 0.598,
    "resource": null,
@@ -50721,7 +48358,7 @@
 },
  {
    "dataName": "Panama",
-   "mapRegionName": "map_Panama",
+   "mapRegionName": "map_PanamaAMYZ",
    "primaryCity": "Panama City",
    "population_Millions": 4.467,
    "resource": null,
@@ -50860,7 +48497,7 @@
 },
  {
    "dataName": "CostaRica",
-   "mapRegionName": "map_CostaRica",
+   "mapRegionName": "map_CostaRicaAMYZ",
    "primaryCity": "San José",
    "population_Millions": 5.196,
    "resource": null,
@@ -50999,7 +48636,7 @@
 },
  {
    "dataName": "Nicaragua",
-   "mapRegionName": "map_Nicaragua",
+   "mapRegionName": "map_NicaraguaAMYZ",
    "primaryCity": "Managua",
    "population_Millions": 6.803,
    "resource": null,
@@ -51138,7 +48775,7 @@
 },
  {
    "dataName": "ElSalvador",
-   "mapRegionName": "map_ElSalvador",
+   "mapRegionName": "map_ElSalvadorAMYZ",
    "primaryCity": "San Salvador",
    "population_Millions": 6.56,
    "resource": null,
@@ -51277,7 +48914,7 @@
 },
  {
    "dataName": "Honduras",
-   "mapRegionName": "map_Honduras",
+   "mapRegionName": "map_HondurasAMYZ",
    "primaryCity": "Tegucigalpa",
    "population_Millions": 10.27,
    "resource": null,
@@ -51416,7 +49053,7 @@
 },
  {
    "dataName": "Guatemala",
-   "mapRegionName": "map_Guatemala",
+   "mapRegionName": "map_GuatemalaAMYZ",
    "primaryCity": "Guatemala City",
    "population_Millions": 18.689,
    "resource": null,
@@ -51555,7 +49192,7 @@
 },
  {
    "dataName": "Belize",
-   "mapRegionName": "map_Belize",
+   "mapRegionName": "map_BelizeAMYZ",
    "primaryCity": "Belize City",
    "population_Millions": 0.414,
    "resource": null,
@@ -51694,7 +49331,7 @@
 },
  {
    "dataName": "Sarajevo",
-   "mapRegionName": "map_NorthwestBalkans",
+   "mapRegionName": "map_NorthwestBalkansAMYZ",
    "primaryCity": "Sarajevo",
    "population_Millions": 3.235,
    "resource": null,
@@ -51833,7 +49470,7 @@
 },
 {
    "dataName": "Croatia",
-   "mapRegionName": "map_Croatia",
+   "mapRegionName": "map_CroatiaAMYZ",
    "primaryCity": "Zagreb",
    "population_Millions": 6.128,
    "resource": null,
@@ -51972,7 +49609,7 @@
 },
  {
    "dataName": "Belgrade",
-   "mapRegionName": "map_SouthwestBalkans",
+   "mapRegionName": "map_SouthwestBalkansAMYZ",
    "primaryCity": "Belgrade",
    "population_Millions": 6.784,
    "resource": null,
@@ -52108,7 +49745,7 @@
 },
 {
    "dataName": "Albania",
-   "mapRegionName": "map_Albania",
+   "mapRegionName": "map_AlbaniaAMYZ",
    "primaryCity": "Tirana",
    "population_Millions": 7.455,
    "resource": null,
@@ -52251,7 +49888,7 @@
 },
  {
    "dataName": "Greece",
-   "mapRegionName": "map_Greece",
+   "mapRegionName": "map_GreeceAMYZ",
    "primaryCity": "Athens",
    "population_Millions": 10.306,
    "resource": null,
@@ -52390,7 +50027,7 @@
 },
  {
    "dataName": "Cyprus",
-   "mapRegionName": "map_Cyprus",
+   "mapRegionName": "map_CyprusAMYZ",
    "primaryCity": "Nicosia",
    "population_Millions": 1.228,
    "resource": true,
@@ -52529,7 +50166,7 @@
 },
  {
    "dataName": "Romania",
-   "mapRegionName": "map_Romania",
+   "mapRegionName": "map_RomaniaAMYZ",
    "primaryCity": "Bucharest",
    "population_Millions": 12.224,
    "resource": null,
@@ -52668,7 +50305,7 @@
 },
 {
    "dataName": "Transylvania",
-   "mapRegionName": "map_Transylvania",
+   "mapRegionName": "map_TransylvaniaAMYZ",
    "primaryCity": "Cluj-Napoca",
    "population_Millions": 6.789,
    "resource": true,
@@ -52807,7 +50444,7 @@
 },
 {
    "dataName": "Moldova",
-   "mapRegionName": "map_Moldova",
+   "mapRegionName": "map_MoldovaAMYZ",
    "primaryCity": "Chisinau",
    "population_Millions": 4.013,
    "resource": null,
@@ -52946,7 +50583,7 @@
 },
  {
    "dataName": "Bulgaria",
-   "mapRegionName": "map_Bulgaria",
+   "mapRegionName": "map_BulgariaAMYZ",
    "primaryCity": "Sofia",
    "population_Millions": 6.829,
    "resource": null,
@@ -53085,7 +50722,7 @@
 },
  {
    "dataName": "Slovakia",
-   "mapRegionName": "map_Slovakia",
+   "mapRegionName": "map_SlovakiaAMYZ",
    "primaryCity": "Bratislava",
    "population_Millions": 5.46,
    "resource": null,
@@ -53224,7 +50861,7 @@
 },
  {
    "dataName": "Hungary",
-   "mapRegionName": "map_Hungary",
+   "mapRegionName": "map_HungaryAMYZ",
    "primaryCity": "Budapest",
    "population_Millions": 9.598,
    "resource": null,
@@ -53363,7 +51000,7 @@
 },
  {
    "dataName": "Czechia",
-   "mapRegionName": "map_Czechia",
+   "mapRegionName": "map_CzechiaAMYZ",
    "primaryCity": "Prague",
    "population_Millions": 10.74,
    "resource": null,
@@ -53502,7 +51139,7 @@
 },
 {
    "dataName": "Arkhangelsk",
-   "mapRegionName": "map_Arkhangelsk",
+   "mapRegionName": "map_ArkhangelskAMYZ",
    "primaryCity": "Arkhangelsk",
    "population_Millions": 1.758,
    "resource": null,
@@ -53641,7 +51278,7 @@
 },
  {
    "dataName": "Novgorod",
-   "mapRegionName": "map_Novgorod",
+   "mapRegionName": "map_NovgorodAMYZ",
    "primaryCity": "St. Petersburg",
    "population_Millions": 10.734,
    "resource": null,
@@ -53780,7 +51417,7 @@
 },
 {
    "dataName": "Archangelsk",
-   "mapRegionName": "map_Archangelsk",
+   "mapRegionName": "map_ArchangelskAMYZ",
    "primaryCity": "Archangelsk",
    "population_Millions": 1.758,
    "resource": true,
@@ -53919,7 +51556,7 @@
 },
 {
    "dataName": "Kaliningrad",
-   "mapRegionName": "map_Kaliningrad",
+   "mapRegionName": "map_KaliningradAMYZ",
    "primaryCity": "Kaliningrad",
    "population_Millions": 1.029,
    "resource": null,
@@ -54058,7 +51695,7 @@
 },
  {
    "dataName": "Karelia",
-   "mapRegionName": "map_Karelia",
+   "mapRegionName": "map_KareliaAMYZ",
    "primaryCity": "Murmansk",
    "population_Millions": 1.777,
    "resource": null,
@@ -54197,7 +51834,7 @@
 },
  {
    "dataName": "Armenia",
-   "mapRegionName": "map_Armenia",
+   "mapRegionName": "map_ArmeniaAMYZ",
    "primaryCity": "Yeveran",
    "population_Millions": 2.973,
    "resource": null,
@@ -54336,7 +51973,7 @@
 },
  {
    "dataName": "Georgia",
-   "mapRegionName": "map_Georgia",
+   "mapRegionName": "map_GeorgiaAMYZ",
    "primaryCity": "Tbilisi",
    "population_Millions": 3.965,
    "resource": null,
@@ -54475,7 +52112,7 @@
 },
  {
    "dataName": "Azerbaijan",
-   "mapRegionName": "map_Azerbaijan",
+   "mapRegionName": "map_AzerbaijanAMYZ",
    "primaryCity": "Baku",
    "population_Millions": 10.324,
    "resource": true,
@@ -54614,7 +52251,7 @@
 },
  {
    "dataName": "ChiangMai",
-   "mapRegionName": "map_NorthThailand",
+   "mapRegionName": "map_NorthThailandAMYZ",
    "primaryCity": "Chiang Mai",
    "population_Millions": 12.274,
    "resource": true,
@@ -54753,7 +52390,7 @@
 },
 {
    "dataName": "Isan",
-   "mapRegionName": "map_Isan",
+   "mapRegionName": "map_IsanAMYZ",
    "primaryCity": "Korat",
    "population_Millions": 22.017,
    "resource": null,
@@ -54892,7 +52529,7 @@
 },
  {
    "dataName": "Bangkok",
-   "mapRegionName": "map_SouthThailand",
+   "mapRegionName": "map_SouthThailandAMYZ",
    "primaryCity": "Bangkok",
    "population_Millions": 35.825,
    "resource": null,
@@ -55031,7 +52668,7 @@
 },
  {
    "dataName": "Rabat",
-   "mapRegionName": "map_AltMorocco",
+   "mapRegionName": "map_AltMoroccoAMYZ",
    "primaryCity": "Rabat",
    "population_Millions": 24.071,
    "resource": null,
@@ -55170,7 +52807,7 @@
 },
 {
    "dataName": "Marrakech",
-   "mapRegionName": "map_Marrakech",
+   "mapRegionName": "map_MarrakechAMYZ",
    "primaryCity": "Marrakech",
    "population_Millions": 9.145,
    "resource": true,
@@ -55309,7 +52946,7 @@
 },
  {
    "dataName": "WesternSahara",
-   "mapRegionName": "map_WesternSahara",
+   "mapRegionName": "map_WesternSaharaAMYZ",
    "primaryCity": "Laâyoune",
    "population_Millions": 0.632,
    "resource": null,
@@ -55448,7 +53085,7 @@
 },
 {
    "dataName": "Bissau",
-   "mapRegionName": "map_Bissau",
+   "mapRegionName": "map_BissauAMYZ",
    "primaryCity": "Bissau",
    "population_Millions": 2.077,
    "resource": null,
@@ -55584,7 +53221,7 @@
 },
  {
    "dataName": "Conkary",
-   "mapRegionName": "map_AltUpperGuinea",
+   "mapRegionName": "map_AltUpperGuineaAMYZ",
    "primaryCity": "Conkary",
    "population_Millions": 13.965,
    "resource": true,
@@ -55717,7 +53354,7 @@
 },
 {
    "dataName": "Monrovia",
-   "mapRegionName": "map_Monrovia",
+   "mapRegionName": "map_MonroviaAMYZ",
    "primaryCity": "Monrovia",
    "population_Millions": 5.335,
    "resource": null,
@@ -55850,7 +53487,7 @@
 },
 {
    "dataName": "Freetown",
-   "mapRegionName": "map_Freetown",
+   "mapRegionName": "map_FreetownAMYZ",
    "primaryCity": "Freetown",
    "population_Millions": 8.355,
    "resource": null,
@@ -55983,7 +53620,7 @@
 },
  {
    "dataName": "BurkinaFaso",
-   "mapRegionName": "map_BurkinaFaso",
+   "mapRegionName": "map_BurkinaFasoAMYZ",
    "primaryCity": "Ouagadougou",
    "population_Millions": 22.295,
    "resource": null,
@@ -56122,7 +53759,7 @@
 },
  {
    "dataName": "Accra",
-   "mapRegionName": "map_AltMiddleGuinea",
+   "mapRegionName": "map_AltMiddleGuineaAMYZ",
    "primaryCity": "Accra",
    "population_Millions": 54.238,
    "resource": true,
@@ -56261,7 +53898,7 @@
 },
  {
    "dataName": "Cameroon",
-   "mapRegionName": "map_Cameroon",
+   "mapRegionName": "map_CameroonAMYZ",
    "primaryCity": "Yaoundé",
    "population_Millions": 28.127,
    "resource": null,
@@ -56400,7 +54037,7 @@
 },
  {
    "dataName": "Brazzaville",
-   "mapRegionName": "map_AltLowerGuinea",
+   "mapRegionName": "map_AltLowerGuineaAMYZ",
    "primaryCity": "Brazzaville",
    "population_Millions": 5.834,
    "resource": true,
@@ -56539,7 +54176,7 @@
 },
 {
    "dataName": "Ecuatoria",
-   "mapRegionName": "map_Ecuatoria",
+   "mapRegionName": "map_EcuatoriaAMYZ",
    "primaryCity": "Malabo",
    "population_Millions": 1.739,
    "resource": true,
@@ -56678,7 +54315,7 @@
 },
 {
    "dataName": "Gabon",
-   "mapRegionName": "map_Gabon",
+   "mapRegionName": "map_GabonAMYZ",
    "primaryCity": "Libreville",
    "population_Millions": 2.348,
    "resource": true,
@@ -56817,7 +54454,7 @@
 },
  {
    "dataName": "Senegambia",
-   "mapRegionName": "map_Senegambia",
+   "mapRegionName": "map_SenegambiaAMYZ",
    "primaryCity": "Dakar",
    "population_Millions": 20.949,
    "resource": null,
@@ -56956,7 +54593,7 @@
 },
  {
    "dataName": "IvoryCoast",
-   "mapRegionName": "map_IvoryCoast",
+   "mapRegionName": "map_IvoryCoastAMYZ",
    "primaryCity": "Abidjan",
    "population_Millions": 27.913,
    "resource": null,

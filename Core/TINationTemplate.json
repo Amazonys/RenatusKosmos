@@ -1,351 +1,8 @@
 [
  {
-   "friendlyName": "_Caribbean States",
-   "dataName": "CBS_Old",
-   "flagResource": "nationflags/Dominican_Republic",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 255,
-      "g": 165,
-      "b": 0
-   },
-   "color": {
-      "r": 1,
-      "g": 0.65,
-      "b": 0,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 349952000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 5,
-   "unrest": 1,
-   "inequality": 4.28,
-   "democracy": 5.94,
-   "education": 5.82,
-   "spaceFunding_year": 0,
-   "miltech": 3,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Developing",
-      "Liberal",
-      "Populist",
-      "Centrist",
-      "Developing",
-      "Developing"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Caucasus States",
-   "dataName": "CCS_Old",
-   "flagResource": "nationflags/Azerbaijan",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1.2,
-   "color32": {
-      "r": 133,
-      "g": 99,
-      "b": 99
-   },
-   "color": {
-      "r": 0.63,
-      "g": 0.47,
-      "b": 0.47,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 255991000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 1.5,
-   "unrest": 5,
-   "inequality": 3.02,
-   "democracy": 3.85,
-   "education": 7.43,
-   "spaceFunding_year": 3.65,
-   "miltech": 3.6,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Developing",
-      "Authoritarian",
-      "Developing",
-      "Authoritarian",
-      "Authoritarian",
-      "Kleptocratic"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Central America",
-   "dataName": "CAM_Old",
-   "flagResource": "nationflags/Guatemala",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 73,
-      "g": 151,
-      "b": 208
-   },
-   "color": {
-      "r": 0.29,
-      "g": 0.59,
-      "b": 0.82,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 553539000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 4,
-   "unrest": 4,
-   "inequality": 4.76,
-   "democracy": 5.64,
-   "education": 5.61,
-   "spaceFunding_year": 4.4,
-   "miltech": 3.4,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Developing",
-      "Developing",
-      "Kleptocratic",
-      "Kleptocratic",
-      "Liberal",
-      "Authoritarian"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Central European States",
-   "dataName": "CEU_Old",
-   "flagResource": "nationflags/Czech_Republic",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 190,
-      "g": 65,
-      "b": 180
-   },
-   "color": {
-      "r": 0.75,
-      "g": 0.25,
-      "b": 0.71,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 990810000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 5,
-   "unrest": 1,
-   "inequality": 2.71,
-   "democracy": 7.18,
-   "education": 8.49,
-   "spaceFunding_year": 8,
-   "miltech": 3.85,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Conservative",
-      "Populist",
-      "Modernization",
-      "Socialist",
-      "Conservative",
-      "Reactionary"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Eastern Balkans",
-   "dataName": "EBK_Old",
-   "flagResource": "nationflags/Romania",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 252,
-      "g": 209,
-      "b": 22
-   },
-   "color": {
-      "r": 0.99,
-      "g": 0.82,
-      "b": 0.09,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 836847000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 5,
-   "unrest": 2,
-   "inequality": 3.56,
-   "democracy": 6.51,
-   "education": 7.65,
-   "spaceFunding_year": 3.1,
-   "miltech": 3.8,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Conservative",
-      "Liberal",
-      "Modernization",
-      "Socialist",
-      "Modernization",
-      "Reactionary"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Lower Guinea",
-   "dataName": "LGN_Old",
-   "flagResource": "nationflags/Cameroon",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 220,
-      "g": 50,
-      "b": 50
-   },
-   "color": {
-      "r": 0.86,
-      "g": 0.2,
-      "b": 0.2,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 184514000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 3,
-   "unrest": 4,
-   "inequality": 4.6,
-   "democracy": 2.93,
-   "education": 5.6,
-   "spaceFunding_year": 0,
-   "miltech": 3.3,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Developing",
-      "Authoritarian",
-      "Developing",
-      "Subsistence",
-      "Kleptocratic",
-      "Kleptocratic"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Middle Guinea",
-   "dataName": "MGN_Old",
-   "flagResource": "nationflags/Ghana",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 255,
-      "g": 182,
-      "b": 193
-   },
-   "color": {
-      "r": 1,
-      "g": 0.71,
-      "b": 0.76,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 452008000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 4,
-   "unrest": 1,
-   "inequality": 4.17,
-   "democracy": 4.92,
-   "education": 4.58,
-   "spaceFunding_year": 0,
-   "miltech": 3.3,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Developing",
-      "Developing",
-      "Developing",
-      "Developing",
-      "Developing",
-      "Developing"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
    "friendlyName": "Palestine",
    "dataName": "PAL",
-   "flagResource": "nationflags/Palestine",
+   "flagResource": "amyznationflags/Palestine",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -392,156 +49,9 @@
    ]
 },
  {
-   "friendlyName": "_Southern Balkan States",
-   "dataName": "GRC_Old",
-   "flagResource": "nationflags/Greece",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 16,
-      "g": 118,
-      "b": 220
-   },
-   "color": {
-      "r": 0.06,
-      "g": 0.46,
-      "b": 0.86,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 447387000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 3,
-   "unrest": 3,
-   "inequality": 3.51,
-   "democracy": 6.99,
-   "education": 8.01,
-   "spaceFunding_year": 2.06,
-   "miltech": 3.8,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Socialist",
-      "Populist",
-      "Modernization",
-      "Socialist",
-      "Centrist",
-      "Populist"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Upper Guinea",
-   "dataName": "UGN_Old",
-   "flagResource": "nationflags/Senegal",
-   "unionFlagResource": "nationflags/West_African_Alliance",
-   "unionTrigger": 2,
-   "multiplier": 1,
-   "color32": {
-      "r": 166,
-      "g": 221,
-      "b": 166
-   },
-   "color": {
-      "r": 0.65,
-      "g": 0.87,
-      "b": 0.65,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 127632000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 4,
-   "unrest": 3,
-   "inequality": 3.75,
-   "democracy": 4.7,
-   "education": 3.7,
-   "spaceFunding_year": 0,
-   "miltech": 3.2,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Developing",
-      "Authoritarian",
-      "Authoritarian",
-      "Subsistence",
-      "Subsistence",
-      "Stability"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "friendlyName": "_Western Balkan States",
-   "dataName": "WBK_Old",
-   "flagResource": "nationflags/Serbia",
-   "unionFlagResource": "",
-   "unionTrigger": null,
-   "multiplier": 1,
-   "color32": {
-      "r": 255,
-      "g": 140,
-      "b": 100
-   },
-   "color": {
-      "r": 1,
-      "g": 0.55,
-      "b": 0.39,
-      "a": 0.05
-   },
-   "aggregateNation": true,
-   "initialGDP": 403481000000,
-   "popGrowthModifier": null,
-   "initialFactionStr": "",
-   "cohesion": 4,
-   "unrest": 1,
-   "inequality": 3.31,
-   "democracy": 6.27,
-   "education": 7.85,
-   "spaceFunding_year": 0,
-   "miltech": 3.6,
-   "nuclearWeapons": 0,
-   "initSpaceIPs": 0,
-   "nuclearProgramIPs": 0,
-   "buildNukeIPs": 0,
-   "buildArmyIPs": 0,
-   "buildNavyIPs": 0,
-   "initialPriorityPreset": [
-      "Modernization",
-      "Conservative",
-      "Industrialization",
-      "Industrialization",
-      "Centrist",
-      "Conservative"
-   ],
-   "ISOCodes": [
-      "",
-      "",
-      ""
-   ]
-},
- {
    "friendlyName": "The Alien Nation",
    "dataName": "ALN",
-   "flagResource": "nationflags/Alien_Nation",
+   "flagResource": "amyznationflags/Alien_Nation",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -590,7 +100,7 @@
  {
    "friendlyName": "Afghanistan",
    "dataName": "AFG",
-   "flagResource": "nationflags/Afghanistan",
+   "flagResource": "amyznationflags/Afghanistan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -639,7 +149,7 @@
  {
    "friendlyName": "Alaska",
    "dataName": "AKA",
-   "flagResource": "nationflags/Alaska",
+   "flagResource": "amyznationflags/Alaska",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -688,8 +198,8 @@
  {
    "friendlyName": "Algeria",
    "dataName": "DZA",
-   "flagResource": "nationflags/Algeria",
-   "unionFlagResource": "nationflags/Tamazgha",
+   "flagResource": "amyznationflags/Algeria",
+   "unionFlagResource": "amyznationflags/Tamazgha",
    "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
@@ -737,8 +247,8 @@
  {
    "friendlyName": "Austria",
    "dataName": "ALP",
-   "flagResource": "nationflags/Austria",
-   "unionFlagResource": "nationflags/Austria",
+   "flagResource": "amyznationflags/Austria",
+   "unionFlagResource": "amyznationflags/Austria",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -784,8 +294,8 @@
  {
    "friendlyName": "Switzerland",
    "dataName": "SWI",
-   "flagResource": "nationflags/Switzerland",
-   "unionFlagResource": "nationflags/Switzerland",
+   "flagResource": "amyznationflags/Switzerland",
+   "unionFlagResource": "amyznationflags/Switzerland",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -832,8 +342,8 @@
  {
    "friendlyName": "Angola",
    "dataName": "AGO",
-   "flagResource": "nationflags/Angola",
-   "unionFlagResource": "nationflags/UnitedBantuNation",
+   "flagResource": "amyznationflags/Angola",
+   "unionFlagResource": "amyznationflags/UnitedBantuNation",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -881,8 +391,8 @@
  {
    "friendlyName": "Argentina",
    "dataName": "ARG",
-   "flagResource": "nationflags/Argentina",
-   "unionFlagResource": "nationflags/Argentina",
+   "flagResource": "amyznationflags/Argentina",
+   "unionFlagResource": "amyznationflags/Argentina",
    "unionTrigger": 8,
    "multiplier": 1,
    "color32": {
@@ -930,7 +440,7 @@
 {
    "friendlyName": "Patagonia",
    "dataName": "PAT",
-   "flagResource": "nationflags/Patagonia",
+   "flagResource": "amyznationflags/Patagonia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -979,7 +489,7 @@
  {
    "friendlyName": "Armenia",
    "dataName": "ARM",
-   "flagResource": "nationflags/Armenia",
+   "flagResource": "amyznationflags/Armenia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -1028,7 +538,7 @@
  {
    "friendlyName": "Assam",
    "dataName": "ASM",
-   "flagResource": "nationflags/Assam",
+   "flagResource": "amyznationflags/Assam",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1077,7 +587,7 @@
  {
    "friendlyName": "Aztlan",
    "dataName": "ATZ",
-   "flagResource": "nationflags/Aztlan",
+   "flagResource": "amyznationflags/Aztlan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1126,8 +636,8 @@
  {
    "friendlyName": "Australia",
    "dataName": "AUS",
-   "flagResource": "nationflags/Australia",
-   "unionFlagResource": "nationflags/Republic_Of_The_Southern_Cross",
+   "flagResource": "amyznationflags/Australia",
+   "unionFlagResource": "amyznationflags/Republic_Of_The_Southern_Cross",
    "unionTrigger": 4,
    "multiplier": 1.5,
    "color32": {
@@ -1175,7 +685,7 @@
  {
    "friendlyName": "Azerbaijan",
    "dataName": "AZE",
-   "flagResource": "nationflags/Azerbaijan",
+   "flagResource": "amyznationflags/Azerbaijan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1224,8 +734,8 @@
  {
    "friendlyName": "Latvia",
    "dataName": "BAS",
-   "flagResource": "nationflags/Latvia",
-   "unionFlagResource": "nationflags/BalticStates",
+   "flagResource": "amyznationflags/Latvia",
+   "unionFlagResource": "amyznationflags/BalticStates",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -1271,7 +781,7 @@
 {
    "friendlyName": "Estonia",
    "dataName": "EST",
-   "flagResource": "nationflags/Estonia",
+   "flagResource": "amyznationflags/Estonia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1318,7 +828,7 @@
 {
    "friendlyName": "Lithuania",
    "dataName": "LTH",
-   "flagResource": "nationflags/Lithuania",
+   "flagResource": "amyznationflags/Lithuania",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1365,7 +875,7 @@
  {
    "friendlyName": "Baluchistan",
    "dataName": "BCH",
-   "flagResource": "nationflags/Baluchistan",
+   "flagResource": "amyznationflags/Baluchistan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1414,7 +924,7 @@
  {
    "friendlyName": "Bangladesh",
    "dataName": "BGD",
-   "flagResource": "nationflags/Bangladesh",
+   "flagResource": "amyznationflags/Bangladesh",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1463,7 +973,7 @@
  {
    "friendlyName": "Belarus",
    "dataName": "BLR",
-   "flagResource": "nationflags/Belarus",
+   "flagResource": "amyznationflags/Belarus",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1512,7 +1022,7 @@
  {
    "friendlyName": "Belize",
    "dataName": "BEL",
-   "flagResource": "nationflags/Belize",
+   "flagResource": "amyznationflags/Belize",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1561,7 +1071,7 @@
  {
    "friendlyName": "Benelux",
    "dataName": "NET",
-   "flagResource": "nationflags/Netherlands",
+   "flagResource": "amyznationflags/Netherlands",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1608,8 +1118,8 @@
 {
    "friendlyName": "Belgium",
    "dataName": "EUA",
-   "flagResource": "nationflags/Belgium",
-   "unionFlagResource": "nationflags/European_Union",
+   "flagResource": "amyznationflags/Belgium",
+   "unionFlagResource": "amyznationflags/European_Union",
    "unionTrigger": 2,
    "multiplier": 1.5,
    "color32": {
@@ -1656,7 +1166,7 @@
  {
    "friendlyName": "Biafra",
    "dataName": "BIA",
-   "flagResource": "nationflags/Biafra",
+   "flagResource": "amyznationflags/Biafra",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1705,7 +1215,7 @@
  {
    "friendlyName": "Bolivia",
    "dataName": "BOL",
-   "flagResource": "nationflags/Bolivia",
+   "flagResource": "amyznationflags/Bolivia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1754,7 +1264,7 @@
 {
    "friendlyName": "South American Union",
    "dataName": "SAU",
-   "flagResource": "nationflags/South_American_Union",
+   "flagResource": "amyznationflags/South_American_Union",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1803,7 +1313,7 @@
  {
    "friendlyName": "Borneo",
    "dataName": "BOR",
-   "flagResource": "nationflags/Borneo",
+   "flagResource": "amyznationflags/Borneo",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1852,7 +1362,7 @@
  {
    "friendlyName": "Botswana",
    "dataName": "BWA",
-   "flagResource": "nationflags/Botswana",
+   "flagResource": "amyznationflags/Botswana",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1901,8 +1411,8 @@
  {
    "friendlyName": "Brazil",
    "dataName": "BRA",
-   "flagResource": "nationflags/Brazil",
-   "unionFlagResource": "nationflags/Brazil",
+   "flagResource": "amyznationflags/Brazil",
+   "unionFlagResource": "amyznationflags/Brazil",
    "unionTrigger": 29,
    "multiplier": 1,
    "color32": {
@@ -1950,7 +1460,7 @@
  {
    "friendlyName": "Bulgaria",
    "dataName": "BUL",
-   "flagResource": "nationflags/Bulgaria",
+   "flagResource": "amyznationflags/Bulgaria",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -1999,7 +1509,7 @@
  {
    "friendlyName": "Burkina Faso",
    "dataName": "BKF",
-   "flagResource": "nationflags/Burkina_Faso",
+   "flagResource": "amyznationflags/Burkina_Faso",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2048,8 +1558,8 @@
  {
    "friendlyName": "California",
    "dataName": "CAL",
-   "flagResource": "nationflags/California",
-   "unionFlagResource": "nationflags/California",
+   "flagResource": "amyznationflags/California",
+   "unionFlagResource": "amyznationflags/California",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -2097,7 +1607,7 @@
  {
    "friendlyName": "Caliphate",
    "dataName": "CPH",
-   "flagResource": "nationflags/Caliphate",
+   "flagResource": "amyznationflags/Caliphate",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2146,7 +1656,7 @@
  {
    "friendlyName": "Cambodia",
    "dataName": "KHM",
-   "flagResource": "nationflags/Cambodia",
+   "flagResource": "amyznationflags/Cambodia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2195,7 +1705,7 @@
  {
    "friendlyName": "Cameroon",
    "dataName": "CMR",
-   "flagResource": "nationflags/Cameroon",
+   "flagResource": "amyznationflags/Cameroon",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2244,7 +1754,7 @@
  {
    "friendlyName": "Canada",
    "dataName": "CAN",
-   "flagResource": "nationflags/Canada",
+   "flagResource": "amyznationflags/Canada",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2293,7 +1803,7 @@
  {
    "friendlyName": "Cape Republic",
    "dataName": "CAP",
-   "flagResource": "nationflags/Cape_Republic",
+   "flagResource": "amyznationflags/Cape_Republic",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2342,7 +1852,7 @@
 {
    "friendlyName": "Caribbean States",
    "dataName": "CAB",
-   "flagResource": "nationflags/Jamaica",
+   "flagResource": "amyznationflags/Jamaica",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2389,7 +1899,7 @@
 {
    "friendlyName": "Haiti",
    "dataName": "HTI",
-   "flagResource": "nationflags/Haiti",
+   "flagResource": "amyznationflags/Haiti",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2438,7 +1948,7 @@
 {
    "friendlyName": "Dominica",
    "dataName": "DOM",
-   "flagResource": "nationflags/Dominican_Republic",
+   "flagResource": "amyznationflags/Dominican_Republic",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2487,7 +1997,7 @@
  {
    "friendlyName": "Cascadia",
    "dataName": "CSD",
-   "flagResource": "nationflags/Cascadia",
+   "flagResource": "amyznationflags/Cascadia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2536,7 +2046,7 @@
  {
    "friendlyName": "Catalonia",
    "dataName": "CAT",
-   "flagResource": "nationflags/Catalonia",
+   "flagResource": "amyznationflags/Catalonia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2585,7 +2095,7 @@
  {
    "friendlyName": "Central African Republic",
    "dataName": "CAF",
-   "flagResource": "nationflags/Central_African_Republic",
+   "flagResource": "amyznationflags/Central_African_Republic",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2634,7 +2144,7 @@
  {
    "friendlyName": "Chad",
    "dataName": "TCD",
-   "flagResource": "nationflags/Chad",
+   "flagResource": "amyznationflags/Chad",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2683,7 +2193,7 @@
  {
    "friendlyName": "Chile",
    "dataName": "CHL",
-   "flagResource": "nationflags/Chile",
+   "flagResource": "amyznationflags/Chile",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2732,8 +2242,8 @@
  {
    "friendlyName": "China",
    "dataName": "CHN",
-   "flagResource": "nationflags/China",
-   "unionFlagResource": "nationflags/Zhongguo",
+   "flagResource": "amyznationflags/China",
+   "unionFlagResource": "amyznationflags/Zhongguo",
    "unionTrigger": 25,
    "multiplier": 1,
    "color32": {
@@ -2781,8 +2291,8 @@
 {
    "friendlyName": "East Asia",
    "dataName": "EAS",
-   "flagResource": "nationflags/EastAsia",
-   "unionFlagResource": "nationflags/PanAsian_Cooperative",
+   "flagResource": "amyznationflags/EastAsia",
+   "unionFlagResource": "amyznationflags/PanAsian_Cooperative",
    "unionTrigger": 20,
    "multiplier": 1,
    "color32": {
@@ -2830,8 +2340,8 @@
  {
    "friendlyName": "Colombia",
    "dataName": "COL",
-   "flagResource": "nationflags/Colombia",
-   "unionFlagResource": "nationflags/GranColombia",
+   "flagResource": "amyznationflags/Colombia",
+   "unionFlagResource": "amyznationflags/GranColombia",
    "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
@@ -2879,8 +2389,8 @@
  {
    "friendlyName": "Congo",
    "dataName": "COD",
-   "flagResource": "nationflags/DR_Congo",
-   "unionFlagResource": "nationflags/UnitedKongo",
+   "flagResource": "amyznationflags/DR_Congo",
+   "unionFlagResource": "amyznationflags/UnitedKongo",
    "unionTrigger": 7,
    "multiplier": 1,
    "color32": {
@@ -2928,7 +2438,7 @@
  {
    "friendlyName": "Costa Rica",
    "dataName": "COS",
-   "flagResource": "nationflags/Costa_Rica",
+   "flagResource": "amyznationflags/Costa_Rica",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2977,7 +2487,7 @@
  {
    "friendlyName": "Crimea",
    "dataName": "CRI",
-   "flagResource": "nationflags/Crimea",
+   "flagResource": "amyznationflags/Crimea",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3026,7 +2536,7 @@
  {
    "friendlyName": "Cuba",
    "dataName": "CUB",
-   "flagResource": "nationflags/Cuba",
+   "flagResource": "amyznationflags/Cuba",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -3075,8 +2585,8 @@
  {
    "friendlyName": "Czechia",
    "dataName": "CZE",
-   "flagResource": "nationflags/Czech_Republic",
-   "unionFlagResource": "nationflags/Czech_Republic",
+   "flagResource": "amyznationflags/Czech_Republic",
+   "unionFlagResource": "amyznationflags/Czech_Republic",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -3124,7 +2634,7 @@
  {
    "friendlyName": "Denmark",
    "dataName": "DEN",
-   "flagResource": "nationflags/Denmark",
+   "flagResource": "amyznationflags/Denmark",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3173,7 +2683,7 @@
  {
    "friendlyName": "Dominion of America",
    "dataName": "CSA",
-   "flagResource": "nationflags/Dominion_of_America",
+   "flagResource": "amyznationflags/Dominion_of_America",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3222,7 +2732,7 @@
  {
    "friendlyName": "Dravida Nadu",
    "dataName": "DVD",
-   "flagResource": "nationflags/Dravida_Nadu",
+   "flagResource": "amyznationflags/Dravida_Nadu",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3271,7 +2781,7 @@
  {
    "friendlyName": "East Turkestan",
    "dataName": "ETK",
-   "flagResource": "nationflags/East_Turkestan",
+   "flagResource": "amyznationflags/East_Turkestan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3320,7 +2830,7 @@
  {
    "friendlyName": "Ecuador",
    "dataName": "ECU",
-   "flagResource": "nationflags/Ecuador",
+   "flagResource": "amyznationflags/Ecuador",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3369,8 +2879,8 @@
  {
    "friendlyName": "Egypt",
    "dataName": "EGY",
-   "flagResource": "nationflags/Egypt",
-   "unionFlagResource": "nationflags/United_Arab_League",
+   "flagResource": "amyznationflags/Egypt",
+   "unionFlagResource": "amyznationflags/United_Arab_League",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -3418,7 +2928,7 @@
  {
    "friendlyName": "El Salvador",
    "dataName": "ELS",
-   "flagResource": "nationflags/El_Salvador",
+   "flagResource": "amyznationflags/El_Salvador",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3467,7 +2977,7 @@
  {
    "friendlyName": "Eritrea",
    "dataName": "ERI",
-   "flagResource": "nationflags/Eritrea",
+   "flagResource": "amyznationflags/Eritrea",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3516,8 +3026,8 @@
  {
    "friendlyName": "Oromia",
    "dataName": "ETH",
-   "flagResource": "nationflags/Oromia",
-   "unionFlagResource": "nationflags/Ethiopia",
+   "flagResource": "amyznationflags/Oromia",
+   "unionFlagResource": "amyznationflags/Ethiopia",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -3565,7 +3075,7 @@
 {
    "friendlyName": "Ogaden",
    "dataName": "OGD",
-   "flagResource": "nationflags/Ogaden",
+   "flagResource": "amyznationflags/Ogaden",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3614,7 +3124,7 @@
 {
    "friendlyName": "African Union",
    "dataName": "AFR",
-   "flagResource": "nationflags/African_Union",
+   "flagResource": "amyznationflags/African_Union",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3663,7 +3173,7 @@
  {
    "friendlyName": "Finland",
    "dataName": "FIN",
-   "flagResource": "nationflags/Finland",
+   "flagResource": "amyznationflags/Finland",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3712,7 +3222,7 @@
  {
    "friendlyName": "First Nation",
    "dataName": "FNT",
-   "flagResource": "nationflags/FirstNation",
+   "flagResource": "amyznationflags/FirstNation",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3761,7 +3271,7 @@
  {
    "friendlyName": "France",
    "dataName": "FRA",
-   "flagResource": "nationflags/France",
+   "flagResource": "amyznationflags/France",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3810,7 +3320,7 @@
  {
    "friendlyName": "Free Amazonas",
    "dataName": "FAM",
-   "flagResource": "nationflags/Amazonas",
+   "flagResource": "amyznationflags/Amazonas",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3859,7 +3369,7 @@
 {
    "friendlyName": "Bahia",
    "dataName": "BAH",
-   "flagResource": "nationflags/Bahia",
+   "flagResource": "amyznationflags/Bahia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3908,7 +3418,7 @@
 {
    "friendlyName": "MatoGrosso",
    "dataName": "MTR",
-   "flagResource": "nationflags/MatoGrosso",
+   "flagResource": "amyznationflags/MatoGrosso",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -3957,7 +3467,7 @@
 {
    "friendlyName": "MatoGrossoSul",
    "dataName": "MTS",
-   "flagResource": "nationflags/MatoGrossoSul",
+   "flagResource": "amyznationflags/MatoGrossoSul",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4006,7 +3516,7 @@
 {
    "friendlyName": "MinasGerais",
    "dataName": "MGS",
-   "flagResource": "nationflags/MinasGerais",
+   "flagResource": "amyznationflags/MinasGerais",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4055,7 +3565,7 @@
 {
    "friendlyName": "Maranhao",
    "dataName": "MHO",
-   "flagResource": "nationflags/Maranhao",
+   "flagResource": "amyznationflags/Maranhao",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4104,7 +3614,7 @@
 {
    "friendlyName": "Parana",
    "dataName": "PNA",
-   "flagResource": "nationflags/Parana",
+   "flagResource": "amyznationflags/Parana",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4153,7 +3663,7 @@
 {
    "friendlyName": "Para",
    "dataName": "PAR",
-   "flagResource": "nationflags/Para",
+   "flagResource": "amyznationflags/Para",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4202,7 +3712,7 @@
 {
    "friendlyName": "Rio Grande do Sul",
    "dataName": "RGS",
-   "flagResource": "nationflags/RioGrandedoSul",
+   "flagResource": "amyznationflags/RioGrandedoSul",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4251,7 +3761,7 @@
 {
    "friendlyName": "Rio de Janeiro",
    "dataName": "RIO",
-   "flagResource": "nationflags/Brazil",
+   "flagResource": "amyznationflags/Brazil",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4300,7 +3810,7 @@
 {
    "friendlyName": "Rondonia",
    "dataName": "RON",
-   "flagResource": "nationflags/Rondonia",
+   "flagResource": "amyznationflags/Rondonia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4349,7 +3859,7 @@
 {
    "friendlyName": "Roraima",
    "dataName": "ROR",
-   "flagResource": "nationflags/Roraima",
+   "flagResource": "amyznationflags/Roraima",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4398,7 +3908,7 @@
  {
    "friendlyName": "Fujian",
    "dataName": "WUR",
-   "flagResource": "nationflags/Shanghai_Republic",
+   "flagResource": "amyznationflags/Shanghai_Republic",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4447,7 +3957,7 @@
  {
    "friendlyName": "Georgia",
    "dataName": "GEO",
-   "flagResource": "nationflags/Georgia",
+   "flagResource": "amyznationflags/Georgia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4496,8 +4006,8 @@
  {
    "friendlyName": "Germany",
    "dataName": "DEU",
-   "flagResource": "nationflags/Germany",
-   "unionFlagResource": "nationflags/Germany",
+   "flagResource": "amyznationflags/Germany",
+   "unionFlagResource": "amyznationflags/Germany",
    "unionTrigger": 5,
    "multiplier": 1.2,
    "color32": {
@@ -4545,7 +4055,7 @@
  {
    "friendlyName": "Greece",
    "dataName": "GRE",
-   "flagResource": "nationflags/Greece",
+   "flagResource": "amyznationflags/Greece",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4593,7 +4103,7 @@
 {
    "friendlyName": "Cyprus",
    "dataName": "CYP",
-   "flagResource": "nationflags/Cyprus",
+   "flagResource": "amyznationflags/Cyprus",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4640,7 +4150,7 @@
  {
    "friendlyName": "Greenland",
    "dataName": "GRL",
-   "flagResource": "nationflags/Greenland",
+   "flagResource": "amyznationflags/Greenland",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4689,7 +4199,7 @@
  {
    "friendlyName": "Guangdong",
    "dataName": "GUA",
-   "flagResource": "nationflags/Guangdong",
+   "flagResource": "amyznationflags/Guangdong",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4738,8 +4248,8 @@
  {
    "friendlyName": "Guatemala",
    "dataName": "GTM",
-   "flagResource": "nationflags/Guatemala",
-   "unionFlagResource": "nationflags/Guatemala",
+   "flagResource": "amyznationflags/Guatemala",
+   "unionFlagResource": "amyznationflags/Guatemala",
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
@@ -4787,7 +4297,7 @@
  {
    "friendlyName": "Gulf States",
    "dataName": "GUS",
-   "flagResource": "nationflags/United_Arab_Emirates",
+   "flagResource": "amyznationflags/United_Arab_Emirates",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4836,7 +4346,7 @@
  {
    "friendlyName": "Guyana",
    "dataName": "GUY",
-   "flagResource": "nationflags/Guyana",
+   "flagResource": "amyznationflags/Guyana",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4885,7 +4395,7 @@
  {
    "friendlyName": "Nepal",
    "dataName": "HYS",
-   "flagResource": "nationflags/Nepal",
+   "flagResource": "amyznationflags/Nepal",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4934,7 +4444,7 @@
 {
    "friendlyName": "Bhutan",
    "dataName": "BTN",
-   "flagResource": "nationflags/Bhutan",
+   "flagResource": "amyznationflags/Bhutan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -4983,7 +4493,7 @@
  {
    "friendlyName": "Honduras",
    "dataName": "HON",
-   "flagResource": "nationflags/Honduras",
+   "flagResource": "amyznationflags/Honduras",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5032,8 +4542,8 @@
  {
    "friendlyName": "Hungary",
    "dataName": "HUN",
-   "flagResource": "nationflags/Hungary",
-   "unionFlagResource": "nationflags/Hungary",
+   "flagResource": "amyznationflags/Hungary",
+   "unionFlagResource": "amyznationflags/Hungary",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -5081,7 +4591,7 @@
  {
    "friendlyName": "Iceland",
    "dataName": "ISL",
-   "flagResource": "nationflags/Iceland",
+   "flagResource": "amyznationflags/Iceland",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5130,7 +4640,7 @@
  {
    "friendlyName": "India",
    "dataName": "IND",
-   "flagResource": "nationflags/India",
+   "flagResource": "amyznationflags/India",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5179,8 +4689,8 @@
  {
    "friendlyName": "Indonesia",
    "dataName": "IDN",
-   "flagResource": "nationflags/Indonesia",
-   "unionFlagResource": "nationflags/Indonesia",
+   "flagResource": "amyznationflags/Indonesia",
+   "unionFlagResource": "amyznationflags/Indonesia",
    "unionTrigger": 14,
    "multiplier": 1,
    "color32": {
@@ -5228,7 +4738,7 @@
  {
    "friendlyName": "Ingria",
    "dataName": "ING",
-   "flagResource": "nationflags/Ingria",
+   "flagResource": "amyznationflags/Ingria",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5277,7 +4787,7 @@
  {
    "friendlyName": "Iran",
    "dataName": "IRN",
-   "flagResource": "nationflags/Iran",
+   "flagResource": "amyznationflags/Iran",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5326,7 +4836,7 @@
 {
    "friendlyName": "Ahwaz",
    "dataName": "AHZ",
-   "flagResource": "nationflags/Ahwaz",
+   "flagResource": "amyznationflags/Ahwaz",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5375,7 +4885,7 @@
 {
    "friendlyName": "Basra",
    "dataName": "BSA",
-   "flagResource": "nationflags/Basra",
+   "flagResource": "amyznationflags/Basra",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5424,7 +4934,7 @@
 {
    "friendlyName": "Haasa",
    "dataName": "HSA",
-   "flagResource": "nationflags/Haasa",
+   "flagResource": "amyznationflags/Haasa",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5473,7 +4983,7 @@
  {
    "friendlyName": "Iraq",
    "dataName": "IRQ",
-   "flagResource": "nationflags/Iraq",
+   "flagResource": "amyznationflags/Iraq",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5522,7 +5032,7 @@
  {
    "friendlyName": "Ireland",
    "dataName": "IRL",
-   "flagResource": "nationflags/Ireland",
+   "flagResource": "amyznationflags/Ireland",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5571,7 +5081,7 @@
  {
    "friendlyName": "Israel",
    "dataName": "ISR",
-   "flagResource": "nationflags/Israel",
+   "flagResource": "amyznationflags/Israel",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5620,7 +5130,7 @@
  {
    "friendlyName": "Italy",
    "dataName": "ITA",
-   "flagResource": "nationflags/Italy",
+   "flagResource": "amyznationflags/Italy",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5669,7 +5179,7 @@
  {
    "friendlyName": "Ivory Coast",
    "dataName": "IVO",
-   "flagResource": "nationflags/Ivory_Coast",
+   "flagResource": "amyznationflags/Ivory_Coast",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5718,7 +5228,7 @@
  {
    "friendlyName": "Jammu and Kashmir",
    "dataName": "KSH",
-   "flagResource": "nationflags/Jammu_And_Kashmir",
+   "flagResource": "amyznationflags/Jammu_And_Kashmir",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5767,8 +5277,8 @@
  {
    "friendlyName": "Japan",
    "dataName": "JPN",
-   "flagResource": "nationflags/Japan",
-   "unionFlagResource": "nationflags/Japan",
+   "flagResource": "amyznationflags/Japan",
+   "unionFlagResource": "amyznationflags/Japan",
    "unionTrigger": 6,
    "multiplier": 1.2,
    "color32": {
@@ -5816,7 +5326,7 @@
  {
    "friendlyName": "Jordan",
    "dataName": "JOR",
-   "flagResource": "nationflags/Jordan",
+   "flagResource": "amyznationflags/Jordan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5865,7 +5375,7 @@
  {
    "friendlyName": "Karelia",
    "dataName": "KAR",
-   "flagResource": "nationflags/Karelia",
+   "flagResource": "amyznationflags/Karelia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5914,7 +5424,7 @@
  {
    "friendlyName": "Katanga",
    "dataName": "KAT",
-   "flagResource": "nationflags/Katanga",
+   "flagResource": "amyznationflags/Katanga",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -5963,8 +5473,8 @@
 {
    "friendlyName": "Barotse",
    "dataName": "BTO",
-   "flagResource": "nationflags/Chokwe",
-   "unionFlagResource": "nationflags/Barotseland",
+   "flagResource": "amyznationflags/Chokwe",
+   "unionFlagResource": "amyznationflags/Barotseland",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -6012,7 +5522,7 @@
 {
    "friendlyName": "Ubangi",
    "dataName": "UBG",
-   "flagResource": "nationflags/Ubangi",
+   "flagResource": "amyznationflags/Ubangi",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6061,7 +5571,7 @@
 {
    "friendlyName": "Kivu",
    "dataName": "KIV",
-   "flagResource": "nationflags/Kivu",
+   "flagResource": "amyznationflags/Kivu",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6110,7 +5620,7 @@
 {
    "friendlyName": "Kisangani",
    "dataName": "KIS",
-   "flagResource": "nationflags/Kisangani",
+   "flagResource": "amyznationflags/Kisangani",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6159,7 +5669,7 @@
 {
    "friendlyName": "Kasai",
    "dataName": "KAS",
-   "flagResource": "nationflags/Kasai",
+   "flagResource": "amyznationflags/Kasai",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6208,8 +5718,8 @@
  {
    "friendlyName": "Kazakhstan",
    "dataName": "KAZ",
-   "flagResource": "nationflags/Kazakhstan",
-   "unionFlagResource": "nationflags/Turkestan",
+   "flagResource": "amyznationflags/Kazakhstan",
+   "unionFlagResource": "amyznationflags/Turkestan",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -6257,7 +5767,7 @@
  {
    "friendlyName": "Kenya",
    "dataName": "KEN",
-   "flagResource": "nationflags/Kenya",
+   "flagResource": "amyznationflags/Kenya",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6306,7 +5816,7 @@
  {
    "friendlyName": "Khalistan",
    "dataName": "KHA",
-   "flagResource": "nationflags/Khalistan",
+   "flagResource": "amyznationflags/Khalistan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6355,7 +5865,7 @@
  {
    "friendlyName": "Kurdistan",
    "dataName": "KRD",
-   "flagResource": "nationflags/Kurdistan",
+   "flagResource": "amyznationflags/Kurdistan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6404,7 +5914,7 @@
  {
    "friendlyName": "Kyrgyzstan",
    "dataName": "KGZ",
-   "flagResource": "nationflags/Kyrgyzstan",
+   "flagResource": "amyznationflags/Kyrgyzstan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6453,7 +5963,7 @@
  {
    "friendlyName": "Laos",
    "dataName": "LAO",
-   "flagResource": "nationflags/Laos",
+   "flagResource": "amyznationflags/Laos",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6502,8 +6012,8 @@
  {
    "friendlyName": "Libya",
    "dataName": "LBY",
-   "flagResource": "nationflags/Tripolitania",
-   "unionFlagResource": "nationflags/Libya",
+   "flagResource": "amyznationflags/Tripolitania",
+   "unionFlagResource": "amyznationflags/Libya",
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
@@ -6551,7 +6061,7 @@
 {
    "friendlyName": "Fezzan",
    "dataName": "FEZ",
-   "flagResource": "nationflags/Fezzan",
+   "flagResource": "amyznationflags/Fezzan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6600,7 +6110,7 @@
 {
    "friendlyName": "Cyrenaica",
    "dataName": "CYR",
-   "flagResource": "nationflags/Cyrenaica",
+   "flagResource": "amyznationflags/Cyrenaica",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6649,7 +6159,7 @@
  {
    "friendlyName": "Rep Congo",
    "dataName": "LWG",
-   "flagResource": "nationflags/Rep_Congo",
+   "flagResource": "amyznationflags/Rep_Congo",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6698,7 +6208,7 @@
  {
    "friendlyName": "Madagascar",
    "dataName": "MDG",
-   "flagResource": "nationflags/Madagascar",
+   "flagResource": "amyznationflags/Madagascar",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6747,7 +6257,7 @@
 {
    "friendlyName": "Rep Congo",
    "dataName": "LWG",
-   "flagResource": "nationflags/Rep_Congo",
+   "flagResource": "amyznationflags/Rep_Congo",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6794,7 +6304,7 @@
 {
    "friendlyName": "Gabon",
    "dataName": "GAB",
-   "flagResource": "nationflags/Gabon",
+   "flagResource": "amyznationflags/Gabon",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6841,7 +6351,7 @@
 {
    "friendlyName": "Ecuatoria",
    "dataName": "ECT",
-   "flagResource": "nationflags/Ecuatoria",
+   "flagResource": "amyznationflags/Ecuatoria",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6888,7 +6398,7 @@
  {
    "friendlyName": "Madagascar",
    "dataName": "MDG",
-   "flagResource": "nationflags/Madagascar",
+   "flagResource": "amyznationflags/Madagascar",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -6937,8 +6447,8 @@
  {
    "friendlyName": "Malaysia",
    "dataName": "MYS",
-   "flagResource": "nationflags/Malaysia",
-   "unionFlagResource": "nationflags/Malaysia",
+   "flagResource": "amyznationflags/Malaysia",
+   "unionFlagResource": "amyznationflags/Malaysia",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -6986,7 +6496,7 @@
 {
    "friendlyName": "Brunei",
    "dataName": "BRN",
-   "flagResource": "nationflags/Brunei",
+   "flagResource": "amyznationflags/Brunei",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7035,7 +6545,7 @@
  {
    "friendlyName": "Mali",
    "dataName": "MLI",
-   "flagResource": "nationflags/Mali",
+   "flagResource": "amyznationflags/Mali",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -7084,7 +6594,7 @@
  {
    "friendlyName": "Manchuria",
    "dataName": "MNC",
-   "flagResource": "nationflags/Manchuria",
+   "flagResource": "amyznationflags/Manchuria",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7133,7 +6643,7 @@
  {
    "friendlyName": "Mauritania",
    "dataName": "MRT",
-   "flagResource": "nationflags/Mauritania",
+   "flagResource": "amyznationflags/Mauritania",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7182,8 +6692,8 @@
  {
    "friendlyName": "Mexico",
    "dataName": "MEX",
-   "flagResource": "nationflags/Mexico",
-   "unionFlagResource": "nationflags/LatinAmerica",
+   "flagResource": "amyznationflags/Mexico",
+   "unionFlagResource": "amyznationflags/LatinAmerica",
    "unionTrigger": 17,
    "multiplier": 1,
    "color32": {
@@ -7231,7 +6741,7 @@
 {
    "friendlyName": "Rio Grande Norte",
    "dataName": "RGN",
-   "flagResource": "nationflags/RioGrande",
+   "flagResource": "amyznationflags/RioGrande",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7280,7 +6790,7 @@
 {
    "friendlyName": "Yucatan",
    "dataName": "YUC",
-   "flagResource": "nationflags/Yucatan",
+   "flagResource": "amyznationflags/Yucatan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7329,8 +6839,8 @@
  {
    "friendlyName": "Ghana",
    "dataName": "MLG",
-   "flagResource": "nationflags/Ghana",
-   "unionFlagResource": "nationflags/WestAfrica",
+   "flagResource": "amyznationflags/Ghana",
+   "unionFlagResource": "amyznationflags/WestAfrica",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -7376,7 +6886,7 @@
 {
    "friendlyName": "Benin",
    "dataName": "BEN",
-   "flagResource": "nationflags/Benin",
+   "flagResource": "amyznationflags/Benin",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7424,7 +6934,7 @@
  {
    "friendlyName": "Mongolia",
    "dataName": "MNG",
-   "flagResource": "nationflags/Mongolia",
+   "flagResource": "amyznationflags/Mongolia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7473,7 +6983,7 @@
  {
    "friendlyName": "Morocco",
    "dataName": "MAR",
-   "flagResource": "nationflags/Morocco",
+   "flagResource": "amyznationflags/Morocco",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7522,7 +7032,7 @@
  {
    "friendlyName": "Mozambique",
    "dataName": "MOZ",
-   "flagResource": "nationflags/Mozambique",
+   "flagResource": "amyznationflags/Mozambique",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -7571,7 +7081,7 @@
  {
    "friendlyName": "Myanmar",
    "dataName": "MMR",
-   "flagResource": "nationflags/Myanmar",
+   "flagResource": "amyznationflags/Myanmar",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7620,7 +7130,7 @@
  {
    "friendlyName": "Namibia",
    "dataName": "SWA",
-   "flagResource": "nationflags/Namibia",
+   "flagResource": "amyznationflags/Namibia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7669,7 +7179,7 @@
  {
    "friendlyName": "New Zealand",
    "dataName": "NZL",
-   "flagResource": "nationflags/New_Zealand",
+   "flagResource": "amyznationflags/New_Zealand",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7718,7 +7228,7 @@
  {
    "friendlyName": "Nicaragua",
    "dataName": "NIC",
-   "flagResource": "nationflags/Nicaragua",
+   "flagResource": "amyznationflags/Nicaragua",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7767,7 +7277,7 @@
  {
    "friendlyName": "Niger",
    "dataName": "NER",
-   "flagResource": "nationflags/Niger",
+   "flagResource": "amyznationflags/Niger",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7816,8 +7326,8 @@
  {
    "friendlyName": "Nigeria",
    "dataName": "NGA",
-   "flagResource": "nationflags/Nigeria",
-   "unionFlagResource": "nationflags/West_African_Alliance",
+   "flagResource": "amyznationflags/Nigeria",
+   "unionFlagResource": "amyznationflags/West_African_Alliance",
    "unionTrigger": 5,
    "multiplier": 1,
    "color32": {
@@ -7865,8 +7375,8 @@
  {
    "friendlyName": "North Korea",
    "dataName": "PRK",
-   "flagResource": "nationflags/North_Korea",
-   "unionFlagResource": "nationflags/North_Korea",
+   "flagResource": "amyznationflags/North_Korea",
+   "unionFlagResource": "amyznationflags/North_Korea",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -7914,7 +7424,7 @@
  {
    "friendlyName": "Bosnia",
    "dataName": "NBK",
-   "flagResource": "nationflags/Bosnia_and_Herzegovina",
+   "flagResource": "amyznationflags/Bosnia_and_Herzegovina",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -7961,8 +7471,8 @@
 {
    "friendlyName": "Krajina",
    "dataName": "CRO",
-   "flagResource": "nationflags/Krajina",
-   "unionFlagResource": "nationflags/Krajina",
+   "flagResource": "amyznationflags/Krajina",
+   "unionFlagResource": "amyznationflags/Krajina",
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
@@ -8009,7 +7519,7 @@
  {
    "friendlyName": "Norway",
    "dataName": "NOR",
-   "flagResource": "nationflags/Norway",
+   "flagResource": "amyznationflags/Norway",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8058,8 +7568,8 @@
  {
    "friendlyName": "Occitania",
    "dataName": "OCT",
-   "flagResource": "nationflags/Occitania",
-   "unionFlagResource": "nationflags/Occitania",
+   "flagResource": "amyznationflags/Occitania",
+   "unionFlagResource": "amyznationflags/Occitania",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -8107,7 +7617,7 @@
  {
    "friendlyName": "Oman",
    "dataName": "OMN",
-   "flagResource": "nationflags/Oman",
+   "flagResource": "amyznationflags/Oman",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8156,7 +7666,7 @@
  {
    "friendlyName": "Pacifica",
    "dataName": "PCS",
-   "flagResource": "nationflags/Papua_New_Guinea",
+   "flagResource": "amyznationflags/Papua_New_Guinea",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8205,7 +7715,7 @@
  {
    "friendlyName": "Pakistan",
    "dataName": "PAK",
-   "flagResource": "nationflags/Pakistan",
+   "flagResource": "amyznationflags/Pakistan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8254,7 +7764,7 @@
  {
    "friendlyName": "Panama",
    "dataName": "PAN",
-   "flagResource": "nationflags/Panama",
+   "flagResource": "amyznationflags/Panama",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8303,7 +7813,7 @@
  {
    "friendlyName": "Paraguay",
    "dataName": "PRY",
-   "flagResource": "nationflags/Paraguay",
+   "flagResource": "amyznationflags/Paraguay",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8352,7 +7862,7 @@
  {
    "friendlyName": "Peru",
    "dataName": "PER",
-   "flagResource": "nationflags/Peru",
+   "flagResource": "amyznationflags/Peru",
    "unionFlagResource": "",
    "unionTrigger": 6,
    "multiplier": 1,
@@ -8401,7 +7911,7 @@
  {
    "friendlyName": "Philippines",
    "dataName": "PHL",
-   "flagResource": "nationflags/Phillipines",
+   "flagResource": "amyznationflags/Phillipines",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8450,8 +7960,8 @@
  {
    "friendlyName": "Poland",
    "dataName": "POL",
-   "flagResource": "nationflags/Poland",
-   "unionFlagResource": "nationflags/Trimarium",
+   "flagResource": "amyznationflags/Poland",
+   "unionFlagResource": "amyznationflags/Trimarium",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -8499,7 +8009,7 @@
 {
    "friendlyName": "Silesia",
    "dataName": "SIL",
-   "flagResource": "nationflags/Silesia",
+   "flagResource": "amyznationflags/Silesia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8548,8 +8058,8 @@
  {
    "friendlyName": "Portugal",
    "dataName": "PRT",
-   "flagResource": "nationflags/Portugal",
-   "unionFlagResource": "nationflags/Lusitania",
+   "flagResource": "amyznationflags/Portugal",
+   "unionFlagResource": "amyznationflags/Lusitania",
    "unionTrigger": 2,
    "multiplier": 1.1,
    "color32": {
@@ -8597,7 +8107,7 @@
  {
    "friendlyName": "Quebec",
    "dataName": "QUB",
-   "flagResource": "nationflags/Quebec",
+   "flagResource": "amyznationflags/Quebec",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8646,7 +8156,7 @@
  {
    "friendlyName": "Maritimes",
    "dataName": "MRI",
-   "flagResource": "nationflags/Maritimes",
+   "flagResource": "amyznationflags/Maritimes",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8695,7 +8205,7 @@
  {
    "friendlyName": "Ratnakaran States",
    "dataName": "RTK",
-   "flagResource": "nationflags/Mauritius",
+   "flagResource": "amyznationflags/Mauritius",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8744,7 +8254,7 @@
  {
    "friendlyName": "Republic of Ainu",
    "dataName": "ROA",
-   "flagResource": "nationflags/Republic_Ainu",
+   "flagResource": "amyznationflags/Republic_Ainu",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8793,7 +8303,7 @@
  {
    "friendlyName": "Republic of Lakota",
    "dataName": "RLK",
-   "flagResource": "nationflags/Lakota",
+   "flagResource": "amyznationflags/Lakota",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8842,7 +8352,7 @@
  {
    "friendlyName": "Republic of New England",
    "dataName": "RNE",
-   "flagResource": "nationflags/Republic_New_England",
+   "flagResource": "amyznationflags/Republic_New_England",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8891,7 +8401,7 @@
  {
    "friendlyName": "Republic of Texas",
    "dataName": "TEX",
-   "flagResource": "nationflags/Texas",
+   "flagResource": "amyznationflags/Texas",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8940,7 +8450,7 @@
  {
    "friendlyName": "Republic of the Moluccas",
    "dataName": "RMO",
-   "flagResource": "nationflags/Moluccas",
+   "flagResource": "amyznationflags/Moluccas",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -8989,7 +8499,7 @@
  {
    "friendlyName": "Republic of Vietnam",
    "dataName": "SVN",
-   "flagResource": "nationflags/South_Vietnam",
+   "flagResource": "amyznationflags/South_Vietnam",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9038,7 +8548,7 @@
  {
    "friendlyName": "Republic of West Papua",
    "dataName": "RWP",
-   "flagResource": "nationflags/West_Papua",
+   "flagResource": "amyznationflags/West_Papua",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9087,7 +8597,7 @@
  {
    "friendlyName": "Romania",
    "dataName": "ROM",
-   "flagResource": "nationflags/Romania",
+   "flagResource": "amyznationflags/Romania",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9136,7 +8646,7 @@
 {
    "friendlyName": "Moldova",
    "dataName": "MLV",
-   "flagResource": "nationflags/Moldova",
+   "flagResource": "amyznationflags/Moldova",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9183,7 +8693,7 @@
  {
    "friendlyName": "Rostov Free State",
    "dataName": "ROS",
-   "flagResource": "nationflags/Rostov",
+   "flagResource": "amyznationflags/Rostov",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -9232,8 +8742,8 @@
  {
    "friendlyName": "Russia",
    "dataName": "RUS",
-   "flagResource": "nationflags/Russia",
-   "unionFlagResource": "nationflags/Eurasian_Union",
+   "flagResource": "amyznationflags/Russia",
+   "unionFlagResource": "amyznationflags/Eurasian_Union",
    "unionTrigger": 30,
    "multiplier": 1,
    "color32": {
@@ -9281,7 +8791,7 @@
  {
    "friendlyName": "Sahrawi",
    "dataName": "SAH",
-   "flagResource": "nationflags/Sahrawi",
+   "flagResource": "amyznationflags/Sahrawi",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9330,7 +8840,7 @@
  {
    "friendlyName": "Saudi Arabia",
    "dataName": "SEN",
-   "flagResource": "nationflags/Saudi_Arabia",
+   "flagResource": "amyznationflags/Saudi_Arabia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9379,7 +8889,7 @@
  {
    "friendlyName": "Scotland",
    "dataName": "SCT",
-   "flagResource": "nationflags/Scotland",
+   "flagResource": "amyznationflags/Scotland",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -9428,8 +8938,8 @@
  {
    "friendlyName": "Senegambia",
    "dataName": "SEG",
-   "flagResource": "nationflags/Senegal",
-   "unionFlagResource": "nationflags/West_African_Alliance",
+   "flagResource": "amyznationflags/Senegal",
+   "unionFlagResource": "amyznationflags/West_African_Alliance",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -9477,7 +8987,7 @@
  {
    "friendlyName": "Siberia",
    "dataName": "SIB",
-   "flagResource": "nationflags/Siberia",
+   "flagResource": "amyznationflags/Siberia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9526,7 +9036,7 @@
  {
    "friendlyName": "Sichuan",
    "dataName": "SCH",
-   "flagResource": "nationflags/Sichuan",
+   "flagResource": "amyznationflags/Sichuan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9575,7 +9085,7 @@
  {
    "friendlyName": "Padania",
    "dataName": "PAD",
-   "flagResource": "nationflags/Padania",
+   "flagResource": "amyznationflags/Padania",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9624,7 +9134,7 @@
  {
    "friendlyName": "Sicily",
    "dataName": "SIC",
-   "flagResource": "nationflags/Sicily",
+   "flagResource": "amyznationflags/Sicily",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9673,7 +9183,7 @@
  {
    "friendlyName": "Sindh",
    "dataName": "SIN",
-   "flagResource": "nationflags/Sindh",
+   "flagResource": "amyznationflags/Sindh",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9722,7 +9232,7 @@
  {
    "friendlyName": "Singapore",
    "dataName": "SGP",
-   "flagResource": "nationflags/Singapore",
+   "flagResource": "amyznationflags/Singapore",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9771,7 +9281,7 @@
  {
    "friendlyName": "Slovakia",
    "dataName": "SLO",
-   "flagResource": "nationflags/Slovakia",
+   "flagResource": "amyznationflags/Slovakia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9820,7 +9330,7 @@
  {
    "friendlyName": "Somalia",
    "dataName": "SOM",
-   "flagResource": "nationflags/Somalia",
+   "flagResource": "amyznationflags/Somalia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9869,7 +9379,7 @@
 {
    "friendlyName": "Somaliland",
    "dataName": "SML",
-   "flagResource": "nationflags/Somaliland",
+   "flagResource": "amyznationflags/Somaliland",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9918,7 +9428,7 @@
  {
    "friendlyName": "South Africa",
    "dataName": "ZAF",
-   "flagResource": "nationflags/South_Africa",
+   "flagResource": "amyznationflags/South_Africa",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -9967,8 +9477,8 @@
  {
    "friendlyName": "South Korea",
    "dataName": "KOR",
-   "flagResource": "nationflags/South_Korea",
-   "unionFlagResource": "nationflags/South_Korea",
+   "flagResource": "amyznationflags/South_Korea",
+   "unionFlagResource": "amyznationflags/South_Korea",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -10016,7 +9526,7 @@
  {
    "friendlyName": "South Sudan",
    "dataName": "SSD",
-   "flagResource": "nationflags/South_Sudan",
+   "flagResource": "amyznationflags/South_Sudan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10065,8 +9575,8 @@
  {
    "friendlyName": "Serbia",
    "dataName": "SBK",
-   "flagResource": "nationflags/Serbia",
-   "unionFlagResource": "nationflags/Yugoslavia",
+   "flagResource": "amyznationflags/Serbia",
+   "unionFlagResource": "amyznationflags/Yugoslavia",
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
@@ -10114,7 +9624,7 @@
 {
    "friendlyName": "Dinaretia",
    "dataName": "ALB",
-   "flagResource": "nationflags/Dinaretia",
+   "flagResource": "amyznationflags/Dinaretia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10163,8 +9673,8 @@
  {
    "friendlyName": "Spain",
    "dataName": "ESP",
-   "flagResource": "nationflags/Spain",
-   "unionFlagResource": "nationflags/Spain",
+   "flagResource": "amyznationflags/Spain",
+   "unionFlagResource": "amyznationflags/Spain",
    "unionTrigger": 4,
    "multiplier": 1,
    "color32": {
@@ -10212,7 +9722,7 @@
  {
    "friendlyName": "Sri Lanka",
    "dataName": "LKA",
-   "flagResource": "nationflags/Sri_Lanka",
+   "flagResource": "amyznationflags/Sri_Lanka",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10261,7 +9771,7 @@
  {
    "friendlyName": "Sudan",
    "dataName": "SDN",
-   "flagResource": "nationflags/Sudan",
+   "flagResource": "amyznationflags/Sudan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10310,7 +9820,7 @@
  {
    "friendlyName": "Sul Brazil",
    "dataName": "SUB",
-   "flagResource": "nationflags/Sul_Brazil",
+   "flagResource": "amyznationflags/Sul_Brazil",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10359,7 +9869,7 @@
  {
    "friendlyName": "Sumatra",
    "dataName": "SUM",
-   "flagResource": "nationflags/Sumatra",
+   "flagResource": "amyznationflags/Sumatra",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10408,7 +9918,7 @@
  {
    "friendlyName": "Suriname",
    "dataName": "SUR",
-   "flagResource": "nationflags/Suriname",
+   "flagResource": "amyznationflags/Suriname",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10457,8 +9967,8 @@
  {
    "friendlyName": "Sweden",
    "dataName": "SCA",
-   "flagResource": "nationflags/Sweden",
-   "unionFlagResource": "nationflags/UnitedNordicStates",
+   "flagResource": "amyznationflags/Sweden",
+   "unionFlagResource": "amyznationflags/UnitedNordicStates",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -10506,7 +10016,7 @@
  {
    "friendlyName": "Syria",
    "dataName": "SYR",
-   "flagResource": "nationflags/Syria",
+   "flagResource": "amyznationflags/Syria",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10555,7 +10065,7 @@
 {
    "friendlyName": "Lebanon",
    "dataName": "LEB",
-   "flagResource": "nationflags/Lebanon",
+   "flagResource": "amyznationflags/Lebanon",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10603,8 +10113,8 @@
  {
    "friendlyName": "Taiwan",
    "dataName": "TWN",
-   "flagResource": "nationflags/Taiwan",
-   "unionFlagResource": "nationflags/UnitedChina",
+   "flagResource": "amyznationflags/Taiwan",
+   "unionFlagResource": "amyznationflags/UnitedChina",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -10652,7 +10162,7 @@
  {
    "friendlyName": "Tajikistan",
    "dataName": "TJK",
-   "flagResource": "nationflags/Tajikistan",
+   "flagResource": "amyznationflags/Tajikistan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10701,8 +10211,8 @@
  {
    "friendlyName": "Tanzania",
    "dataName": "TZA",
-   "flagResource": "nationflags/Tanzania",
-   "unionFlagResource": "nationflags/East_African_Federation",
+   "flagResource": "amyznationflags/Tanzania",
+   "unionFlagResource": "amyznationflags/East_African_Federation",
    "unionTrigger": 6,
    "multiplier": 1.1,
    "color32": {
@@ -10750,8 +10260,8 @@
 {
    "friendlyName": "Zanzibar",
    "dataName": "ZZB",
-   "flagResource": "nationflags/Zanzibar",
-   "unionFlagResource": "nationflags/Zanj",
+   "flagResource": "amyznationflags/Zanzibar",
+   "unionFlagResource": "amyznationflags/Zanj",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -10799,7 +10309,7 @@
  {
    "friendlyName": "Tatarstan",
    "dataName": "TAR",
-   "flagResource": "nationflags/Tatarstan",
+   "flagResource": "amyznationflags/Tatarstan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10848,7 +10358,7 @@
 {
    "friendlyName": "Bashkortostan",
    "dataName": "BSH",
-   "flagResource": "nationflags/Bashkortostan",
+   "flagResource": "amyznationflags/Bashkortostan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10897,7 +10407,7 @@
 {
    "friendlyName": "Dagestan",
    "dataName": "DAG",
-   "flagResource": "nationflags/Dagestan",
+   "flagResource": "amyznationflags/Dagestan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10946,7 +10456,7 @@
 {
    "friendlyName": "Gorskaya",
    "dataName": "GSK",
-   "flagResource": "nationflags/Gorskaya",
+   "flagResource": "amyznationflags/Gorskaya",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -10995,7 +10505,7 @@
 {
    "friendlyName": "Kuban",
    "dataName": "KUB",
-   "flagResource": "nationflags/Kuban",
+   "flagResource": "amyznationflags/Kuban",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11044,7 +10554,7 @@
 {
    "friendlyName": "Astrakhan",
    "dataName": "AST",
-   "flagResource": "nationflags/Astrakhan",
+   "flagResource": "amyznationflags/Astrakhan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11093,7 +10603,7 @@
 {
    "friendlyName": "Chernozem",
    "dataName": "CZM",
-   "flagResource": "nationflags/Chernozem",
+   "flagResource": "amyznationflags/Chernozem",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11142,7 +10652,7 @@
 {
    "friendlyName": "Yaroslavl",
    "dataName": "YRO",
-   "flagResource": "nationflags/Yaroslavl",
+   "flagResource": "amyznationflags/Yaroslavl",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11191,7 +10701,7 @@
 {
    "friendlyName": "Nenetsia",
    "dataName": "NTS",
-   "flagResource": "nationflags/Nenetsia",
+   "flagResource": "amyznationflags/Nenetsia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11240,7 +10750,7 @@
 {
    "friendlyName": "Perm",
    "dataName": "PRM",
-   "flagResource": "nationflags/Perm",
+   "flagResource": "amyznationflags/Perm",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11289,7 +10799,7 @@
 {
    "friendlyName": "Buryatia",
    "dataName": "BYT",
-   "flagResource": "nationflags/Buryatia",
+   "flagResource": "amyznationflags/Buryatia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11338,7 +10848,7 @@
 {
    "friendlyName": "Chita",
    "dataName": "CTA",
-   "flagResource": "nationflags/Chita",
+   "flagResource": "amyznationflags/Chita",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11387,7 +10897,7 @@
 {
    "friendlyName": "Irkutsk",
    "dataName": "IKK",
-   "flagResource": "nationflags/Irkutsk",
+   "flagResource": "amyznationflags/Irkutsk",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11436,7 +10946,7 @@
 {
    "friendlyName": "Kamchatka",
    "dataName": "KCT",
-   "flagResource": "nationflags/Kamchatka",
+   "flagResource": "amyznationflags/Kamchatka",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11485,7 +10995,7 @@
 {
    "friendlyName": "Sahkalin",
    "dataName": "SKL",
-   "flagResource": "nationflags/Sakhalin",
+   "flagResource": "amyznationflags/Sakhalin",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11534,7 +11044,7 @@
 {
    "friendlyName": "Magadan",
    "dataName": "MGD",
-   "flagResource": "nationflags/Magadan",
+   "flagResource": "amyznationflags/Magadan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11583,7 +11093,7 @@
 {
    "friendlyName": "Sakha",
    "dataName": "SKH",
-   "flagResource": "nationflags/Sakha",
+   "flagResource": "amyznationflags/Sakha",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11632,8 +11142,8 @@
  {
    "friendlyName": "Thailand",
    "dataName": "THA",
-   "flagResource": "nationflags/Thailand",
-   "unionFlagResource": "nationflags/Southeast_Asian_Alliance",
+   "flagResource": "amyznationflags/Thailand",
+   "unionFlagResource": "amyznationflags/Southeast_Asian_Alliance",
    "unionTrigger": 4,
    "multiplier": 1.25,
    "color32": {
@@ -11681,7 +11191,7 @@
  {
    "friendlyName": "Tibet",
    "dataName": "TBT",
-   "flagResource": "nationflags/Tibet",
+   "flagResource": "amyznationflags/Tibet",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11730,7 +11240,7 @@
  {
    "friendlyName": "Abyssinia",
    "dataName": "TIG",
-   "flagResource": "nationflags/Abyssinia",
+   "flagResource": "amyznationflags/Abyssinia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11779,7 +11289,7 @@
  {
    "friendlyName": "Tunisia",
    "dataName": "TUN",
-   "flagResource": "nationflags/Tunisia",
+   "flagResource": "amyznationflags/Tunisia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1.2,
@@ -11828,8 +11338,8 @@
  {
    "friendlyName": "Turkey",
    "dataName": "TUR",
-   "flagResource": "nationflags/Turkey",
-   "unionFlagResource": "nationflags/BosporusCoalition",
+   "flagResource": "amyznationflags/Turkey",
+   "unionFlagResource": "amyznationflags/BosporusCoalition",
    "unionTrigger": 6,
    "multiplier": 1,
    "color32": {
@@ -11877,7 +11387,7 @@
  {
    "friendlyName": "Turkmenistan",
    "dataName": "TKM",
-   "flagResource": "nationflags/Turkmenistan",
+   "flagResource": "amyznationflags/Turkmenistan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11926,7 +11436,7 @@
  {
    "friendlyName": "Uganda",
    "dataName": "UGA",
-   "flagResource": "nationflags/Uganda",
+   "flagResource": "amyznationflags/Uganda",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -11975,8 +11485,8 @@
  {
    "friendlyName": "Ukraine",
    "dataName": "UKR",
-   "flagResource": "nationflags/Ukraine",
-   "unionFlagResource": "nationflags/Ukraine",
+   "flagResource": "amyznationflags/Ukraine",
+   "unionFlagResource": "amyznationflags/Ukraine",
    "unionTrigger": 6,
    "multiplier": 1.2,
    "color32": {
@@ -12024,8 +11534,8 @@
  {
    "friendlyName": "United Kingdom",
    "dataName": "GBR",
-   "flagResource": "nationflags/England",
-   "unionFlagResource": "nationflags/United_Kingdom",
+   "flagResource": "amyznationflags/England",
+   "unionFlagResource": "amyznationflags/United_Kingdom",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -12073,8 +11583,8 @@
  {
    "friendlyName": "Pernambuco",
    "dataName": "UNB",
-   "flagResource": "nationflags/Pernambuco",
-   "unionFlagResource": "nationflags/United_Northeast_Brazil",
+   "flagResource": "amyznationflags/Pernambuco",
+   "unionFlagResource": "amyznationflags/United_Northeast_Brazil",
    "unionTrigger": 2,
    "multiplier": 1,
    "color32": {
@@ -12122,7 +11632,7 @@
 {
    "friendlyName": "Sierra",
    "dataName": "SCZ",
-   "flagResource": "nationflags/SantaCruz",
+   "flagResource": "amyznationflags/SantaCruz",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12171,8 +11681,8 @@
  {
    "friendlyName": "United States of America",
    "dataName": "USA",
-   "flagResource": "nationflags/United_States",
-   "unionFlagResource": "nationflags/United_States",
+   "flagResource": "amyznationflags/United_States",
+   "unionFlagResource": "amyznationflags/United_States",
    "unionTrigger": 22,
    "multiplier": 1.5,
    "color32": {
@@ -12220,7 +11730,7 @@
  {
    "friendlyName": "Guinea",
    "dataName": "UPG",
-   "flagResource": "nationflags/Guinea",
+   "flagResource": "amyznationflags/Guinea",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12267,7 +11777,7 @@
 {
    "friendlyName": "Bissau",
    "dataName": "BSU",
-   "flagResource": "nationflags/Bissau",
+   "flagResource": "amyznationflags/Bissau",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12314,7 +11824,7 @@
 {
    "friendlyName": "Sierra Leone",
    "dataName": "SLE",
-   "flagResource": "nationflags/SierraLeone",
+   "flagResource": "amyznationflags/SierraLeone",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12361,7 +11871,7 @@
 {
    "friendlyName": "Liberia",
    "dataName": "LBR",
-   "flagResource": "nationflags/Liberia",
+   "flagResource": "amyznationflags/Liberia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12408,7 +11918,7 @@
  {
    "friendlyName": "Ural Republic",
    "dataName": "URL",
-   "flagResource": "nationflags/Urals",
+   "flagResource": "amyznationflags/Urals",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12457,7 +11967,7 @@
  {
    "friendlyName": "Uruguay",
    "dataName": "URY",
-   "flagResource": "nationflags/Uruguay",
+   "flagResource": "amyznationflags/Uruguay",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12506,8 +12016,8 @@
 {
    "friendlyName": "Uzbekistan",
    "dataName": "UZB",
-   "flagResource": "nationflags/Uzbekistan",
-   "unionFlagResource": "nationflags/Ferganastan",
+   "flagResource": "amyznationflags/Uzbekistan",
+   "unionFlagResource": "amyznationflags/Ferganastan",
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
@@ -12555,7 +12065,7 @@
  {
    "friendlyName": "Karakalpakstan",
    "dataName": "KKP",
-   "flagResource": "nationflags/Karakalpakstan",
+   "flagResource": "amyznationflags/Karakalpakstan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12604,7 +12114,7 @@
  {
    "friendlyName": "Venezuela",
    "dataName": "VEN",
-   "flagResource": "nationflags/Venezuela",
+   "flagResource": "amyznationflags/Venezuela",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12653,7 +12163,7 @@
  {
    "friendlyName": "Vietnam",
    "dataName": "VNM",
-   "flagResource": "nationflags/Vietnam",
+   "flagResource": "amyznationflags/Vietnam",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12702,7 +12212,7 @@
  {
    "friendlyName": "Waziristan",
    "dataName": "WAZ",
-   "flagResource": "nationflags/Waziristan",
+   "flagResource": "amyznationflags/Waziristan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12751,7 +12261,7 @@
  {
    "friendlyName": "West Germany",
    "dataName": "WGA",
-   "flagResource": "nationflags/Germany",
+   "flagResource": "amyznationflags/Germany",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12800,7 +12310,7 @@
  {
    "friendlyName": "Westralia",
    "dataName": "WES",
-   "flagResource": "nationflags/Westralia",
+   "flagResource": "amyznationflags/Westralia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12849,7 +12359,7 @@
  {
    "friendlyName": "Yemen",
    "dataName": "YEM",
-   "flagResource": "nationflags/Yemen",
+   "flagResource": "amyznationflags/Yemen",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12898,7 +12408,7 @@
  {
    "friendlyName": "Yunnan",
    "dataName": "YUN",
-   "flagResource": "nationflags/Yunnan",
+   "flagResource": "amyznationflags/Yunnan",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12947,7 +12457,7 @@
  {
    "friendlyName": "Zambia",
    "dataName": "ZMB",
-   "flagResource": "nationflags/Zambia",
+   "flagResource": "amyznationflags/Zambia",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -12996,7 +12506,7 @@
 {
    "friendlyName": "Malawi",
    "dataName": "MWI",
-   "flagResource": "nationflags/Malawi",
+   "flagResource": "amyznationflags/Malawi",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -13045,7 +12555,7 @@
  {
    "friendlyName": "Zimbabwe",
    "dataName": "ZWE",
-   "flagResource": "nationflags/Zimbabwe",
+   "flagResource": "amyznationflags/Zimbabwe",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
