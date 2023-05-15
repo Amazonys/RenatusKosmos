@@ -1,0 +1,4 @@
+[7:18 PM] Game changed to 'Terra Invicta'.
+[7:18 PM] Game path 'C:\Program Files (x86)\Steam\steamapps\common\Terra Invicta'.
+[7:18 PM] Checking for updates.
+[7:18 PM] No updates.
