@@ -5,7 +5,8 @@
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.CouncilorMarkerController",
         "groupScale": 0.0015,
 		"highPriorityScaleAppearanceThreshold": 0.25,
-		"lowPriorityScaleAppearanceThreshold": 0.25
+		"lowPriorityScaleAppearanceThreshold": 0.25,
+		"sortingValue": 8
 	},
     {
         "dataName": "ArmyMapGroup",
@@ -13,7 +14,8 @@
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.ArmyMarkerController",
         "groupScale": 0.001,
 		"highPriorityScaleAppearanceThreshold": 0.25,
-		"lowPriorityScaleAppearanceThreshold": 0.25
+		"lowPriorityScaleAppearanceThreshold": 0.25,
+		"sortingValue": 7
 	},
     {
         "dataName": "FacilityMapGroup",
@@ -21,15 +23,17 @@
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.FacilityMarkerController",
         "groupScale": 0.0008,
 		"highPriorityScaleAppearanceThreshold": 0.65,
-		"lowPriorityScaleAppearanceThreshold": 0.80
+		"lowPriorityScaleAppearanceThreshold": 1,
+		"sortingValue": 4
 	},
     {
         "dataName": "AlienMapGroup",
         "mapGroupLabel": "Alien",
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.AlienMarkerController",
-        "groupScale": 0.0015,
+        "groupScale": 0.001,
 		"highPriorityScaleAppearanceThreshold": 0.25,
-		"lowPriorityScaleAppearanceThreshold": 0.25
+		"lowPriorityScaleAppearanceThreshold": 0.65,
+		"sortingValue": 5
 	},
 	{
         "dataName": "GovMapGroup",
@@ -37,7 +41,8 @@
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.GovMarkerController",
         "groupScale": 0.0008,
 		"highPriorityScaleAppearanceThreshold": 0.25,
-		"lowPriorityScaleAppearanceThreshold": 0.95
+		"lowPriorityScaleAppearanceThreshold": 1,
+		"sortingValue": 6
 	},
 	{
 		"dataName": "SeaMapGroup",
@@ -45,6 +50,16 @@
         "mapGroupControlType": "PavonisInteractive.TerraInvicta.SeaMarkerController",
         "groupScale": 0.001,
 		"highPriorityScaleAppearanceThreshold": 0.25,
-		"lowPriorityScaleAppearanceThreshold": 0.25
-	}
+		"lowPriorityScaleAppearanceThreshold": 0.25,
+		"sortingValue": 5
+	},
+	{
+		"dataName": "CanalMapGroup",
+		"mapGroupLabel": "Canal",
+        "mapGroupControlType": "PavonisInteractive.TerraInvicta.CanalMarkerController",
+        "groupScale": 0.001,
+		"highPriorityScaleAppearanceThreshold": 0.25,
+		"lowPriorityScaleAppearanceThreshold": 0.25,
+		"sortingValue": 5
+	},
 ]

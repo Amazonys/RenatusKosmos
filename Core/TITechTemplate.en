@@ -1,22 +1,16 @@
-TITechTemplate.displayName.FallofEmpires=Recivilizational Events
-TITechTemplate.summary.FallofEmpires=Strategists devise means to reform nations from the ashes of devastated ones.
-TITechTemplate.quote.FallofEmpires="Things fall apart. The center cannot hold. Mere anarchy is loosed upon the world, the blood-dimmed tide is loosed ... Yeah, yeah, yeah. We really don't need Yeats' defeatism right now."<br/><align=right>{resistLeader}<align=left><br/><align=right>responding to media coverge of the Resistance<align=left>
-
-TITechTemplate.displayName.GreatNations=Neo-Superpowers
-TITechTemplate.summary.GreatNations=Strategists redraw borders and unify peoples to establish new Superpowers with global influence.
+TITechTemplate.displayName.ArrivalMassCommunications=Arrival Propaganda
 
 TITechTemplate.displayName.IndependenceMovements=Arrival Disorder
 TITechTemplate.summary.IndependenceMovements=Strategists devise ways to use political chaos from the Arrival to liberate peoples and dismantle empires.
 
-TITechTemplate.displayName.MissiontotheInnerPlanets=Mission to the Inner Planets
-TITechTemplate.summary.MissiontotheInnerPlanets=Researchers pursue means of reaching Mercury and Venus.
-
-TITechTemplate.displayName.MissiontoVenus=Mission to Venusian Skies
-TITechTemplate.summary.MissiontoVenus=Researchers pursue means to explore and colonize the skies of Venus.
-TITechTemplate.quote.MissiontoVenus="With the right technology, the clouds of Venus would not only be relatively liveable, but a boundless source of volatiles to be exported systemwide - for a considerable price, no doubt."<br/><align=right>{exploitLeader}<align=left><br/><align=right>Quote from a panel at the <i>Multi-planetary Economics</i> symposium.<align=left>
-TITechTemplate.description.MissiontoVenus=Until the 1960s, it was Venus that many believed would be the first destination and colony of Humanity. With its superhot, acidic atmosphere and a day longer than its year, the challenges to colonization are numerous. However, with materials capable of withstanding the acidic composition of the atmosphere, balloon structures anchored to each other and the surface via tethers would maintain buoyancy simply by maintaining a nitrogen-oxygen environment for its inhabitants. Indeed, with its thick atmosphere of carbon, any volatile hungry power would do well to seek an outpost here, as its skies produce have it natural abundance seen nowhere else except perhaps Titan. Minimal amounts of fissiles and water may be eeked out, but metals production is non-existant.
-
 TITechTemplate.displayName.UnityMovements=Arrival Geopolitics
 TITechTemplate.summary.UnityMovements=Strategists devise new frontiers of conquest and unification to maximize geopolitical power.
 
-TITechTemplate.displayName.ArrivalMassCommunications=Arrival Propaganda
+
+TITechTemplate.displayName.FallofEmpires=Recivilizational Events
+TITechTemplate.summary.FallofEmpires=Strategists devise means to form new nations from the ashes of devastated ones.
+TITechTemplate.quote.FallofEmpires="Things fall apart. The center cannot hold. Mere anarchy is loosed upon the world, the blood-dimmed tide is loosed ... Yeah, yeah, yeah. We really don't need Yeats' defeatism right now."<br/><align=right>{resistLeader}<align=left><br/><align=right>responding to media coverge of the Resistance<align=left>
+
+TITechTemplate.displayName.GreatNations=Neo-Imperialism
+TITechTemplate.summary.GreatNations=Strategists redraw borders and unify peoples to establish new Superpowers with global influence.
+

@@ -3,12 +3,10 @@
   "DisplayName": "Renatus Kosmos",
   "title": "Renatus Kosmos",
   "Author": "Amyzonis",
-  "description": "Overhauls the region map, nations, projects, and celestial bodies. Includes Economy Equalization mod by Verdiss.",
-  "Version": "0.0.6",
-  "ManagerVersion": "0.25.5",
-  "GameVersion": "0.3.80",
-  "AssemblyName": "TIEconomyMod.dll",
-  "EntryMethod": "TIEconomyMod.Main.Load",
+  "description": "Reworks regions, colonization, geopolitics and updates the 2070 scenario.",
+  "Version": "0.1",
+  "ManagerVersion": "0.32.4",
+  "GameVersion": "1.0.26",
   "mod url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2901332181",
-  "TemplatesToReplace": ["TIArmyTemplate.json", "TIBilateralTemplate.json", "TIGlobalConfig.json", "TIMapVisualizerTemplate.json", "TMapRegionTemplate.json", "TIMetaTemplate.json", "TINationTemplate.json", "TIOrbitTemplate.json", "TIRegionTemplate.json", "TISpaceBodyTemplate.json"]
+  "TemplatesToReplace": ["TIBilateralTemplate.json", "TIMapVisualizerTemplate.json", "TIMetaTemplate.json", "TINationTemplate.json", "TISpaceBodyTemplate.json", "TIMapRegionTemplate.json", "TIRegionTemplate.json"]
 }
