@@ -1476,7 +1476,7 @@
    "nation2": "SLV"
  },
  {
-   "dataName": "AlliancFRAEYMS",
+   "dataName": "AlliancFRAYMS",
    "relationType": "Alliance",
    "nation1": "UAE",
    "nation2": "YMS"
@@ -2754,6 +2754,27 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "ClaimALNKermanshah",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Kermanshah",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNBandar",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Bandar",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNShiraz",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Shiraz",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "ClaimALNAlaska",
    "relationType": "Claim",
    "nation1": "ALN",
@@ -2908,6 +2929,13 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "ClaimALNBasra",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Basra",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "ClaimALNBahamas",
    "relationType": "Claim",
    "nation1": "ALN",
@@ -2961,6 +2989,13 @@
    "relationType": "Claim",
    "nation1": "ALN",
    "region1": "Bavaria",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNCologne",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Cologne",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -3745,6 +3780,20 @@
    "relationType": "Claim",
    "nation1": "ALN",
    "region1": "Istanbul",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNIzmir",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Izmir",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNAdana",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Adana",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -4844,6 +4893,20 @@
    "relationType": "Claim",
    "nation1": "ALN",
    "region1": "Spain",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNGalicia",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Galicia",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNSeville",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Seville",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -7101,7 +7164,27 @@
    "nation1": "CPH",
    "region1": "Ahvaz",
    "projectUnlockName": "Project_TheCaliphate",
-   "hostileClaim": true
+ },
+ {
+   "dataName": "ClaimCPHKermanshah",
+   "relationType": "Claim",
+   "nation1": "CPH",
+   "region1": "Kermanshah",
+   "projectUnlockName": "Project_TheCaliphate",
+ },
+ {
+   "dataName": "ClaimCPBandar",
+   "relationType": "Claim",
+   "nation1": "CPH",
+   "region1": "Bandar",
+   "projectUnlockName": "Project_TheCaliphate",
+ },
+ {
+   "dataName": "ClaimCPHShiraz",
+   "relationType": "Claim",
+   "nation1": "CPH",
+   "region1": "Shiraz",
+   "projectUnlockName": "Project_TheCaliphate",
  },
  {
    "dataName": "ClaimCPHAlexandria",
@@ -7165,6 +7248,13 @@
    "relationType": "Claim",
    "nation1": "CPH",
    "region1": "Baghdad",
+   "projectUnlockName": "Project_TheCaliphate"
+ },
+ {
+   "dataName": "ClaimCPHBasra",
+   "relationType": "Claim",
+   "nation1": "CPH",
+   "region1": "Basra",
    "projectUnlockName": "Project_TheCaliphate"
  },
  {
@@ -7321,6 +7411,20 @@
    "relationType": "Claim",
    "nation1": "CPH",
    "region1": "Istanbul",
+   "projectUnlockName": "Project_TheGreaterCaliphate"
+ },
+ {
+   "dataName": "ClaimCPHIzmir",
+   "relationType": "Claim",
+   "nation1": "CPH",
+   "region1": "Izmir",
+   "projectUnlockName": "Project_TheGreaterCaliphate"
+ },
+ {
+   "dataName": "ClaimCPHAdana",
+   "relationType": "Claim",
+   "nation1": "CPH",
+   "region1": "Adana",
    "projectUnlockName": "Project_TheGreaterCaliphate"
  },
  {
@@ -8036,6 +8140,13 @@
    "initialOwner": true
  },
  {
+   "dataName": "ClaimDEUCologne",
+   "relationType": "Claim",
+   "nation1": "DEU",
+   "region1": "Cologne",
+   "initialOwner": true
+ },
+ {
    "dataName": "ClaimDEUBelgium",
    "relationType": "Claim",
    "nation1": "DEU",
@@ -8242,6 +8353,13 @@
    "relationType": "Claim",
    "nation1": "EGY",
    "region1": "Baghdad",
+   "projectUnlockName": "Project_UnitedArabLeague"
+ },
+ {
+   "dataName": "ClaimEGYBasra",
+   "relationType": "Claim",
+   "nation1": "EGY",
+   "region1": "Basra",
    "projectUnlockName": "Project_UnitedArabLeague"
  },
  {
@@ -8499,6 +8617,20 @@
    "nation1": "ESP",
    "region1": "Spain",
    "capitalClaim": true,
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimESPGalicia",
+   "relationType": "Claim",
+   "nation1": "ESP",
+   "region1": "Galicia",
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimESPSeville",
+   "relationType": "Claim",
+   "nation1": "ESP",
+   "region1": "Seville",
    "initialOwner": true
  },
  {
@@ -9132,6 +9264,12 @@
    "region1": "Bavaria"
  },
  {
+   "dataName": "ClaimEUACologne",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Cologne"
+ },
+ {
    "dataName": "ClaimEUABelarus",
    "relationType": "Claim",
    "nation1": "EUA",
@@ -9345,6 +9483,20 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Istanbul",
+   "projectUnlockName": "Project_EuropeAscendant"
+ },
+ {
+   "dataName": "ClaimEUAIzmir",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Izmir",
+   "projectUnlockName": "Project_EuropeAscendant"
+ },
+ {
+   "dataName": "ClaimEUAAdana",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Adana",
    "projectUnlockName": "Project_EuropeAscendant"
  },
  {
@@ -9585,6 +9737,18 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Spain"
+ },
+ {
+   "dataName": "ClaimEUAGalicia",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Galicia"
+ },
+ {
+   "dataName": "ClaimEUASeville",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Seville"
  },
  {
    "dataName": "ClaimEUASurgut",
@@ -10964,6 +11128,27 @@
    "initialOwner": true
  },
  {
+   "dataName": "ClaimIRNKermanshah",
+   "relationType": "Claim",
+   "nation1": "IRN",
+   "region1": "Kermanshah",
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimIRNBandar",
+   "relationType": "Claim",
+   "nation1": "IRN",
+   "region1": "Bandar",
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimIRNShiraz",
+   "relationType": "Claim",
+   "nation1": "IRN",
+   "region1": "Shiraz",
+   "initialOwner": true
+ },
+ {
    "dataName": "ClaimIRNAzerbaijan",
    "relationType": "Claim",
    "nation1": "IRN",
@@ -10975,6 +11160,13 @@
    "relationType": "Claim",
    "nation1": "IRN",
    "region1": "Baghdad",
+   "projectUnlockName": "Project_TheShiaNation"
+ },
+ {
+   "dataName": "ClaimIRNBasra",
+   "relationType": "Claim",
+   "nation1": "IRN",
+   "region1": "Basra",
    "projectUnlockName": "Project_TheShiaNation"
  },
  {
@@ -11026,6 +11218,13 @@
    "nation1": "IRQ",
    "region1": "Baghdad",
    "capitalClaim": true,
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimIRQBasra",
+   "relationType": "Claim",
+   "nation1": "IRQ",
+   "region1": "Basra",
    "initialOwner": true
  },
  {
@@ -13223,6 +13422,14 @@
    "hostileClaim": true
  },
  {
+   "dataName": "ClaimRUSCologne",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Cologne",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
    "dataName": "ClaimRUSBelarus",
    "relationType": "Claim",
    "nation1": "RUS",
@@ -13643,6 +13850,22 @@
    "relationType": "Claim",
    "nation1": "RUS",
    "region1": "Spain",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "ClaimRUSGalicia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Galicia",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "ClaimRUSSeville",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Seville",
    "projectUnlockName": "Project_ForwardRussia",
    "hostileClaim": true
  },
@@ -14725,6 +14948,20 @@
    "initialOwner": true
  },
  {
+   "dataName": "ClaimTURIzmir",
+   "relationType": "Claim",
+   "nation1": "TUR",
+   "region1": "Izmir",
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimTURAdana",
+   "relationType": "Claim",
+   "nation1": "TUR",
+   "region1": "Adana",
+   "initialOwner": true
+ },
+ {
    "dataName": "ClaimTURKarakalpakstan",
    "relationType": "Claim",
    "nation1": "TUR",
@@ -15678,6 +15915,13 @@
    "projectUnlockName": "Project_EuropeanAutonomyMovements"
  },
  {
+   "dataName": "ClaimWGACologne",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Cologne",
+   "projectUnlockName": "Project_EuropeanAutonomyMovements"
+ },
+ {
    "dataName": "ClaimWGAGermany",
    "relationType": "Claim",
    "nation1": "WGA",
@@ -16012,6 +16256,27 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "ClaimPRAKermanshah",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Kermanshah",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "ClaimPRABandar",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Bandar",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "ClaimPRAShiraz",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Shiraz",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "ClaimPRAAlaska",
    "relationType": "Claim",
    "nation1": "PRA",
@@ -16166,6 +16431,13 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "ClaimPRABasra",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Basra",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "ClaimPRABahamas",
    "relationType": "Claim",
    "nation1": "PRA",
@@ -16219,6 +16491,13 @@
    "relationType": "Claim",
    "nation1": "PRA",
    "region1": "Bavaria",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "ClaimPRACologne",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Cologne",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
@@ -17008,6 +17287,22 @@
    "relationType": "Claim",
    "nation1": "PRA",
    "region1": "Istanbul",
+   "projectUnlockName": "Project_ProtectorateAuthority",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "ClaimPRAIzmir",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Izmir",
+   "projectUnlockName": "Project_ProtectorateAuthority",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "ClaimPRAAdana",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Adana",
    "projectUnlockName": "Project_ProtectorateAuthority",
    "hostileClaim": true
  },
@@ -18117,6 +18412,20 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "ClaimPRAGalicia",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Galicia",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "ClaimPRASeville",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Seville",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "ClaimPRASriLanka",
    "relationType": "Claim",
    "nation1": "PRA",
@@ -18565,111 +18874,147 @@
  {
    "dataName": "PhysicalAdjacencymap_Afghanistanmap_MazarSharif",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AfghanistanAMYZ",
-   "region2": "map_MazarSharifAMYZ"
+   "region1": "map_Afghanistan",
+   "region2": "map_MazarSharif"
  },
  {
    "dataName": "PhysicalAdjacencymap_Afghanistanmap_Kandahar",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AfghanistanAMYZ",
-   "region2": "map_KandaharAMYZ"
+   "region1": "map_Afghanistan",
+   "region2": "map_Kandahar"
  },
  {
    "dataName": "PhysicalAdjacencymap_Afghanistanmap_Herat",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AfghanistanAMYZ",
-   "region2": "map_HeratAMYZ"
+   "region1": "map_Afghanistan",
+   "region2": "map_Herat"
  },
  {
    "dataName": "PhysicalAdjacencymap_Kandaharmap_Herat",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_KandaharAMYZ",
-   "region2": "map_HeratAMYZ"
+   "region1": "map_Kandahar",
+   "region2": "map_Herat"
  },
  {
    "dataName": "PhysicalAdjacencymap_Heratmap_MazarSharif",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_HeratAMYZ",
-   "region2": "map_MazarSharifAMYZ"
+   "region1": "map_Herat",
+   "region2": "map_MazarSharif"
  },
  {
    "dataName": "PhysicalAdjacencymap_Kandaharmap_Baluchistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_KandaharAMYZ",
+   "region1": "map_Kandahar",
    "region2": "map_Baluchistan"
  },
  {
    "dataName": "PhysicalAdjacencymap_Afghanistanmap_Baluchistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AfghanistanAMYZ",
+   "region1": "map_Afghanistan",
    "region2": "map_Baluchistan"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Kandaharmap_Mashhad",
+   "dataName": "PhysicalAdjacencymap_Kandaharmap_Bandar",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_KandaharAMYZ",
-   "region2": "map_Mashhad"
+   "region1": "map_Kandahar",
+   "region2": "map_Bandar"
  },
  {
    "dataName": "PhysicalAdjacencymap_Heratmap_Mashhad",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_HeratAMYZ",
+   "region1": "map_Herat",
    "region2": "map_Mashhad"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Heratmap_Bandar",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Herat",
+   "region2": "map_Bandar"
  },
  {
    "dataName": "PhysicalAdjacencymap_Afghanistanmap_Peshawar",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AfghanistanAMYZ",
+   "region1": "map_Afghanistan",
    "region2": "map_Peshawar"
  },
  {
    "dataName": "PhysicalAdjacencymap_MazarSharifmap_Peshawar",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_MazarSharifAMYZ",
+   "region1": "map_MazarSharif",
    "region2": "map_Peshawar"
  },
  {
    "dataName": "PhysicalAdjacencymap_MazarSharifmap_Tajikistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_MazarSharifAMYZ",
+   "region1": "map_MazarSharif",
    "region2": "map_Tajikistan"
  },
  {
    "dataName": "PhysicalAdjacencymap_MazarSharifmap_Turkmenistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_MazarSharifAMYZ",
+   "region1": "map_MazarSharif",
    "region2": "map_Turkmenistan"
  },
  {
    "dataName": "PhysicalAdjacencymap_Heratmap_Turkmenistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_HeratAMYZ",
+   "region1": "map_Herat",
    "region2": "map_Turkmenistan"
  },
  {
    "dataName": "PhysicalAdjacencymap_MazarSharifmap_Uzbekistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_MazarSharifAMYZ",
+   "region1": "map_MazarSharif",
    "region2": "map_Uzbekistan"
  },
  {
    "dataName": "PhysicalAdjacencymap_MazarSharifmap_Xinjiang",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_MazarSharifAMYZ",
+   "region1": "map_MazarSharif",
    "region2": "map_Xinjiang",
    "projectUnlockName": "Project_WakhanCorridorProject"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Ahvazmap_Baghdad",
+   "dataName": "PhysicalAdjacencymap_Ahvazmap_Basra",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Ahvaz",
-   "region2": "map_Baghdad"
+   "region2": "map_Basra"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Ahvazmap_Mosul",
+   "dataName": "PhysicalAdjacencymap_Kermanshahmap_Basra",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Kermanshah",
+   "region2": "map_Basra"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Kermanshahmap_Mosul",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Kermanshah",
+   "region2": "map_Mosul"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Kermanshahmap_Ahvaz",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Kermanshah",
+   "region2": "map_Ahvaz"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Ahvazmap_Shiraz",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Ahvaz",
-   "region2": "map_Mosul"
+   "region2": "map_Shiraz"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Kermanshahmap_Isfahan",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Kermanshah",
+   "region2": "map_Isfahan"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Shirazmap_Isfahan",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Shiraz",
+   "region2": "map_Isfahan"
  },
  {
    "dataName": "PhysicalAdjacencymap_Ahvazmap_Isfahan",
@@ -18678,15 +19023,15 @@
    "region2": "map_Isfahan"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Ahvazmap_Tabriz",
+   "dataName": "PhysicalAdjacencymap_Kermanshahmap_Tabriz",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_Ahvaz",
+   "region1": "map_Kermanshah",
    "region2": "map_Tabriz"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Ahvazmap_Tehran",
+   "dataName": "PhysicalAdjacencymap_Kermanshahmap_Tehran",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_Ahvaz",
+   "region1": "map_Kermanshah",
    "region2": "map_Tehran"
  },
  {
@@ -18796,61 +19141,61 @@
  {
    "dataName": "PhysicalAdjacencymap_Almatymap_Astana",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AlmatyAMYZ",
-   "region2": "map_AstanaAMYZ"
+   "region1": "map_Almaty",
+   "region2": "map_Astana"
  },
  {
    "dataName": "PhysicalAdjacencymap_Almatymap_Aktobe",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AlmatyAMYZ",
-   "region2": "map_AktobeAMYZ"
+   "region1": "map_Almaty",
+   "region2": "map_Aktobe"
  },
  {
    "dataName": "PhysicalAdjacencymap_Astanamap_Aktobe",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AstanaAMYZ",
-   "region2": "map_AktobeAMYZ"
+   "region1": "map_Astana",
+   "region2": "map_Aktobe"
  },
  {
    "dataName": "PhysicalAdjacencymap_Aktobemap_Karakalpakstan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AktobeAMYZ",
+   "region1": "map_Aktobe",
    "region2": "map_Karakalpakstan"
  },
  {
    "dataName": "PhysicalAdjacencymap_Almatymap_Kyrgyzstan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AlmatyAMYZ",
+   "region1": "map_Almaty",
    "region2": "map_Kyrgyzstan"
  },
  {
    "dataName": "PhysicalAdjacencymap_Astanamap_Novosibirsk",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AstanaAMYZ",
+   "region1": "map_Astana",
    "region2": "map_Novosibirsk"
  },
  {
    "dataName": "PhysicalAdjacencymap_Almatymap_Uzbekistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AlmatyAMYZ",
+   "region1": "map_Almaty",
    "region2": "map_Uzbekistan"
  }, 
  {
    "dataName": "PhysicalAdjacencymap_Aktobemap_Uzbekistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AktobeAMYZ",
+   "region1": "map_Aktobe",
    "region2": "map_Uzbekistan"
  },
  {
    "dataName": "PhysicalAdjacencymap_Almatymap_Xinjiang",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AlmatyAMYZ",
+   "region1": "map_Almaty",
    "region2": "map_Xinjiang"
  },
  {
    "dataName": "PhysicalAdjacencymap_Astanamap_Xinjiang",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AstanaAMYZ",
+   "region1": "map_Astana",
    "region2": "map_Xinjiang"
  },
  {
@@ -18908,9 +19253,39 @@
    "region2": "map_Istanbul"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Anatoliamap_Syria",
+   "dataName": "PhysicalAdjacencymap_Anatoliamap_Izmir",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Anatolia",
+   "region2": "map_Izmir"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Anatoliamap_Adana",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Anatolia",
+   "region2": "map_Adana"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Diyarbakirmap_Adana",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Diyarbakir",
+   "region2": "map_Adana"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Izmirmap_Adana",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Izmir",
+   "region2": "map_Adana"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Izmirmap_Istanbul",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Izmir",
+   "region2": "map_Istanbul"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Adanamap_Syria",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Adana",
    "region2": "map_Syria"
  },
  {
@@ -19126,31 +19501,31 @@
  {
    "dataName": "PhysicalAdjacencymap_Aktobemap_Kirov",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AktobeAMYZ",
+   "region1": "map_Aktobe",
    "region2": "map_Kirov"
  },
  {
    "dataName": "PhysicalAdjacencymap_Aktobemap_Rostovskaya",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AktobeAMYZ",
+   "region1": "map_Aktobe",
    "region2": "map_Rostovskaya"
  },
  {
    "dataName": "PhysicalAdjacencymap_Aktobemap_Turkmenistan",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AktobeAMYZ",
+   "region1": "map_Aktobe",
    "region2": "map_Turkmenistan"
  },
  {
    "dataName": "PhysicalAdjacencymap_Astanamap_Urals",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AstanaAMYZ",
+   "region1": "map_Astana",
    "region2": "map_Urals"
  },
  {
    "dataName": "PhysicalAdjacencymap_Aktobemap_Volga",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_AktobeAMYZ",
+   "region1": "map_Aktobe",
    "region2": "map_Volga"
  },
  {
@@ -19220,9 +19595,9 @@
    "region2": "map_Jordan"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Baghdadmap_Kuwait",
+   "dataName": "PhysicalAdjacencymap_Basramap_Kuwait",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_Baghdad",
+   "region1": "map_Basra",
    "region2": "map_Kuwait"
  },
  {
@@ -19232,10 +19607,34 @@
    "region2": "map_Mosul"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Baghdadmap_Basra",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Baghdad",
+   "region2": "map_Basra"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Basramap_Mosul",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Basra",
+   "region2": "map_Mosul"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_Baghdadmap_Qassimah",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Baghdad",
    "region2": "map_Qassimah"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Basramap_Qassimah",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Basra",
+   "region2": "map_Qassimah"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Basramap_Najd",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Basra",
+   "region2": "map_Najd"
  },
  {
    "dataName": "PhysicalAdjacencymap_Baghdadmap_Syria",
@@ -19244,10 +19643,10 @@
    "region2": "map_Syria"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Baluchistanmap_Mashhad",
+   "dataName": "PhysicalAdjacencymap_Baluchistanmap_Bandar",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Baluchistan",
-   "region2": "map_Mashhad"
+   "region2": "map_Bandar"
  },
  {
    "dataName": "PhysicalAdjacencymap_Baluchistanmap_Peshawar",
@@ -19322,6 +19721,18 @@
    "region2": "map_Spain"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Barcelonamap_Seville",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Barcelona",
+   "region2": "map_Seville"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Spainmap_Seville",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Spain",
+   "region2": "map_Seville"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_Barcelonamap_Toulouse",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Barcelona",
@@ -19340,12 +19751,6 @@
    "region2": "map_Toulouse"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Bavariamap_Belgium",
-   "relationType": "PhysicalAdjacency",
-   "region1": "map_Bavaria",
-   "region2": "map_Belgium"
- },
- {
    "dataName": "PhysicalAdjacencymap_Bavariamap_Czechia",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Bavaria",
@@ -19358,15 +19763,33 @@
    "region2": "map_EastGermany"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Bavariamap_Germany",
+   "dataName": "PhysicalAdjacencymap_Bavariamap_Cologne",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Bavaria",
+   "region2": "map_Cologne"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Colognemap_Germany",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Cologne",
    "region2": "map_Germany"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Colognemap_EastGermany",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Cologne",
+   "region2": "map_EastGermany"
  },
  {
    "dataName": "PhysicalAdjacencymap_Bavariamap_Paris",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Bavaria",
+   "region2": "map_Paris"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Colognemap_Paris",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Cologne",
    "region2": "map_Paris"
  },
  {
@@ -19484,10 +19907,10 @@
    "region2": "map_Suriname"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Belgiummap_Germany",
+   "dataName": "PhysicalAdjacencymap_Belgiummap_Cologne",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Belgium",
-   "region2": "map_Germany"
+   "region2": "map_Cologne"
  },
  {
    "dataName": "PhysicalAdjacencymap_Belgiummap_Nantes",
@@ -20354,6 +20777,12 @@
    "region2": "map_Georgia"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Anatoliamap_Georgia",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Anatolia",
+   "region2": "map_Georgia"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_Diyarbakirmap_Mosul",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Diyarbakir",
@@ -20752,6 +21181,12 @@
    "dataName": "PhysicalAdjacencymap_Germanymap_Netherlands",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Germany",
+   "region2": "map_Netherlands"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Colognemap_Netherlands",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Cologne",
    "region2": "map_Netherlands"
  },
  {
@@ -21307,6 +21742,24 @@
    "dataName": "PhysicalAdjacencymap_Isfahanmap_Mashhad",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Isfahan",
+   "region2": "map_Mashhad"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Isfahanmap_Bandar",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Isfahan",
+   "region2": "map_Bandar"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Shirazmap_Bandar",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Shiraz",
+   "region2": "map_Bandar"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Bandarmap_Mashhad",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Bandar",
    "region2": "map_Mashhad"
  },
  {
@@ -21891,6 +22344,12 @@
    "region2": "map_Spain"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Galiciamap_Spain",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Galicia",
+   "region2": "map_Spain"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_Logonemap_Kinshasa",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Logone",
@@ -22153,10 +22612,10 @@
    "region2": "map_SouthAlgeria"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Moroccomap_Spain",
+   "dataName": "PhysicalAdjacencymap_Moroccomap_Seville",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Morocco",
-   "region2": "map_Spain",
+   "region2": "map_Seville",
    "projectUnlockName": "Project_StraitofGibraltarCrossing",
    "friendlyOnly": true
  },
@@ -22625,6 +23084,18 @@
    "region2": "map_Spain"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Portugalmap_Galicia",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Portugal",
+   "region2": "map_Galicia"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Portugalmap_Seville",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Portugal",
+   "region2": "map_Seville"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_Punjabmap_Sindh",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Punjab",
@@ -23068,8 +23539,7 @@
    "dataName": "Claim2070_AFG2070_MazarSharif",
    "relationType": "Claim",
    "nation1": "2070_AFG",
-   "region1": "2070_MazarSharif",
-   "initialOwner": true
+   "region1": "2070_MazarSharif"
  },
  {
    "dataName": "Claim2070_AFG2070_Kandahar",
@@ -23083,6 +23553,13 @@
    "relationType": "Claim",
    "nation1": "2070_AFG",
    "region1": "2070_Herat",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_UZB2070_MazarSharif",
+   "relationType": "Claim",
+   "nation1": "2070_UZB",
+   "region1": "2070_MazarSharif",
    "initialOwner": true
  },
  {
@@ -23320,6 +23797,27 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "ClaimALN2070_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Kermanshah",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Bandar",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Bandar",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Shiraz",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Shiraz",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "ClaimALN2070_Alaska",
    "relationType": "Claim",
    "nation1": "ALN",
@@ -23474,6 +23972,13 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "ClaimALN2070_Basra",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Basra",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "ClaimALN2070_Bahamas",
    "relationType": "Claim",
    "nation1": "ALN",
@@ -23527,6 +24032,13 @@
    "relationType": "Claim",
    "nation1": "ALN",
    "region1": "2070_Bavaria",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Cologne",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Cologne",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -24311,6 +24823,20 @@
    "relationType": "Claim",
    "nation1": "ALN",
    "region1": "2070_Istanbul",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Izmir",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Izmir",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Adana",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Adana",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -25413,6 +25939,20 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "ClaimALN2070_Galicia",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Galicia",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Seville",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Seville",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "ClaimALN2070_SriLanka",
    "relationType": "Claim",
    "nation1": "ALN",
@@ -25924,8 +26464,7 @@
    "relationType": "Claim",
    "nation1": "2070_ARM",
    "region1": "2070_Armenia",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_ASM2070_ArunchalPradesh",
@@ -26114,15 +26653,13 @@
    "relationType": "Claim",
    "nation1": "2070_AZE",
    "region1": "2070_Azerbaijan",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_AZE2070_Tabriz",
    "relationType": "Claim",
    "nation1": "2070_AZE",
-   "region1": "2070_Tabriz",
-   "projectUnlockName": "Project_Asia-PacificRegionalistMovements"
+   "region1": "2070_Tabriz"
  },
  {
    "dataName": "Claim2070_BAH2070_Bahamas",
@@ -26151,7 +26688,8 @@
    "relationType": "Claim",
    "nation1": "2070_BCH",
    "region1": "2070_Baluchistan",
-   "capitalClaim": true
+   "capitalClaim": true,
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_BCH2070_Mashhad",
@@ -26997,8 +27535,7 @@
    "dataName": "Claim2070_CHN2070_InnerMongolia",
    "relationType": "Claim",
    "nation1": "2070_CHN",
-   "region1": "2070_InnerMongolia",
-   "initialOwner": true
+   "region1": "2070_InnerMongolia"
  },
  {
    "dataName": "Claim2070_CHN2070_Jilin",
@@ -27191,9 +27728,7 @@
    "dataName": "Claim2070_CHN2070_Tibet",
    "relationType": "Claim",
    "nation1": "2070_CHN",
-   "region1": "2070_Tibet",
-   "initialOwner": true,
-   "initialColony": true
+   "region1": "2070_Tibet"
  },
  {
    "dataName": "Claim2070_CHN2070_UpperMyanmar",
@@ -27227,9 +27762,7 @@
    "dataName": "Claim2070_CHN2070_Xinjiang",
    "relationType": "Claim",
    "nation1": "2070_CHN",
-   "region1": "2070_Xinjiang",
-   "initialOwner": true,
-   "initialColony": true
+   "region1": "2070_Xinjiang"
  },
  {
    "dataName": "Claim2070_CHN2070_Yunnan",
@@ -27616,7 +28149,27 @@
    "nation1": "2070_CPH",
    "region1": "2070_Ahvaz",
    "projectUnlockName": "Project_TheCaliphate",
-   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2070_CPH2070_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "2070_CPH",
+   "region1": "2070_Kermanshah",
+   "projectUnlockName": "Project_TheCaliphate",
+ },
+ {
+   "dataName": "Claim2070_CPH2070_Bandar",
+   "relationType": "Claim",
+   "nation1": "2070_CPH",
+   "region1": "2070_Bandar",
+   "projectUnlockName": "Project_TheCaliphate",
+ },
+ {
+   "dataName": "Claim2070_CPH2070_Shiraz",
+   "relationType": "Claim",
+   "nation1": "2070_CPH",
+   "region1": "2070_Shiraz",
+   "projectUnlockName": "Project_TheCaliphate",
  },
  {
    "dataName": "Claim2070_CPH2070_Alexandria",
@@ -27680,6 +28233,13 @@
    "relationType": "Claim",
    "nation1": "2070_CPH",
    "region1": "2070_Baghdad",
+   "projectUnlockName": "Project_TheCaliphate"
+ },
+ {
+   "dataName": "Claim2070_CPH2070_Basra",
+   "relationType": "Claim",
+   "nation1": "2070_CPH",
+   "region1": "2070_Basra",
    "projectUnlockName": "Project_TheCaliphate"
  },
  {
@@ -27836,6 +28396,20 @@
    "relationType": "Claim",
    "nation1": "2070_CPH",
    "region1": "2070_Istanbul",
+   "projectUnlockName": "Project_TheGreaterCaliphate"
+ },
+ {
+   "dataName": "Claim2070_CPH2070_Izmir",
+   "relationType": "Claim",
+   "nation1": "2070_CPH",
+   "region1": "2070_Izmir",
+   "projectUnlockName": "Project_TheGreaterCaliphate"
+ },
+ {
+   "dataName": "Claim2070_CPH2070_Adana",
+   "relationType": "Claim",
+   "nation1": "2070_CPH",
+   "region1": "2070_Adana",
    "projectUnlockName": "Project_TheGreaterCaliphate"
  },
  {
@@ -28520,7 +29094,8 @@
    "relationType": "Claim",
    "nation1": "2070_DAR",
    "region1": "2070_Darfur",
-   "capitalClaim": true
+   "capitalClaim": true,
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_DEN2070_Denmark",
@@ -28541,6 +29116,12 @@
    "relationType": "Claim",
    "nation1": "2070_DEU",
    "region1": "2070_Bavaria"
+ },
+ {
+   "dataName": "Claim2070_DEU2070_Cologne",
+   "relationType": "Claim",
+   "nation1": "2070_DEU",
+   "region1": "2070_Cologne"
  },
  {
    "dataName": "Claim2070_DEU2070_Belgium",
@@ -28666,8 +29247,7 @@
    "dataName": "Claim2070_DZA2070_Cyrenaica",
    "relationType": "Claim",
    "nation1": "2070_DZA",
-   "region1": "2070_Cyrenaica",
-   "initialOwner": true
+   "region1": "2070_Cyrenaica"
  },
  {
    "dataName": "Claim2070_DZA2070_Gao",
@@ -28679,8 +29259,7 @@
    "dataName": "Claim2070_DZA2070_Libya",
    "relationType": "Claim",
    "nation1": "2070_DZA",
-   "region1": "2070_Libya",
-   "initialOwner": true
+   "region1": "2070_Libya"
  },
  {
    "dataName": "Claim2070_DZA2070_Mauritania",
@@ -28754,6 +29333,13 @@
    "projectUnlockName": "Project_UnitedArabLeague"
  },
  {
+   "dataName": "Claim2070_EGY2070_Basra",
+   "relationType": "Claim",
+   "nation1": "2070_EGY",
+   "region1": "2070_Basra",
+   "projectUnlockName": "Project_UnitedArabLeague"
+ },
+ {
    "dataName": "Claim2070_EGY2070_Cairo",
    "relationType": "Claim",
    "nation1": "2070_EGY",
@@ -28766,7 +29352,7 @@
    "relationType": "Claim",
    "nation1": "2070_EGY",
    "region1": "2070_Cyrenaica",
-   "projectUnlockName": "Project_UnitedArabLeague"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_EGY2070_Dubai",
@@ -28872,7 +29458,7 @@
    "relationType": "Claim",
    "nation1": "2070_EGY",
    "region1": "2070_NorthernSudan",
-   "projectUnlockName": "Project_UnitedArabLeague"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_EGY2070_Qassimah",
@@ -29001,6 +29587,18 @@
    "nation1": "2070_ESP",
    "region1": "2070_Spain",
    "capitalClaim": true
+ },
+ {
+   "dataName": "Claim2070_ESP2070_Galicia",
+   "relationType": "Claim",
+   "nation1": "2070_ESP",
+   "region1": "2070_Galicia",
+ },
+ {
+   "dataName": "Claim2070_ESP2070_Seville",
+   "relationType": "Claim",
+   "nation1": "2070_ESP",
+   "region1": "2070_Seville",
  },
  {
    "dataName": "Claim2070_EST2070_Estonia",
@@ -29576,7 +30174,8 @@
    "relationType": "Claim",
    "nation1": "2070_ETK",
    "region1": "2070_Xinjiang",
-   "capitalClaim": true
+   "capitalClaim": true,
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_EUA2070_Anatolia",
@@ -29635,6 +30234,13 @@
    "initialOwner": true
  },
  {
+   "dataName": "Claim2070_EUA2070_Cologne",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Cologne",
+   "initialOwner": true
+ },
+ {
    "dataName": "Claim2070_EUA2070_Belarus",
    "relationType": "Claim",
    "nation1": "2070_EUA",
@@ -29657,8 +30263,7 @@
    "dataName": "Claim2070_EUA2070_Bulgaria",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Bulgaria",
-   "initialOwner": true
+   "region1": "2070_Bulgaria"
  },
  {
    "dataName": "Claim2070_EUA2070_CanaryIslands",
@@ -29671,15 +30276,13 @@
    "dataName": "Claim2070_EUA2070_Crimea",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Crimea",
-   "initialOwner": true
+   "region1": "2070_Crimea"
  },
  {
    "dataName": "Claim2070_EUA2070_Czechia",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Czechia",
-   "initialOwner": true
+   "region1": "2070_Czechia"
  },
  {
    "dataName": "Claim2070_EUA2070_Denmark",
@@ -29698,8 +30301,7 @@
    "dataName": "Claim2070_EUA2070_Donetsk",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Donetsk",
-   "initialOwner": true
+   "region1": "2070_Donetsk"
  },
  {
    "dataName": "Claim2070_EUA2070_DutchCaribbean",
@@ -29794,8 +30396,7 @@
    "dataName": "Claim2070_EUA2070_Gdansk",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Gdansk",
-   "initialOwner": true
+   "region1": "2070_Gdansk"
  },
  {
    "dataName": "Claim2070_EUA2070_Georgia",
@@ -29814,8 +30415,7 @@
    "dataName": "Claim2070_EUA2070_Greece",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Greece",
-   "initialOwner": true
+   "region1": "2070_Greece"
  },
  {
    "dataName": "Claim2070_EUA2070_Greenland",
@@ -29851,6 +30451,20 @@
    "projectUnlockName": "Project_EuropeAscendant"
  },
  {
+   "dataName": "Claim2070_EUA2070_Izmir",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Izmir",
+   "projectUnlockName": "Project_EuropeAscendant"
+ },
+ {
+   "dataName": "Claim2070_EUA2070_Adana",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Adana",
+   "projectUnlockName": "Project_EuropeAscendant"
+ },
+ {
    "dataName": "Claim2070_EUA2070_Italy",
    "relationType": "Claim",
    "nation1": "2070_EUA",
@@ -29875,22 +30489,19 @@
    "dataName": "Claim2070_EUA2070_Katowice",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Katowice",
-   "initialOwner": true
+   "region1": "2070_Katowice"
  },
  {
    "dataName": "Claim2070_EUA2070_Kharkiv",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Kharkiv",
-   "initialOwner": true
+   "region1": "2070_Kharkiv"
  },
  {
    "dataName": "Claim2070_EUA2070_Kiev",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Kiev",
-   "initialOwner": true
+   "region1": "2070_Kiev"
  },
  {
    "dataName": "Claim2070_EUA2070_Kirov",
@@ -29903,22 +30514,19 @@
    "dataName": "Claim2070_EUA2070_Kosovo",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Kosovo",
-   "initialOwner": true
+   "region1": "2070_Kosovo"
  },
  {
    "dataName": "Claim2070_EUA2070_Latvia",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Latvia",
-   "initialOwner": true
+   "region1": "2070_Latvia"
  },
  {
    "dataName": "Claim2070_EUA2070_Lithuania",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Lithuania",
-   "initialOwner": true
+   "region1": "2070_Lithuania"
  },
  {
    "dataName": "Claim2070_EUA2070_Lyon",
@@ -29951,15 +30559,13 @@
    "dataName": "Claim2070_EUA2070_Moldova",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Moldova",
-   "initialOwner": true
+   "region1": "2070_Moldova"
  },
  {
    "dataName": "Claim2070_EUA2070_Montenegro",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Montenegro",
-   "initialOwner": true
+   "region1": "2070_Montenegro"
  },
  {
    "dataName": "Claim2070_EUA2070_Moskva",
@@ -30013,8 +30619,7 @@
    "dataName": "Claim2070_EUA2070_NorthMacedonia",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_NorthMacedonia",
-   "initialOwner": true
+   "region1": "2070_NorthMacedonia"
  },
  {
    "dataName": "Claim2070_EUA2070_Norway",
@@ -30033,8 +30638,7 @@
    "dataName": "Claim2070_EUA2070_Odesa",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Odesa",
-   "initialOwner": true
+   "region1": "2070_Odesa"
  },
  {
    "dataName": "Claim2070_EUA2070_Paris",
@@ -30053,8 +30657,7 @@
    "dataName": "Claim2070_EUA2070_Poland",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Poland",
-   "initialOwner": true
+   "region1": "2070_Poland"
  },
  {
    "dataName": "Claim2070_EUA2070_Portugal",
@@ -30067,8 +30670,7 @@
    "dataName": "Claim2070_EUA2070_Romania",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Romania",
-   "initialOwner": true
+   "region1": "2070_Romania"
  },
  {
    "dataName": "Claim2070_EUA2070_Rostovskaya",
@@ -30081,8 +30683,7 @@
    "dataName": "Claim2070_EUA2070_Sarajevo",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Sarajevo",
-   "initialOwner": true
+   "region1": "2070_Sarajevo"
  },
  {
    "dataName": "Claim2070_EUA2070_Scotland",
@@ -30101,14 +30702,27 @@
    "dataName": "Claim2070_EUA2070_Slovenia",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Slovenia",
-   "initialOwner": true
+   "region1": "2070_Slovenia"
  },
  {
    "dataName": "Claim2070_EUA2070_Spain",
    "relationType": "Claim",
    "nation1": "2070_EUA",
    "region1": "2070_Spain",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_EUA2070_Galicia",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Galicia",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_EUA2070_Seville",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Seville",
    "initialOwner": true
  },
  {
@@ -30128,8 +30742,7 @@
    "dataName": "Claim2070_EUA2070_Tirana",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Tirana",
-   "initialOwner": true
+   "region1": "2070_Tirana"
  },
  {
    "dataName": "Claim2070_EUA2070_Toulouse",
@@ -30148,8 +30761,7 @@
    "dataName": "Claim2070_EUA2070_Transylvania",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Transylvania",
-   "initialOwner": true
+   "region1": "2070_Transylvania"
  },
  {
    "dataName": "Claim2070_EUA2070_Urals",
@@ -30189,8 +30801,7 @@
    "dataName": "Claim2070_EUA2070_Zagreb",
    "relationType": "Claim",
    "nation1": "2070_EUA",
-   "region1": "2070_Zagreb",
-   "initialOwner": true
+   "region1": "2070_Zagreb"
  },
  {
    "dataName": "Claim2070_EUA2070_Zurich",
@@ -30738,8 +31349,7 @@
    "relationType": "Claim",
    "nation1": "2070_HUN",
    "region1": "2070_Hungary",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_HUN2070_Sarajevo",
@@ -31477,6 +32087,27 @@
    "initialOwner": true
  },
  {
+   "dataName": "Claim2070_IRN2070_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "2070_IRN",
+   "region1": "2070_Kermanshah",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_IRN2070_Bandar",
+   "relationType": "Claim",
+   "nation1": "2070_IRN",
+   "region1": "2070_Bandar",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_IRN2070_Shiraz",
+   "relationType": "Claim",
+   "nation1": "2070_IRN",
+   "region1": "2070_Shiraz",
+   "initialOwner": true
+ },
+ {
    "dataName": "Claim2070_IRN2070_Azerbaijan",
    "relationType": "Claim",
    "nation1": "2070_IRN",
@@ -31488,6 +32119,13 @@
    "relationType": "Claim",
    "nation1": "2070_IRN",
    "region1": "2070_Baghdad",
+   "projectUnlockName": "Project_TheShiaNation"
+ },
+ {
+   "dataName": "Claim2070_IRN2070_Basra",
+   "relationType": "Claim",
+   "nation1": "2070_IRN",
+   "region1": "2070_Basra",
    "projectUnlockName": "Project_TheShiaNation"
  },
  {
@@ -31515,8 +32153,7 @@
    "dataName": "Claim2070_IRN2070_Tabriz",
    "relationType": "Claim",
    "nation1": "2070_IRN",
-   "region1": "2070_Tabriz",
-   "initialOwner": true
+   "region1": "2070_Tabriz"
  },
  {
    "dataName": "Claim2070_IRN2070_Tehran",
@@ -31538,15 +32175,19 @@
    "relationType": "Claim",
    "nation1": "2070_IRQ",
    "region1": "2070_Baghdad",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
+ },
+ {
+   "dataName": "Claim2070_IRQ2070_Basra",
+   "relationType": "Claim",
+   "nation1": "2070_IRQ",
+   "region1": "2070_Basra"
  },
  {
    "dataName": "Claim2070_IRQ2070_Mosul",
    "relationType": "Claim",
    "nation1": "2070_IRQ",
-   "region1": "2070_Mosul",
-   "initialOwner": true
+   "region1": "2070_Mosul"
  },
  {
    "dataName": "Claim2070_ISL2070_Iceland",
@@ -31568,7 +32209,8 @@
    "relationType": "Claim",
    "nation1": "2070_ISR",
    "region1": "2070_Palestine",
-   "hostileClaim": true
+   "hostileClaim": true,
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_ITA2070_Italy",
@@ -31856,7 +32498,8 @@
    "dataName": "Claim2070_JPN2070_SakhalinKurils",
    "relationType": "Claim",
    "nation1": "2070_JPN",
-   "region1": "2070_SakhalinKurils"
+   "region1": "2070_SakhalinKurils",
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_JPN2070_SouthHonshu",
@@ -31958,6 +32601,12 @@
    "dataName": "Claim2070_KAZ2070_Kyrgyzstan",
    "relationType": "Claim",
    "nation1": "2070_KAZ",
+   "region1": "2070_Kyrgyzstan"
+ },
+ {
+   "dataName": "Claim2070_UZB2070_Kyrgyzstan",
+   "relationType": "Claim",
+   "nation1": "2070_UZB",
    "region1": "2070_Kyrgyzstan",
    "initialOwner": true
  },
@@ -31965,6 +32614,12 @@
    "dataName": "Claim2070_KAZ2070_Tajikistan",
    "relationType": "Claim",
    "nation1": "2070_KAZ",
+   "region1": "2070_Tajikistan"
+ },
+ {
+   "dataName": "Claim2070_UZB2070_Tajikistan",
+   "relationType": "Claim",
+   "nation1": "2070_UZB",
    "region1": "2070_Tajikistan",
    "initialOwner": true
  },
@@ -31979,8 +32634,7 @@
    "dataName": "Claim2070_KAZ2070_Uzbekistan",
    "relationType": "Claim",
    "nation1": "2070_KAZ",
-   "region1": "2070_Uzbekistan",
-   "initialOwner": true
+   "region1": "2070_Uzbekistan"
  },
  {
    "dataName": "Claim2070_KEN2070_Kenya",
@@ -32137,8 +32791,7 @@
    "relationType": "Claim",
    "nation1": "2070_LEB",
    "region1": "2070_Lebanon",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_LES2070_Lesotho",
@@ -32466,7 +33119,7 @@
    "relationType": "Claim",
    "nation1": "2070_MNG",
    "region1": "2070_InnerMongolia",
-   "projectUnlockName": "Project_EndofChina"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_MNG2070_Mongolia",
@@ -32983,8 +33636,7 @@
    "dataName": "Claim2070_PAK2070_Baluchistan",
    "relationType": "Claim",
    "nation1": "2070_PAK",
-   "region1": "2070_Baluchistan",
-   "initialOwner": true
+   "region1": "2070_Baluchistan"
  },
  {
    "dataName": "Claim2070_PAK2070_JammuandKashmir",
@@ -33026,8 +33678,7 @@
    "relationType": "Claim",
    "nation1": "2070_PAL",
    "region1": "2070_Palestine",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_PAN2070_Panama",
@@ -33188,7 +33839,7 @@
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Belarus",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Belgrade",
@@ -33209,14 +33860,14 @@
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Czechia",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Donetsk",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Donetsk",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Estonia",
@@ -33236,21 +33887,22 @@
    "dataName": "Claim2070_POL2070_Gdansk",
    "relationType": "Claim",
    "nation1": "2070_POL",
-   "region1": "2070_Gdansk"
+   "region1": "2070_Gdansk",
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Hungary",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Hungary",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Kaliningrad",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Kaliningrad",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true,
  },
  {
    "dataName": "Claim2070_POL2070_Karelia",
@@ -33263,21 +33915,22 @@
    "dataName": "Claim2070_POL2070_Katowice",
    "relationType": "Claim",
    "nation1": "2070_POL",
-   "region1": "2070_Katowice"
+   "region1": "2070_Katowice",
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Kharkiv",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Kharkiv",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Kiev",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Kiev",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Kirov",
@@ -33298,21 +33951,21 @@
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Latvia",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Lithuania",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Lithuania",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Moldova",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Moldova",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Montenegro",
@@ -33347,21 +34000,22 @@
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Odesa",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Poland",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Poland",
-   "capitalClaim": true
+   "capitalClaim": true,
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Romania",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Romania",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Rostovskaya",
@@ -33382,14 +34036,14 @@
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Slovakia",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Slovenia",
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Slovenia",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Tirana",
@@ -33403,7 +34057,7 @@
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Transylvania",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_POL2070_Voronezh",
@@ -33417,7 +34071,7 @@
    "relationType": "Claim",
    "nation1": "2070_POL",
    "region1": "2070_Zagreb",
-   "projectUnlockName": "Project_SlavicCommonwealth"
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_PRK2070_NorthKorea",
@@ -33674,11 +34328,18 @@
    "hostileClaim": true
  },
  {
+   "dataName": "Claim2070_RUS2070_Cologne",
+   "relationType": "Claim",
+   "nation1": "2070_RUS",
+   "region1": "2070_Cologne",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
    "dataName": "Claim2070_RUS2070_Belarus",
    "relationType": "Claim",
    "nation1": "2070_RUS",
-   "region1": "2070_Belarus",
-   "initialOwner": true
+   "region1": "2070_Belarus"
  },
  {
    "dataName": "Claim2070_RUS2070_Belgium",
@@ -33807,8 +34468,7 @@
    "dataName": "Claim2070_RUS2070_Kaliningrad",
    "relationType": "Claim",
    "nation1": "2070_RUS",
-   "region1": "2070_Kaliningrad",
-   "initialOwner": true
+   "region1": "2070_Kaliningrad"
  },
  {
    "dataName": "Claim2070_RUS2070_Kamchatka",
@@ -34063,8 +34723,7 @@
    "dataName": "Claim2070_RUS2070_SakhalinKurils",
    "relationType": "Claim",
    "nation1": "2070_RUS",
-   "region1": "2070_SakhalinKurils",
-   "initialOwner": true
+   "region1": "2070_SakhalinKurils"
  },
  {
    "dataName": "Claim2070_RUS2070_Sarajevo",
@@ -34094,6 +34753,22 @@
    "relationType": "Claim",
    "nation1": "2070_RUS",
    "region1": "2070_Spain",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2070_RUS2070_Galicia",
+   "relationType": "Claim",
+   "nation1": "2070_RUS",
+   "region1": "2070_Galicia",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2070_RUS2070_Seville",
+   "relationType": "Claim",
+   "nation1": "2070_RUS",
+   "region1": "2070_Seville",
    "projectUnlockName": "Project_ForwardRussia",
    "hostileClaim": true
  },
@@ -34283,8 +34958,7 @@
    "dataName": "Claim2070_SAU2070_Kuwait",
    "relationType": "Claim",
    "nation1": "2070_SAU",
-   "region1": "2070_Kuwait",
-   "initialOwner": true
+   "region1": "2070_Kuwait"
  },
  {
    "dataName": "Claim2070_SAU2070_GulfStates",
@@ -34409,15 +35083,13 @@
    "dataName": "Claim2070_SDN2070_Darfur",
    "relationType": "Claim",
    "nation1": "2070_SDN",
-   "region1": "2070_Darfur",
-   "initialOwner": true
+   "region1": "2070_Darfur"
  },
  {
    "dataName": "Claim2070_SDN2070_NorthernSudan",
    "relationType": "Claim",
    "nation1": "2070_SDN",
-   "region1": "2070_NorthernSudan",
-   "initialOwner": true
+   "region1": "2070_NorthernSudan"
  },
  {
    "dataName": "Claim2070_SDN2070_SouthSudan",
@@ -34452,8 +35124,7 @@
    "relationType": "Claim",
    "nation1": "2070_SER",
    "region1": "2070_Belgrade",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_SER2070_Kosovo",
@@ -34619,8 +35290,7 @@
    "relationType": "Claim",
    "nation1": "2070_SLO",
    "region1": "2070_Slovakia",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_SOL2070_Somaliland",
@@ -34770,8 +35440,7 @@
    "relationType": "Claim",
    "nation1": "2070_SYR",
    "region1": "2070_Syria",
-   "capitalClaim": true,
-   "initialOwner": true
+   "capitalClaim": true
  },
  {
    "dataName": "Claim2070_TAR2070_Kirov",
@@ -34806,7 +35475,8 @@
    "relationType": "Claim",
    "nation1": "2070_TBT",
    "region1": "2070_Tibet",
-   "capitalClaim": true
+   "capitalClaim": true,
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_TCD2070_Chad",
@@ -35105,7 +35775,67 @@
    "relationType": "Claim",
    "nation1": "2070_TUR",
    "region1": "2070_Armenia",
-   "projectUnlockName": "Project_UnitedTurkestan"
+   "initialOwner": true,
+   "initialColony": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Bulgaria",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Bulgaria",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Greece",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Greece",
+   "initialOwner": true,
+   "initialColony": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_NorthMacedonia",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_NorthMacedonia",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Tirana",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Tirana",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Kosovo",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Kosovo",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Montenegro",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Montenegro",
+   "initialOwner": true,
+   "initialColony": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Sarajevo",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Sarajevo",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Belgrade",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Belgrade",
+   "initialOwner": true,
+   "initialColony": true
  },
  {
    "dataName": "Claim2070_TUR2070_Astana",
@@ -35126,22 +35856,79 @@
    "relationType": "Claim",
    "nation1": "2070_TUR",
    "region1": "2070_Azerbaijan",
-   "projectUnlockName": "Project_UnitedTurkestan"
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Tabriz",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Tabriz",
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_TUR2070_Crimea",
    "relationType": "Claim",
    "nation1": "2070_TUR",
    "region1": "2070_Crimea",
-   "projectUnlockName": "Project_UnitedTurkestan"
+   "initialOwner": true,
+   "initialColony": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Syria",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Syria",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Mosul",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Mosul",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Baghdad",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Baghdad",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Basra",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Basra",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Kuwait",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Kuwait",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Lebanon",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Lebanon",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Libya",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Libya",
+   "initialOwner": true,
+   "initialColony": true
  },
  {
    "dataName": "Claim2070_TUR2070_Diyarbakir",
    "relationType": "Claim",
    "nation1": "2070_TUR",
    "region1": "2070_Diyarbakir",
-   "initialOwner": true,
-   "initialColony": true
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_TUR2070_EasternSiberia",
@@ -35155,6 +35942,20 @@
    "relationType": "Claim",
    "nation1": "2070_TUR",
    "region1": "2070_Istanbul",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Izmir",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Izmir",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_TUR2070_Adana",
+   "relationType": "Claim",
+   "nation1": "2070_TUR",
+   "region1": "2070_Adana",
    "initialOwner": true
  },
  {
@@ -35190,13 +35991,6 @@
    "relationType": "Claim",
    "nation1": "2070_TUR",
    "region1": "2070_Sakha",
-   "projectUnlockName": "Project_UnitedTurkestan"
- },
- {
-   "dataName": "Claim2070_TUR2070_Tabriz",
-   "relationType": "Claim",
-   "nation1": "2070_TUR",
-   "region1": "2070_Tabriz",
    "projectUnlockName": "Project_UnitedTurkestan"
  },
  {
@@ -35975,7 +36769,8 @@
    "relationType": "Claim",
    "nation1": "2070_UZB",
    "region1": "2070_Uzbekistan",
-   "capitalClaim": true
+   "capitalClaim": true,
+   "initialOwner": true
  },
  {
    "dataName": "Claim2070_VEN2070_Guyana",
@@ -36089,6 +36884,13 @@
    "relationType": "Claim",
    "nation1": "2070_WGA",
    "region1": "2070_Bavaria",
+   "projectUnlockName": "Project_EuropeanAutonomyMovements"
+ },
+ {
+   "dataName": "Claim2070_WGA2070_Cologne",
+   "relationType": "Claim",
+   "nation1": "2070_WGA",
+   "region1": "2070_Cologne",
    "projectUnlockName": "Project_EuropeanAutonomyMovements"
  },
  {
@@ -36415,6 +37217,27 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "Claim2070_PRA2070_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Kermanshah",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Bandar",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Bandar",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Shiraz",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Shiraz",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "Claim2070_PRA2070_Alaska",
    "relationType": "Claim",
    "nation1": "2070_PRA",
@@ -36569,6 +37392,13 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "Claim2070_PRA2070_Basra",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Basra",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "Claim2070_PRA2070_Bahamas",
    "relationType": "Claim",
    "nation1": "2070_PRA",
@@ -36622,6 +37452,13 @@
    "relationType": "Claim",
    "nation1": "2070_PRA",
    "region1": "2070_Bavaria",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Cologne",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Cologne",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
@@ -37411,6 +38248,22 @@
    "relationType": "Claim",
    "nation1": "2070_PRA",
    "region1": "2070_Istanbul",
+   "projectUnlockName": "Project_ProtectorateAuthority",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Izmir",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Izmir",
+   "projectUnlockName": "Project_ProtectorateAuthority",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Adana",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Adana",
    "projectUnlockName": "Project_ProtectorateAuthority",
    "hostileClaim": true
  },
@@ -38517,6 +39370,20 @@
    "relationType": "Claim",
    "nation1": "2070_PRA",
    "region1": "2070_Spain",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Galicia",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Galicia",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Seville",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Seville",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
@@ -40766,7 +41633,7 @@
  {
    "dataName": "Federation2026_BGMEUAFed",
    "relationType": "Federation",
-   "nation1": "2026_BGM",
+   "nation1": "2026_FRA",
    "federation": "EUAFed"
  },
  {
@@ -41688,6 +42555,27 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "Claim2026_ALN2026_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Kermanshah",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Bandar",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Bandar",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Shiraz",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Shiraz",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "Claim2026_ALN2026_Alaska",
    "relationType": "Claim",
    "nation1": "2026_ALN",
@@ -41842,6 +42730,13 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "Claim2026_ALN2026_Basra",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Basra",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "Claim2026_ALN2026_Bahamas",
    "relationType": "Claim",
    "nation1": "2026_ALN",
@@ -41895,6 +42790,13 @@
    "relationType": "Claim",
    "nation1": "2026_ALN",
    "region1": "2026_Bavaria",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Cologne",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Cologne",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -42679,6 +43581,20 @@
    "relationType": "Claim",
    "nation1": "2026_ALN",
    "region1": "2026_Istanbul",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Izmir",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Izmir",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Adana",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Adana",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -43781,6 +44697,20 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "Claim2026_ALN2026_Galicia",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Galicia",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Seville",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Seville",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "Claim2026_ALN2026_SriLanka",
    "relationType": "Claim",
    "nation1": "2026_ALN",
@@ -44594,7 +45524,7 @@
    "capitalClaim": true
  },
  {
-   "dataName": "Claim2026_BGM2026_Belgium",
+   "dataName": "Claim2026_FRA2026_Belgium",
    "relationType": "Claim",
    "nation1": "2026_EUA",
    "region1": "2026_Belgium",
@@ -46034,8 +46964,28 @@
    "relationType": "Claim",
    "nation1": "2026_CPH",
    "region1": "2026_Ahvaz",
-   "projectUnlockName": "Project_TheCaliphate",
-   "hostileClaim": true
+   "projectUnlockName": "Project_TheCaliphate"
+ },
+ {
+   "dataName": "Claim2026_CPH2026_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "2026_CPH",
+   "region1": "2026_Kermanshah",
+   "projectUnlockName": "Project_TheCaliphate"
+ },
+ {
+   "dataName": "Claim2026_CPH2026_Bandar",
+   "relationType": "Claim",
+   "nation1": "2026_CPH",
+   "region1": "2026_Bandar",
+   "projectUnlockName": "Project_TheCaliphate"
+ },
+ {
+   "dataName": "Claim2026_CPH2026_Shiraz",
+   "relationType": "Claim",
+   "nation1": "2026_CPH",
+   "region1": "2026_Shiraz",
+   "projectUnlockName": "Project_TheCaliphate"
  },
  {
    "dataName": "Claim2026_CPH2026_Alexandria",
@@ -46099,6 +47049,13 @@
    "relationType": "Claim",
    "nation1": "2026_CPH",
    "region1": "2026_Baghdad",
+   "projectUnlockName": "Project_TheCaliphate"
+ },
+ {
+   "dataName": "Claim2026_CPH2026_Basra",
+   "relationType": "Claim",
+   "nation1": "2026_CPH",
+   "region1": "2026_Basra",
    "projectUnlockName": "Project_TheCaliphate"
  },
  {
@@ -46255,6 +47212,20 @@
    "relationType": "Claim",
    "nation1": "2026_CPH",
    "region1": "2026_Istanbul",
+   "projectUnlockName": "Project_TheGreaterCaliphate"
+ },
+ {
+   "dataName": "Claim2026_CPH2026_Izmir",
+   "relationType": "Claim",
+   "nation1": "2026_CPH",
+   "region1": "2026_Izmir",
+   "projectUnlockName": "Project_TheGreaterCaliphate"
+ },
+ {
+   "dataName": "Claim2026_CPH2026_Adana",
+   "relationType": "Claim",
+   "nation1": "2026_CPH",
+   "region1": "2026_Adana",
    "projectUnlockName": "Project_TheGreaterCaliphate"
  },
  {
@@ -46970,6 +47941,13 @@
    "initialOwner": true
  },
  {
+   "dataName": "Claim2026_DEU2026_Cologne",
+   "relationType": "Claim",
+   "nation1": "2026_DEU",
+   "region1": "2026_Cologne",
+   "initialOwner": true
+ },
+ {
    "dataName": "Claim2026_DEU2026_Belgium",
    "relationType": "Claim",
    "nation1": "2026_DEU",
@@ -47176,6 +48154,13 @@
    "relationType": "Claim",
    "nation1": "2026_EGY",
    "region1": "2026_Baghdad",
+   "projectUnlockName": "Project_UnitedArabLeague"
+ },
+ {
+   "dataName": "Claim2026_EGY2026_Basra",
+   "relationType": "Claim",
+   "nation1": "2026_EGY",
+   "region1": "2026_Basra",
    "projectUnlockName": "Project_UnitedArabLeague"
  },
  {
@@ -47433,6 +48418,20 @@
    "nation1": "2026_ESP",
    "region1": "2026_Spain",
    "capitalClaim": true,
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2026_ESP2026_Galicia",
+   "relationType": "Claim",
+   "nation1": "2026_ESP",
+   "region1": "2026_Galicia",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2026_ESP2026_Seville",
+   "relationType": "Claim",
+   "nation1": "2026_ESP",
+   "region1": "2026_Seville",
    "initialOwner": true
  },
  {
@@ -48066,6 +49065,12 @@
    "region1": "2026_Bavaria"
  },
  {
+   "dataName": "Claim2026_EUA2026_Cologne",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Cologne"
+ },
+ {
    "dataName": "Claim2026_EUA2026_Belarus",
    "relationType": "Claim",
    "nation1": "2026_EUA",
@@ -48279,6 +49284,20 @@
    "relationType": "Claim",
    "nation1": "2026_EUA",
    "region1": "2026_Istanbul",
+   "projectUnlockName": "Project_EuropeAscendant"
+ },
+ {
+   "dataName": "Claim2026_EUA2026_Izmir",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Izmir",
+   "projectUnlockName": "Project_EuropeAscendant"
+ },
+ {
+   "dataName": "Claim2026_EUA2026_Adana",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Adana",
    "projectUnlockName": "Project_EuropeAscendant"
  },
  {
@@ -48519,6 +49538,18 @@
    "relationType": "Claim",
    "nation1": "2026_EUA",
    "region1": "2026_Spain"
+ },
+ {
+   "dataName": "Claim2026_EUA2026_Galicia",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Galicia"
+ },
+ {
+   "dataName": "Claim2026_EUA2026_Seville",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Seville"
  },
  {
    "dataName": "Claim2026_EUA2026_Surgut",
@@ -49898,6 +50929,27 @@
    "initialOwner": true
  },
  {
+   "dataName": "Claim2026_IRN2026_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "2026_IRN",
+   "region1": "2026_Kermanshah",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2026_IRN2026_Bandar",
+   "relationType": "Claim",
+   "nation1": "2026_IRN",
+   "region1": "2026_Bandar",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2026_IRN2026_Shiraz",
+   "relationType": "Claim",
+   "nation1": "2026_IRN",
+   "region1": "2026_Shiraz",
+   "initialOwner": true
+ },
+ {
    "dataName": "Claim2026_IRN2026_Azerbaijan",
    "relationType": "Claim",
    "nation1": "2026_IRN",
@@ -49909,6 +50961,13 @@
    "relationType": "Claim",
    "nation1": "2026_IRN",
    "region1": "2026_Baghdad",
+   "projectUnlockName": "Project_TheShiaNation"
+ },
+ {
+   "dataName": "Claim2026_IRN2026_Basra",
+   "relationType": "Claim",
+   "nation1": "2026_IRN",
+   "region1": "2026_Basra",
    "projectUnlockName": "Project_TheShiaNation"
  },
  {
@@ -49960,6 +51019,13 @@
    "nation1": "2026_IRQ",
    "region1": "2026_Baghdad",
    "capitalClaim": true,
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2026_IRQ2026_Basra",
+   "relationType": "Claim",
+   "nation1": "2026_IRQ",
+   "region1": "2026_Basra",
    "initialOwner": true
  },
  {
@@ -52157,6 +53223,14 @@
    "hostileClaim": true
  },
  {
+   "dataName": "Claim2026_RUS2026_Cologne",
+   "relationType": "Claim",
+   "nation1": "2026_RUS",
+   "region1": "2026_Cologne",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
    "dataName": "Claim2026_RUS2026_Belarus",
    "relationType": "Claim",
    "nation1": "2026_RUS",
@@ -52577,6 +53651,22 @@
    "relationType": "Claim",
    "nation1": "2026_RUS",
    "region1": "2026_Spain",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2026_RUS2026_Galicia",
+   "relationType": "Claim",
+   "nation1": "2026_RUS",
+   "region1": "2026_Galicia",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2026_RUS2026_Seville",
+   "relationType": "Claim",
+   "nation1": "2026_RUS",
+   "region1": "2026_Seville",
    "projectUnlockName": "Project_ForwardRussia",
    "hostileClaim": true
  },
@@ -53659,6 +54749,20 @@
    "initialOwner": true
  },
  {
+   "dataName": "Claim2026_TUR2026_Izmir",
+   "relationType": "Claim",
+   "nation1": "2026_TUR",
+   "region1": "2026_Izmir",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2026_TUR2026_Adana",
+   "relationType": "Claim",
+   "nation1": "2026_TUR",
+   "region1": "2026_Adana",
+   "initialOwner": true
+ },
+ {
    "dataName": "Claim2026_TUR2026_Karakalpakstan",
    "relationType": "Claim",
    "nation1": "2026_TUR",
@@ -54612,6 +55716,13 @@
    "projectUnlockName": "Project_EuropeanAutonomyMovements"
  },
  {
+   "dataName": "Claim2026_WGA2026_Cologne",
+   "relationType": "Claim",
+   "nation1": "2026_WGA",
+   "region1": "2026_Cologne",
+   "projectUnlockName": "Project_EuropeanAutonomyMovements"
+ },
+ {
    "dataName": "Claim2026_WGA2026_Germany",
    "relationType": "Claim",
    "nation1": "2026_WGA",
@@ -54946,6 +56057,27 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "Claim2026_PRA2026_Kermanshah",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Kermanshah",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Bandar",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Bandar",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Shiraz",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Shiraz",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "Claim2026_PRA2026_Alaska",
    "relationType": "Claim",
    "nation1": "2026_PRA",
@@ -55100,6 +56232,13 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "Claim2026_PRA2026_Basra",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Basra",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "Claim2026_PRA2026_Bahamas",
    "relationType": "Claim",
    "nation1": "2026_PRA",
@@ -55153,6 +56292,13 @@
    "relationType": "Claim",
    "nation1": "2026_PRA",
    "region1": "2026_Bavaria",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Cologne",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Cologne",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
@@ -55942,6 +57088,22 @@
    "relationType": "Claim",
    "nation1": "2026_PRA",
    "region1": "2026_Istanbul",
+   "projectUnlockName": "Project_ProtectorateAuthority",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Izmir",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Izmir",
+   "projectUnlockName": "Project_ProtectorateAuthority",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Adana",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Adana",
    "projectUnlockName": "Project_ProtectorateAuthority",
    "hostileClaim": true
  },
@@ -57048,6 +58210,20 @@
    "relationType": "Claim",
    "nation1": "2026_PRA",
    "region1": "2026_Spain",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Galicia",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Galicia",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Seville",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Seville",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {

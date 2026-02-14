@@ -707,10 +707,15 @@ TINationTemplate.unionDisplayNameWithArticle.JPN=the Pacific Defense League
 TINationTemplate.unionAdjective.JPN=Pacific Defender
 TINationTemplate.unionDisplayNameWithArticlePrep.JPN=in the Pacific Defense League
 
-TINationTemplate.unionDisplayName.KAZ=Central Asian Union
-TINationTemplate.unionDisplayNameWithArticle.KAZ=the Central Asian Union
-TINationTemplate.unionAdjective.KAZ=Central Asian
-TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=in the Central Asian Union
+TINationTemplate.unionDisplayName.KAZ=Turkestan
+TINationTemplate.unionDisplayNameWithArticle.KAZ=Turkestan
+TINationTemplate.unionAdjective.KAZ=Turkestani
+TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=in Turkestan
+
+TINationTemplate.unionDisplayName.UZB=Ferganastan
+TINationTemplate.unionDisplayNameWithArticle.UZB=Ferganastan
+TINationTemplate.unionAdjective.UZB=Ferganastani
+TINationTemplate.unionDisplayNameWithArticlePrep.UZB=in Ferganastan
 
 TINationTemplate.unionDisplayName.KOR=Republic of Korea
 TINationTemplate.unionDisplayNameWithArticle.KOR=the Republic of Korea
@@ -732,10 +737,15 @@ TINationTemplate.unionDisplayNameWithArticle.THA=the Southeast Asian Alliance
 TINationTemplate.unionAdjective.THA=Southeast Asian
 TINationTemplate.unionDisplayNameWithArticlePrep.THA=in the Southeast Asian Alliance
 
-TINationTemplate.unionDisplayName.TUR=Turkestan
-TINationTemplate.unionDisplayNameWithArticle.TUR=Turkestan
-TINationTemplate.unionAdjective.TUR=Turkestani
-TINationTemplate.unionDisplayNameWithArticlePrep.TUR=in Turkestan
+TINationTemplate.unionDisplayName.TUR=Bosporus Coalition
+TINationTemplate.unionDisplayNameWithArticle.TUR=the Bosporus Coalition
+TINationTemplate.unionAdjective.TUR=Bosporus
+TINationTemplate.unionDisplayNameWithArticlePrep.TUR=in the Bosporus Coalition
+
+TINationTemplate.unionDisplayName.ESP=Iberian Union
+TINationTemplate.unionDisplayNameWithArticle.ESP=the Iberian Union
+TINationTemplate.unionAdjective.ESP=Iberian
+TINationTemplate.unionDisplayNameWithArticlePrep.ESP=in the Iberian Union
 
 TINationTemplate.unionDisplayName.GBR=United Kingdom
 TINationTemplate.unionDisplayNameWithArticle.GBR=the United Kingdom

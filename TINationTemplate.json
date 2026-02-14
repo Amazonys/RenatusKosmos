@@ -3875,8 +3875,8 @@
    "friendlyName": "France",
    "dataName": "FRA",
    "flagResource": "nationflags/France",
-   "unionFlagResource": "nationflags/European_Union",
-   "unionTrigger": 5,
+   "unionFlagResource": "nationflags/France",
+   "unionTrigger": 11,
    "color32": {
       "r": 135,
       "g": 206,
@@ -4167,7 +4167,7 @@
  {
    "friendlyName": "Germany",
    "dataName": "DEU",
-   "flagResource": "nationflags/East_Germany",
+   "flagResource": "nationflags/Germany",
    "unionFlagResource": "nationflags/Germany",
    "unionTrigger": 2,
    "color32": {
@@ -6074,8 +6074,8 @@
    "friendlyName": "Kazakhstan",
    "dataName": "KAZ",
    "flagResource": "nationflags/Kazakhstan",
-   "unionFlagResource": "nationflags/Kazakhstan",
-   "unionTrigger": 3,
+   "unionFlagResource": "renatuskosmos/Turkestan",
+   "unionTrigger": 4,
    "color32": {
       "r": 0,
       "g": 175,
@@ -9602,7 +9602,7 @@
    "friendlyName": "Poland",
    "dataName": "POL",
    "flagResource": "nationflags/Poland",
-   "unionFlagResource": "nationflags/Slavic_Commonwealth",
+   "unionFlagResource": "renatuskosmos/Trimarium",
    "unionTrigger": 5,
    "color32": {
       "r": 220,
@@ -11722,6 +11722,8 @@
    "friendlyName": "Spain",
    "dataName": "ESP",
    "flagResource": "nationflags/Spain",
+   "unionFlagResource": "nationflags/Spain",
+   "unionTrigger": 6,
    "color32": {
       "r": 255,
       "g": 196,
@@ -13165,7 +13167,7 @@
    "friendlyName": "United States of America",
    "dataName": "USA",
    "flagResource": "nationflags/United_States",
-   "unionFlagResource": "nationflags/United_States_of_NorthAmerica",
+   "unionFlagResource": "renatuskosmos/USNA",
    "unionTrigger": 21,
    "color32": {
       "r": 13,
@@ -13312,6 +13314,8 @@
    "friendlyName": "Uzbekistan",
    "dataName": "UZB",
    "flagResource": "nationflags/Uzbekistan",
+   "unionFlagResource": "renatuskosmos/Ferganastan",
+   "unionTrigger": 3,
    "color32": {
       "r": 255,
       "g": 69,
@@ -17260,8 +17264,8 @@
    "friendlyName": "2070_France",
    "dataName": "2070_FRA",
    "flagResource": "nationflags/France",
-   "unionFlagResource": "nationflags/European_Union",
-   "unionTrigger": 5,
+   "unionFlagResource": "nationflags/France",
+   "unionTrigger": 11,
    "color32": {
       "r": 135,
       "g": 206,
@@ -17518,7 +17522,7 @@
  {
    "friendlyName": "2070_Germany",
    "dataName": "2070_DEU",
-   "flagResource": "nationflags/East_Germany",
+   "flagResource": "nationflags/Germany",
    "unionFlagResource": "nationflags/Germany",
    "unionTrigger": 2,
    "color32": {
@@ -19204,8 +19208,8 @@
    "friendlyName": "2070_Kazakhstan",
    "dataName": "2070_KAZ",
    "flagResource": "nationflags/Kazakhstan",
-   "unionFlagResource": "nationflags/Kazakhstan",
-   "unionTrigger": 3,
+   "unionFlagResource": "renatuskosmos/Turkestan",
+   "unionTrigger": 4,
    "color32": {
       "r": 0,
       "g": 175,
@@ -22192,7 +22196,7 @@
    "friendlyName": "2070_Poland",
    "dataName": "2070_POL",
    "flagResource": "nationflags/Poland",
-   "unionFlagResource": "nationflags/Slavic_Commonwealth",
+   "unionFlagResource": "renatuskosmos/Trimarium",
    "unionTrigger": 5,
    "color32": {
       "r": 220,
@@ -24068,6 +24072,8 @@
    "friendlyName": "2070_Spain",
    "dataName": "2070_ESP",
    "flagResource": "nationflags/Spain",
+   "unionFlagResource": "nationflags/Spain",
+   "unionTrigger": 6,
    "color32": {
       "r": 255,
       "g": 196,
@@ -24982,7 +24988,7 @@
    "friendlyName": "2070_Turkey",
    "dataName": "2070_TUR",
    "flagResource": "nationflags/Turkey",
-   "unionFlagResource": "nationflags/Turkestan",
+   "unionFlagResource": "renatuskosmos/BosporusCoalition",
    "unionTrigger": 5,
    "color32": {
       "r": 178,
@@ -25284,7 +25290,7 @@
    "friendlyName": "2070_United States of America",
    "dataName": "2070_USA",
    "flagResource": "nationflags/United_States",
-   "unionFlagResource": "nationflags/United_States_of_NorthAmerica",
+   "unionFlagResource": "renatuskosmos/USNA",
    "unionTrigger": 21,
    "color32": {
       "r": 13,
@@ -25415,6 +25421,8 @@
    "friendlyName": "2070_Uzbekistan",
    "dataName": "2070_UZB",
    "flagResource": "nationflags/Uzbekistan",
+   "unionFlagResource": "renatuskosmos/Ferganastan",
+   "unionTrigger": 3,
    "color32": {
       "r": 255,
       "g": 69,
@@ -29763,8 +29771,8 @@
    "friendlyName": "2026_France",
    "dataName": "2026_FRA",
    "flagResource": "nationflags/France",
-   "unionFlagResource": "nationflags/European_Union",
-   "unionTrigger": 5,
+   "unionFlagResource": "nationflags/France",
+   "unionTrigger": 11,
    "color32": {
       "r": 135,
       "g": 206,
@@ -30053,7 +30061,7 @@
  {
    "friendlyName": "2026_Germany",
    "dataName": "2026_DEU",
-   "flagResource": "nationflags/East_Germany",
+   "flagResource": "nationflags/Germany",
    "unionFlagResource": "nationflags/Germany",
    "unionTrigger": 4,
    "color32": {
@@ -31950,8 +31958,8 @@
    "friendlyName": "2026_Kazakhstan",
    "dataName": "2026_KAZ",
    "flagResource": "nationflags/Kazakhstan",
-   "unionFlagResource": "nationflags/Kazakhstan",
-   "unionTrigger": 3,
+   "unionFlagResource": "renatuskosmos/Turkestan",
+   "unionTrigger": 4,
    "color32": {
       "r": 0,
       "g": 175,
@@ -35438,7 +35446,7 @@
    "friendlyName": "2026_Poland",
    "dataName": "2026_POL",
    "flagResource": "nationflags/Poland",
-   "unionFlagResource": "nationflags/Slavic_Commonwealth",
+   "unionFlagResource": "renatuskosmos/Trimarium",
    "unionTrigger": 5,
    "color32": {
       "r": 220,
@@ -37538,6 +37546,8 @@
    "friendlyName": "2026_Spain",
    "dataName": "2026_ESP",
    "flagResource": "nationflags/Spain",
+   "unionFlagResource": "nationflags/Spain",
+   "unionTrigger": 6,
    "color32": {
       "r": 255,
       "g": 196,
@@ -38596,7 +38606,7 @@
    "friendlyName": "2026_Turkey",
    "dataName": "2026_TUR",
    "flagResource": "nationflags/Turkey",
-   "unionFlagResource": "nationflags/Turkestan",
+   "unionFlagResource": "renatuskosmos/BosporusCoalition",
    "unionTrigger": 5,
    "color32": {
       "r": 178,
@@ -38964,7 +38974,7 @@
    "friendlyName": "2026_United States of America",
    "dataName": "2026_USA",
    "flagResource": "nationflags/United_States",
-   "unionFlagResource": "nationflags/United_States_of_NorthAmerica",
+   "unionFlagResource": "renatuskosmos/USNA",
    "unionTrigger": 21,
    "color32": {
       "r": 13,
@@ -39111,6 +39121,8 @@
    "friendlyName": "2026_Uzbekistan",
    "dataName": "2026_UZB",
    "flagResource": "nationflags/Uzbekistan",
+   "unionFlagResource": "renatuskosmos/Ferganastan",
+   "unionTrigger": 3,
    "color32": {
       "r": 255,
       "g": 69,

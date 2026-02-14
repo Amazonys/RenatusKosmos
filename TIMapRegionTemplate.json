@@ -1,6 +1,6 @@
 [
  {
-   "dataName": "map_AfghanistanAMYZ",
+   "dataName": "map_Afghanistan",
    "friendlyNationName": "Afghanistan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
@@ -13,7 +13,7 @@
    "oilId": 0
  },
  {
-   "dataName": "map_MazarSharifAMYZ",
+   "dataName": "map_MazarSharif",
    "friendlyNationName": "Afghanistan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
@@ -22,11 +22,11 @@
    "longitude": 67.11,
    "boostLatitude": 35,
    "area_km2": 163216,
-   "visualId": 304,
+   "visualId": 364,
    "oilId": 0
  },
  {
-   "dataName": "map_HeratAMYZ",
+   "dataName": "map_Herat",
    "friendlyNationName": "Afghanistan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
@@ -35,11 +35,11 @@
    "longitude": 62.24,
    "boostLatitude": 35,
    "area_km2": 163216,
-   "visualId": 305,
+   "visualId": 365,
    "oilId": 0
  },
  {
-   "dataName": "map_KandaharAMYZ",
+   "dataName": "map_Kandahar",
    "friendlyNationName": "Afghanistan",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
@@ -48,7 +48,7 @@
    "longitude": 65.74,
    "boostLatitude": 30,
    "area_km2": 163216,
-   "visualId": 306,
+   "visualId": 366,
    "oilId": 0
  },
  {
@@ -1714,7 +1714,7 @@
    "latitude": 49,
    "longitude": 10.4,
    "boostLatitude": 50,
-   "area_km2": 149837,
+   "area_km2": 106202,
    "visualId": 102,
    "oilId": 0
  },
@@ -1727,7 +1727,7 @@
    "latitude": 52.52,
    "longitude": 13.405,
    "boostLatitude": 50,
-   "area_km2": 108861,
+   "area_km2": 108927,
    "visualId": 103,
    "oilId": 0
  },
@@ -1740,8 +1740,21 @@
    "latitude": 52,
    "longitude": 8.7,
    "boostLatitude": 50,
-   "area_km2": 98683,
+   "area_km2": 63972,
    "visualId": 104,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Cologne",
+   "friendlyNationName": "Germany",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "coast": "none",
+   "latitude": 51,
+   "longitude": 6.99,
+   "boostLatitude": 50,
+   "area_km2": 77453,
+   "visualId": 376,
    "oilId": 0
  },
  {
@@ -2231,15 +2244,14 @@
  {
    "dataName": "map_Ahvaz",
    "friendlyNationName": "Iran",
-   "terrain": "Rugged",
+   "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "coast": "Indian",
-   "latitude": 31.24,
-   "longitude": 49.16,
+   "latitude": 32.66,
+   "longitude": 51.64,
    "boostLatitude": 30,
-   "area_km2": 185978,
+   "area_km2": 204298,
    "visualId": 335,
-   "parent": "map_Isfahan",
    "oilId": 12
  },
  {
@@ -2247,11 +2259,11 @@
    "friendlyNationName": "Iran",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "coast": "Indian",
-   "latitude": 31.25,
-   "longitude": 51.75,
-   "boostLatitude": 25,
-   "area_km2": 354885,
+   "coast": "none",
+   "latitude": 38.06,
+   "longitude": 46.26,
+   "boostLatitude": 40,
+   "area_km2": 204298,
    "visualId": 136,
    "oilId": 0
  },
@@ -2260,11 +2272,11 @@
    "friendlyNationName": "Iran",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "coast": "Indian",
-   "latitude": 32.5,
-   "longitude": 59.25,
-   "boostLatitude": 25,
-   "area_km2": 734576,
+   "coast": "none",
+   "latitude": 32.09,
+   "longitude": 56.81,
+   "boostLatitude": 30,
+   "area_km2": 204298,
    "visualId": 137,
    "oilId": 0
  },
@@ -2274,11 +2286,50 @@
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "coast": "none",
-   "latitude": 37,
-   "longitude": 47.5,
+   "latitude": 38.06,
+   "longitude": 46.26,
    "boostLatitude": 40,
-   "area_km2": 165839,
+   "area_km2": 204298,
    "visualId": 138,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Kermanshah",
+   "friendlyNationName": "Iran",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "coast": "none",
+   "latitude": 34.32,
+   "longitude": 47.15,
+   "boostLatitude": 35,
+   "area_km2": 204298,
+   "visualId": 367,
+   "oilId": 40
+ },
+ {
+   "dataName": "map_Bandar",
+   "friendlyNationName": "Iran",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "coast": "Indian",
+   "latitude": 27.37,
+   "longitude": 56.68,
+   "boostLatitude": 30,
+   "area_km2": 204298,
+   "visualId": 368,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Shiraz",
+   "friendlyNationName": "Iran",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "coast": "Indian",
+   "latitude": 29.65,
+   "longitude": 52.4,
+   "boostLatitude": 30,
+   "area_km2": 204298,
+   "visualId": 369,
    "oilId": 0
  },
  {
@@ -2287,10 +2338,10 @@
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
    "coast": "none",
-   "latitude": 36.25,
-   "longitude": 52,
+   "latitude": 35.69,
+   "longitude": 51.23,
    "boostLatitude": 35,
-   "area_km2": 193109,
+   "area_km2": 204298,
    "visualId": 139,
    "oilId": 0
  },
@@ -2299,13 +2350,26 @@
    "friendlyNationName": "Iraq",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
-   "coast": "Indian",
-   "latitude": 31.6,
-   "longitude": 44.58,
-   "boostLatitude": 30,
-   "area_km2": 303579,
+   "coast": "none",
+   "latitude": 33.28,
+   "longitude": 44.24,
+   "boostLatitude": 35,
+   "area_km2": 144185,
    "visualId": 140,
    "oilId": 13
+ },
+ {
+   "dataName": "map_Basra",
+   "friendlyNationName": "Iraq",
+   "terrain": "Standard",
+   "supraRegion": "CentralAsia",
+   "coast": "Indian",
+   "latitude": 30.56,
+   "longitude": 47.72,
+   "boostLatitude": 30,
+   "area_km2": 144185,
+   "visualId": 370,
+   "oilId": 38
  },
  {
    "dataName": "map_Mosul",
@@ -2313,12 +2377,12 @@
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "coast": "none",
-   "latitude": 35.47,
-   "longitude": 43.33,
+   "latitude": 36.33,
+   "longitude": 43.19,
    "boostLatitude": 35,
-   "area_km2": 128977,
+   "area_km2": 144185,
    "visualId": 141,
-   "oilId": 0
+   "oilId": 39
  },
  {
    "dataName": "map_Ireland",
@@ -2497,7 +2561,7 @@
    "oilId": 0
  },
  {
-   "dataName": "map_AlmatyAMYZ",
+   "dataName": "map_Almaty",
    "friendlyNationName": "Kazakhstan",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
@@ -2510,7 +2574,7 @@
    "oilId": 0
  },
  {
-   "dataName": "map_AstanaAMYZ",
+   "dataName": "map_Astana",
    "friendlyNationName": "Kazakhstan",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
@@ -2523,7 +2587,7 @@
    "oilId": 0
  },
  {
-   "dataName": "map_AktobeAMYZ",
+   "dataName": "map_Aktobe",
    "friendlyNationName": "Kazakhstan",
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
@@ -2532,7 +2596,7 @@
    "longitude": 56.91,
    "boostLatitude": 45,
    "area_km2": 908113,
-   "visualId": 307,
+   "visualId": 371,
    "oilId": 14
  },
  {
@@ -2572,7 +2636,6 @@
    "boostLatitude": 45,
    "area_km2": 10887,
    "visualId": 340,
-   "parent": "map_Belgrade",
    "oilId": 0
  },
  {
@@ -2950,7 +3013,6 @@
    "boostLatitude": 45,
    "area_km2": 13833,
    "visualId": 345,
-   "parent": "map_BosniaMontenegro",
    "oilId": 0
  },
  {
@@ -3526,7 +3588,6 @@
    "boostLatitude": 45,
    "area_km2": 100269,
    "visualId": 348,
-   "parent": "map_Romania",
    "oilId": 0
  },
  {
@@ -3954,7 +4015,6 @@
    "boostLatitude": 45,
    "area_km2": 20271,
    "visualId": 347,
-   "parent": "map_CroatiaSlovenia",
    "oilId": 0
  },
  {
@@ -4044,7 +4104,7 @@
    "latitude": 41.38,
    "longitude": 0.92,
    "boostLatitude": 40,
-   "area_km2": 108080,
+   "area_km2": 104211,
    "visualId": 249,
    "oilId": 0
  },
@@ -4057,9 +4117,8 @@
    "latitude": 43.15,
    "longitude": -2.46,
    "boostLatitude": 45,
-   "area_km2": 17625,
+   "area_km2": 18018,
    "visualId": 362,
-   "parent": "map_Barcelona",
    "oilId": 0
  },
  {
@@ -4085,9 +4144,34 @@
    "latitude": 42.5,
    "longitude": -5,
    "boostLatitude": 40,
-   "area_km2": 144767,
+   "area_km2": 114149,
    "visualId": 307,
-   "parent": "map_Spain",
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Galicia",
+   "friendlyNationName": "Spain",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "coast": "NortheastAtlantic",
+   "latitude": 43.35,
+   "longitude": -8.41,
+   "boostLatitude": 45,
+   "area_km2": 30131,
+   "visualId": 374,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Seville",
+   "friendlyNationName": "Spain",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "coast": "MedNorthAtlantic",
+   "latitude": 37.5,
+   "longitude": -6,
+   "boostLatitude": 35,
+   "area_km2": 99013,
+   "visualId": 375,
    "oilId": 0
  },
  {
@@ -4095,11 +4179,11 @@
    "friendlyNationName": "Spain",
    "terrain": "Standard",
    "supraRegion": "Europe",
-   "coast": "Mediterranean",
+   "coast": "none",
    "latitude": 38.5,
    "longitude": -3.6,
    "boostLatitude": 35,
-   "area_km2": 227737,
+   "area_km2": 129319,
    "visualId": 251,
    "oilId": 0
  },
@@ -4339,11 +4423,11 @@
    "friendlyNationName": "Turkey",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "coast": "BlackMed",
-   "latitude": 39.25,
-   "longitude": 35.57,
+   "coast": "BlackSea",
+   "latitude": 39.82,
+   "longitude": 32.94,
    "boostLatitude": 40,
-   "area_km2": 331278,
+   "area_km2": 156173,
    "visualId": 267,
    "oilId": 0
  },
@@ -4352,11 +4436,11 @@
    "friendlyNationName": "Turkey",
    "terrain": "Rugged",
    "supraRegion": "CentralAsia",
-   "coast": "BlackSea",
+   "coast": "none",
    "latitude": 39.25,
    "longitude": 42.38,
    "boostLatitude": 40,
-   "area_km2": 263104,
+   "area_km2": 156173,
    "visualId": 268,
    "oilId": 0
  },
@@ -4366,11 +4450,37 @@
    "terrain": "Standard",
    "supraRegion": "CentralAsia",
    "coast": "BlackMed",
-   "latitude": 39.25,
-   "longitude": 27.79,
+   "latitude": 41.07,
+   "longitude": 28.92,
    "boostLatitude": 40,
-   "area_km2": 186483,
+   "area_km2": 156173,
    "visualId": 269,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Izmir",
+   "friendlyNationName": "Turkey",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "coast": "Mediterranean",
+   "latitude": 38.46,
+   "longitude": 27.18,
+   "boostLatitude": 40,
+   "area_km2": 156173,
+   "visualId": 372,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Adana",
+   "friendlyNationName": "Turkey",
+   "terrain": "Rugged",
+   "supraRegion": "CentralAsia",
+   "coast": "Mediterranean",
+   "latitude": 36.89,
+   "longitude": 30.73,
+   "boostLatitude": 35,
+   "area_km2": 156173,
+   "visualId": 373,
    "oilId": 0
  },
  {

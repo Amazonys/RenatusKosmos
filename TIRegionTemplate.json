@@ -40,7 +40,7 @@
 },
 {
    "dataName": "MazarSharif",
-   "mapRegionName": "map_MazarSharifAMYZ",
+   "mapRegionName": "map_MazarSharif",
    "primaryCity": "Mazar-i-Sharif",
    "sortNation": "Afghanistan",
    "population_Millions": 11.207,
@@ -79,7 +79,7 @@
 },
 {
    "dataName": "Kandahar",
-   "mapRegionName": "map_KandaharAMYZ",
+   "mapRegionName": "map_Kandahar",
    "primaryCity": "Kandahar",
    "sortNation": "Afghanistan",
    "population_Millions": 5.034,
@@ -118,7 +118,7 @@
 },
 {
    "dataName": "Herat",
-   "mapRegionName": "map_HeratAMYZ",
+   "mapRegionName": "map_Herat",
    "primaryCity": "Herat",
    "sortNation": "Afghanistan",
    "population_Millions": 6.577,
@@ -6123,7 +6123,62 @@
    "mapRegionName": "map_Bavaria",
    "primaryCity": "Munich",
    "sortNation": "Germany",
-   "population_Millions": 36.518857,
+   "population_Millions": 23.42857,
+   "annualPopGrowthModifier": -0.1,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "No",
+   "asi": 1,
+   "eur": 19,
+   "language": "ENG",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish",
+      "Muslim"
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "eurPersonal": [
+      "German",
+      "Turkish",
+      "Polish",
+      "Russian"
+   ],
+   "eurFamily": [
+      "German",
+      "Turkish",
+      "Polish",
+      "Russian"
+   ],
+   "eurWeight": [
+      75,
+      3,
+      2,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Bavaria_0",
+      "illustrations/illus_Bavaria_1",
+      "illustrations/illus_Bavaria_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Baden-Wurttemberg, Bavaria, Hesse, Rhineland-Palatinate, Saarland"
+},
+ {
+   "dataName": "Cologne",
+   "mapRegionName": "map_Cologne",
+   "primaryCity": "Cologne",
+   "sortNation": "Germany",
+   "population_Millions": 29.18857,
    "annualPopGrowthModifier": -0.1,
    "coreEco": true,
    "environment": "Standard",
@@ -6179,7 +6234,7 @@
    "mapRegionName": "map_EastGermany",
    "primaryCity": "Berlin",
    "sortNation": "Germany",
-   "population_Millions": 16.305149,
+   "population_Millions": 14.14849,
    "annualPopGrowthModifier": -0.1,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -6226,7 +6281,7 @@
    "mapRegionName": "map_Germany",
    "primaryCity": "Hamburg",
    "sortNation": "Germany",
-   "population_Millions": 31.044081,
+   "population_Millions": 17.12081,
    "annualPopGrowthModifier": -0.1,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -7827,7 +7882,7 @@
    "mapRegionName": "map_Ahvaz",
    "primaryCity": "Ahvaz",
    "sortNation": "Iran",
-   "population_Millions": 13.699087,
+   "population_Millions": 6.95087,
    "annualPopGrowthModifier": 0.25,
    "oilResource": true,
    "oilCapable": true,
@@ -7862,12 +7917,12 @@
    "mapRegionName": "map_Isfahan",
    "primaryCity": "Isfahan",
    "sortNation": "Iran",
-   "population_Millions": 15.138523,
+   "population_Millions": 7.55323,
    "annualPopGrowthModifier": 0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
    "asi": 1,
    "language": "ENG",
    "acc_asi": "ARBC",
@@ -7895,12 +7950,12 @@
    "mapRegionName": "map_Mashhad",
    "primaryCity": "Mashhad",
    "sortNation": "Iran",
-   "population_Millions": 15.339394,
+   "population_Millions": 11.14094,
    "annualPopGrowthModifier": 0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
    "asi": 1,
    "language": "ENG",
    "acc_asi": "ARBC",
@@ -7928,7 +7983,7 @@
    "mapRegionName": "map_Tabriz",
    "primaryCity": "Tabriz",
    "sortNation": "Iran",
-   "population_Millions": 14.916495,
+   "population_Millions": 10.29295,
    "annualPopGrowthModifier": 0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -7963,12 +8018,117 @@
    "composedOf": "Region 3"
 },
  {
+   "dataName": "Kermanshah",
+   "mapRegionName": "map_Kermanshah",
+   "primaryCity": "Kermanshah",
+   "sortNation": "Iran",
+   "population_Millions": 8.268,
+   "annualPopGrowthModifier": 0.25,
+   "oilResource": true,
+   "oilCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian",
+      "Kurdish"
+   ],
+   "asiFamily": [
+      "Iranian",
+      "Kurdish"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Tabriz_0",
+      "illustrations/illus_Tabriz_1",
+      "illustrations/illus_Tabriz_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
+   "dataName": "Bandar",
+   "mapRegionName": "map_Bandar",
+   "primaryCity": "Bandar Abbas",
+   "sortNation": "Iran",
+   "population_Millions": 8.357,
+   "annualPopGrowthModifier": 0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian"
+   ],
+   "asiFamily": [
+      "Iranian"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Mashhad_0",
+      "illustrations/illus_Mashhad_1",
+      "illustrations/illus_Mashhad_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
+   "dataName": "Shiraz",
+   "mapRegionName": "map_Shiraz",
+   "primaryCity": "Shiraz",
+   "sortNation": "Iran",
+   "population_Millions": 6.514,
+   "annualPopGrowthModifier": 0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian"
+   ],
+   "asiFamily": [
+      "Iranian"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Isfahan_0",
+      "illustrations/illus_Isfahan_1",
+      "illustrations/illus_Isfahan_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
    "dataName": "Tehran",
    "mapRegionName": "map_Tehran",
    "primaryCity": "Tehran",
    "sortNation": "Iran",
-   "population_Millions": 27.23939,
+   "population_Millions": 27.537,
    "annualPopGrowthModifier": 0.25,
+   "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0.8,
    "missionControl": 0,
@@ -8007,7 +8167,42 @@
    "mapRegionName": "map_Baghdad",
    "primaryCity": "Baghdad",
    "sortNation": "Iraq",
-   "population_Millions": 26.737325,
+   "population_Millions": 11.019,
+   "annualPopGrowthModifier": 0.25,
+   "oilResource": true,
+   "oilCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Muslim"
+   ],
+   "asiFamily": [
+      "Muslim"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Baghdad_0",
+      "illustrations/illus_Baghdad_1",
+      "illustrations/illus_Baghdad_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "All",
+   "composedOf": "Basrah, Al-Muthanna, Thi Qar, Misan, Wasit, Al-Qadisiyah, Al-Najaf, Karbala, Babil, Baghdad, Anbar"
+},
+ {
+   "dataName": "Basra",
+   "mapRegionName": "map_Basra",
+   "primaryCity": "Basra",
+   "sortNation": "Iraq",
+   "population_Millions": 15.981,
    "annualPopGrowthModifier": 0.25,
    "oilResource": true,
    "oilCapable": true,
@@ -8042,8 +8237,10 @@
    "mapRegionName": "map_Mosul",
    "primaryCity": "Mosul",
    "sortNation": "Iraq",
-   "population_Millions": 15.738094,
+   "population_Millions": 15.44,
    "annualPopGrowthModifier": 0.25,
+   "oilResource": true,
+   "oilCapable": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -8671,7 +8868,7 @@
 },
  {
    "dataName": "Almaty",
-   "mapRegionName": "map_AlmatyAMYZ",
+   "mapRegionName": "map_Almaty",
    "primaryCity": "Almaty",
    "sortNation": "Kazakhstan",
    "population_Millions": 8.429,
@@ -8728,7 +8925,7 @@
 },
  {
    "dataName": "Astana",
-   "mapRegionName": "map_AstanaAMYZ",
+   "mapRegionName": "map_Astana",
    "primaryCity": "Astana",
    "sortNation": "Kazakhstan",
    "population_Millions": 7.321,
@@ -8783,7 +8980,7 @@
 },
 {
    "dataName": "Aktobe",
-   "mapRegionName": "map_AktobeAMYZ",
+   "mapRegionName": "map_Aktobe",
    "primaryCity": "Aktobe",
    "sortNation": "Kazakhstan",
    "population_Millions": 3.557,
@@ -13479,7 +13676,7 @@
    "mapRegionName": "map_Barcelona",
    "primaryCity": "Barcelona",
    "sortNation": "Spain",
-   "population_Millions": 15.022533,
+   "population_Millions": 15.33314,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -13569,7 +13766,7 @@
    "mapRegionName": "map_BasqueCountry",
    "primaryCity": "Bilbao",
    "sortNation": "Spain",
-   "population_Millions": 2.855892,
+   "population_Millions": 2.87465,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -13612,7 +13809,94 @@
    "mapRegionName": "map_LeonGalicia",
    "primaryCity": "Asturias",
    "sortNation": "Spain",
-   "population_Millions": 6.928574,
+   "population_Millions": 4.76845,
+   "annualPopGrowthModifier": -0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 2,
+   "eur": 20,
+   "his": 20,
+   "language": "ENG",
+   "acc_asi": "LATN",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "afrPersonal": [
+      "Spanish",
+      "Spanish",
+      "Spanish",
+      "Spanish"
+   ],
+   "afrFamily": [
+      "Spanish",
+      "Senegalese",
+      "Nigerian",
+      "Cameroonian"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Spanish",
+      "Spanish"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "Spanish"
+   ],
+   "asiWeight": [
+      1,
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurWeight": [
+      45,
+      1
+   ],
+   "hisPersonal": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisWeight": [
+      45,
+      1,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_NorthernSpain_0",
+      "illustrations/illus_NorthernSpain_1",
+      "illustrations/illus_NorthernSpain_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Castile and Leon, Galicia, La Rioja, Asturias, Cantabria"
+},
+ {
+   "dataName": "Galicia",
+   "mapRegionName": "map_Galicia",
+   "primaryCity": "Vigo",
+   "sortNation": "Spain",
+   "population_Millions": 2.69817,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -13699,7 +13983,7 @@
    "mapRegionName": "map_CanaryIslands",
    "primaryCity": "Santa Cruz de Tenerife",
    "sortNation": "Spain",
-   "population_Millions": 2.160634,
+   "population_Millions": 2.17892,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -13741,13 +14025,102 @@
    "mapRegionName": "map_Spain",
    "primaryCity": "Madrid",
    "sortNation": "Spain",
-   "population_Millions": 19.742406,
+   "population_Millions": 9.84077,
    "annualPopGrowthModifier": -0.25,
    "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": 2,
+   "eur": 20,
+   "his": 20,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "LATN",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "afrPersonal": [
+      "Spanish",
+      "Spanish",
+      "Spanish",
+      "Spanish"
+   ],
+   "afrFamily": [
+      "Spanish",
+      "Senegalese",
+      "Nigerian",
+      "Cameroonian"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Spanish",
+      "Spanish"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "Spanish"
+   ],
+   "asiWeight": [
+      1,
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurWeight": [
+      45,
+      1
+   ],
+   "hisPersonal": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisWeight": [
+      45,
+      1,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Spain_0",
+      "illustrations/illus_Spain_1",
+      "illustrations/illus_Spain_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Madris, Extremadura, Castilla-La Mancha, Murcia, Andalusia"
+},
+ {
+   "dataName": "Seville",
+   "mapRegionName": "map_Seville",
+   "primaryCity": "Seville",
+   "sortNation": "Spain",
+   "population_Millions": 10.00311,
+   "annualPopGrowthModifier": -0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": 1,
    "asi": 2,
    "eur": 20,
@@ -14604,7 +14977,7 @@
    "mapRegionName": "map_Anatolia",
    "primaryCity": "Ankara",
    "sortNation": "Turkey",
-   "population_Millions": 28.708119,
+   "population_Millions": 16.38494,
    "annualPopGrowthModifier": 0,
    "mineCapable": true,
    "environment": "Standard",
@@ -14649,14 +15022,14 @@
    "mapRegionName": "map_Diyarbakir",
    "primaryCity": "Diyarbakir",
    "sortNation": "Turkey",
-   "population_Millions": 18.474068,
+   "population_Millions": 16.45686,
    "annualPopGrowthModifier": 0,
    "mining": true,
    "mineCapable": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
    "asi": 2,
    "eur": 1,
    "language": "ENG",
@@ -14698,7 +15071,7 @@
    "mapRegionName": "map_Istanbul",
    "primaryCity": "Istanbul",
    "sortNation": "Turkey",
-   "population_Millions": 38.52118,
+   "population_Millions": 26.01113,
    "annualPopGrowthModifier": 0,
    "coreEco": true,
    "environment": "Standard",
@@ -14707,6 +15080,94 @@
    "worldOcean": "Yes",
    "eur": 1,
    "language": "ENG",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish"
+   ],
+   "asiFamily": [
+      "Turkish"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "eurPersonal": [
+      "Turkish"
+   ],
+   "eurFamily": [
+      "Turkish"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Istanbul_0",
+      "illustrations/illus_Istanbul_1",
+      "illustrations/illus_Istanbul_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions"
+},
+ {
+   "dataName": "Izmir",
+   "mapRegionName": "map_Izmir",
+   "primaryCity": "Izmir",
+   "sortNation": "Turkey",
+   "population_Millions": 11.24416,
+   "annualPopGrowthModifier": 0,
+   "mineCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "eur": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish"
+   ],
+   "asiFamily": [
+      "Turkish"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "eurPersonal": [
+      "Turkish"
+   ],
+   "eurFamily": [
+      "Turkish"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Istanbul_0",
+      "illustrations/illus_Istanbul_1",
+      "illustrations/illus_Istanbul_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions"
+},
+ {
+   "dataName": "Adana",
+   "mapRegionName": "map_Adana",
+   "primaryCity": "Adana",
+   "sortNation": "Turkey",
+   "population_Millions": 14.58316,
+   "annualPopGrowthModifier": 0,
+   "mineCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "eur": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
    "acc_eur": "EURO",
    "asiPersonal": [
       "Turkish"
@@ -17504,7 +17965,7 @@
 },
  {
    "dataName": "2070_Afghanistan",
-   "mapRegionName": "map_AfghanistanAMYZ",
+   "mapRegionName": "map_Afghanistan",
    "primaryCity": "Kabul",
    "sortNation": "Afghanistan",
    "population_Millions": 45.92755,
@@ -17543,7 +18004,7 @@
 },
 {
    "dataName": "2070_MazarSharif",
-   "mapRegionName": "map_MazarSharifAMYZ",
+   "mapRegionName": "map_MazarSharif",
    "primaryCity": "Mazar-i-Sharif",
    "sortNation": "Afghanistan",
    "population_Millions": 28.68305,
@@ -17582,7 +18043,7 @@
 },
 {
    "dataName": "2070_Kandahar",
-   "mapRegionName": "map_KandaharAMYZ",
+   "mapRegionName": "map_Kandahar",
    "primaryCity": "Kandahar",
    "sortNation": "Afghanistan",
    "population_Millions": 12.68305,
@@ -17621,7 +18082,7 @@
 },
 {
    "dataName": "2070_Herat",
-   "mapRegionName": "map_HeratAMYZ",
+   "mapRegionName": "map_Herat",
    "primaryCity": "Herat",
    "sortNation": "Afghanistan",
    "population_Millions": 16.5706,
@@ -23631,12 +24092,67 @@
    "mapRegionName": "map_Bavaria",
    "primaryCity": "Munich",
    "sortNation": "Germany",
-   "population_Millions": 32.054769,
+   "population_Millions": 20.5571,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "asi": 1,
+   "eur": 19,
+   "language": "ENG",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish",
+      "Muslim"
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "eurPersonal": [
+      "German",
+      "Turkish",
+      "Polish",
+      "Russian"
+   ],
+   "eurFamily": [
+      "German",
+      "Turkish",
+      "Polish",
+      "Russian"
+   ],
+   "eurWeight": [
+      75,
+      3,
+      2,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Bavaria_0",
+      "illustrations/illus_Bavaria_1",
+      "illustrations/illus_Bavaria_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Baden-Wurttemberg, Bavaria, Hesse, Rhineland-Palatinate, Saarland"
+},
+ {
+   "dataName": "2070_Cologne",
+   "mapRegionName": "map_Cologne",
+   "primaryCity": "Cologne",
+   "sortNation": "Germany",
+   "population_Millions": 25.61298,
    "annualPopGrowthModifier": 0,
    "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
-   "missionControl": 0,
+   "missionControl": 1,
    "worldOcean": "No",
    "asi": 1,
    "eur": 19,
@@ -23687,7 +24203,7 @@
    "mapRegionName": "map_EastGermany",
    "primaryCity": "Berlin",
    "sortNation": "Germany",
-   "population_Millions": 14.311997,
+   "population_Millions": 12.41852,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -23734,7 +24250,7 @@
    "mapRegionName": "map_Germany",
    "primaryCity": "Hamburg",
    "sortNation": "Germany",
-   "population_Millions": 27.249233,
+   "population_Millions": 15.02722,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -25338,7 +25854,7 @@
    "mapRegionName": "map_Ahvaz",
    "primaryCity": "Ahvaz",
    "sortNation": "Iran",
-   "population_Millions": 15.345225,
+   "population_Millions": 7.70873,
    "annualPopGrowthModifier": 0,
    "oilResource": true,
    "oilCapable": true,
@@ -25373,7 +25889,7 @@
    "mapRegionName": "map_Isfahan",
    "primaryCity": "Isfahan",
    "sortNation": "Iran",
-   "population_Millions": 16.957629,
+   "population_Millions": 8.43827,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 80,
@@ -25406,7 +25922,7 @@
    "mapRegionName": "map_Mashhad",
    "primaryCity": "Mashhad",
    "sortNation": "Iran",
-   "population_Millions": 17.182638,
+   "population_Millions": 12.44569,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -25439,7 +25955,7 @@
    "mapRegionName": "map_Tabriz",
    "primaryCity": "Tabriz",
    "sortNation": "Iran",
-   "population_Millions": 16.708921,
+   "population_Millions": 11.49830,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -25474,12 +25990,117 @@
    "composedOf": "Region 3"
 },
  {
+   "dataName": "2070_Kermanshah",
+   "mapRegionName": "map_Kermanshah",
+   "primaryCity": "Kermanshah",
+   "sortNation": "Iran",
+   "population_Millions": 9.23707,
+   "annualPopGrowthModifier": 0,
+   "oilResource": true,
+   "oilCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian",
+      "Kurdish"
+   ],
+   "asiFamily": [
+      "Iranian",
+      "Kurdish"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Tabriz_0",
+      "illustrations/illus_Tabriz_1",
+      "illustrations/illus_Tabriz_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
+   "dataName": "2070_Bandar",
+   "mapRegionName": "map_Bandar",
+   "primaryCity": "Bandar Abbas",
+   "sortNation": "Iran",
+   "population_Millions": 9.33650,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian"
+   ],
+   "asiFamily": [
+      "Iranian"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Mashhad_0",
+      "illustrations/illus_Mashhad_1",
+      "illustrations/illus_Mashhad_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
+   "dataName": "2070_Shiraz",
+   "mapRegionName": "map_Shiraz",
+   "primaryCity": "Shiraz",
+   "sortNation": "Iran",
+   "population_Millions": 7.27749,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian"
+   ],
+   "asiFamily": [
+      "Iranian"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Isfahan_0",
+      "illustrations/illus_Isfahan_1",
+      "illustrations/illus_Isfahan_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
    "dataName": "2070_Tehran",
    "mapRegionName": "map_Tehran",
    "primaryCity": "Tehran",
    "sortNation": "Iran",
-   "population_Millions": 30.512587,
+   "population_Millions": 30.76455,
    "annualPopGrowthModifier": 0,
+   "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 2,
@@ -25518,7 +26139,42 @@
    "mapRegionName": "map_Baghdad",
    "primaryCity": "Baghdad",
    "sortNation": "Iraq",
-   "population_Millions": 55.391511,
+   "population_Millions": 22.84702,
+   "annualPopGrowthModifier": 0,
+   "oilResource": true,
+   "oilCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Muslim"
+   ],
+   "asiFamily": [
+      "Muslim"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Baghdad_0",
+      "illustrations/illus_Baghdad_1",
+      "illustrations/illus_Baghdad_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "All",
+   "composedOf": "Basrah, Al-Muthanna, Thi Qar, Misan, Wasit, Al-Qadisiyah, Al-Najaf, Karbala, Babil, Baghdad, Anbar"
+},
+ {
+   "dataName": "2070_Basra",
+   "mapRegionName": "map_Basra",
+   "primaryCity": "Basra",
+   "sortNation": "Iraq",
+   "population_Millions": 32.01624,
    "annualPopGrowthModifier": 0,
    "oilResource": true,
    "oilCapable": true,
@@ -25553,8 +26209,10 @@
    "mapRegionName": "map_Mosul",
    "primaryCity": "Mosul",
    "sortNation": "Iraq",
-   "population_Millions": 32.604489,
+   "population_Millions": 33.13534,
    "annualPopGrowthModifier": 0,
+   "oilResource": true,
+   "oilCapable": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -26182,7 +26840,7 @@
 },
  {
    "dataName": "2070_Almaty",
-   "mapRegionName": "map_AlmatyAMYZ",
+   "mapRegionName": "map_Almaty",
    "primaryCity": "Almaty",
    "sortNation": "Kazakhstan",
    "population_Millions": 13.12831,
@@ -26239,7 +26897,7 @@
 },
  {
    "dataName": "2070_Astana",
-   "mapRegionName": "map_AstanaAMYZ",
+   "mapRegionName": "map_Astana",
    "primaryCity": "Astana",
    "sortNation": "Kazakhstan",
    "population_Millions": 11.40258,
@@ -26294,7 +26952,7 @@
 },
  {
    "dataName": "2070_Aktobe",
-   "mapRegionName": "map_AktobeAMYZ",
+   "mapRegionName": "map_Aktobe",
    "primaryCity": "Aktobe",
    "sortNation": "Kazakhstan",
    "population_Millions": 5.54009,
@@ -30996,7 +31654,7 @@
    "mapRegionName": "map_Barcelona",
    "primaryCity": "Barcelona",
    "sortNation": "Spain",
-   "population_Millions": 12.554466,
+   "population_Millions": 12.54876,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 36,
@@ -31086,7 +31744,7 @@
    "mapRegionName": "map_BasqueCountry",
    "primaryCity": "Bilbao",
    "sortNation": "Spain",
-   "population_Millions": 2.386695,
+   "population_Millions": 2.35264,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -31129,7 +31787,94 @@
    "mapRegionName": "map_LeonGalicia",
    "primaryCity": "Asturias",
    "sortNation": "Spain",
-   "population_Millions": 5.790272,
+   "population_Millions": 3.90254,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 2,
+   "eur": 20,
+   "his": 20,
+   "language": "ENG",
+   "acc_asi": "LATN",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "afrPersonal": [
+      "Spanish",
+      "Spanish",
+      "Spanish",
+      "Spanish"
+   ],
+   "afrFamily": [
+      "Spanish",
+      "Senegalese",
+      "Nigerian",
+      "Cameroonian"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Spanish",
+      "Spanish"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "Spanish"
+   ],
+   "asiWeight": [
+      1,
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurWeight": [
+      45,
+      1
+   ],
+   "hisPersonal": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisWeight": [
+      45,
+      1,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_NorthernSpain_0",
+      "illustrations/illus_NorthernSpain_1",
+      "illustrations/illus_NorthernSpain_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Castile and Leon, Galicia, La Rioja, Asturias, Cantabria"
+},
+ {
+   "dataName": "2070_Galicia",
+   "mapRegionName": "map_Galicia",
+   "primaryCity": "Vigo",
+   "sortNation": "Spain",
+   "population_Millions": 2.2082,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -31216,7 +31961,7 @@
    "mapRegionName": "map_CanaryIslands",
    "primaryCity": "Santa Cruz de Tenerife",
    "sortNation": "Spain",
-   "population_Millions": 1.805661,
+   "population_Millions": 1.78324,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 60,
@@ -31258,13 +32003,102 @@
    "mapRegionName": "map_Spain",
    "primaryCity": "Madrid",
    "sortNation": "Spain",
-   "population_Millions": 16.498906,
+   "population_Millions": 8.05376,
    "annualPopGrowthModifier": 0,
    "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": 2,
+   "eur": 20,
+   "his": 20,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "LATN",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "afrPersonal": [
+      "Spanish",
+      "Spanish",
+      "Spanish",
+      "Spanish"
+   ],
+   "afrFamily": [
+      "Spanish",
+      "Senegalese",
+      "Nigerian",
+      "Cameroonian"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Spanish",
+      "Spanish"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "Spanish"
+   ],
+   "asiWeight": [
+      1,
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurWeight": [
+      45,
+      1
+   ],
+   "hisPersonal": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisWeight": [
+      45,
+      1,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Spain_0",
+      "illustrations/illus_Spain_1",
+      "illustrations/illus_Spain_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Madris, Extremadura, Castilla-La Mancha, Murcia, Andalusia"
+},
+ {
+   "dataName": "2070_Seville",
+   "mapRegionName": "map_Seville",
+   "primaryCity": "Seville",
+   "sortNation": "Spain",
+   "population_Millions": 8.18662,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": 1,
    "asi": 2,
    "eur": 20,
@@ -32123,7 +32957,7 @@
    "mapRegionName": "map_Anatolia",
    "primaryCity": "Ankara",
    "sortNation": "Turkey",
-   "population_Millions": 28.257795,
+   "population_Millions": 17.51073,
    "annualPopGrowthModifier": 0,
    "mining": true,
    "mineCapable": true,
@@ -32169,7 +33003,7 @@
    "mapRegionName": "map_Diyarbakir",
    "primaryCity": "Diyarbakir",
    "sortNation": "Turkey",
-   "population_Millions": 18.184279,
+   "population_Millions": 17.58759,
    "annualPopGrowthModifier": 0,
    "mining": true,
    "mineCapable": true,
@@ -32218,7 +33052,7 @@
    "mapRegionName": "map_Istanbul",
    "primaryCity": "Istanbul",
    "sortNation": "Turkey",
-   "population_Millions": 37.916926,
+   "population_Millions": 27.79833,
    "annualPopGrowthModifier": 0,
    "coreEco": true,
    "environment": "Standard",
@@ -32227,6 +33061,94 @@
    "worldOcean": "Yes",
    "eur": 1,
    "language": "ENG",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish"
+   ],
+   "asiFamily": [
+      "Turkish"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "eurPersonal": [
+      "Turkish"
+   ],
+   "eurFamily": [
+      "Turkish"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Istanbul_0",
+      "illustrations/illus_Istanbul_1",
+      "illustrations/illus_Istanbul_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions"
+},
+ {
+   "dataName": "2070_Izmir",
+   "mapRegionName": "map_Izmir",
+   "primaryCity": "Izmir",
+   "sortNation": "Turkey",
+   "population_Millions": 12.01674,
+   "annualPopGrowthModifier": 0,
+   "mineCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "eur": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish"
+   ],
+   "asiFamily": [
+      "Turkish"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "eurPersonal": [
+      "Turkish"
+   ],
+   "eurFamily": [
+      "Turkish"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Istanbul_0",
+      "illustrations/illus_Istanbul_1",
+      "illustrations/illus_Istanbul_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions"
+},
+ {
+   "dataName": "2070_Adana",
+   "mapRegionName": "map_Adana",
+   "primaryCity": "Adana",
+   "sortNation": "Turkey",
+   "population_Millions": 15.58515,
+   "annualPopGrowthModifier": 0,
+   "mineCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "eur": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
    "acc_eur": "EURO",
    "asiPersonal": [
       "Turkish"
@@ -35024,7 +35946,7 @@
 },
  {
    "dataName": "2026_Afghanistan",
-   "mapRegionName": "map_AfghanistanAMYZ",
+   "mapRegionName": "map_Afghanistan",
    "primaryCity": "Kabul",
    "sortNation": "Afghanistan",
    "population_Millions": 20.0054,
@@ -35063,7 +35985,7 @@
 },
 {
    "dataName": "2026_MazarSharif",
-   "mapRegionName": "map_MazarSharifAMYZ",
+   "mapRegionName": "map_MazarSharif",
    "primaryCity": "Mazar-i-Sharif",
    "sortNation": "Afghanistan",
    "population_Millions": 12.22913,
@@ -35102,7 +36024,7 @@
 },
 {
    "dataName": "2026_Kandahar",
-   "mapRegionName": "map_KandaharAMYZ",
+   "mapRegionName": "map_Kandahar",
    "primaryCity": "Kandahar",
    "sortNation": "Afghanistan",
    "population_Millions": 5.52456,
@@ -35141,7 +36063,7 @@
 },
 {
    "dataName": "2026_Herat",
-   "mapRegionName": "map_HeratAMYZ",
+   "mapRegionName": "map_Herat",
    "primaryCity": "Herat",
    "sortNation": "Afghanistan",
    "population_Millions": 7.21793,
@@ -41146,7 +42068,63 @@
    "mapRegionName": "map_Bavaria",
    "primaryCity": "Munich",
    "sortNation": "Germany",
-   "population_Millions": 36.421395,
+   "population_Millions": 23.3631,
+   "annualPopGrowthModifier": -0.1,
+   "coreEco": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 1,
+   "worldOcean": "No",
+   "asi": 1,
+   "eur": 19,
+   "language": "ENG",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish",
+      "Muslim"
+   ],
+   "asiFamily": [
+      "Turkish",
+      "Muslim"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "eurPersonal": [
+      "German",
+      "Turkish",
+      "Polish",
+      "Russian"
+   ],
+   "eurFamily": [
+      "German",
+      "Turkish",
+      "Polish",
+      "Russian"
+   ],
+   "eurWeight": [
+      75,
+      3,
+      2,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Bavaria_0",
+      "illustrations/illus_Bavaria_1",
+      "illustrations/illus_Bavaria_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Baden-Wurttemberg, Bavaria, Hesse, Rhineland-Palatinate, Saarland"
+},
+ {
+   "dataName": "2026_Cologne",
+   "mapRegionName": "map_Cologne",
+   "primaryCity": "Cologne",
+   "sortNation": "Germany",
+   "population_Millions": 29.1091,
    "annualPopGrowthModifier": -0.1,
    "coreEco": true,
    "environment": "Standard",
@@ -41202,7 +42180,7 @@
    "mapRegionName": "map_EastGermany",
    "primaryCity": "Berlin",
    "sortNation": "Germany",
-   "population_Millions": 16.261633,
+   "population_Millions": 14.11362,
    "annualPopGrowthModifier": -0.1,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -41249,7 +42227,7 @@
    "mapRegionName": "map_Germany",
    "primaryCity": "Hamburg",
    "sortNation": "Germany",
-   "population_Millions": 30.96123,
+   "population_Millions": 17.0784,
    "annualPopGrowthModifier": -0.1,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -42850,7 +43828,7 @@
    "mapRegionName": "map_Ahvaz",
    "primaryCity": "Ahvaz",
    "sortNation": "Iran",
-   "population_Millions": 14.783744,
+   "population_Millions": 7.42670,
    "annualPopGrowthModifier": 0.25,
    "oilResource": true,
    "oilCapable": true,
@@ -42885,7 +43863,7 @@
    "mapRegionName": "map_Isfahan",
    "primaryCity": "Isfahan",
    "sortNation": "Iran",
-   "population_Millions": 16.337151,
+   "population_Millions": 8.12954,
    "annualPopGrowthModifier": 0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -42918,7 +43896,7 @@
    "mapRegionName": "map_Mashhad",
    "primaryCity": "Mashhad",
    "sortNation": "Iran",
-   "population_Millions": 16.553926,
+   "population_Millions": 11.99035,
    "annualPopGrowthModifier": 0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -42951,7 +43929,7 @@
    "mapRegionName": "map_Tabriz",
    "primaryCity": "Tabriz",
    "sortNation": "Iran",
-   "population_Millions": 16.097543,
+   "population_Millions": 11.07762,
    "annualPopGrowthModifier": 0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -42986,12 +43964,117 @@
    "composedOf": "Region 3"
 },
  {
+   "dataName": "2026_Kermanshah",
+   "mapRegionName": "map_Kermanshah",
+   "primaryCity": "Kermanshah",
+   "sortNation": "Iran",
+   "population_Millions": 8.89912,
+   "annualPopGrowthModifier": 0.25,
+   "oilResource": true,
+   "oilCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian",
+      "Kurdish"
+   ],
+   "asiFamily": [
+      "Iranian",
+      "Kurdish"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Tabriz_0",
+      "illustrations/illus_Tabriz_1",
+      "illustrations/illus_Tabriz_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
+   "dataName": "2026_Bandar",
+   "mapRegionName": "map_Bandar",
+   "primaryCity": "Bandar Abbas",
+   "sortNation": "Iran",
+   "population_Millions": 8.99492,
+   "annualPopGrowthModifier": 0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian"
+   ],
+   "asiFamily": [
+      "Iranian"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Mashhad_0",
+      "illustrations/illus_Mashhad_1",
+      "illustrations/illus_Mashhad_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
+   "dataName": "2026_Shiraz",
+   "mapRegionName": "map_Shiraz",
+   "primaryCity": "Shiraz",
+   "sortNation": "Iran",
+   "population_Millions": 7.01123,
+   "annualPopGrowthModifier": 0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Iranian"
+   ],
+   "asiFamily": [
+      "Iranian"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Isfahan_0",
+      "illustrations/illus_Isfahan_1",
+      "illustrations/illus_Isfahan_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Region 3"
+},
+ {
    "dataName": "2026_Tehran",
    "mapRegionName": "map_Tehran",
    "primaryCity": "Tehran",
    "sortNation": "Iran",
-   "population_Millions": 29.396133,
+   "population_Millions": 29.63899,
    "annualPopGrowthModifier": 0.25,
+   "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0.5,
    "missionControl": 0,
@@ -43030,7 +44113,42 @@
    "mapRegionName": "map_Baghdad",
    "primaryCity": "Baghdad",
    "sortNation": "Iraq",
-   "population_Millions": 30.219606,
+   "population_Millions": 22.84702,
+   "annualPopGrowthModifier": 0.25,
+   "oilResource": true,
+   "oilCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "asi": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "asiPersonal": [
+      "Muslim"
+   ],
+   "asiFamily": [
+      "Muslim"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Baghdad_0",
+      "illustrations/illus_Baghdad_1",
+      "illustrations/illus_Baghdad_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "All",
+   "composedOf": "Basrah, Al-Muthanna, Thi Qar, Misan, Wasit, Al-Qadisiyah, Al-Najaf, Karbala, Babil, Baghdad, Anbar"
+},
+ {
+   "dataName": "2026_Basra",
+   "mapRegionName": "map_Basra",
+   "primaryCity": "Basra",
+   "sortNation": "Iraq",
+   "population_Millions": 17.46547,
    "annualPopGrowthModifier": 0.25,
    "oilResource": true,
    "oilCapable": true,
@@ -43065,8 +44183,10 @@
    "mapRegionName": "map_Mosul",
    "primaryCity": "Mosul",
    "sortNation": "Iraq",
-   "population_Millions": 17.787831,
+   "population_Millions": 18.07744,
    "annualPopGrowthModifier": 0.25,
+   "oilResource": true,
+   "oilCapable": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
@@ -43694,7 +44814,7 @@
 },
  {
    "dataName": "2026_Almaty",
-   "mapRegionName": "map_AlmatyAMYZ",
+   "mapRegionName": "map_Almaty",
    "primaryCity": "Almaty",
    "sortNation": "Kazakhstan",
    "population_Millions": 9.20463,
@@ -43751,7 +44871,7 @@
 },
  {
    "dataName": "2026_Astana",
-   "mapRegionName": "map_AstanaAMYZ",
+   "mapRegionName": "map_Astana",
    "primaryCity": "Astana",
    "sortNation": "Kazakhstan",
    "population_Millions": 7.99467,
@@ -43806,7 +44926,7 @@
 },
  {
    "dataName": "2026_Aktobe",
-   "mapRegionName": "map_AktobeAMYZ",
+   "mapRegionName": "map_Aktobe",
    "primaryCity": "Aktobe",
    "sortNation": "Kazakhstan",
    "population_Millions": 3.88431,
@@ -48502,7 +49622,7 @@
    "mapRegionName": "map_Barcelona",
    "primaryCity": "Barcelona",
    "sortNation": "Spain",
-   "population_Millions": 15.389413,
+   "population_Millions": 15.38251,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -48592,7 +49712,7 @@
    "mapRegionName": "map_BasqueCountry",
    "primaryCity": "Bilbao",
    "sortNation": "Spain",
-   "population_Millions": 2.925639,
+   "population_Millions": 2.88391,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -48635,7 +49755,94 @@
    "mapRegionName": "map_LeonGalicia",
    "primaryCity": "Asturias",
    "sortNation": "Spain",
-   "population_Millions": 7.097784,
+   "population_Millions": 4.7838,
+   "annualPopGrowthModifier": -0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "asi": 2,
+   "eur": 20,
+   "his": 20,
+   "language": "ENG",
+   "acc_asi": "LATN",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "afrPersonal": [
+      "Spanish",
+      "Spanish",
+      "Spanish",
+      "Spanish"
+   ],
+   "afrFamily": [
+      "Spanish",
+      "Senegalese",
+      "Nigerian",
+      "Cameroonian"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Spanish",
+      "Spanish"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "Spanish"
+   ],
+   "asiWeight": [
+      1,
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurWeight": [
+      45,
+      1
+   ],
+   "hisPersonal": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisWeight": [
+      45,
+      1,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_NorthernSpain_0",
+      "illustrations/illus_NorthernSpain_1",
+      "illustrations/illus_NorthernSpain_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Castile and Leon, Galicia, La Rioja, Asturias, Cantabria"
+},
+ {
+   "dataName": "2026_Galicia",
+   "mapRegionName": "map_Galicia",
+   "primaryCity": "Vigo",
+   "sortNation": "Spain",
+   "population_Millions": 2.70686,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -48722,7 +49929,7 @@
    "mapRegionName": "map_CanaryIslands",
    "primaryCity": "Santa Cruz de Tenerife",
    "sortNation": "Spain",
-   "population_Millions": 2.213401,
+   "population_Millions": 2.18594,
    "annualPopGrowthModifier": -0.25,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -48764,13 +49971,102 @@
    "mapRegionName": "map_Spain",
    "primaryCity": "Madrid",
    "sortNation": "Spain",
-   "population_Millions": 20.224556,
+   "population_Millions": 9.87246,
    "annualPopGrowthModifier": -0.25,
    "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,
-   "worldOcean": "Yes",
+   "worldOcean": "No",
+   "afr": 1,
+   "asi": 2,
+   "eur": 20,
+   "his": 20,
+   "language": "ENG",
+   "acc_afr": "LATN",
+   "acc_asi": "LATN",
+   "acc_eur": "LATN",
+   "acc_his": "LATN",
+   "afrPersonal": [
+      "Spanish",
+      "Spanish",
+      "Spanish",
+      "Spanish"
+   ],
+   "afrFamily": [
+      "Spanish",
+      "Senegalese",
+      "Nigerian",
+      "Cameroonian"
+   ],
+   "afrWeight": [
+      1,
+      1,
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Spanish",
+      "Spanish"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber",
+      "Spanish"
+   ],
+   "asiWeight": [
+      1,
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Spanish",
+      "Romanian"
+   ],
+   "eurWeight": [
+      45,
+      1
+   ],
+   "hisPersonal": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Romanian",
+      "Hispanic-American"
+   ],
+   "hisWeight": [
+      45,
+      1,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Spain_0",
+      "illustrations/illus_Spain_1",
+      "illustrations/illus_Spain_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Madris, Extremadura, Castilla-La Mancha, Murcia, Andalusia"
+},
+ {
+   "dataName": "2026_Seville",
+   "mapRegionName": "map_Seville",
+   "primaryCity": "Seville",
+   "sortNation": "Spain",
+   "population_Millions": 10.03532,
+   "annualPopGrowthModifier": -0.25,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
    "afr": 1,
    "asi": 2,
    "eur": 20,
@@ -49627,7 +50923,7 @@
    "mapRegionName": "map_Anatolia",
    "primaryCity": "Ankara",
    "sortNation": "Turkey",
-   "population_Millions": 29.452664,
+   "population_Millions": 17.01298,
    "annualPopGrowthModifier": 0,
    "mineCapable": true,
    "environment": "Standard",
@@ -49672,7 +50968,7 @@
    "mapRegionName": "map_Diyarbakir",
    "primaryCity": "Diyarbakir",
    "sortNation": "Turkey",
-   "population_Millions": 18.953193,
+   "population_Millions": 17.08765,
    "annualPopGrowthModifier": 0,
    "mining": true,
    "mineCapable": true,
@@ -49721,7 +51017,7 @@
    "mapRegionName": "map_Istanbul",
    "primaryCity": "Istanbul",
    "sortNation": "Turkey",
-   "population_Millions": 39.520226,
+   "population_Millions": 27.00814,
    "annualPopGrowthModifier": 0,
    "coreEco": true,
    "environment": "Standard",
@@ -49730,6 +51026,94 @@
    "worldOcean": "Yes",
    "eur": 1,
    "language": "ENG",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish"
+   ],
+   "asiFamily": [
+      "Turkish"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "eurPersonal": [
+      "Turkish"
+   ],
+   "eurFamily": [
+      "Turkish"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Istanbul_0",
+      "illustrations/illus_Istanbul_1",
+      "illustrations/illus_Istanbul_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions"
+},
+ {
+   "dataName": "2026_Izmir",
+   "mapRegionName": "map_Izmir",
+   "primaryCity": "Izmir",
+   "sortNation": "Turkey",
+   "population_Millions": 11.67515,
+   "annualPopGrowthModifier": 0,
+   "mineCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "eur": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
+   "acc_eur": "EURO",
+   "asiPersonal": [
+      "Turkish"
+   ],
+   "asiFamily": [
+      "Turkish"
+   ],
+   "asiWeight": [
+      1
+   ],
+   "eurPersonal": [
+      "Turkish"
+   ],
+   "eurFamily": [
+      "Turkish"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Istanbul_0",
+      "illustrations/illus_Istanbul_1",
+      "illustrations/illus_Istanbul_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "asi_RegionalHeadwear": "Female",
+   "composedOf": "Istanbul Region, West Mamara, East Mamara, Aegean NUTS Regions"
+},
+ {
+   "dataName": "2026_Adana",
+   "mapRegionName": "map_Adana",
+   "primaryCity": "Adana",
+   "sortNation": "Turkey",
+   "population_Millions": 15.14213,
+   "annualPopGrowthModifier": 0,
+   "mineCapable": true,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "eur": 1,
+   "language": "ENG",
+   "acc_asi": "ARBC",
    "acc_eur": "EURO",
    "asiPersonal": [
       "Turkish"
