@@ -4350,10 +4350,31 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "ClaimALNRouen",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Rouen",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNDijon",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Dijon",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "ClaimALNNaples",
    "relationType": "Claim",
    "nation1": "ALN",
    "region1": "Naples",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALNPalermo",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "Palermo",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -9614,6 +9635,18 @@
    "region1": "Nantes"
  },
  {
+   "dataName": "ClaimEUARouen",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Rouen"
+ },
+ {
+   "dataName": "ClaimEUADijon",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Dijon"
+ },
+ {
    "dataName": "ClaimFRANantes",
    "relationType": "Claim",
    "nation1": "FRA",
@@ -9621,10 +9654,30 @@
    "initialOwner": true
  },
  {
+   "dataName": "ClaimFRARouen",
+   "relationType": "Claim",
+   "nation1": "FRA",
+   "region1": "Rouen",
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimFRADijon",
+   "relationType": "Claim",
+   "nation1": "FRA",
+   "region1": "Dijon",
+   "initialOwner": true
+ },
+ {
    "dataName": "ClaimEUANaples",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Naples"
+ },
+ {
+   "dataName": "ClaimEUAPalermo",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Palermo"
  },
  {
    "dataName": "ClaimEUANetherlands",
@@ -11277,6 +11330,13 @@
    "relationType": "Claim",
    "nation1": "ITA",
    "region1": "Naples",
+   "initialOwner": true
+ },
+ {
+   "dataName": "ClaimITAPalermo",
+   "relationType": "Claim",
+   "nation1": "ITA",
+   "region1": "Palermo",
    "initialOwner": true
  },
  {
@@ -13701,10 +13761,34 @@
    "hostileClaim": true
  },
  {
+   "dataName": "ClaimRUSRouen",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Rouen",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "ClaimRUSDijon",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Dijon",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
    "dataName": "ClaimRUSNaples",
    "relationType": "Claim",
    "nation1": "RUS",
    "region1": "Naples",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "ClaimRUSPalermo",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Palermo",
    "projectUnlockName": "Project_ForwardRussia",
    "hostileClaim": true
  },
@@ -14360,10 +14444,10 @@
    "capitalClaim": true
  },
  {
-   "dataName": "ClaimSICNaples",
+   "dataName": "ClaimSICPalermo",
    "relationType": "Claim",
    "nation1": "SIC",
-   "region1": "Naples",
+   "region1": "Palermo",
    "projectUnlockName": "Project_EuropeanAutonomyMovements",
    "capitalClaim": true
  },
@@ -17862,10 +17946,31 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "ClaimPRARouen",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Rouen",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "ClaimPRADijon",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Dijon",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "ClaimPRANaples",
    "relationType": "Claim",
    "nation1": "PRA",
    "region1": "Naples",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "ClaimPRAPalermo",
+   "relationType": "Claim",
+   "nation1": "PRA",
+   "region1": "Palermo",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
@@ -19781,16 +19886,16 @@
    "region2": "map_EastGermany"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Bavariamap_Paris",
+   "dataName": "PhysicalAdjacencymap_Bavariamap_Dijon",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Bavaria",
-   "region2": "map_Paris"
+   "region2": "map_Dijon"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Colognemap_Paris",
+   "dataName": "PhysicalAdjacencymap_Colognemap_Dijon",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Cologne",
-   "region2": "map_Paris"
+   "region2": "map_Dijon"
  },
  {
    "dataName": "PhysicalAdjacencymap_Bavariamap_Switzerland",
@@ -19913,10 +20018,16 @@
    "region2": "map_Cologne"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Belgiummap_Nantes",
+   "dataName": "PhysicalAdjacencymap_Rouenmap_Nantes",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Rouen",
+   "region2": "map_Nantes"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Belgiummap_Rouen",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Belgium",
-   "region2": "map_Nantes"
+   "region2": "map_Rouen"
  },
  {
    "dataName": "PhysicalAdjacencymap_Belgiummap_Netherlands",
@@ -19925,10 +20036,10 @@
    "region2": "map_Netherlands"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Belgiummap_Paris",
+   "dataName": "PhysicalAdjacencymap_Belgiummap_Dijon",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Belgium",
-   "region2": "map_Paris"
+   "region2": "map_Dijon"
  },
  {
    "dataName": "PhysicalAdjacencymap_Belgrademap_BosniaMontenegro",
@@ -20941,10 +21052,10 @@
    "region2": "map_EnglishMidlands"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Englandmap_Nantes",
+   "dataName": "PhysicalAdjacencymap_Englandmap_Rouen",
    "relationType": "PhysicalAdjacency",
    "region1": "map_England",
-   "region2": "map_Nantes",
+   "region2": "map_Rouen",
    "friendlyOnly": true
  },
  {
@@ -21805,6 +21916,12 @@
    "region2": "map_Naples"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Palermomap_Naples",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Palermo",
+   "region2": "map_Naples"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_IvoryCoastmap_Liberia",
    "relationType": "PhysicalAdjacency",
    "region1": "map_IvoryCoast",
@@ -22380,6 +22497,12 @@
    "region2": "map_Paris"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Lyonmap_Dijon",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Lyon",
+   "region2": "map_Dijon"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_Lyonmap_Switzerland",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Lyon",
@@ -22740,6 +22863,24 @@
    "region2": "map_Paris"
  },
  {
+   "dataName": "PhysicalAdjacencymap_Rouenmap_Paris",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Rouen",
+   "region2": "map_Paris"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Dijonmap_Paris",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Dijon",
+   "region2": "map_Paris"
+ },
+ {
+   "dataName": "PhysicalAdjacencymap_Dijonmap_Rouen",
+   "relationType": "PhysicalAdjacency",
+   "region1": "map_Dijon",
+   "region2": "map_Rouen"
+ },
+ {
    "dataName": "PhysicalAdjacencymap_Nantesmap_Toulouse",
    "relationType": "PhysicalAdjacency",
    "region1": "map_Nantes",
@@ -23018,9 +23159,9 @@
    "region2": "map_PortoAlegre"
  },
  {
-   "dataName": "PhysicalAdjacencymap_Parismap_Switzerland",
+   "dataName": "PhysicalAdjacencymap_Dijonmap_Switzerland",
    "relationType": "PhysicalAdjacency",
-   "region1": "map_Paris",
+   "region1": "map_Dijon",
    "region2": "map_Switzerland"
  },
  {
@@ -25393,10 +25534,31 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "ClaimALN2070_Rouen",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Rouen",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Dijon",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Dijon",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "ClaimALN2070_Naples",
    "relationType": "Claim",
    "nation1": "ALN",
    "region1": "2070_Naples",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "ClaimALN2070_Palermo",
+   "relationType": "Claim",
+   "nation1": "ALN",
+   "region1": "2070_Palermo",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -30582,16 +30744,49 @@
    "initialOwner": true
  },
  {
+   "dataName": "Claim2070_EUA2070_Rouen",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Rouen",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_EUA2070_Dijon",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Dijon",
+   "initialOwner": true
+ },
+ {
    "dataName": "Claim2070_FRA2070_Nantes",
    "relationType": "Claim",
    "nation1": "2070_FRA",
    "region1": "2070_Nantes"
  },
  {
+   "dataName": "Claim2070_FRA2070_Rouen",
+   "relationType": "Claim",
+   "nation1": "2070_FRA",
+   "region1": "2070_Rouen"
+ },
+ {
+   "dataName": "Claim2070_FRA2070_Dijon",
+   "relationType": "Claim",
+   "nation1": "2070_FRA",
+   "region1": "2070_Dijon"
+ },
+ {
    "dataName": "Claim2070_EUA2070_Naples",
    "relationType": "Claim",
    "nation1": "2070_EUA",
    "region1": "2070_Naples",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2070_EUA2070_Palermo",
+   "relationType": "Claim",
+   "nation1": "2070_EUA",
+   "region1": "2070_Palermo",
    "initialOwner": true
  },
  {
@@ -32230,6 +32425,12 @@
    "relationType": "Claim",
    "nation1": "2070_ITA",
    "region1": "2070_Naples"
+ },
+ {
+   "dataName": "Claim2070_ITA2070_Palermo",
+   "relationType": "Claim",
+   "nation1": "2070_ITA",
+   "region1": "2070_Palermo"
  },
  {
    "dataName": "Claim2070_IVO2070_IvoryCoast",
@@ -34605,10 +34806,34 @@
    "hostileClaim": true
  },
  {
+   "dataName": "Claim2070_RUS2070_Rouen",
+   "relationType": "Claim",
+   "nation1": "2070_RUS",
+   "region1": "2070_Rouen",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2070_RUS2070_Dijon",
+   "relationType": "Claim",
+   "nation1": "2070_RUS",
+   "region1": "2070_Dijon",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
    "dataName": "Claim2070_RUS2070_Naples",
    "relationType": "Claim",
    "nation1": "2070_RUS",
    "region1": "2070_Naples",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2070_RUS2070_Palermo",
+   "relationType": "Claim",
+   "nation1": "2070_RUS",
+   "region1": "2070_Palermo",
    "projectUnlockName": "Project_ForwardRussia",
    "hostileClaim": true
  },
@@ -35255,10 +35480,10 @@
    "capitalClaim": true
  },
  {
-   "dataName": "Claim2070_SIC2070_Naples",
+   "dataName": "Claim2070_SIC2070_Palermo",
    "relationType": "Claim",
    "nation1": "2070_SIC",
-   "region1": "2070_Naples",
+   "region1": "2070_Palermo",
    "projectUnlockName": "Project_EuropeanAutonomyMovements",
    "capitalClaim": true
  },
@@ -38823,10 +39048,31 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "Claim2070_PRA2070_Rouen",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Rouen",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Dijon",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Dijon",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "Claim2070_PRA2070_Naples",
    "relationType": "Claim",
    "nation1": "2070_PRA",
    "region1": "2070_Naples",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2070_PRA2070_Palermo",
+   "relationType": "Claim",
+   "nation1": "2070_PRA",
+   "region1": "2070_Palermo",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
@@ -44151,10 +44397,31 @@
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
+   "dataName": "Claim2026_ALN2026_Rouen",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Rouen",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Dijon",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Dijon",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
    "dataName": "Claim2026_ALN2026_Naples",
    "relationType": "Claim",
    "nation1": "2026_ALN",
    "region1": "2026_Naples",
+   "projectUnlockName": "Project_AlienMasterProject"
+ },
+ {
+   "dataName": "Claim2026_ALN2026_Palermo",
+   "relationType": "Claim",
+   "nation1": "2026_ALN",
+   "region1": "2026_Palermo",
    "projectUnlockName": "Project_AlienMasterProject"
  },
  {
@@ -49415,6 +49682,18 @@
    "region1": "2026_Nantes"
  },
  {
+   "dataName": "Claim2026_EUA2026_Rouen",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Rouen"
+ },
+ {
+   "dataName": "Claim2026_EUA2026_Dijon",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Dijon"
+ },
+ {
    "dataName": "Claim2026_FRA2026_Nantes",
    "relationType": "Claim",
    "nation1": "2026_FRA",
@@ -49422,10 +49701,30 @@
    "initialOwner": true
  },
  {
+   "dataName": "Claim2026_FRA2026_Rouen",
+   "relationType": "Claim",
+   "nation1": "2026_FRA",
+   "region1": "2026_Rouen",
+   "initialOwner": true
+ },
+ {
+   "dataName": "Claim2026_FRA2026_Dijon",
+   "relationType": "Claim",
+   "nation1": "2026_FRA",
+   "region1": "2026_Dijon",
+   "initialOwner": true
+ },
+ {
    "dataName": "Claim2026_EUA2026_Naples",
    "relationType": "Claim",
    "nation1": "2026_EUA",
    "region1": "2026_Naples"
+ },
+ {
+   "dataName": "Claim2026_EUA2026_Palermo",
+   "relationType": "Claim",
+   "nation1": "2026_EUA",
+   "region1": "2026_Palermo"
  },
  {
    "dataName": "Claim2026_EUA2026_Netherlands",
@@ -51074,10 +51373,10 @@
    "initialOwner": true
  },
  {
-   "dataName": "Claim2026_ITA2026_Naples",
+   "dataName": "Claim2026_ITA2026_Palermo",
    "relationType": "Claim",
    "nation1": "2026_ITA",
-   "region1": "2026_Naples",
+   "region1": "2026_Palermo",
    "initialOwner": true
  },
  {
@@ -53502,10 +53801,26 @@
    "hostileClaim": true
  },
  {
-   "dataName": "Claim2026_RUS2026_Naples",
+   "dataName": "Claim2026_RUS2026_Rouen",
    "relationType": "Claim",
    "nation1": "2026_RUS",
-   "region1": "2026_Naples",
+   "region1": "2026_Rouen",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2026_RUS2026_Dijon",
+   "relationType": "Claim",
+   "nation1": "2026_RUS",
+   "region1": "2026_Dijon",
+   "projectUnlockName": "Project_ForwardRussia",
+   "hostileClaim": true
+ },
+ {
+   "dataName": "Claim2026_RUS2026_Palermo",
+   "relationType": "Claim",
+   "nation1": "2026_RUS",
+   "region1": "2026_Palermo",
    "projectUnlockName": "Project_ForwardRussia",
    "hostileClaim": true
  },
@@ -54161,10 +54476,10 @@
    "capitalClaim": true
  },
  {
-   "dataName": "Claim2026_SIC2026_Naples",
+   "dataName": "Claim2026_SIC2026_Palermo",
    "relationType": "Claim",
    "nation1": "2026_SIC",
-   "region1": "2026_Naples",
+   "region1": "2026_Palermo",
    "projectUnlockName": "Project_EuropeanAutonomyMovements",
    "capitalClaim": true
  },
@@ -57663,10 +57978,31 @@
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {
+   "dataName": "Claim2026_PRA2026_Rouen",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Rouen",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Dijon",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Dijon",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
    "dataName": "Claim2026_PRA2026_Naples",
    "relationType": "Claim",
    "nation1": "2026_PRA",
    "region1": "2026_Naples",
+   "projectUnlockName": "Project_ProtectorateAuthority"
+ },
+ {
+   "dataName": "Claim2026_PRA2026_Palermo",
+   "relationType": "Claim",
+   "nation1": "2026_PRA",
+   "region1": "2026_Palermo",
    "projectUnlockName": "Project_ProtectorateAuthority"
  },
  {

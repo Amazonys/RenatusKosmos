@@ -1096,14 +1096,14 @@
    "unionFlagResource": "nationflags/European_Union",
    "unionTrigger": 2,
    "color32": {
-      "r": 84,
-      "g": 103,
-      "b": 168
+      "r": 135,
+      "g": 206,
+      "b": 235
    },
    "color": {
-      "r": 0.33,
-      "g": 0.4,
-      "b": 0.66,
+      "r": 0.53,
+      "g": 0.81,
+      "b": 0.92,
       "a": 0.05
    },
    "initialGDP": 629779040000,
@@ -3878,14 +3878,14 @@
    "unionFlagResource": "nationflags/France",
    "unionTrigger": 11,
    "color32": {
-      "r": 135,
-      "g": 206,
-      "b": 235
+      "r": 84,
+      "g": 103,
+      "b": 168
    },
    "color": {
-      "r": 0.53,
-      "g": 0.81,
-      "b": 0.92,
+      "r": 0.33,
+      "g": 0.4,
+      "b": 0.66,
       "a": 0.05
    },
    "initialGDP": 3249098520000,
@@ -14925,14 +14925,14 @@
    "unionFlagResource": "nationflags/European_Union",
    "unionTrigger": 2,
    "color32": {
-      "r": 84,
-      "g": 103,
-      "b": 168
+      "r": 135,
+      "g": 206,
+      "b": 235
    },
    "color": {
-      "r": 0.33,
-      "g": 0.4,
-      "b": 0.66,
+      "r": 0.53,
+      "g": 0.81,
+      "b": 0.92,
       "a": 0.05
    },
    "popGrowthModifier": 0,
@@ -17267,14 +17267,14 @@
    "unionFlagResource": "nationflags/France",
    "unionTrigger": 11,
    "color32": {
-      "r": 135,
-      "g": 206,
-      "b": 235
+      "r": 84,
+      "g": 103,
+      "b": 168
    },
    "color": {
-      "r": 0.529,
-      "g": 0.808,
-      "b": 0.922,
+      "r": 0.33,
+      "g": 0.4,
+      "b": 0.66,
       "a": 0.05
    },
    "initialGDP": 34303542498729,
@@ -27014,14 +27014,14 @@
    "unionFlagResource": "nationflags/European_Union",
    "unionTrigger": 2,
    "color32": {
-      "r": 84,
-      "g": 103,
-      "b": 168
+      "r": 135,
+      "g": 206,
+      "b": 235
    },
    "color": {
-      "r": 0.33,
-      "g": 0.4,
-      "b": 0.66,
+      "r": 0.53,
+      "g": 0.81,
+      "b": 0.92,
       "a": 0.05
    },
    "initialGDP": 791220320000,
@@ -29774,14 +29774,14 @@
    "unionFlagResource": "nationflags/France",
    "unionTrigger": 11,
    "color32": {
-      "r": 135,
-      "g": 206,
-      "b": 235
+      "r": 84,
+      "g": 103,
+      "b": 168
    },
    "color": {
-      "r": 0.529,
-      "g": 0.808,
-      "b": 0.922,
+      "r": 0.33,
+      "g": 0.4,
+      "b": 0.66,
       "a": 0.05
    },
    "initialGDP": 3989597040000,

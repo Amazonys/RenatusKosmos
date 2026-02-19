@@ -5808,7 +5808,7 @@
    "mapRegionName": "map_Nantes",
    "primaryCity": "Nantes",
    "sortNation": "France",
-   "population_Millions": 16.559631,
+   "population_Millions": 3.35485,
    "annualPopGrowthModifier": -0.2,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -5864,11 +5864,147 @@
    "composedOf": "Normandy, Brittany, Pays de la Loire, Poitou Charentaes, Nod Pas de Calais"
 },
  {
+   "dataName": "Rouen",
+   "mapRegionName": "map_Rouen",
+   "primaryCity": "Rouen",
+   "sortNation": "France",
+   "population_Millions": 9.32997,
+   "annualPopGrowthModifier": -0.2,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 3,
+   "asi": 2,
+   "eur": 94,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "afrPersonal": [
+      "Akan",
+      "French"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "French",
+      "French"
+   ],
+   "asiFamily": [
+      "French",
+      "Hindi"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "eurPersonal": [
+      "French"
+   ],
+   "eurFamily": [
+      "French"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Nantes_0",
+      "illustrations/illus_Nantes_1",
+      "illustrations/illus_Nantes_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "Dijon",
+   "mapRegionName": "map_Dijon",
+   "primaryCity": "Dijon",
+   "sortNation": "France",
+   "population_Millions": 8.35819,
+   "annualPopGrowthModifier": -0.2,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 3,
+   "asi": 2,
+   "eur": 94,
+   "his": 1,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "afrPersonal": [
+      "Akan",
+      "French"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber"
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25
+   ],
+   "eurPersonal": [
+      "French"
+   ],
+   "eurFamily": [
+      "French"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "hisPersonal": [
+      "French",
+      "French"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese"
+   ],
+   "hisWeight": [
+      33,
+      33
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lyon_0",
+      "illustrations/illus_Lyon_1",
+      "illustrations/illus_Lyon_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0
+},
+ {
    "dataName": "Paris",
    "mapRegionName": "map_Paris",
    "primaryCity": "Paris",
    "sortNation": "France",
-   "population_Millions": 23.293649,
+   "population_Millions": 18.64218,
    "annualPopGrowthModifier": -0.2,
    "coreEco": true,
    "environment": "Standard",
@@ -8404,7 +8540,7 @@
    "mapRegionName": "map_Italy",
    "primaryCity": "Rome",
    "sortNation": "Italy",
-   "population_Millions": 14.88235,
+   "population_Millions": 13.30435,
    "annualPopGrowthModifier": -0.7,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -8531,7 +8667,70 @@
    "mapRegionName": "map_Naples",
    "primaryCity": "Naples",
    "sortNation": "Italy",
-   "population_Millions": 17.667565,
+   "population_Millions": 12.85756,
+   "annualPopGrowthModifier": -0.7,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": 1,
+   "eur": 52,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "afrPersonal": [
+      "Italian",
+      "Ethiopian"
+   ],
+   "afrFamily": [
+      "Ethiopian",
+      "Ethiopian"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Italian"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber"
+   ],
+   "asiWeight": [
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Italian",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Italian",
+      "Romanian"
+   ],
+   "eurWeight": [
+      50,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Naples_0",
+      "illustrations/illus_Naples_1",
+      "illustrations/illus_Naples_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Apuli, Basilica, Calabria, Campania, Sicily, Molise, Malta"
+},
+ {
+   "dataName": "Palermo",
+   "mapRegionName": "map_Palermo",
+   "primaryCity": "Palermo",
+   "sortNation": "Italy",
+   "population_Millions": 6.38865,
    "annualPopGrowthModifier": -0.7,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -23701,7 +23900,7 @@
    "mapRegionName": "map_Lyon",
    "primaryCity": "Lyon",
    "sortNation": "France",
-   "population_Millions": 17.182813,
+   "population_Millions": 16.35724,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -23777,7 +23976,7 @@
    "mapRegionName": "map_Nantes",
    "primaryCity": "Nantes",
    "sortNation": "France",
-   "population_Millions": 17.214776,
+   "population_Millions": 3.31472,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -23833,11 +24032,147 @@
    "composedOf": "Normandy, Brittany, Pays de la Loire, Poitou Charentaes, Nod Pas de Calais"
 },
  {
+   "dataName": "2070_Rouen",
+   "mapRegionName": "map_Rouen",
+   "primaryCity": "Rouen",
+   "sortNation": "France",
+   "population_Millions": 9.21836,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 3,
+   "asi": 2,
+   "eur": 94,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "afrPersonal": [
+      "Akan",
+      "French"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "French",
+      "French"
+   ],
+   "asiFamily": [
+      "French",
+      "Hindi"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "eurPersonal": [
+      "French"
+   ],
+   "eurFamily": [
+      "French"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Nantes_0",
+      "illustrations/illus_Nantes_1",
+      "illustrations/illus_Nantes_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "2070_Dijon",
+   "mapRegionName": "map_Dijon",
+   "primaryCity": "Dijon",
+   "sortNation": "France",
+   "population_Millions": 8.25821,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 3,
+   "asi": 2,
+   "eur": 94,
+   "his": 1,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "afrPersonal": [
+      "Akan",
+      "French"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber"
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25
+   ],
+   "eurPersonal": [
+      "French"
+   ],
+   "eurFamily": [
+      "French"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "hisPersonal": [
+      "French",
+      "French"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese"
+   ],
+   "hisWeight": [
+      33,
+      33
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lyon_0",
+      "illustrations/illus_Lyon_1",
+      "illustrations/illus_Lyon_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0
+},
+ {
    "dataName": "2070_Paris",
    "mapRegionName": "map_Paris",
    "primaryCity": "Paris",
    "sortNation": "France",
-   "population_Millions": 24.215212,
+   "population_Millions": 18.41918,
    "annualPopGrowthModifier": 0,
    "coreEco": true,
    "environment": "Standard",
@@ -23915,7 +24250,7 @@
    "mapRegionName": "map_Toulouse",
    "primaryCity": "Toulouse",
    "sortNation": "France",
-   "population_Millions": 9.738453,
+   "population_Millions": 9.25577,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -26376,7 +26711,7 @@
    "mapRegionName": "map_Italy",
    "primaryCity": "Rome",
    "sortNation": "Italy",
-   "population_Millions": 10.753231,
+   "population_Millions": 9.5007,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -26439,7 +26774,7 @@
    "mapRegionName": "map_Milan",
    "primaryCity": "Milan",
    "sortNation": "Italy",
-   "population_Millions": 20.347082,
+   "population_Millions": 20.10928,
    "annualPopGrowthModifier": 0,
    "coreEco": true,
    "environment": "Standard",
@@ -26503,7 +26838,70 @@
    "mapRegionName": "map_Naples",
    "primaryCity": "Naples",
    "sortNation": "Italy",
-   "population_Millions": 12.765686,
+   "population_Millions": 9.18165,
+   "annualPopGrowthModifier": 0,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": 1,
+   "eur": 52,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "afrPersonal": [
+      "Italian",
+      "Ethiopian"
+   ],
+   "afrFamily": [
+      "Ethiopian",
+      "Ethiopian"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Italian"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber"
+   ],
+   "asiWeight": [
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Italian",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Italian",
+      "Romanian"
+   ],
+   "eurWeight": [
+      50,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Naples_0",
+      "illustrations/illus_Naples_1",
+      "illustrations/illus_Naples_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Apuli, Basilica, Calabria, Campania, Sicily, Molise, Malta"
+},
+ {
+   "dataName": "2070_Palermo",
+   "mapRegionName": "map_Palermo",
+   "primaryCity": "Palermo",
+   "sortNation": "Italy",
+   "population_Millions": 4.5617,
    "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -41677,7 +42075,7 @@
    "mapRegionName": "map_Lyon",
    "primaryCity": "Lyon",
    "sortNation": "France",
-   "population_Millions": 16.768795,
+   "population_Millions": 16.63303,
    "annualPopGrowthModifier": -0.2,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -41753,7 +42151,7 @@
    "mapRegionName": "map_Nantes",
    "primaryCity": "Nantes",
    "sortNation": "France",
-   "population_Millions": 16.840661,
+   "population_Millions": 3.37061,
    "annualPopGrowthModifier": -0.2,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -41809,11 +42207,147 @@
    "composedOf": "Normandy, Brittany, Pays de la Loire, Poitou Charentaes, Nod Pas de Calais"
 },
  {
+   "dataName": "2026_Rouen",
+   "mapRegionName": "map_Rouen",
+   "primaryCity": "Rouen",
+   "sortNation": "France",
+   "population_Millions": 9.37379,
+   "annualPopGrowthModifier": -0.2,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 3,
+   "asi": 2,
+   "eur": 94,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "afrPersonal": [
+      "Akan",
+      "French"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "French",
+      "French"
+   ],
+   "asiFamily": [
+      "French",
+      "Hindi"
+   ],
+   "asiWeight": [
+      3,
+      1
+   ],
+   "eurPersonal": [
+      "French"
+   ],
+   "eurFamily": [
+      "French"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Nantes_0",
+      "illustrations/illus_Nantes_1",
+      "illustrations/illus_Nantes_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": ""
+},
+ {
+   "dataName": "2026_Dijon",
+   "mapRegionName": "map_Dijon",
+   "primaryCity": "Dijon",
+   "sortNation": "France",
+   "population_Millions": 8.39744,
+   "annualPopGrowthModifier": -0.2,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "No",
+   "afr": 3,
+   "asi": 2,
+   "eur": 94,
+   "his": 1,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "acc_his": "EURO",
+   "afrPersonal": [
+      "Akan",
+      "French"
+   ],
+   "afrFamily": [
+      "Akan",
+      "Akan"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "French",
+      "French",
+      "Berber"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Muslim",
+      "Berber"
+   ],
+   "asiWeight": [
+      50,
+      25,
+      25
+   ],
+   "eurPersonal": [
+      "French"
+   ],
+   "eurFamily": [
+      "French"
+   ],
+   "eurWeight": [
+      1
+   ],
+   "hisPersonal": [
+      "French",
+      "French"
+   ],
+   "hisFamily": [
+      "Spanish",
+      "Portuguese"
+   ],
+   "hisWeight": [
+      33,
+      33
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Lyon_0",
+      "illustrations/illus_Lyon_1",
+      "illustrations/illus_Lyon_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0
+},
+ {
    "dataName": "2026_Paris",
    "mapRegionName": "map_Paris",
    "primaryCity": "Paris",
    "sortNation": "France",
-   "population_Millions": 23.688962,
+   "population_Millions": 18.72973,
    "annualPopGrowthModifier": -0.2,
    "coreEco": true,
    "environment": "Standard",
@@ -41891,7 +42425,7 @@
    "mapRegionName": "map_Toulouse",
    "primaryCity": "Toulouse",
    "sortNation": "France",
-   "population_Millions": 9.447982,
+   "population_Millions": 9.41183,
    "annualPopGrowthModifier": -0.2,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -42070,7 +42604,6 @@
    "sortNation": "Germany",
    "population_Millions": 23.3631,
    "annualPopGrowthModifier": -0.1,
-   "coreEco": true,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 1,
@@ -44350,7 +44883,7 @@
    "mapRegionName": "map_Italy",
    "primaryCity": "Rome",
    "sortNation": "Italy",
-   "population_Millions": 14.559236,
+   "population_Millions": 12.93418,
    "annualPopGrowthModifier": -0.7,
    "environment": "Standard",
    "boostPerYear_tons": 0,
@@ -44413,7 +44946,7 @@
    "mapRegionName": "map_Milan",
    "primaryCity": "Milan",
    "sortNation": "Italy",
-   "population_Millions": 27.516837,
+   "population_Millions": 27.37662,
    "annualPopGrowthModifier": -0.7,
    "coreEco": true,
    "environment": "Standard",
@@ -44477,8 +45010,71 @@
    "mapRegionName": "map_Naples",
    "primaryCity": "Naples",
    "sortNation": "Italy",
-   "population_Millions": 17.399104,
+   "population_Millions": 12.49982,
    "annualPopGrowthModifier": -0.7,
+   "environment": "Standard",
+   "boostPerYear_tons": 0,
+   "missionControl": 0,
+   "worldOcean": "Yes",
+   "afr": 1,
+   "asi": 1,
+   "eur": 52,
+   "language": "ENG",
+   "acc_afr": "EURO",
+   "acc_asi": "EURO",
+   "acc_eur": "EURO",
+   "afrPersonal": [
+      "Italian",
+      "Ethiopian"
+   ],
+   "afrFamily": [
+      "Ethiopian",
+      "Ethiopian"
+   ],
+   "afrWeight": [
+      1,
+      1
+   ],
+   "asiPersonal": [
+      "Berber",
+      "Italian"
+   ],
+   "asiFamily": [
+      "Berber",
+      "Berber"
+   ],
+   "asiWeight": [
+      1,
+      1
+   ],
+   "eurPersonal": [
+      "Italian",
+      "Romanian"
+   ],
+   "eurFamily": [
+      "Italian",
+      "Romanian"
+   ],
+   "eurWeight": [
+      50,
+      1
+   ],
+   "illustrationPathStrs": [
+      "illustrations/illus_Naples_0",
+      "illustrations/illus_Naples_1",
+      "illustrations/illus_Naples_2"
+   ],
+   "occupationValue": 0,
+   "nuclearDetonations": 0,
+   "composedOf": "Apuli, Basilica, Calabria, Campania, Sicily, Molise, Malta"
+},
+ {
+   "dataName": "2026_Palermo",
+   "mapRegionName": "map_Palermo",
+   "primaryCity": "Palermo",
+   "sortNation": "Italy",
+   "population_Millions": 6.21026,
+   "annualPopGrowthModifier": 0,
    "environment": "Standard",
    "boostPerYear_tons": 0,
    "missionControl": 0,

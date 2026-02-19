@@ -1621,7 +1621,7 @@
    "latitude": 45,
    "longitude": 5,
    "boostLatitude": 45,
-   "area_km2": 137169,
+   "area_km2": 140931,
    "visualId": 98,
    "oilId": 0
  },
@@ -1634,7 +1634,7 @@
    "latitude": 48.5,
    "longitude": -1,
    "boostLatitude": 45,
-   "area_km2": 121003,
+   "area_km2": 35116,
    "visualId": 99,
    "oilId": 0
  },
@@ -1647,8 +1647,34 @@
    "latitude": 48.5,
    "longitude": 3.5,
    "boostLatitude": 45,
-   "area_km2": 156387,
+   "area_km2": 70063,
    "visualId": 100,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Rouen",
+   "friendlyNationName": "France",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "coast": "NortheastAtlantic",
+   "latitude": 49.5,
+   "longitude": 1,
+   "boostLatitude": 50,
+   "area_km2": 61927,
+   "visualId": 377,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Dijon",
+   "friendlyNationName": "France",
+   "terrain": "Standard",
+   "supraRegion": "Europe",
+   "coast": "none",
+   "latitude": 47.5,
+   "longitude": 5,
+   "boostLatitude": 45,
+   "area_km2": 105589,
+   "visualId": 378,
    "oilId": 0
  },
  {
@@ -1660,7 +1686,7 @@
    "latitude": 44,
    "longitude": 1,
    "boostLatitude": 45,
-   "area_km2": 129852,
+   "area_km2": 136316,
    "visualId": 317,
    "parent": "map_Lyon",
    "oilId": 0
@@ -2443,11 +2469,24 @@
    "terrain": "Rugged",
    "supraRegion": "Europe",
    "coast": "Mediterranean",
-   "latitude": 39.5,
-   "longitude": 16,
-   "boostLatitude": 35,
+   "latitude": 40,
+   "longitude": 14.5,
+   "boostLatitude": 40,
    "area_km2": 89026,
    "visualId": 146,
+   "oilId": 0
+ },
+ {
+   "dataName": "map_Palermo",
+   "friendlyNationName": "Italy",
+   "terrain": "Rugged",
+   "supraRegion": "Europe",
+   "coast": "Mediterranean",
+   "latitude": 38,
+   "longitude": 13.5,
+   "boostLatitude": 35,
+   "area_km2": 89026,
+   "visualId": 379,
    "oilId": 0
  },
  {
